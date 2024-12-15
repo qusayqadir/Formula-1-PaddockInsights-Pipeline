@@ -1,0 +1,15 @@
+{
+    "MRData": {
+        "xmlns": "http://ergast.com/mrd/1.5",
+        "series": "f1",
+        "url": "http://ergast.com/api/f1/1957/3/qualifying.json",
+        "limit": "30",
+        "offset": "0",
+        "total": "0",
+        "RaceTable": {
+            "season": "1957",
+            "round": "3",
+            "Races": []
+        }
+    }
+}
