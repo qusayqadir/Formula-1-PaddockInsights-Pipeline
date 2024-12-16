@@ -25,6 +25,7 @@ import os
 
 # Spark Session 
 
+#summarize seasons: rounds
 def job1(): 
 
     spark = SparkSession.builder\
