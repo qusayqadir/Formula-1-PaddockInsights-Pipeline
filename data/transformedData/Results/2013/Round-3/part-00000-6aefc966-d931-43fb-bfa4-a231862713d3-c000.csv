@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,3,Chinese Grand Prix,3,1,ALO,Fernando,Alonso,Spanish,25,Finished,1:36:26.945,Ferrari
+2013,3,Chinese Grand Prix,2,2,RAI,Kimi,Räikkönen,Finnish,18,Finished,+10.168,Lotus F1
+2013,3,Chinese Grand Prix,1,3,HAM,Lewis,Hamilton,British,15,Finished,+12.322,Mercedes
+2013,3,Chinese Grand Prix,9,4,VET,Sebastian,Vettel,German,12,Finished,+12.525,Red Bull
+2013,3,Chinese Grand Prix,8,5,BUT,Jenson,Button,British,10,Finished,+35.285,McLaren
+2013,3,Chinese Grand Prix,5,6,MAS,Felipe,Massa,Brazilian,8,Finished,+40.827,Ferrari
+2013,3,Chinese Grand Prix,7,7,RIC,Daniel,Ricciardo,Australian,6,Finished,+42.691,Toro Rosso
+2013,3,Chinese Grand Prix,11,8,DIR,Paul,di Resta,British,4,Finished,+51.084,Force India
+2013,3,Chinese Grand Prix,6,9,GRO,Romain,Grosjean,French,2,Finished,+53.423,Lotus F1
+2013,3,Chinese Grand Prix,10,10,HUL,Nico,Hülkenberg,German,1,Finished,+56.598,Sauber
+2013,3,Chinese Grand Prix,12,11,PER,Sergio,Pérez,Mexican,0,Finished,+1:03.860,McLaren
+2013,3,Chinese Grand Prix,15,12,VER,Jean-Éric,Vergne,French,0,Finished,+1:12.604,Toro Rosso
+2013,3,Chinese Grand Prix,16,13,BOT,Valtteri,Bottas,Finnish,0,Finished,+1:33.861,Williams
+2013,3,Chinese Grand Prix,14,14,MAL,Pastor,Maldonado,Venezuelan,0,Finished,+1:35.453,Williams
+2013,3,Chinese Grand Prix,18,15,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2013,3,Chinese Grand Prix,20,16,PIC,Charles,Pic,French,0,+1 Lap,,Caterham
+2013,3,Chinese Grand Prix,19,17,CHI,Max,Chilton,British,0,+1 Lap,,Marussia
+2013,3,Chinese Grand Prix,21,18,VDG,Giedo,van der Garde,Dutch,0,+1 Lap,,Caterham
+2013,3,Chinese Grand Prix,4,19,ROS,Nico,Rosberg,German,0,Suspension,,Mercedes
+2013,3,Chinese Grand Prix,22,20,WEB,Mark,Webber,Australian,0,Wheel,,Red Bull
+2013,3,Chinese Grand Prix,13,21,SUT,Adrian,Sutil,German,0,Collision,,Force India
+2013,3,Chinese Grand Prix,17,22,GUT,Esteban,Gutiérrez,Mexican,0,Collision,,Sauber

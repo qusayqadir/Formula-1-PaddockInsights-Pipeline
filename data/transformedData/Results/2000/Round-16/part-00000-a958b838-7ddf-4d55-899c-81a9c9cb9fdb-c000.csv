@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2000,16,Japanese Grand Prix,1,1,MSC,Michael,Schumacher,German,10,Finished,1:29:53.435,Ferrari
+2000,16,Japanese Grand Prix,2,2,,Mika,Häkkinen,Finnish,6,Finished,+1.837,McLaren
+2000,16,Japanese Grand Prix,3,3,COU,David,Coulthard,British,4,Finished,+1:09.914,McLaren
+2000,16,Japanese Grand Prix,4,4,BAR,Rubens,Barrichello,Brazilian,3,Finished,+1:19.191,Ferrari
+2000,16,Japanese Grand Prix,5,5,BUT,Jenson,Button,British,2,Finished,+1:25.694,Williams
+2000,16,Japanese Grand Prix,9,6,VIL,Jacques,Villeneuve,Canadian,1,+1 Lap,,BAR
+2000,16,Japanese Grand Prix,10,7,,Johnny,Herbert,British,0,+1 Lap,,Jaguar
+2000,16,Japanese Grand Prix,7,8,,Eddie,Irvine,British,0,+1 Lap,,Jaguar
+2000,16,Japanese Grand Prix,18,9,ZON,Ricardo,Zonta,Brazilian,0,+1 Lap,,BAR
+2000,16,Japanese Grand Prix,19,10,,Mika,Salo,Finnish,0,+1 Lap,,Sauber
+2000,16,Japanese Grand Prix,20,11,,Pedro,Diniz,Brazilian,0,+1 Lap,,Sauber
+2000,16,Japanese Grand Prix,13,12,DLR,Pedro,de la Rosa,Spanish,0,+1 Lap,,Arrows
+2000,16,Japanese Grand Prix,15,13,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Jordan
+2000,16,Japanese Grand Prix,12,14,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Benetton
+2000,16,Japanese Grand Prix,22,15,,Gastón,Mazzacane,Argentine,0,+2 Laps,,Minardi
+2000,16,Japanese Grand Prix,21,16,,Marc,Gené,Spanish,0,Engine,,Minardi
+2000,16,Japanese Grand Prix,6,17,SCH,Ralf,Schumacher,German,0,Spun off,,Williams
+2000,16,Japanese Grand Prix,16,18,HEI,Nick,Heidfeld,German,0,Suspension,,Prost
+2000,16,Japanese Grand Prix,11,19,WUR,Alexander,Wurz,Austrian,0,Spun off,,Benetton
+2000,16,Japanese Grand Prix,8,20,,Heinz-Harald,Frentzen,German,0,Hydraulics,,Jordan
+2000,16,Japanese Grand Prix,17,21,,Jean,Alesi,French,0,Engine,,Prost
+2000,16,Japanese Grand Prix,14,22,,Jos,Verstappen,Dutch,0,Electrical,,Arrows

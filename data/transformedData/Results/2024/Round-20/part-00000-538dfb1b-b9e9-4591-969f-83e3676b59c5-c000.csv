@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2024,20,Mexico City Grand Prix,1,1,SAI,Carlos,Sainz,Spanish,25,Finished,1:40:55.800,Ferrari
+2024,20,Mexico City Grand Prix,3,2,NOR,Lando,Norris,British,18,Finished,+4.705,McLaren
+2024,20,Mexico City Grand Prix,4,3,LEC,Charles,Leclerc,Monegasque,16,Finished,+34.387,Ferrari
+2024,20,Mexico City Grand Prix,6,4,HAM,Lewis,Hamilton,British,12,Finished,+44.780,Mercedes
+2024,20,Mexico City Grand Prix,5,5,RUS,George,Russell,British,10,Finished,+48.536,Mercedes
+2024,20,Mexico City Grand Prix,2,6,VER,Max,Verstappen,Dutch,8,Finished,+59.558,Red Bull
+2024,20,Mexico City Grand Prix,7,7,MAG,Kevin,Magnussen,Danish,6,Finished,+1:03.642,Haas F1 Team
+2024,20,Mexico City Grand Prix,17,8,PIA,Oscar,Piastri,Australian,4,Finished,+1:04.928,McLaren
+2024,20,Mexico City Grand Prix,10,9,HUL,Nico,Hülkenberg,German,2,+1 Lap,,Haas F1 Team
+2024,20,Mexico City Grand Prix,8,10,GAS,Pierre,Gasly,French,1,+1 Lap,,Alpine F1 Team
+2024,20,Mexico City Grand Prix,14,11,STR,Lance,Stroll,Canadian,0,+1 Lap,,Aston Martin
+2024,20,Mexico City Grand Prix,16,12,COL,Franco,Colapinto,Argentinian,0,+1 Lap,,Williams
+2024,20,Mexico City Grand Prix,0,13,OCO,Esteban,Ocon,French,0,+1 Lap,,Alpine F1 Team
+2024,20,Mexico City Grand Prix,15,14,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Sauber
+2024,20,Mexico City Grand Prix,19,15,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Sauber
+2024,20,Mexico City Grand Prix,12,16,LAW,Liam,Lawson,New Zealander,0,+1 Lap,,RB F1 Team
+2024,20,Mexico City Grand Prix,18,17,PER,Sergio,Pérez,Mexican,0,+1 Lap,,Red Bull
+2024,20,Mexico City Grand Prix,13,18,ALO,Fernando,Alonso,Spanish,0,Brakes,,Aston Martin
+2024,20,Mexico City Grand Prix,9,19,ALB,Alexander,Albon,Thai,0,Collision,,Williams
+2024,20,Mexico City Grand Prix,11,20,TSU,Yuki,Tsunoda,Japanese,0,Collision,,RB F1 Team

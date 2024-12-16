@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2015,16,United States Grand Prix,2,1,HAM,Lewis,Hamilton,British,25,Finished,1:50:52.703,Mercedes
+2015,16,United States Grand Prix,1,2,ROS,Nico,Rosberg,German,18,Finished,+2.850,Mercedes
+2015,16,United States Grand Prix,13,3,VET,Sebastian,Vettel,German,15,Finished,+3.381,Ferrari
+2015,16,United States Grand Prix,8,4,VER,Max,Verstappen,Dutch,12,Finished,+22.359,Toro Rosso
+2015,16,United States Grand Prix,5,5,PER,Sergio,Pérez,Mexican,10,Finished,+24.413,Force India
+2015,16,United States Grand Prix,11,6,BUT,Jenson,Button,British,8,Finished,+28.058,McLaren
+2015,16,United States Grand Prix,20,7,SAI,Carlos,Sainz,Spanish,6,Finished,+30.619,Toro Rosso
+2015,16,United States Grand Prix,12,8,MAL,Pastor,Maldonado,Venezuelan,4,Finished,+32.273,Lotus F1
+2015,16,United States Grand Prix,15,9,NAS,Felipe,Nasr,Brazilian,2,Finished,+40.257,Sauber
+2015,16,United States Grand Prix,3,10,RIC,Daniel,Ricciardo,Australian,1,Finished,+53.371,Red Bull
+2015,16,United States Grand Prix,9,11,ALO,Fernando,Alonso,Spanish,0,Finished,+54.816,McLaren
+2015,16,United States Grand Prix,17,12,RSS,Alexander,Rossi,American,0,Finished,+1:15.277,Manor Marussia
+2015,16,United States Grand Prix,4,13,KVY,Daniil,Kvyat,Russian,0,Accident,,Red Bull
+2015,16,United States Grand Prix,6,14,HUL,Nico,Hülkenberg,German,0,Accident,,Force India
+2015,16,United States Grand Prix,14,15,ERI,Marcus,Ericsson,Swedish,0,Retired,,Sauber
+2015,16,United States Grand Prix,18,16,RAI,Kimi,Räikkönen,Finnish,0,Brake duct,,Ferrari
+2015,16,United States Grand Prix,7,17,MAS,Felipe,Massa,Brazilian,0,Retired,,Williams
+2015,16,United States Grand Prix,10,18,GRO,Romain,Grosjean,French,0,Retired,,Lotus F1
+2015,16,United States Grand Prix,16,19,BOT,Valtteri,Bottas,Finnish,0,Retired,,Williams
+2015,16,United States Grand Prix,19,20,STE,Will,Stevens,British,0,Retired,,Manor Marussia

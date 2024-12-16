@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2005,16,Belgian Grand Prix,2,1,RAI,Kimi,Räikkönen,Finnish,10,Finished,1:30:01.295,McLaren
+2005,16,Belgian Grand Prix,4,2,ALO,Fernando,Alonso,Spanish,8,Finished,+28.3,Renault
+2005,16,Belgian Grand Prix,8,3,BUT,Jenson,Button,British,6,Finished,+32.0,BAR
+2005,16,Belgian Grand Prix,9,4,WEB,Mark,Webber,Australian,5,Finished,+1:09.1,Williams
+2005,16,Belgian Grand Prix,12,5,BAR,Rubens,Barrichello,Brazilian,4,Finished,+1:18.1,Ferrari
+2005,16,Belgian Grand Prix,14,6,VIL,Jacques,Villeneuve,Canadian,3,Finished,+1:27.4,Sauber
+2005,16,Belgian Grand Prix,5,7,SCH,Ralf,Schumacher,German,2,Finished,+1:27.5,Toyota
+2005,16,Belgian Grand Prix,19,8,TMO,Tiago,Monteiro,Portuguese,1,+1 Lap,,Jordan
+2005,16,Belgian Grand Prix,16,9,KLI,Christian,Klien,Austrian,0,+1 Lap,,Red Bull
+2005,16,Belgian Grand Prix,7,10,MAS,Felipe,Massa,Brazilian,0,+1 Lap,,Sauber
+2005,16,Belgian Grand Prix,20,11,KAR,Narain,Karthikeyan,Indian,0,+1 Lap,,Jordan
+2005,16,Belgian Grand Prix,18,12,ALB,Christijan,Albers,Dutch,0,+2 Laps,,Minardi
+2005,16,Belgian Grand Prix,17,13,DOO,Robert,Doornbos,Dutch,0,+3 Laps,,Minardi
+2005,16,Belgian Grand Prix,1,14,MON,Juan,Pablo Montoya,Colombian,0,Collision,,McLaren
+2005,16,Belgian Grand Prix,15,15,PIZ,Antônio,Pizzonia,Brazilian,0,Collision,,Williams
+2005,16,Belgian Grand Prix,3,16,TRU,Jarno,Trulli,Italian,0,Accident,,Toyota
+2005,16,Belgian Grand Prix,11,17,COU,David,Coulthard,British,0,Engine,,Red Bull
+2005,16,Belgian Grand Prix,6,18,MSC,Michael,Schumacher,German,0,Accident,,Ferrari
+2005,16,Belgian Grand Prix,10,19,SAT,Takuma,Sato,Japanese,0,Accident,,BAR
+2005,16,Belgian Grand Prix,13,20,FIS,Giancarlo,Fisichella,Italian,0,Accident,,Renault

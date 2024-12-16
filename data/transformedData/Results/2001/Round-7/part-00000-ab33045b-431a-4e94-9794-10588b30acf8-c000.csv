@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2001,7,Monaco Grand Prix,2,1,MSC,Michael,Schumacher,German,10,Finished,1:47:22.561,Ferrari
+2001,7,Monaco Grand Prix,4,2,BAR,Rubens,Barrichello,Brazilian,6,Finished,+0.431,Ferrari
+2001,7,Monaco Grand Prix,6,3,,Eddie,Irvine,British,4,Finished,+30.698,Jaguar
+2001,7,Monaco Grand Prix,9,4,VIL,Jacques,Villeneuve,Canadian,3,Finished,+32.454,BAR
+2001,7,Monaco Grand Prix,1,5,COU,David,Coulthard,British,2,+1 Lap,,McLaren
+2001,7,Monaco Grand Prix,11,6,,Jean,Alesi,French,1,+1 Lap,,Prost
+2001,7,Monaco Grand Prix,17,7,BUT,Jenson,Button,British,0,+1 Lap,,Benetton
+2001,7,Monaco Grand Prix,19,8,,Jos,Verstappen,Dutch,0,+1 Lap,,Arrows
+2001,7,Monaco Grand Prix,20,9,,Enrique,Bernoldi,Brazilian,0,+2 Laps,,Arrows
+2001,7,Monaco Grand Prix,15,10,RAI,Kimi,Räikkönen,Finnish,0,+5 Laps,,Sauber
+2001,7,Monaco Grand Prix,5,11,SCH,Ralf,Schumacher,German,0,Electrical,,Williams
+2001,7,Monaco Grand Prix,22,12,,Tarso,Marques,Brazilian,0,Transmission,,Minardi
+2001,7,Monaco Grand Prix,18,13,ALO,Fernando,Alonso,Spanish,0,Gearbox,,Minardi
+2001,7,Monaco Grand Prix,13,14,,Heinz-Harald,Frentzen,German,0,Accident,,Jordan
+2001,7,Monaco Grand Prix,10,15,FIS,Giancarlo,Fisichella,Italian,0,Gearbox,,Benetton
+2001,7,Monaco Grand Prix,8,16,TRU,Jarno,Trulli,Italian,0,Hydraulics,,Jordan
+2001,7,Monaco Grand Prix,21,17,,Luciano,Burti,Brazilian,0,Gearbox,,Prost
+2001,7,Monaco Grand Prix,14,18,DLR,Pedro,de la Rosa,Spanish,0,Hydraulics,,Jaguar
+2001,7,Monaco Grand Prix,3,19,,Mika,Häkkinen,Finnish,0,Steering,,McLaren
+2001,7,Monaco Grand Prix,12,20,,Olivier,Panis,French,0,Steering,,BAR
+2001,7,Monaco Grand Prix,7,21,MON,Juan,Pablo Montoya,Colombian,0,Spun off,,Williams
+2001,7,Monaco Grand Prix,16,22,HEI,Nick,Heidfeld,German,0,Collision,,Sauber

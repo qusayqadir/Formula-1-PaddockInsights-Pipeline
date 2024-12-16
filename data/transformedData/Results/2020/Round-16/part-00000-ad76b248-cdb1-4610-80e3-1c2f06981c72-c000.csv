@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2020,16,Sakhir Grand Prix,5,1,PER,Sergio,Pérez,Mexican,25,Finished,1:31:15.114,Racing Point
+2020,16,Sakhir Grand Prix,11,2,OCO,Esteban,Ocon,French,18,Finished,+10.518,Renault
+2020,16,Sakhir Grand Prix,10,3,STR,Lance,Stroll,Canadian,15,Finished,+11.869,Racing Point
+2020,16,Sakhir Grand Prix,8,4,SAI,Carlos,Sainz,Spanish,12,Finished,+12.580,McLaren
+2020,16,Sakhir Grand Prix,7,5,RIC,Daniel,Ricciardo,Australian,10,Finished,+13.330,Renault
+2020,16,Sakhir Grand Prix,12,6,ALB,Alexander,Albon,Thai,8,Finished,+13.842,Red Bull
+2020,16,Sakhir Grand Prix,6,7,KVY,Daniil,Kvyat,Russian,6,Finished,+14.534,AlphaTauri
+2020,16,Sakhir Grand Prix,1,8,BOT,Valtteri,Bottas,Finnish,4,Finished,+15.389,Mercedes
+2020,16,Sakhir Grand Prix,2,9,RUS,George,Russell,British,3,Finished,+18.556,Mercedes
+2020,16,Sakhir Grand Prix,19,10,NOR,Lando,Norris,British,1,Finished,+19.541,McLaren
+2020,16,Sakhir Grand Prix,9,11,GAS,Pierre,Gasly,French,0,Finished,+20.527,AlphaTauri
+2020,16,Sakhir Grand Prix,13,12,VET,Sebastian,Vettel,German,0,Finished,+22.611,Ferrari
+2020,16,Sakhir Grand Prix,14,13,GIO,Antonio,Giovinazzi,Italian,0,Finished,+24.111,Alfa Romeo
+2020,16,Sakhir Grand Prix,18,14,RAI,Kimi,Räikkönen,Finnish,0,Finished,+26.153,Alfa Romeo
+2020,16,Sakhir Grand Prix,15,15,MAG,Kevin,Magnussen,Danish,0,Finished,+32.370,Haas F1 Team
+2020,16,Sakhir Grand Prix,17,16,AIT,Jack,Aitken,British,0,Finished,+33.674,Williams
+2020,16,Sakhir Grand Prix,20,17,FIT,Pietro,Fittipaldi,Brazilian,0,Finished,+36.858,Haas F1 Team
+2020,16,Sakhir Grand Prix,16,18,LAT,Nicholas,Latifi,Canadian,0,Engine,,Williams
+2020,16,Sakhir Grand Prix,3,19,VER,Max,Verstappen,Dutch,0,Accident,,Red Bull
+2020,16,Sakhir Grand Prix,4,20,LEC,Charles,Leclerc,Monegasque,0,Collision,,Ferrari

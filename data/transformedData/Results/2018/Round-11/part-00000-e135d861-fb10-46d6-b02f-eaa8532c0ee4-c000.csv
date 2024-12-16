@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2018,11,German Grand Prix,14,1,HAM,Lewis,Hamilton,British,25,Finished,1:32:29.845,Mercedes
+2018,11,German Grand Prix,2,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+4.535,Mercedes
+2018,11,German Grand Prix,3,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+6.732,Ferrari
+2018,11,German Grand Prix,4,4,VER,Max,Verstappen,Dutch,12,Finished,+7.654,Red Bull
+2018,11,German Grand Prix,7,5,HUL,Nico,Hülkenberg,German,10,Finished,+26.609,Renault
+2018,11,German Grand Prix,6,6,GRO,Romain,Grosjean,French,8,Finished,+28.871,Haas F1 Team
+2018,11,German Grand Prix,10,7,PER,Sergio,Pérez,Mexican,6,Finished,+30.556,Force India
+2018,11,German Grand Prix,15,8,OCO,Esteban,Ocon,French,4,Finished,+31.750,Force India
+2018,11,German Grand Prix,13,9,ERI,Marcus,Ericsson,Swedish,2,Finished,+32.362,Sauber
+2018,11,German Grand Prix,17,10,HAR,Brendon,Hartley,New Zealander,1,Finished,+34.197,Toro Rosso
+2018,11,German Grand Prix,5,11,MAG,Kevin,Magnussen,Danish,0,Finished,+34.919,Haas F1 Team
+2018,11,German Grand Prix,8,12,SAI,Carlos,Sainz,Spanish,0,Finished,+43.069,Renault
+2018,11,German Grand Prix,19,13,VAN,Stoffel,Vandoorne,Belgian,0,Finished,+46.617,McLaren
+2018,11,German Grand Prix,16,14,GAS,Pierre,Gasly,French,0,+1 Lap,,Toro Rosso
+2018,11,German Grand Prix,9,15,LEC,Charles,Leclerc,Monegasque,0,+1 Lap,,Sauber
+2018,11,German Grand Prix,11,16,ALO,Fernando,Alonso,Spanish,0,Retired,,McLaren
+2018,11,German Grand Prix,18,17,STR,Lance,Stroll,Canadian,0,Engine,,Williams
+2018,11,German Grand Prix,1,18,VET,Sebastian,Vettel,German,0,Accident,,Ferrari
+2018,11,German Grand Prix,12,19,SIR,Sergey,Sirotkin,Russian,0,Engine,,Williams
+2018,11,German Grand Prix,20,20,RIC,Daniel,Ricciardo,Australian,0,Engine,,Red Bull

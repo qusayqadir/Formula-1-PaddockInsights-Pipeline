@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,8,French Grand Prix,3,1,RAI,Kimi,Räikkönen,Finnish,10,Finished,1:30:54.200,Ferrari
+2007,8,French Grand Prix,1,2,MAS,Felipe,Massa,Brazilian,8,Finished,+2.414,Ferrari
+2007,8,French Grand Prix,2,3,HAM,Lewis,Hamilton,British,6,Finished,+32.153,McLaren
+2007,8,French Grand Prix,4,4,KUB,Robert,Kubica,Polish,5,Finished,+41.727,BMW Sauber
+2007,8,French Grand Prix,7,5,HEI,Nick,Heidfeld,German,4,Finished,+48.801,BMW Sauber
+2007,8,French Grand Prix,5,6,FIS,Giancarlo,Fisichella,Italian,3,Finished,+51.940,Renault
+2007,8,French Grand Prix,10,7,ALO,Fernando,Alonso,Spanish,2,Finished,+56.516,McLaren
+2007,8,French Grand Prix,12,8,BUT,Jenson,Button,British,1,Finished,+58.885,Honda
+2007,8,French Grand Prix,9,9,ROS,Nico,Rosberg,German,0,Finished,+1:08.505,Williams
+2007,8,French Grand Prix,11,10,SCH,Ralf,Schumacher,German,0,+1 Lap,,Toyota
+2007,8,French Grand Prix,13,11,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Honda
+2007,8,French Grand Prix,14,12,WEB,Mark,Webber,Australian,0,+1 Lap,,Red Bull
+2007,8,French Grand Prix,16,13,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2007,8,French Grand Prix,18,14,WUR,Alexander,Wurz,Austrian,0,+1 Lap,,Williams
+2007,8,French Grand Prix,6,15,KOV,Heikki,Kovalainen,Finnish,0,+1 Lap,,Renault
+2007,8,French Grand Prix,22,16,SAT,Takuma,Sato,Japanese,0,+2 Laps,,Super Aguri
+2007,8,French Grand Prix,21,17,SUT,Adrian,Sutil,German,0,+2 Laps,,Spyker
+2007,8,French Grand Prix,15,18,SPE,Scott,Speed,American,0,Gearbox,,Toro Rosso
+2007,8,French Grand Prix,20,19,ALB,Christijan,Albers,Dutch,0,Refuelling,,Spyker
+2007,8,French Grand Prix,19,20,DAV,Anthony,Davidson,British,0,Collision,,Super Aguri
+2007,8,French Grand Prix,8,21,TRU,Jarno,Trulli,Italian,0,Collision,,Toyota
+2007,8,French Grand Prix,17,22,LIU,Vitantonio,Liuzzi,Italian,0,Collision,,Toro Rosso

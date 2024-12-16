@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2024,2,Saudi Arabian Grand Prix,1,1,VER,Max,Verstappen,Dutch,25,Finished,1:20:43.273,Red Bull
+2024,2,Saudi Arabian Grand Prix,3,2,PER,Sergio,Pérez,Mexican,18,Finished,+13.6431,Red Bull
+2024,2,Saudi Arabian Grand Prix,2,3,LEC,Charles,Leclerc,Monegasque,16,Finished,+18.639,Ferrari
+2024,2,Saudi Arabian Grand Prix,5,4,PIA,Oscar,Piastri,Australian,12,Finished,+32.007,McLaren
+2024,2,Saudi Arabian Grand Prix,4,5,ALO,Fernando,Alonso,Spanish,10,Finished,+35.759,Aston Martin
+2024,2,Saudi Arabian Grand Prix,7,6,RUS,George,Russell,British,8,Finished,+39.936,Mercedes
+2024,2,Saudi Arabian Grand Prix,11,7,BEA,Oliver,Bearman,British,6,Finished,+42.679,Ferrari
+2024,2,Saudi Arabian Grand Prix,6,8,NOR,Lando,Norris,British,4,Finished,+45.708,McLaren
+2024,2,Saudi Arabian Grand Prix,8,9,HAM,Lewis,Hamilton,British,2,Finished,+47.391,Mercedes
+2024,2,Saudi Arabian Grand Prix,15,10,HUL,Nico,Hülkenberg,German,1,Finished,+1:16.996,Haas F1 Team
+2024,2,Saudi Arabian Grand Prix,12,11,ALB,Alexander,Albon,Thai,0,Finished,+1:28.354,Williams
+2024,2,Saudi Arabian Grand Prix,13,12,MAG,Kevin,Magnussen,Danish,0,Finished,+1:45.7373,Haas F1 Team
+2024,2,Saudi Arabian Grand Prix,17,13,OCO,Esteban,Ocon,French,0,+1 Lap,,Alpine F1 Team
+2024,2,Saudi Arabian Grand Prix,19,14,SAR,Logan,Sargeant,American,0,+1 Lap,,Williams
+2024,2,Saudi Arabian Grand Prix,9,15,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,RB F1 Team
+2024,2,Saudi Arabian Grand Prix,14,16,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,RB F1 Team
+2024,2,Saudi Arabian Grand Prix,16,17,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Sauber
+2024,2,Saudi Arabian Grand Prix,20,18,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Sauber
+2024,2,Saudi Arabian Grand Prix,10,19,STR,Lance,Stroll,Canadian,0,Accident,,Aston Martin
+2024,2,Saudi Arabian Grand Prix,18,20,GAS,Pierre,Gasly,French,0,Gearbox,,Alpine F1 Team

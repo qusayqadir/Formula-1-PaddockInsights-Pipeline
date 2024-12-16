@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2023,16,Japanese Grand Prix,1,1,VER,Max,Verstappen,Dutch,26,Finished,1:30:58.421,Red Bull
+2023,16,Japanese Grand Prix,3,2,NOR,Lando,Norris,British,18,Finished,+19.387,McLaren
+2023,16,Japanese Grand Prix,2,3,PIA,Oscar,Piastri,Australian,15,Finished,+36.494,McLaren
+2023,16,Japanese Grand Prix,4,4,LEC,Charles,Leclerc,Monegasque,12,Finished,+43.998,Ferrari
+2023,16,Japanese Grand Prix,7,5,HAM,Lewis,Hamilton,British,10,Finished,+49.376,Mercedes
+2023,16,Japanese Grand Prix,6,6,SAI,Carlos,Sainz,Spanish,8,Finished,+50.221,Ferrari
+2023,16,Japanese Grand Prix,8,7,RUS,George,Russell,British,6,Finished,+57.659,Mercedes
+2023,16,Japanese Grand Prix,10,8,ALO,Fernando,Alonso,Spanish,4,Finished,+1:14.725,Aston Martin
+2023,16,Japanese Grand Prix,14,9,OCO,Esteban,Ocon,French,2,Finished,+1:19.678,Alpine F1 Team
+2023,16,Japanese Grand Prix,12,10,GAS,Pierre,Gasly,French,1,Finished,+1:23.155,Alpine F1 Team
+2023,16,Japanese Grand Prix,11,11,LAW,Liam,Lawson,New Zealander,0,+1 Lap,,AlphaTauri
+2023,16,Japanese Grand Prix,9,12,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,AlphaTauri
+2023,16,Japanese Grand Prix,19,13,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Alfa Romeo
+2023,16,Japanese Grand Prix,18,14,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Haas F1 Team
+2023,16,Japanese Grand Prix,15,15,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2023,16,Japanese Grand Prix,13,16,ALB,Alexander,Albon,Thai,0,Collision damage,,Williams
+2023,16,Japanese Grand Prix,0,17,SAR,Logan,Sargeant,American,0,Collision damage,,Williams
+2023,16,Japanese Grand Prix,17,18,STR,Lance,Stroll,Canadian,0,Rear wing,,Aston Martin
+2023,16,Japanese Grand Prix,5,19,PER,Sergio,Pérez,Mexican,0,Collision damage,,Red Bull
+2023,16,Japanese Grand Prix,16,20,BOT,Valtteri,Bottas,Finnish,0,Collision damage,,Alfa Romeo

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2008,13,Belgian Grand Prix,2,1,MAS,Felipe,Massa,Brazilian,10,Finished,1:22:59.394,Ferrari
+2008,13,Belgian Grand Prix,5,2,HEI,Nick,Heidfeld,German,8,Finished,+9.383,BMW Sauber
+2008,13,Belgian Grand Prix,1,3,HAM,Lewis,Hamilton,British,6,Finished,+10.539,McLaren
+2008,13,Belgian Grand Prix,6,4,ALO,Fernando,Alonso,Spanish,5,Finished,+14.478,Renault
+2008,13,Belgian Grand Prix,10,5,VET,Sebastian,Vettel,German,4,Finished,+14.576,Toro Rosso
+2008,13,Belgian Grand Prix,8,6,KUB,Robert,Kubica,Polish,3,Finished,+15.037,BMW Sauber
+2008,13,Belgian Grand Prix,9,7,BOU,Sébastien,Bourdais,French,2,Finished,+16.735,Toro Rosso
+2008,13,Belgian Grand Prix,7,8,WEB,Mark,Webber,Australian,1,Finished,+42.776,Red Bull
+2008,13,Belgian Grand Prix,13,9,GLO,Timo,Glock,German,0,Finished,+1:07.045,Toyota
+2008,13,Belgian Grand Prix,3,10,KOV,Heikki,Kovalainen,Finnish,0,Gearbox,,McLaren
+2008,13,Belgian Grand Prix,14,11,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2008,13,Belgian Grand Prix,15,12,ROS,Nico,Rosberg,German,0,+1 Lap,,Williams
+2008,13,Belgian Grand Prix,18,13,SUT,Adrian,Sutil,German,0,+1 Lap,,Force India
+2008,13,Belgian Grand Prix,19,14,NAK,Kazuki,Nakajima,Japanese,0,+1 Lap,,Williams
+2008,13,Belgian Grand Prix,17,15,BUT,Jenson,Button,British,0,+1 Lap,,Honda
+2008,13,Belgian Grand Prix,11,16,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Toyota
+2008,13,Belgian Grand Prix,20,17,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Force India
+2008,13,Belgian Grand Prix,4,18,RAI,Kimi,Räikkönen,Finnish,0,Spun off,,Ferrari
+2008,13,Belgian Grand Prix,16,19,BAR,Rubens,Barrichello,Brazilian,0,Gearbox,,Honda
+2008,13,Belgian Grand Prix,12,20,PIQ,Nelson,Piquet Jr.,Brazilian,0,Spun off,,Renault

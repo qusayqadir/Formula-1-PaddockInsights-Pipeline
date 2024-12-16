@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2006,14,Turkish Grand Prix,1,1,MAS,Felipe,Massa,Brazilian,10,Finished,1:28:51.082,Ferrari
+2006,14,Turkish Grand Prix,3,2,ALO,Fernando,Alonso,Spanish,8,Finished,+5.575,Renault
+2006,14,Turkish Grand Prix,2,3,MSC,Michael,Schumacher,German,6,Finished,+5.656,Ferrari
+2006,14,Turkish Grand Prix,6,4,BUT,Jenson,Button,British,5,Finished,+12.334,Honda
+2006,14,Turkish Grand Prix,11,5,DLR,Pedro,de la Rosa,Spanish,4,Finished,+45.908,McLaren
+2006,14,Turkish Grand Prix,4,6,FIS,Giancarlo,Fisichella,Italian,3,Finished,+46.594,Renault
+2006,14,Turkish Grand Prix,15,7,SCH,Ralf,Schumacher,German,2,Finished,+59.337,Toyota
+2006,14,Turkish Grand Prix,13,8,BAR,Rubens,Barrichello,Brazilian,1,Finished,+60.034,Honda
+2006,14,Turkish Grand Prix,12,9,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Toyota
+2006,14,Turkish Grand Prix,9,10,WEB,Mark,Webber,Australian,0,+1 Lap,,Williams
+2006,14,Turkish Grand Prix,10,11,KLI,Christian,Klien,Austrian,0,+1 Lap,,Red Bull
+2006,14,Turkish Grand Prix,8,12,KUB,Robert,Kubica,Polish,0,+1 Lap,,BMW Sauber
+2006,14,Turkish Grand Prix,17,13,SPE,Scott,Speed,American,0,+1 Lap,,Toro Rosso
+2006,14,Turkish Grand Prix,5,14,HEI,Nick,Heidfeld,German,0,+2 Laps,,BMW Sauber
+2006,14,Turkish Grand Prix,16,15,COU,David,Coulthard,British,0,Gearbox,,Red Bull
+2006,14,Turkish Grand Prix,22,16,ALB,Christijan,Albers,Dutch,0,Spun off,,MF1
+2006,14,Turkish Grand Prix,21,17,SAT,Takuma,Sato,Japanese,0,+17 Laps,,Super Aguri
+2006,14,Turkish Grand Prix,14,18,ROS,Nico,Rosberg,German,0,Water leak,,Williams
+2006,14,Turkish Grand Prix,20,19,YAM,Sakon,Yamamoto,Japanese,0,Spun off,,Super Aguri
+2006,14,Turkish Grand Prix,18,20,LIU,Vitantonio,Liuzzi,Italian,0,Spun off,,Toro Rosso
+2006,14,Turkish Grand Prix,7,21,RAI,Kimi,Räikkönen,Finnish,0,Collision,,McLaren
+2006,14,Turkish Grand Prix,19,22,TMO,Tiago,Monteiro,Portuguese,0,Collision,,MF1

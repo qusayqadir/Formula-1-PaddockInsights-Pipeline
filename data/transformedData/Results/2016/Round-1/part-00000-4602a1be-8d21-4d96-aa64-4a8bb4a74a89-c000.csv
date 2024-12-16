@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2016,1,Australian Grand Prix,2,1,ROS,Nico,Rosberg,German,25,Finished,1:48:15.565,Mercedes
+2016,1,Australian Grand Prix,1,2,HAM,Lewis,Hamilton,British,18,Finished,+8.060,Mercedes
+2016,1,Australian Grand Prix,3,3,VET,Sebastian,Vettel,German,15,Finished,+9.643,Ferrari
+2016,1,Australian Grand Prix,8,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+24.330,Red Bull
+2016,1,Australian Grand Prix,6,5,MAS,Felipe,Massa,Brazilian,10,Finished,+58.979,Williams
+2016,1,Australian Grand Prix,19,6,GRO,Romain,Grosjean,French,8,Finished,+1:12.081,Haas F1 Team
+2016,1,Australian Grand Prix,10,7,HUL,Nico,Hülkenberg,German,6,Finished,+1:14.199,Force India
+2016,1,Australian Grand Prix,16,8,BOT,Valtteri,Bottas,Finnish,4,Finished,+1:15.153,Williams
+2016,1,Australian Grand Prix,7,9,SAI,Carlos,Sainz,Spanish,2,Finished,+1:15.680,Toro Rosso
+2016,1,Australian Grand Prix,5,10,VER,Max,Verstappen,Dutch,1,Finished,+1:16.833,Toro Rosso
+2016,1,Australian Grand Prix,13,11,PAL,Jolyon,Palmer,British,0,Finished,+1:23.399,Renault
+2016,1,Australian Grand Prix,14,12,MAG,Kevin,Magnussen,Danish,0,Finished,+1:25.606,Renault
+2016,1,Australian Grand Prix,9,13,PER,Sergio,Pérez,Mexican,0,Finished,+1:31.699,Force India
+2016,1,Australian Grand Prix,12,14,BUT,Jenson,Button,British,0,+1 Lap,,McLaren
+2016,1,Australian Grand Prix,17,15,NAS,Felipe,Nasr,Brazilian,0,+1 Lap,,Sauber
+2016,1,Australian Grand Prix,21,16,WEH,Pascal,Wehrlein,German,0,+1 Lap,,Manor Marussia
+2016,1,Australian Grand Prix,15,17,ERI,Marcus,Ericsson,Swedish,0,Engine,,Sauber
+2016,1,Australian Grand Prix,4,18,RAI,Kimi,Räikkönen,Finnish,0,Engine,,Ferrari
+2016,1,Australian Grand Prix,22,19,HAR,Rio,Haryanto,Indonesian,0,Mechanical,,Manor Marussia
+2016,1,Australian Grand Prix,20,20,GUT,Esteban,Gutiérrez,Mexican,0,Collision,,Haas F1 Team
+2016,1,Australian Grand Prix,11,21,ALO,Fernando,Alonso,Spanish,0,Collision,,McLaren
+2016,1,Australian Grand Prix,18,22,KVY,Daniil,Kvyat,Russian,0,Retired,,Red Bull

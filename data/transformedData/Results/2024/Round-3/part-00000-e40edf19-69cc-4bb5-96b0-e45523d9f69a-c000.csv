@@ -1,0 +1,20 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2024,3,Australian Grand Prix,2,1,SAI,Carlos,Sainz,Spanish,25,Finished,1:20:26.843,Ferrari
+2024,3,Australian Grand Prix,4,2,LEC,Charles,Leclerc,Monegasque,19,Finished,+2.366,Ferrari
+2024,3,Australian Grand Prix,3,3,NOR,Lando,Norris,British,15,Finished,+5.904,McLaren
+2024,3,Australian Grand Prix,5,4,PIA,Oscar,Piastri,Australian,12,Finished,+35.770,McLaren
+2024,3,Australian Grand Prix,6,5,PER,Sergio,Pérez,Mexican,10,Finished,+56.309,Red Bull
+2024,3,Australian Grand Prix,9,6,STR,Lance,Stroll,Canadian,8,Finished,+1:33.222,Aston Martin
+2024,3,Australian Grand Prix,8,7,TSU,Yuki,Tsunoda,Japanese,6,Finished,+1:35.601,RB F1 Team
+2024,3,Australian Grand Prix,10,8,ALO,Fernando,Alonso,Spanish,4,Finished,+1:40.992,Aston Martin
+2024,3,Australian Grand Prix,16,9,HUL,Nico,Hülkenberg,German,2,Finished,+1:44.553,Haas F1 Team
+2024,3,Australian Grand Prix,14,10,MAG,Kevin,Magnussen,Danish,1,+1 Lap,,Haas F1 Team
+2024,3,Australian Grand Prix,12,11,ALB,Alexander,Albon,Thai,0,+1 Lap,,Williams
+2024,3,Australian Grand Prix,18,12,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,RB F1 Team
+2024,3,Australian Grand Prix,17,13,GAS,Pierre,Gasly,French,0,+1 Lap,,Alpine F1 Team
+2024,3,Australian Grand Prix,13,14,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Sauber
+2024,3,Australian Grand Prix,19,15,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Sauber
+2024,3,Australian Grand Prix,15,16,OCO,Esteban,Ocon,French,0,+1 Lap,,Alpine F1 Team
+2024,3,Australian Grand Prix,7,17,RUS,George,Russell,British,0,Accident,,Mercedes
+2024,3,Australian Grand Prix,11,18,HAM,Lewis,Hamilton,British,0,Engine,,Mercedes
+2024,3,Australian Grand Prix,1,19,VER,Max,Verstappen,Dutch,0,Brakes,,Red Bull

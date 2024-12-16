@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2020,8,Italian Grand Prix,10,1,GAS,Pierre,Gasly,French,25,Finished,1:47:06.056,AlphaTauri
+2020,8,Italian Grand Prix,3,2,SAI,Carlos,Sainz,Spanish,18,Finished,+0.415,McLaren
+2020,8,Italian Grand Prix,8,3,STR,Lance,Stroll,Canadian,15,Finished,+3.358,Racing Point
+2020,8,Italian Grand Prix,6,4,NOR,Lando,Norris,British,12,Finished,+6.000,McLaren
+2020,8,Italian Grand Prix,2,5,BOT,Valtteri,Bottas,Finnish,10,Finished,+7.108,Mercedes
+2020,8,Italian Grand Prix,7,6,RIC,Daniel,Ricciardo,Australian,8,Finished,+8.391,Renault
+2020,8,Italian Grand Prix,1,7,HAM,Lewis,Hamilton,British,7,Finished,+17.245,Mercedes
+2020,8,Italian Grand Prix,12,8,OCO,Esteban,Ocon,French,4,Finished,+18.691,Renault
+2020,8,Italian Grand Prix,11,9,KVY,Daniil,Kvyat,Russian,2,Finished,+22.208,AlphaTauri
+2020,8,Italian Grand Prix,4,10,PER,Sergio,Pérez,Mexican,1,Finished,+23.224,Racing Point
+2020,8,Italian Grand Prix,20,11,LAT,Nicholas,Latifi,Canadian,0,Finished,+32.876,Williams
+2020,8,Italian Grand Prix,16,12,GRO,Romain,Grosjean,French,0,Finished,+35.164,Haas F1 Team
+2020,8,Italian Grand Prix,14,13,RAI,Kimi,Räikkönen,Finnish,0,Finished,+36.312,Alfa Romeo
+2020,8,Italian Grand Prix,19,14,RUS,George,Russell,British,0,Finished,+36.593,Williams
+2020,8,Italian Grand Prix,9,15,ALB,Alexander,Albon,Thai,0,Finished,+37.533,Red Bull
+2020,8,Italian Grand Prix,18,16,GIO,Antonio,Giovinazzi,Italian,0,Finished,+55.199,Alfa Romeo
+2020,8,Italian Grand Prix,5,17,VER,Max,Verstappen,Dutch,0,Power Unit,,Red Bull
+2020,8,Italian Grand Prix,13,18,LEC,Charles,Leclerc,Monegasque,0,Accident,,Ferrari
+2020,8,Italian Grand Prix,15,19,MAG,Kevin,Magnussen,Danish,0,Power Unit,,Haas F1 Team
+2020,8,Italian Grand Prix,17,20,VET,Sebastian,Vettel,German,0,Brakes,,Ferrari

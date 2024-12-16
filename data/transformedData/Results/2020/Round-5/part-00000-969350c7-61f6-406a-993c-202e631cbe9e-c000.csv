@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2020,5,70th Anniversary Grand Prix,4,1,VER,Max,Verstappen,Dutch,25,Finished,1:19:41.993,Red Bull
+2020,5,70th Anniversary Grand Prix,2,2,HAM,Lewis,Hamilton,British,19,Finished,+11.326,Mercedes
+2020,5,70th Anniversary Grand Prix,1,3,BOT,Valtteri,Bottas,Finnish,15,Finished,+19.231,Mercedes
+2020,5,70th Anniversary Grand Prix,8,4,LEC,Charles,Leclerc,Monegasque,12,Finished,+29.289,Ferrari
+2020,5,70th Anniversary Grand Prix,9,5,ALB,Alexander,Albon,Thai,10,Finished,+39.146,Red Bull
+2020,5,70th Anniversary Grand Prix,6,6,STR,Lance,Stroll,Canadian,8,Finished,+42.538,Racing Point
+2020,5,70th Anniversary Grand Prix,3,7,HUL,Nico,Hülkenberg,German,6,Finished,+55.951,Racing Point
+2020,5,70th Anniversary Grand Prix,14,8,OCO,Esteban,Ocon,French,4,Finished,+1:04.773,Renault
+2020,5,70th Anniversary Grand Prix,10,9,NOR,Lando,Norris,British,2,Finished,+1:05.544,McLaren
+2020,5,70th Anniversary Grand Prix,16,10,KVY,Daniil,Kvyat,Russian,1,Finished,+1:09.669,AlphaTauri
+2020,5,70th Anniversary Grand Prix,7,11,GAS,Pierre,Gasly,French,0,Finished,+1:10.642,AlphaTauri
+2020,5,70th Anniversary Grand Prix,11,12,VET,Sebastian,Vettel,German,0,Finished,+1:13.370,Ferrari
+2020,5,70th Anniversary Grand Prix,12,13,SAI,Carlos,Sainz,Spanish,0,Finished,+1:14.070,McLaren
+2020,5,70th Anniversary Grand Prix,5,14,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,Renault
+2020,5,70th Anniversary Grand Prix,20,15,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Alfa Romeo
+2020,5,70th Anniversary Grand Prix,13,16,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2020,5,70th Anniversary Grand Prix,19,17,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2020,5,70th Anniversary Grand Prix,15,18,RUS,George,Russell,British,0,+1 Lap,,Williams
+2020,5,70th Anniversary Grand Prix,18,19,LAT,Nicholas,Latifi,Canadian,0,+1 Lap,,Williams
+2020,5,70th Anniversary Grand Prix,17,20,MAG,Kevin,Magnussen,Danish,0,Retired,,Haas F1 Team

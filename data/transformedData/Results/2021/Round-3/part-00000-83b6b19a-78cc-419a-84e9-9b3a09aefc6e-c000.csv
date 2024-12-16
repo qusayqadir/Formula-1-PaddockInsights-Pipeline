@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2021,3,Portuguese Grand Prix,2,1,HAM,Lewis,Hamilton,British,25,Finished,1:34:31.421,Mercedes
+2021,3,Portuguese Grand Prix,3,2,VER,Max,Verstappen,Dutch,18,Finished,+29.148,Red Bull
+2021,3,Portuguese Grand Prix,1,3,BOT,Valtteri,Bottas,Finnish,16,Finished,+33.530,Mercedes
+2021,3,Portuguese Grand Prix,4,4,PER,Sergio,Pérez,Mexican,12,Finished,+39.735,Red Bull
+2021,3,Portuguese Grand Prix,7,5,NOR,Lando,Norris,British,10,Finished,+51.369,McLaren
+2021,3,Portuguese Grand Prix,8,6,LEC,Charles,Leclerc,Monegasque,8,Finished,+55.781,Ferrari
+2021,3,Portuguese Grand Prix,6,7,OCO,Esteban,Ocon,French,6,Finished,+1:03.749,Alpine F1 Team
+2021,3,Portuguese Grand Prix,13,8,ALO,Fernando,Alonso,Spanish,4,Finished,+1:04.808,Alpine F1 Team
+2021,3,Portuguese Grand Prix,16,9,RIC,Daniel,Ricciardo,Australian,2,Finished,+1:15.369,McLaren
+2021,3,Portuguese Grand Prix,9,10,GAS,Pierre,Gasly,French,1,Finished,+1:16.463,AlphaTauri
+2021,3,Portuguese Grand Prix,5,11,SAI,Carlos,Sainz,Spanish,0,Finished,+1:18.955,Ferrari
+2021,3,Portuguese Grand Prix,12,12,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2021,3,Portuguese Grand Prix,10,13,VET,Sebastian,Vettel,German,0,+1 Lap,,Aston Martin
+2021,3,Portuguese Grand Prix,17,14,STR,Lance,Stroll,Canadian,0,+1 Lap,,Aston Martin
+2021,3,Portuguese Grand Prix,14,15,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,AlphaTauri
+2021,3,Portuguese Grand Prix,11,16,RUS,George,Russell,British,0,+1 Lap,,Williams
+2021,3,Portuguese Grand Prix,19,17,MSC,Mick,Schumacher,German,0,+2 Laps,,Haas F1 Team
+2021,3,Portuguese Grand Prix,18,18,LAT,Nicholas,Latifi,Canadian,0,+2 Laps,,Williams
+2021,3,Portuguese Grand Prix,20,19,MAZ,Nikita,Mazepin,Russian,0,+2 Laps,,Haas F1 Team
+2021,3,Portuguese Grand Prix,15,20,RAI,Kimi,Räikkönen,Finnish,0,Collision damage,,Alfa Romeo

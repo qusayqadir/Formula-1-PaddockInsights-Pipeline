@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2024,10,Spanish Grand Prix,2,1,VER,Max,Verstappen,Dutch,25,Finished,1:28:20.227,Red Bull
+2024,10,Spanish Grand Prix,1,2,NOR,Lando,Norris,British,19,Finished,+2.219,McLaren
+2024,10,Spanish Grand Prix,3,3,HAM,Lewis,Hamilton,British,15,Finished,+17.790,Mercedes
+2024,10,Spanish Grand Prix,4,4,RUS,George,Russell,British,12,Finished,+22.320,Mercedes
+2024,10,Spanish Grand Prix,5,5,LEC,Charles,Leclerc,Monegasque,10,Finished,+22.709,Ferrari
+2024,10,Spanish Grand Prix,6,6,SAI,Carlos,Sainz,Spanish,8,Finished,+31.028,Ferrari
+2024,10,Spanish Grand Prix,9,7,PIA,Oscar,Piastri,Australian,6,Finished,+33.760,McLaren
+2024,10,Spanish Grand Prix,11,8,PER,Sergio,Pérez,Mexican,4,Finished,+59.524,Red Bull
+2024,10,Spanish Grand Prix,7,9,GAS,Pierre,Gasly,French,2,Finished,+1:02.025,Alpine F1 Team
+2024,10,Spanish Grand Prix,8,10,OCO,Esteban,Ocon,French,1,Finished,+1:11.889,Alpine F1 Team
+2024,10,Spanish Grand Prix,13,11,HUL,Nico,Hülkenberg,German,0,Finished,+1:19.215,Haas F1 Team
+2024,10,Spanish Grand Prix,10,12,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,Aston Martin
+2024,10,Spanish Grand Prix,15,13,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Sauber
+2024,10,Spanish Grand Prix,14,14,STR,Lance,Stroll,Canadian,0,+1 Lap,,Aston Martin
+2024,10,Spanish Grand Prix,18,15,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,RB F1 Team
+2024,10,Spanish Grand Prix,12,16,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Sauber
+2024,10,Spanish Grand Prix,16,17,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2024,10,Spanish Grand Prix,0,18,ALB,Alexander,Albon,Thai,0,+1 Lap,,Williams
+2024,10,Spanish Grand Prix,17,19,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,RB F1 Team
+2024,10,Spanish Grand Prix,19,20,SAR,Logan,Sargeant,American,0,+2 Laps,,Williams

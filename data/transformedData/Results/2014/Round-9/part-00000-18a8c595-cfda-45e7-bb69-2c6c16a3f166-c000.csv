@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,9,British Grand Prix,6,1,HAM,Lewis,Hamilton,British,25,Finished,2:26:52.094,Mercedes
+2014,9,British Grand Prix,14,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+30.135,Williams
+2014,9,British Grand Prix,8,3,RIC,Daniel,Ricciardo,Australian,15,Finished,+46.495,Red Bull
+2014,9,British Grand Prix,3,4,BUT,Jenson,Button,British,12,Finished,+47.390,McLaren
+2014,9,British Grand Prix,2,5,VET,Sebastian,Vettel,German,10,Finished,+53.864,Red Bull
+2014,9,British Grand Prix,16,6,ALO,Fernando,Alonso,Spanish,8,Finished,+59.946,Ferrari
+2014,9,British Grand Prix,5,7,MAG,Kevin,Magnussen,Danish,6,Finished,+1:02.563,McLaren
+2014,9,British Grand Prix,4,8,HUL,Nico,Hülkenberg,German,4,Finished,+1:28.692,Force India
+2014,9,British Grand Prix,9,9,KVY,Daniil,Kvyat,Russian,2,Finished,+1:29.340,Toro Rosso
+2014,9,British Grand Prix,10,10,VER,Jean-Éric,Vergne,French,1,+1 Lap,,Toro Rosso
+2014,9,British Grand Prix,7,11,PER,Sergio,Pérez,Mexican,0,+1 Lap,,Force India
+2014,9,British Grand Prix,11,12,GRO,Romain,Grosjean,French,0,+1 Lap,,Lotus F1
+2014,9,British Grand Prix,13,13,SUT,Adrian,Sutil,German,0,+1 Lap,,Sauber
+2014,9,British Grand Prix,12,14,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2014,9,British Grand Prix,22,15,KOB,Kamui,Kobayashi,Japanese,0,+2 Laps,,Caterham
+2014,9,British Grand Prix,17,16,CHI,Max,Chilton,British,0,+2 Laps,,Marussia
+2014,9,British Grand Prix,20,17,MAL,Pastor,Maldonado,Venezuelan,0,+3 Laps,,Lotus F1
+2014,9,British Grand Prix,1,18,ROS,Nico,Rosberg,German,0,Gearbox,,Mercedes
+2014,9,British Grand Prix,21,19,ERI,Marcus,Ericsson,Swedish,0,Suspension,,Caterham
+2014,9,British Grand Prix,19,20,GUT,Esteban,Gutiérrez,Mexican,0,Collision,,Sauber
+2014,9,British Grand Prix,15,21,MAS,Felipe,Massa,Brazilian,0,Collision,,Williams
+2014,9,British Grand Prix,18,22,RAI,Kimi,Räikkönen,Finnish,0,Collision,,Ferrari

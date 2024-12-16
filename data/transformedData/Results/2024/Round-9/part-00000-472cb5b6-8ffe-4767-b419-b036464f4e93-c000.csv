@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2024,9,Canadian Grand Prix,2,1,VER,Max,Verstappen,Dutch,25,Finished,1:45:47.927,Red Bull
+2024,9,Canadian Grand Prix,3,2,NOR,Lando,Norris,British,18,Finished,+3.879,McLaren
+2024,9,Canadian Grand Prix,1,3,RUS,George,Russell,British,15,Finished,+4.317,Mercedes
+2024,9,Canadian Grand Prix,7,4,HAM,Lewis,Hamilton,British,13,Finished,+4.915,Mercedes
+2024,9,Canadian Grand Prix,4,5,PIA,Oscar,Piastri,Australian,10,Finished,+10.199,McLaren
+2024,9,Canadian Grand Prix,6,6,ALO,Fernando,Alonso,Spanish,8,Finished,+17.510,Aston Martin
+2024,9,Canadian Grand Prix,9,7,STR,Lance,Stroll,Canadian,6,Finished,+23.625,Aston Martin
+2024,9,Canadian Grand Prix,5,8,RIC,Daniel,Ricciardo,Australian,4,Finished,+28.672,RB F1 Team
+2024,9,Canadian Grand Prix,15,9,GAS,Pierre,Gasly,French,2,Finished,+30.021,Alpine F1 Team
+2024,9,Canadian Grand Prix,18,10,OCO,Esteban,Ocon,French,1,Finished,+30.313,Alpine F1 Team
+2024,9,Canadian Grand Prix,17,11,HUL,Nico,Hülkenberg,German,0,Finished,+30.824,Haas F1 Team
+2024,9,Canadian Grand Prix,14,12,MAG,Kevin,Magnussen,Danish,0,Finished,+31.253,Haas F1 Team
+2024,9,Canadian Grand Prix,0,13,BOT,Valtteri,Bottas,Finnish,0,Finished,+40.487,Sauber
+2024,9,Canadian Grand Prix,8,14,TSU,Yuki,Tsunoda,Japanese,0,Finished,+52.694,RB F1 Team
+2024,9,Canadian Grand Prix,0,15,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Sauber
+2024,9,Canadian Grand Prix,12,16,SAI,Carlos,Sainz,Spanish,0,Collision,,Ferrari
+2024,9,Canadian Grand Prix,10,17,ALB,Alexander,Albon,Thai,0,Collision,,Williams
+2024,9,Canadian Grand Prix,16,18,PER,Sergio,Pérez,Mexican,0,Accident,,Red Bull
+2024,9,Canadian Grand Prix,11,19,LEC,Charles,Leclerc,Monegasque,0,Engine,,Ferrari
+2024,9,Canadian Grand Prix,13,20,SAR,Logan,Sargeant,American,0,Accident,,Williams

@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2000,3,San Marino Grand Prix,2,1,MSC,Michael,Schumacher,German,10,Finished,1:31:39.776,Ferrari
+2000,3,San Marino Grand Prix,1,2,,Mika,Häkkinen,Finnish,6,Finished,+1.168,McLaren
+2000,3,San Marino Grand Prix,3,3,COU,David,Coulthard,British,4,Finished,+51.008,McLaren
+2000,3,San Marino Grand Prix,4,4,BAR,Rubens,Barrichello,Brazilian,3,Finished,+1:29.276,Ferrari
+2000,3,San Marino Grand Prix,9,5,VIL,Jacques,Villeneuve,Canadian,2,+1 Lap,,BAR
+2000,3,San Marino Grand Prix,12,6,,Mika,Salo,Finnish,1,+1 Lap,,Sauber
+2000,3,San Marino Grand Prix,7,7,,Eddie,Irvine,British,0,+1 Lap,,Jaguar
+2000,3,San Marino Grand Prix,10,8,,Pedro,Diniz,Brazilian,0,+1 Lap,,Sauber
+2000,3,San Marino Grand Prix,11,9,WUR,Alexander,Wurz,Austrian,0,+1 Lap,,Benetton
+2000,3,San Marino Grand Prix,17,10,,Johnny,Herbert,British,0,+1 Lap,,Jaguar
+2000,3,San Marino Grand Prix,19,11,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Benetton
+2000,3,San Marino Grand Prix,14,12,ZON,Ricardo,Zonta,Brazilian,0,+1 Lap,,BAR
+2000,3,San Marino Grand Prix,20,13,,Gastón,Mazzacane,Argentine,0,+2 Laps,,Minardi
+2000,3,San Marino Grand Prix,16,14,,Jos,Verstappen,Dutch,0,+3 Laps,,Arrows
+2000,3,San Marino Grand Prix,8,15,TRU,Jarno,Trulli,Italian,0,Gearbox,,Jordan
+2000,3,San Marino Grand Prix,13,16,DLR,Pedro,de la Rosa,Spanish,0,Spun off,,Arrows
+2000,3,San Marino Grand Prix,5,17,SCH,Ralf,Schumacher,German,0,Fuel system,,Williams
+2000,3,San Marino Grand Prix,15,18,,Jean,Alesi,French,0,Hydraulics,,Prost
+2000,3,San Marino Grand Prix,22,19,HEI,Nick,Heidfeld,German,0,Hydraulics,,Prost
+2000,3,San Marino Grand Prix,18,20,BUT,Jenson,Button,British,0,Engine,,Williams
+2000,3,San Marino Grand Prix,21,21,,Marc,Gené,Spanish,0,Spun off,,Minardi
+2000,3,San Marino Grand Prix,6,22,,Heinz-Harald,Frentzen,German,0,Gearbox,,Jordan

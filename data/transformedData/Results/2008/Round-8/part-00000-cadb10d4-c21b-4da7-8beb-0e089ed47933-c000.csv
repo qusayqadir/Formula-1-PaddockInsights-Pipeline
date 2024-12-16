@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2008,8,French Grand Prix,2,1,MAS,Felipe,Massa,Brazilian,10,Finished,1:31:50.245,Ferrari
+2008,8,French Grand Prix,1,2,RAI,Kimi,Räikkönen,Finnish,8,Finished,+17.984,Ferrari
+2008,8,French Grand Prix,4,3,TRU,Jarno,Trulli,Italian,6,Finished,+28.250,Toyota
+2008,8,French Grand Prix,10,4,KOV,Heikki,Kovalainen,Finnish,5,Finished,+28.929,McLaren
+2008,8,French Grand Prix,5,5,KUB,Robert,Kubica,Polish,4,Finished,+30.512,BMW Sauber
+2008,8,French Grand Prix,6,6,WEB,Mark,Webber,Australian,3,Finished,+40.304,Red Bull
+2008,8,French Grand Prix,9,7,PIQ,Nelson,Piquet Jr.,Brazilian,2,Finished,+41.033,Renault
+2008,8,French Grand Prix,3,8,ALO,Fernando,Alonso,Spanish,1,Finished,+43.372,Renault
+2008,8,French Grand Prix,7,9,COU,David,Coulthard,British,0,Finished,+51.021,Red Bull
+2008,8,French Grand Prix,13,10,HAM,Lewis,Hamilton,British,0,Finished,+54.538,McLaren
+2008,8,French Grand Prix,8,11,GLO,Timo,Glock,German,0,Finished,+57.700,Toyota
+2008,8,French Grand Prix,12,12,VET,Sebastian,Vettel,German,0,Finished,+58.065,Toro Rosso
+2008,8,French Grand Prix,11,13,HEI,Nick,Heidfeld,German,0,Finished,+1:02.079,BMW Sauber
+2008,8,French Grand Prix,20,14,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Honda
+2008,8,French Grand Prix,15,15,NAK,Kazuki,Nakajima,Japanese,0,+1 Lap,,Williams
+2008,8,French Grand Prix,19,16,ROS,Nico,Rosberg,German,0,+1 Lap,,Williams
+2008,8,French Grand Prix,14,17,BOU,Sébastien,Bourdais,French,0,+1 Lap,,Toro Rosso
+2008,8,French Grand Prix,17,18,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Force India
+2008,8,French Grand Prix,18,19,SUT,Adrian,Sutil,German,0,+1 Lap,,Force India
+2008,8,French Grand Prix,16,20,BUT,Jenson,Button,British,0,Collision,,Honda

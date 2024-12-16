@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,7,United States Grand Prix,1,1,HAM,Lewis,Hamilton,British,10,Finished,1:31:09.965,McLaren
+2007,7,United States Grand Prix,2,2,ALO,Fernando,Alonso,Spanish,8,Finished,+1.5,McLaren
+2007,7,United States Grand Prix,3,3,MAS,Felipe,Massa,Brazilian,6,Finished,+12.8,Ferrari
+2007,7,United States Grand Prix,4,4,RAI,Kimi,Räikkönen,Finnish,5,Finished,+15.4,Ferrari
+2007,7,United States Grand Prix,6,5,KOV,Heikki,Kovalainen,Finnish,4,Finished,+41.4,Renault
+2007,7,United States Grand Prix,8,6,TRU,Jarno,Trulli,Italian,3,Finished,+66.7,Toyota
+2007,7,United States Grand Prix,9,7,WEB,Mark,Webber,Australian,2,Finished,+67.3,Red Bull
+2007,7,United States Grand Prix,7,8,VET,Sebastian,Vettel,German,1,Finished,+67.7,BMW Sauber
+2007,7,United States Grand Prix,10,9,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Renault
+2007,7,United States Grand Prix,17,10,WUR,Alexander,Wurz,Austrian,0,+1 Lap,,Williams
+2007,7,United States Grand Prix,16,11,DAV,Anthony,Davidson,British,0,+1 Lap,,Super Aguri
+2007,7,United States Grand Prix,13,12,BUT,Jenson,Button,British,0,+1 Lap,,Honda
+2007,7,United States Grand Prix,20,13,SPE,Scott,Speed,American,0,+2 Laps,,Toro Rosso
+2007,7,United States Grand Prix,21,14,SUT,Adrian,Sutil,German,0,+2 Laps,,Spyker
+2007,7,United States Grand Prix,22,15,ALB,Christijan,Albers,Dutch,0,+3 Laps,,Spyker
+2007,7,United States Grand Prix,14,16,ROS,Nico,Rosberg,German,0,Engine,,Williams
+2007,7,United States Grand Prix,19,17,LIU,Vitantonio,Liuzzi,Italian,0,Water pressure,,Toro Rosso
+2007,7,United States Grand Prix,5,18,HEI,Nick,Heidfeld,German,0,Transmission,,BMW Sauber
+2007,7,United States Grand Prix,18,19,SAT,Takuma,Sato,Japanese,0,Spun off,,Super Aguri
+2007,7,United States Grand Prix,11,20,COU,David,Coulthard,British,0,Collision,,Red Bull
+2007,7,United States Grand Prix,15,21,BAR,Rubens,Barrichello,Brazilian,0,Collision,,Honda
+2007,7,United States Grand Prix,12,22,SCH,Ralf,Schumacher,German,0,Collision,,Toyota

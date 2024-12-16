@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2009,9,German Grand Prix,1,1,WEB,Mark,Webber,Australian,10,Finished,1:36:43.310,Red Bull
+2009,9,German Grand Prix,4,2,VET,Sebastian,Vettel,German,8,Finished,+9.252,Red Bull
+2009,9,German Grand Prix,8,3,MAS,Felipe,Massa,Brazilian,6,Finished,+15.906,Ferrari
+2009,9,German Grand Prix,15,4,ROS,Nico,Rosberg,German,5,Finished,+21.099,Williams
+2009,9,German Grand Prix,3,5,BUT,Jenson,Button,British,4,Finished,+23.609,Brawn
+2009,9,German Grand Prix,2,6,BAR,Rubens,Barrichello,Brazilian,3,Finished,+24.468,Brawn
+2009,9,German Grand Prix,12,7,ALO,Fernando,Alonso,Spanish,2,Finished,+24.888,Renault
+2009,9,German Grand Prix,6,8,KOV,Heikki,Kovalainen,Finnish,1,Finished,+58.692,McLaren
+2009,9,German Grand Prix,20,9,GLO,Timo,Glock,German,0,Finished,+1:01.457,Toyota
+2009,9,German Grand Prix,11,10,HEI,Nick,Heidfeld,German,0,Finished,+1:01.925,BMW Sauber
+2009,9,German Grand Prix,18,11,FIS,Giancarlo,Fisichella,Italian,0,Finished,+1:02.327,Force India
+2009,9,German Grand Prix,13,12,NAK,Kazuki,Nakajima,Japanese,0,Finished,+1:02.876,Williams
+2009,9,German Grand Prix,10,13,PIQ,Nelson,Piquet Jr.,Brazilian,0,Finished,+1:08.328,Renault
+2009,9,German Grand Prix,16,14,KUB,Robert,Kubica,Polish,0,Finished,+1:09.555,BMW Sauber
+2009,9,German Grand Prix,7,15,SUT,Adrian,Sutil,German,0,Finished,+1:11.941,Force India
+2009,9,German Grand Prix,17,16,BUE,Sébastien,Buemi,Swiss,0,Finished,+1:30.225,Toro Rosso
+2009,9,German Grand Prix,14,17,TRU,Jarno,Trulli,Italian,0,Finished,+1:30.970,Toyota
+2009,9,German Grand Prix,5,18,HAM,Lewis,Hamilton,British,0,+1 Lap,,McLaren
+2009,9,German Grand Prix,9,19,RAI,Kimi,Räikkönen,Finnish,0,Engine,,Ferrari
+2009,9,German Grand Prix,19,20,BOU,Sébastien,Bourdais,French,0,Hydraulics,,Toro Rosso

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2021,16,Turkish Grand Prix,1,1,BOT,Valtteri,Bottas,Finnish,26,Finished,1:31:04.103,Mercedes
+2021,16,Turkish Grand Prix,2,2,VER,Max,Verstappen,Dutch,18,Finished,+14.584,Red Bull
+2021,16,Turkish Grand Prix,6,3,PER,Sergio,Pérez,Mexican,15,Finished,+33.471,Red Bull
+2021,16,Turkish Grand Prix,3,4,LEC,Charles,Leclerc,Monegasque,12,Finished,+37.814,Ferrari
+2021,16,Turkish Grand Prix,11,5,HAM,Lewis,Hamilton,British,10,Finished,+41.812,Mercedes
+2021,16,Turkish Grand Prix,4,6,GAS,Pierre,Gasly,French,8,Finished,+44.292,AlphaTauri
+2021,16,Turkish Grand Prix,7,7,NOR,Lando,Norris,British,6,Finished,+47.213,McLaren
+2021,16,Turkish Grand Prix,19,8,SAI,Carlos,Sainz,Spanish,4,Finished,+51.526,Ferrari
+2021,16,Turkish Grand Prix,8,9,STR,Lance,Stroll,Canadian,2,Finished,+1:22.018,Aston Martin
+2021,16,Turkish Grand Prix,12,10,OCO,Esteban,Ocon,French,1,+1 Lap,,Alpine F1 Team
+2021,16,Turkish Grand Prix,16,11,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2021,16,Turkish Grand Prix,17,12,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Alfa Romeo
+2021,16,Turkish Grand Prix,20,13,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,McLaren
+2021,16,Turkish Grand Prix,9,14,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,AlphaTauri
+2021,16,Turkish Grand Prix,13,15,RUS,George,Russell,British,0,+1 Lap,,Williams
+2021,16,Turkish Grand Prix,5,16,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,Alpine F1 Team
+2021,16,Turkish Grand Prix,15,17,LAT,Nicholas,Latifi,Canadian,0,+1 Lap,,Williams
+2021,16,Turkish Grand Prix,10,18,VET,Sebastian,Vettel,German,0,+1 Lap,,Aston Martin
+2021,16,Turkish Grand Prix,14,19,MSC,Mick,Schumacher,German,0,+2 Laps,,Haas F1 Team
+2021,16,Turkish Grand Prix,18,20,MAZ,Nikita,Mazepin,Russian,0,+2 Laps,,Haas F1 Team

@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,7,Canadian Grand Prix,6,1,RIC,Daniel,Ricciardo,Australian,25,Finished,1:39:12.830,Red Bull
+2014,7,Canadian Grand Prix,1,2,ROS,Nico,Rosberg,German,18,Finished,+4.236,Mercedes
+2014,7,Canadian Grand Prix,3,3,VET,Sebastian,Vettel,German,15,Finished,+5.247,Red Bull
+2014,7,Canadian Grand Prix,9,4,BUT,Jenson,Button,British,12,Finished,+11.755,McLaren
+2014,7,Canadian Grand Prix,11,5,HUL,Nico,Hülkenberg,German,10,Finished,+12.843,Force India
+2014,7,Canadian Grand Prix,7,6,ALO,Fernando,Alonso,Spanish,8,Finished,+14.869,Ferrari
+2014,7,Canadian Grand Prix,4,7,BOT,Valtteri,Bottas,Finnish,6,Finished,+23.578,Williams
+2014,7,Canadian Grand Prix,8,8,VER,Jean-Éric,Vergne,French,4,Finished,+28.026,Toro Rosso
+2014,7,Canadian Grand Prix,12,9,MAG,Kevin,Magnussen,Danish,2,Finished,+29.254,McLaren
+2014,7,Canadian Grand Prix,10,10,RAI,Kimi,Räikkönen,Finnish,1,Finished,+53.678,Ferrari
+2014,7,Canadian Grand Prix,13,11,PER,Sergio,Pérez,Mexican,0,Collision,,Force India
+2014,7,Canadian Grand Prix,5,12,MAS,Felipe,Massa,Brazilian,0,Collision,,Williams
+2014,7,Canadian Grand Prix,16,13,SUT,Adrian,Sutil,German,0,+1 Lap,,Sauber
+2014,7,Canadian Grand Prix,22,14,GUT,Esteban,Gutiérrez,Mexican,0,ERS,,Sauber
+2014,7,Canadian Grand Prix,14,15,GRO,Romain,Grosjean,French,0,Rear wing,,Lotus F1
+2014,7,Canadian Grand Prix,15,16,KVY,Daniil,Kvyat,Russian,0,Drivetrain,,Toro Rosso
+2014,7,Canadian Grand Prix,2,17,HAM,Lewis,Hamilton,British,0,Brakes,,Mercedes
+2014,7,Canadian Grand Prix,21,18,KOB,Kamui,Kobayashi,Japanese,0,Suspension,,Caterham
+2014,7,Canadian Grand Prix,17,19,MAL,Pastor,Maldonado,Venezuelan,0,Power Unit,,Lotus F1
+2014,7,Canadian Grand Prix,20,20,ERI,Marcus,Ericsson,Swedish,0,Turbo,,Caterham
+2014,7,Canadian Grand Prix,18,21,CHI,Max,Chilton,British,0,Collision,,Marussia
+2014,7,Canadian Grand Prix,19,22,BIA,Jules,Bianchi,French,0,Collision,,Marussia

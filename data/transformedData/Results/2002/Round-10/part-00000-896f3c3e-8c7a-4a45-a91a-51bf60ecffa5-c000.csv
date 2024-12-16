@@ -1,0 +1,22 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2002,10,British Grand Prix,3,1,MSC,Michael,Schumacher,German,10,Finished,1:31:45.015,Ferrari
+2002,10,British Grand Prix,2,2,BAR,Rubens,Barrichello,Brazilian,6,Finished,+14.578,Ferrari
+2002,10,British Grand Prix,1,3,MON,Juan,Pablo Montoya,Colombian,4,Finished,+31.661,Williams
+2002,10,British Grand Prix,9,4,VIL,Jacques,Villeneuve,Canadian,3,+1 Lap,,BAR
+2002,10,British Grand Prix,13,5,,Olivier,Panis,French,2,+1 Lap,,BAR
+2002,10,British Grand Prix,10,6,HEI,Nick,Heidfeld,German,1,+1 Lap,,Sauber
+2002,10,British Grand Prix,17,7,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Jordan
+2002,10,British Grand Prix,4,8,SCH,Ralf,Schumacher,German,0,+1 Lap,,Williams
+2002,10,British Grand Prix,11,9,MAS,Felipe,Massa,Brazilian,0,+1 Lap,,Sauber
+2002,10,British Grand Prix,6,10,COU,David,Coulthard,British,0,+2 Laps,,McLaren
+2002,10,British Grand Prix,21,11,DLR,Pedro,de la Rosa,Spanish,0,+2 Laps,,Jaguar
+2002,10,British Grand Prix,12,12,BUT,Jenson,Button,British,0,Wheel,,Renault
+2002,10,British Grand Prix,14,13,SAT,Takuma,Sato,Japanese,0,Engine,,Jordan
+2002,10,British Grand Prix,5,14,RAI,Kimi,Räikkönen,Finnish,0,Engine,,McLaren
+2002,10,British Grand Prix,7,15,TRU,Jarno,Trulli,Italian,0,Electronics,,Renault
+2002,10,British Grand Prix,18,16,,Enrique,Bernoldi,Brazilian,0,Driveshaft,,Arrows
+2002,10,British Grand Prix,19,17,,Eddie,Irvine,British,0,Spun off,,Jaguar
+2002,10,British Grand Prix,16,18,,Heinz-Harald,Frentzen,German,0,Engine,,Arrows
+2002,10,British Grand Prix,8,19,,Mika,Salo,Finnish,0,Drivetrain,,Toyota
+2002,10,British Grand Prix,20,20,WEB,Mark,Webber,Australian,0,Clutch,,Minardi
+2002,10,British Grand Prix,15,21,,Allan,McNish,British,0,Clutch,,Toyota

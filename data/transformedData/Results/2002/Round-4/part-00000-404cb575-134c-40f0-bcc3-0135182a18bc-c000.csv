@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2002,4,San Marino Grand Prix,1,1,MSC,Michael,Schumacher,German,10,Finished,1:29:10.789,Ferrari
+2002,4,San Marino Grand Prix,2,2,BAR,Rubens,Barrichello,Brazilian,6,Finished,+17.907,Ferrari
+2002,4,San Marino Grand Prix,3,3,SCH,Ralf,Schumacher,German,4,Finished,+19.755,Williams
+2002,4,San Marino Grand Prix,4,4,MON,Juan,Pablo Montoya,Colombian,3,Finished,+44.725,Williams
+2002,4,San Marino Grand Prix,9,5,BUT,Jenson,Button,British,2,Finished,+1:23.395,Renault
+2002,4,San Marino Grand Prix,6,6,COU,David,Coulthard,British,1,+1 Lap,,McLaren
+2002,4,San Marino Grand Prix,10,7,VIL,Jacques,Villeneuve,Canadian,0,+1 Lap,,BAR
+2002,4,San Marino Grand Prix,11,8,MAS,Felipe,Massa,Brazilian,0,+1 Lap,,Sauber
+2002,4,San Marino Grand Prix,8,9,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Renault
+2002,4,San Marino Grand Prix,7,10,HEI,Nick,Heidfeld,German,0,+1 Lap,,Sauber
+2002,4,San Marino Grand Prix,19,11,WEB,Mark,Webber,Australian,0,+2 Laps,,Minardi
+2002,4,San Marino Grand Prix,20,12,,Enrique,Bernoldi,Brazilian,0,Power loss,,Arrows
+2002,4,San Marino Grand Prix,18,13,,Eddie,Irvine,British,0,Driveshaft,,Jaguar
+2002,4,San Marino Grand Prix,5,14,RAI,Kimi,Räikkönen,Finnish,0,Exhaust,,McLaren
+2002,4,San Marino Grand Prix,12,15,,Olivier,Panis,French,0,Throttle,,BAR
+2002,4,San Marino Grand Prix,22,16,DLR,Pedro,de la Rosa,Spanish,0,Driveshaft,,Jaguar
+2002,4,San Marino Grand Prix,16,17,,Mika,Salo,Finnish,0,Gearbox,,Toyota
+2002,4,San Marino Grand Prix,13,18,,Heinz-Harald,Frentzen,German,0,Power loss,,Arrows
+2002,4,San Marino Grand Prix,15,19,FIS,Giancarlo,Fisichella,Italian,0,Hydraulics,,Jordan
+2002,4,San Marino Grand Prix,14,20,SAT,Takuma,Sato,Japanese,0,Gearbox,,Jordan
+2002,4,San Marino Grand Prix,17,21,,Allan,McNish,British,0,Electrical,,Toyota
+2002,4,San Marino Grand Prix,0,22,,Alex,Yoong,Malaysian,0,107% Rule,,Minardi

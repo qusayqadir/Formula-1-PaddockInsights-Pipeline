@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,20,Abu Dhabi Grand Prix,1,1,BOT,Valtteri,Bottas,Finnish,25,Finished,1:34:14.062,Mercedes
+2017,20,Abu Dhabi Grand Prix,2,2,HAM,Lewis,Hamilton,British,18,Finished,+3.899,Mercedes
+2017,20,Abu Dhabi Grand Prix,3,3,VET,Sebastian,Vettel,German,15,Finished,+19.330,Ferrari
+2017,20,Abu Dhabi Grand Prix,5,4,RAI,Kimi,Räikkönen,Finnish,12,Finished,+45.386,Ferrari
+2017,20,Abu Dhabi Grand Prix,6,5,VER,Max,Verstappen,Dutch,10,Finished,+46.269,Red Bull
+2017,20,Abu Dhabi Grand Prix,7,6,HUL,Nico,Hülkenberg,German,8,Finished,+1:25.713,Renault
+2017,20,Abu Dhabi Grand Prix,8,7,PER,Sergio,Pérez,Mexican,6,Finished,+1:32.062,Force India
+2017,20,Abu Dhabi Grand Prix,9,8,OCO,Esteban,Ocon,French,4,Finished,+1:38.911,Force India
+2017,20,Abu Dhabi Grand Prix,11,9,ALO,Fernando,Alonso,Spanish,2,+1 Lap,,McLaren
+2017,20,Abu Dhabi Grand Prix,10,10,MAS,Felipe,Massa,Brazilian,1,+1 Lap,,Williams
+2017,20,Abu Dhabi Grand Prix,16,11,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2017,20,Abu Dhabi Grand Prix,13,12,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2017,20,Abu Dhabi Grand Prix,14,13,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2017,20,Abu Dhabi Grand Prix,18,14,WEH,Pascal,Wehrlein,German,0,+1 Lap,,Sauber
+2017,20,Abu Dhabi Grand Prix,20,15,HAR,Brendon,Hartley,New Zealander,0,+1 Lap,,Toro Rosso
+2017,20,Abu Dhabi Grand Prix,17,16,GAS,Pierre,Gasly,French,0,+1 Lap,,Toro Rosso
+2017,20,Abu Dhabi Grand Prix,19,17,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2017,20,Abu Dhabi Grand Prix,15,18,STR,Lance,Stroll,Canadian,0,+1 Lap,,Williams
+2017,20,Abu Dhabi Grand Prix,12,19,SAI,Carlos,Sainz,Spanish,0,Wheel,,Renault
+2017,20,Abu Dhabi Grand Prix,4,20,RIC,Daniel,Ricciardo,Australian,0,Hydraulics,,Red Bull

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2009,7,Turkish Grand Prix,2,1,BUT,Jenson,Button,British,10,Finished,1:26:24.848,Brawn
+2009,7,Turkish Grand Prix,4,2,WEB,Mark,Webber,Australian,8,Finished,+6.714,Red Bull
+2009,7,Turkish Grand Prix,1,3,VET,Sebastian,Vettel,German,6,Finished,+7.461,Red Bull
+2009,7,Turkish Grand Prix,5,4,TRU,Jarno,Trulli,Italian,5,Finished,+27.843,Toyota
+2009,7,Turkish Grand Prix,9,5,ROS,Nico,Rosberg,German,4,Finished,+31.539,Williams
+2009,7,Turkish Grand Prix,7,6,MAS,Felipe,Massa,Brazilian,3,Finished,+39.996,Ferrari
+2009,7,Turkish Grand Prix,10,7,KUB,Robert,Kubica,Polish,2,Finished,+46.247,BMW Sauber
+2009,7,Turkish Grand Prix,13,8,GLO,Timo,Glock,German,1,Finished,+46.959,Toyota
+2009,7,Turkish Grand Prix,6,9,RAI,Kimi,Räikkönen,Finnish,0,Finished,+50.246,Ferrari
+2009,7,Turkish Grand Prix,8,10,ALO,Fernando,Alonso,Spanish,0,Finished,+1:02.420,Renault
+2009,7,Turkish Grand Prix,11,11,HEI,Nick,Heidfeld,German,0,Finished,+1:04.327,BMW Sauber
+2009,7,Turkish Grand Prix,12,12,NAK,Kazuki,Nakajima,Japanese,0,Finished,+1:06.376,Williams
+2009,7,Turkish Grand Prix,16,13,HAM,Lewis,Hamilton,British,0,Finished,+1:20.454,McLaren
+2009,7,Turkish Grand Prix,14,14,KOV,Heikki,Kovalainen,Finnish,0,+1 Lap,,McLaren
+2009,7,Turkish Grand Prix,18,15,BUE,Sébastien,Buemi,Swiss,0,+1 Lap,,Toro Rosso
+2009,7,Turkish Grand Prix,17,16,PIQ,Nelson,Piquet Jr.,Brazilian,0,+1 Lap,,Renault
+2009,7,Turkish Grand Prix,15,17,SUT,Adrian,Sutil,German,0,+1 Lap,,Force India
+2009,7,Turkish Grand Prix,20,18,BOU,Sébastien,Bourdais,French,0,+1 Lap,,Toro Rosso
+2009,7,Turkish Grand Prix,3,19,BAR,Rubens,Barrichello,Brazilian,0,Gearbox,,Brawn
+2009,7,Turkish Grand Prix,19,20,FIS,Giancarlo,Fisichella,Italian,0,Brakes,,Force India

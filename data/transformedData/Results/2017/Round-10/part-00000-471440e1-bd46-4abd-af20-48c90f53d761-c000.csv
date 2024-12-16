@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,10,British Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:21:27.430,Mercedes
+2017,10,British Grand Prix,9,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+14.063,Mercedes
+2017,10,British Grand Prix,2,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+36.570,Ferrari
+2017,10,British Grand Prix,4,4,VER,Max,Verstappen,Dutch,12,Finished,+52.125,Red Bull
+2017,10,British Grand Prix,19,5,RIC,Daniel,Ricciardo,Australian,10,Finished,+1:05.955,Red Bull
+2017,10,British Grand Prix,5,6,HUL,Nico,Hülkenberg,German,8,Finished,+1:08.109,Renault
+2017,10,British Grand Prix,3,7,VET,Sebastian,Vettel,German,6,Finished,+1:33.989,Ferrari
+2017,10,British Grand Prix,7,8,OCO,Esteban,Ocon,French,4,+1 Lap,,Force India
+2017,10,British Grand Prix,6,9,PER,Sergio,Pérez,Mexican,2,+1 Lap,,Force India
+2017,10,British Grand Prix,14,10,MAS,Felipe,Massa,Brazilian,1,+1 Lap,,Williams
+2017,10,British Grand Prix,8,11,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2017,10,British Grand Prix,16,12,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2017,10,British Grand Prix,10,13,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2017,10,British Grand Prix,18,14,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2017,10,British Grand Prix,12,15,KVY,Daniil,Kvyat,Russian,0,+1 Lap,,Toro Rosso
+2017,10,British Grand Prix,15,16,STR,Lance,Stroll,Canadian,0,+1 Lap,,Williams
+2017,10,British Grand Prix,17,17,WEH,Pascal,Wehrlein,German,0,+1 Lap,,Sauber
+2017,10,British Grand Prix,20,18,ALO,Fernando,Alonso,Spanish,0,Power Unit,,McLaren
+2017,10,British Grand Prix,13,19,SAI,Carlos,Sainz,Spanish,0,Collision damage,,Toro Rosso
+2017,10,British Grand Prix,11,20,PAL,Jolyon,Palmer,British,0,Hydraulics,,Renault

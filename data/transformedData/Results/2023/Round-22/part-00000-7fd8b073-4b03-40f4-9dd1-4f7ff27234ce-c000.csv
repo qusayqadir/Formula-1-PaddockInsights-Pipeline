@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2023,22,Abu Dhabi Grand Prix,1,1,VER,Max,Verstappen,Dutch,26,Finished,1:27:02.624,Red Bull
+2023,22,Abu Dhabi Grand Prix,2,2,LEC,Charles,Leclerc,Monegasque,18,Finished,+17.993,Ferrari
+2023,22,Abu Dhabi Grand Prix,4,3,RUS,George,Russell,British,15,Finished,+20.328,Mercedes
+2023,22,Abu Dhabi Grand Prix,9,4,PER,Sergio,Pérez,Mexican,12,Finished,+21.453,Red Bull
+2023,22,Abu Dhabi Grand Prix,5,5,NOR,Lando,Norris,British,10,Finished,+24.284,McLaren
+2023,22,Abu Dhabi Grand Prix,3,6,PIA,Oscar,Piastri,Australian,8,Finished,+31.487,McLaren
+2023,22,Abu Dhabi Grand Prix,7,7,ALO,Fernando,Alonso,Spanish,6,Finished,+39.512,Aston Martin
+2023,22,Abu Dhabi Grand Prix,6,8,TSU,Yuki,Tsunoda,Japanese,4,Finished,+43.088,AlphaTauri
+2023,22,Abu Dhabi Grand Prix,11,9,HAM,Lewis,Hamilton,British,2,Finished,+44.424,Mercedes
+2023,22,Abu Dhabi Grand Prix,13,10,STR,Lance,Stroll,Canadian,1,Finished,+55.632,Aston Martin
+2023,22,Abu Dhabi Grand Prix,15,11,RIC,Daniel,Ricciardo,Australian,0,Finished,+56.229,AlphaTauri
+2023,22,Abu Dhabi Grand Prix,12,12,OCO,Esteban,Ocon,French,0,Finished,+1:06.373,Alpine F1 Team
+2023,22,Abu Dhabi Grand Prix,10,13,GAS,Pierre,Gasly,French,0,Finished,+1:10.360,Alpine F1 Team
+2023,22,Abu Dhabi Grand Prix,14,14,ALB,Alexander,Albon,Thai,0,Finished,+1:13.184,Williams
+2023,22,Abu Dhabi Grand Prix,8,15,HUL,Nico,Hülkenberg,German,0,Finished,+1:23.696,Haas F1 Team
+2023,22,Abu Dhabi Grand Prix,20,16,SAR,Logan,Sargeant,American,0,Finished,+1:27.791,Williams
+2023,22,Abu Dhabi Grand Prix,19,17,ZHO,Guanyu,Zhou,Chinese,0,Finished,+1:29.422,Alfa Romeo
+2023,22,Abu Dhabi Grand Prix,16,18,SAI,Carlos,Sainz,Spanish,0,Retired,,Ferrari
+2023,22,Abu Dhabi Grand Prix,18,19,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Alfa Romeo
+2023,22,Abu Dhabi Grand Prix,17,20,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team

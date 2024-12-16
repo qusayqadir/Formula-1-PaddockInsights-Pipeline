@@ -1,0 +1,19 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,18,Brazilian Grand Prix,1,1,ROS,Nico,Rosberg,German,25,Finished,1:30:02.555,Mercedes
+2014,18,Brazilian Grand Prix,2,2,HAM,Lewis,Hamilton,British,18,Finished,+1.457,Mercedes
+2014,18,Brazilian Grand Prix,3,3,MAS,Felipe,Massa,Brazilian,15,Finished,+41.031,Williams
+2014,18,Brazilian Grand Prix,5,4,BUT,Jenson,Button,British,12,Finished,+48.658,McLaren
+2014,18,Brazilian Grand Prix,6,5,VET,Sebastian,Vettel,German,10,Finished,+51.420,Red Bull
+2014,18,Brazilian Grand Prix,8,6,ALO,Fernando,Alonso,Spanish,8,Finished,+1:01.906,Ferrari
+2014,18,Brazilian Grand Prix,10,7,RAI,Kimi,Räikkönen,Finnish,6,Finished,+1:03.730,Ferrari
+2014,18,Brazilian Grand Prix,12,8,HUL,Nico,Hülkenberg,German,4,Finished,+1:03.934,Force India
+2014,18,Brazilian Grand Prix,7,9,MAG,Kevin,Magnussen,Danish,2,Finished,+1:10.085,McLaren
+2014,18,Brazilian Grand Prix,4,10,BOT,Valtteri,Bottas,Finnish,1,+1 Lap,,Williams
+2014,18,Brazilian Grand Prix,17,11,KVY,Daniil,Kvyat,Russian,0,+1 Lap,,Toro Rosso
+2014,18,Brazilian Grand Prix,16,12,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Lotus F1
+2014,18,Brazilian Grand Prix,15,13,VER,Jean-Éric,Vergne,French,0,+1 Lap,,Toro Rosso
+2014,18,Brazilian Grand Prix,11,14,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Sauber
+2014,18,Brazilian Grand Prix,18,15,PER,Sergio,Pérez,Mexican,0,+1 Lap,,Force India
+2014,18,Brazilian Grand Prix,13,16,SUT,Adrian,Sutil,German,0,+1 Lap,,Sauber
+2014,18,Brazilian Grand Prix,14,17,GRO,Romain,Grosjean,French,0,+8 Laps,,Lotus F1
+2014,18,Brazilian Grand Prix,9,18,RIC,Daniel,Ricciardo,Australian,0,Suspension,,Red Bull

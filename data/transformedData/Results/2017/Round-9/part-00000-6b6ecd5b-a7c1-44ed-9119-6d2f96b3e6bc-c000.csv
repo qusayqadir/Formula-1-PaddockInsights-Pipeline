@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,9,Austrian Grand Prix,1,1,BOT,Valtteri,Bottas,Finnish,25,Finished,1:21:48.523,Mercedes
+2017,9,Austrian Grand Prix,2,2,VET,Sebastian,Vettel,German,18,Finished,+0.658,Ferrari
+2017,9,Austrian Grand Prix,4,3,RIC,Daniel,Ricciardo,Australian,15,Finished,+6.012,Red Bull
+2017,9,Austrian Grand Prix,8,4,HAM,Lewis,Hamilton,British,12,Finished,+7.430,Mercedes
+2017,9,Austrian Grand Prix,3,5,RAI,Kimi,Räikkönen,Finnish,10,Finished,+20.370,Ferrari
+2017,9,Austrian Grand Prix,6,6,GRO,Romain,Grosjean,French,8,Finished,+1:13.160,Haas F1 Team
+2017,9,Austrian Grand Prix,7,7,PER,Sergio,Pérez,Mexican,6,+1 Lap,,Force India
+2017,9,Austrian Grand Prix,9,8,OCO,Esteban,Ocon,French,4,+1 Lap,,Force India
+2017,9,Austrian Grand Prix,17,9,MAS,Felipe,Massa,Brazilian,2,+1 Lap,,Williams
+2017,9,Austrian Grand Prix,18,10,STR,Lance,Stroll,Canadian,1,+1 Lap,,Williams
+2017,9,Austrian Grand Prix,16,11,PAL,Jolyon,Palmer,British,0,+1 Lap,,Renault
+2017,9,Austrian Grand Prix,13,12,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2017,9,Austrian Grand Prix,11,13,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Renault
+2017,9,Austrian Grand Prix,20,14,WEH,Pascal,Wehrlein,German,0,+1 Lap,,Sauber
+2017,9,Austrian Grand Prix,19,15,ERI,Marcus,Ericsson,Swedish,0,+2 Laps,,Sauber
+2017,9,Austrian Grand Prix,14,16,KVY,Daniil,Kvyat,Russian,0,+3 Laps,,Toro Rosso
+2017,9,Austrian Grand Prix,10,17,SAI,Carlos,Sainz,Spanish,0,Engine,,Toro Rosso
+2017,9,Austrian Grand Prix,15,18,MAG,Kevin,Magnussen,Danish,0,Hydraulics,,Haas F1 Team
+2017,9,Austrian Grand Prix,12,19,ALO,Fernando,Alonso,Spanish,0,Collision damage,,McLaren
+2017,9,Austrian Grand Prix,5,20,VER,Max,Verstappen,Dutch,0,Collision damage,,Red Bull

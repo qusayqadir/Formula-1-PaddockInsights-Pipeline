@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2012,17,Indian Grand Prix,1,1,VET,Sebastian,Vettel,German,25,Finished,1:31:10.744,Red Bull
+2012,17,Indian Grand Prix,5,2,ALO,Fernando,Alonso,Spanish,18,Finished,+9.437,Ferrari
+2012,17,Indian Grand Prix,2,3,WEB,Mark,Webber,Australian,15,Finished,+13.217,Red Bull
+2012,17,Indian Grand Prix,3,4,HAM,Lewis,Hamilton,British,12,Finished,+13.909,McLaren
+2012,17,Indian Grand Prix,4,5,BUT,Jenson,Button,British,10,Finished,+26.266,McLaren
+2012,17,Indian Grand Prix,6,6,MAS,Felipe,Massa,Brazilian,8,Finished,+44.674,Ferrari
+2012,17,Indian Grand Prix,7,7,RAI,Kimi,Räikkönen,Finnish,6,Finished,+45.227,Lotus F1
+2012,17,Indian Grand Prix,12,8,HUL,Nico,Hülkenberg,German,4,Finished,+54.998,Force India
+2012,17,Indian Grand Prix,11,9,GRO,Romain,Grosjean,French,2,Finished,+56.103,Lotus F1
+2012,17,Indian Grand Prix,13,10,SEN,Bruno,Senna,Brazilian,1,Finished,+1:14.975,Williams
+2012,17,Indian Grand Prix,10,11,ROS,Nico,Rosberg,German,0,Finished,+1:21.694,Mercedes
+2012,17,Indian Grand Prix,16,12,DIR,Paul,di Resta,British,0,Finished,+1:22.815,Force India
+2012,17,Indian Grand Prix,15,13,RIC,Daniel,Ricciardo,Australian,0,Finished,+1:26.064,Toro Rosso
+2012,17,Indian Grand Prix,17,14,KOB,Kamui,Kobayashi,Japanese,0,Finished,+1:26.495,Sauber
+2012,17,Indian Grand Prix,18,15,VER,Jean-Éric,Vergne,French,0,+1 Lap,,Toro Rosso
+2012,17,Indian Grand Prix,9,16,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Williams
+2012,17,Indian Grand Prix,19,17,PET,Vitaly,Petrov,Russian,0,+1 Lap,,Caterham
+2012,17,Indian Grand Prix,20,18,KOV,Heikki,Kovalainen,Finnish,0,+1 Lap,,Caterham
+2012,17,Indian Grand Prix,24,19,PIC,Charles,Pic,French,0,+1 Lap,,Marussia
+2012,17,Indian Grand Prix,21,20,GLO,Timo,Glock,German,0,+2 Laps,,Marussia
+2012,17,Indian Grand Prix,23,21,KAR,Narain,Karthikeyan,Indian,0,+2 Laps,,HRT
+2012,17,Indian Grand Prix,14,22,MSC,Michael,Schumacher,German,0,Retired,,Mercedes
+2012,17,Indian Grand Prix,22,23,DLR,Pedro,de la Rosa,Spanish,0,Accident,,HRT
+2012,17,Indian Grand Prix,8,24,PER,Sergio,Pérez,Mexican,0,Accident,,Sauber

@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2006,13,Hungarian Grand Prix,14,1,BUT,Jenson,Button,British,10,Finished,1:52:20.941,Honda
+2006,13,Hungarian Grand Prix,4,2,DLR,Pedro,de la Rosa,Spanish,8,Finished,+30.837,McLaren
+2006,13,Hungarian Grand Prix,10,3,HEI,Nick,Heidfeld,German,6,Finished,+43.822,BMW Sauber
+2006,13,Hungarian Grand Prix,3,4,BAR,Rubens,Barrichello,Brazilian,5,Finished,+45.205,Honda
+2006,13,Hungarian Grand Prix,12,5,COU,David,Coulthard,British,4,+1 Lap,,Red Bull
+2006,13,Hungarian Grand Prix,6,6,SCH,Ralf,Schumacher,German,3,+1 Lap,,Toyota
+2006,13,Hungarian Grand Prix,2,7,MAS,Felipe,Massa,Brazilian,2,+1 Lap,,Ferrari
+2006,13,Hungarian Grand Prix,11,8,MSC,Michael,Schumacher,German,1,Track rod,,Ferrari
+2006,13,Hungarian Grand Prix,16,9,TMO,Tiago,Monteiro,Portuguese,0,+3 Laps,,MF1
+2006,13,Hungarian Grand Prix,22,10,ALB,Christijan,Albers,Dutch,0,+3 Laps,,MF1
+2006,13,Hungarian Grand Prix,20,11,SPE,Scott,Speed,American,0,+4 Laps,,Toro Rosso
+2006,13,Hungarian Grand Prix,8,12,TRU,Jarno,Trulli,Italian,0,Engine,,Toyota
+2006,13,Hungarian Grand Prix,19,13,SAT,Takuma,Sato,Japanese,0,+5 Laps,,Super Aguri
+2006,13,Hungarian Grand Prix,15,14,ALO,Fernando,Alonso,Spanish,0,Driveshaft,,Renault
+2006,13,Hungarian Grand Prix,1,15,RAI,Kimi,Räikkönen,Finnish,0,Collision,,McLaren
+2006,13,Hungarian Grand Prix,17,16,LIU,Vitantonio,Liuzzi,Italian,0,Collision,,Toro Rosso
+2006,13,Hungarian Grand Prix,18,17,ROS,Nico,Rosberg,German,0,Electrical,,Williams
+2006,13,Hungarian Grand Prix,7,18,FIS,Giancarlo,Fisichella,Italian,0,Spun off,,Renault
+2006,13,Hungarian Grand Prix,13,19,KLI,Christian,Klien,Austrian,0,Spun off,,Red Bull
+2006,13,Hungarian Grand Prix,5,20,WEB,Mark,Webber,Australian,0,Accident,,Williams
+2006,13,Hungarian Grand Prix,21,21,YAM,Sakon,Yamamoto,Japanese,0,Engine,,Super Aguri
+2006,13,Hungarian Grand Prix,9,22,KUB,Robert,Kubica,Polish,0,Disqualified,,BMW Sauber

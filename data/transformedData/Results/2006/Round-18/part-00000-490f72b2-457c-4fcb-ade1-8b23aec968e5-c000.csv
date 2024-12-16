@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2006,18,Brazilian Grand Prix,1,1,MAS,Felipe,Massa,Brazilian,10,Finished,1:31:53.751,Ferrari
+2006,18,Brazilian Grand Prix,4,2,ALO,Fernando,Alonso,Spanish,8,Finished,+18.658,Renault
+2006,18,Brazilian Grand Prix,14,3,BUT,Jenson,Button,British,6,Finished,+19.394,Honda
+2006,18,Brazilian Grand Prix,10,4,MSC,Michael,Schumacher,German,5,Finished,+24.094,Ferrari
+2006,18,Brazilian Grand Prix,2,5,RAI,Kimi,Räikkönen,Finnish,4,Finished,+28.503,McLaren
+2006,18,Brazilian Grand Prix,6,6,FIS,Giancarlo,Fisichella,Italian,3,Finished,+30.287,Renault
+2006,18,Brazilian Grand Prix,5,7,BAR,Rubens,Barrichello,Brazilian,2,Finished,+40.294,Honda
+2006,18,Brazilian Grand Prix,12,8,DLR,Pedro,de la Rosa,Spanish,1,Finished,+52.068,McLaren
+2006,18,Brazilian Grand Prix,9,9,KUB,Robert,Kubica,Polish,0,Finished,+1:07.642,BMW Sauber
+2006,18,Brazilian Grand Prix,19,10,SAT,Takuma,Sato,Japanese,0,+1 Lap,,Super Aguri
+2006,18,Brazilian Grand Prix,16,11,SPE,Scott,Speed,American,0,+1 Lap,,Toro Rosso
+2006,18,Brazilian Grand Prix,22,12,DOO,Robert,Doornbos,Dutch,0,+1 Lap,,Red Bull
+2006,18,Brazilian Grand Prix,15,13,LIU,Vitantonio,Liuzzi,Italian,0,+1 Lap,,Toro Rosso
+2006,18,Brazilian Grand Prix,17,14,ALB,Christijan,Albers,Dutch,0,+1 Lap,,Spyker MF1
+2006,18,Brazilian Grand Prix,21,15,TMO,Tiago,Monteiro,Portuguese,0,+2 Laps,,Spyker MF1
+2006,18,Brazilian Grand Prix,20,16,YAM,Sakon,Yamamoto,Japanese,0,+2 Laps,,Super Aguri
+2006,18,Brazilian Grand Prix,8,17,HEI,Nick,Heidfeld,German,0,Accident,,BMW Sauber
+2006,18,Brazilian Grand Prix,18,18,COU,David,Coulthard,British,0,Gearbox,,Red Bull
+2006,18,Brazilian Grand Prix,3,19,TRU,Jarno,Trulli,Italian,0,Suspension,,Toyota
+2006,18,Brazilian Grand Prix,7,20,SCH,Ralf,Schumacher,German,0,Suspension,,Toyota
+2006,18,Brazilian Grand Prix,11,21,WEB,Mark,Webber,Australian,0,Collision,,Williams
+2006,18,Brazilian Grand Prix,13,22,ROS,Nico,Rosberg,German,0,Collision,,Williams

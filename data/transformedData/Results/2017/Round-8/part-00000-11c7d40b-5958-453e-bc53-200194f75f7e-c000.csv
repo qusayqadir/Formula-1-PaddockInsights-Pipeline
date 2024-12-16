@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,8,Azerbaijan Grand Prix,10,1,RIC,Daniel,Ricciardo,Australian,25,Finished,2:03:55.573,Red Bull
+2017,8,Azerbaijan Grand Prix,2,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+3.904,Mercedes
+2017,8,Azerbaijan Grand Prix,8,3,STR,Lance,Stroll,Canadian,15,Finished,+4.009,Williams
+2017,8,Azerbaijan Grand Prix,4,4,VET,Sebastian,Vettel,German,12,Finished,+5.976,Ferrari
+2017,8,Azerbaijan Grand Prix,1,5,HAM,Lewis,Hamilton,British,10,Finished,+6.188,Mercedes
+2017,8,Azerbaijan Grand Prix,7,6,OCO,Esteban,Ocon,French,8,Finished,+30.298,Force India
+2017,8,Azerbaijan Grand Prix,12,7,MAG,Kevin,Magnussen,Danish,6,Finished,+41.753,Haas F1 Team
+2017,8,Azerbaijan Grand Prix,15,8,SAI,Carlos,Sainz,Spanish,4,Finished,+49.400,Toro Rosso
+2017,8,Azerbaijan Grand Prix,19,9,ALO,Fernando,Alonso,Spanish,2,Finished,+59.551,McLaren
+2017,8,Azerbaijan Grand Prix,14,10,WEH,Pascal,Wehrlein,German,1,Finished,+1:29.093,Sauber
+2017,8,Azerbaijan Grand Prix,17,11,ERI,Marcus,Ericsson,Swedish,0,Finished,+1:31.794,Sauber
+2017,8,Azerbaijan Grand Prix,18,12,VAN,Stoffel,Vandoorne,Belgian,0,Finished,+1:32.160,McLaren
+2017,8,Azerbaijan Grand Prix,16,13,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2017,8,Azerbaijan Grand Prix,3,14,RAI,Kimi,Räikkönen,Finnish,0,Water pressure,,Ferrari
+2017,8,Azerbaijan Grand Prix,6,15,PER,Sergio,Pérez,Mexican,0,Seat,,Force India
+2017,8,Azerbaijan Grand Prix,9,16,MAS,Felipe,Massa,Brazilian,0,Suspension,,Williams
+2017,8,Azerbaijan Grand Prix,13,17,HUL,Nico,Hülkenberg,German,0,Accident,,Renault
+2017,8,Azerbaijan Grand Prix,5,18,VER,Max,Verstappen,Dutch,0,Oil pressure,,Red Bull
+2017,8,Azerbaijan Grand Prix,11,19,KVY,Daniil,Kvyat,Russian,0,Battery,,Toro Rosso
+2017,8,Azerbaijan Grand Prix,20,20,PAL,Jolyon,Palmer,British,0,Power Unit,,Renault

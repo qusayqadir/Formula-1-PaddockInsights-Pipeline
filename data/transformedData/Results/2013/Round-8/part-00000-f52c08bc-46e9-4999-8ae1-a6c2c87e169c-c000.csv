@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,8,British Grand Prix,2,1,ROS,Nico,Rosberg,German,25,Finished,1:32:59.456,Mercedes
+2013,8,British Grand Prix,4,2,WEB,Mark,Webber,Australian,18,Finished,+0.765,Red Bull
+2013,8,British Grand Prix,9,3,ALO,Fernando,Alonso,Spanish,15,Finished,+7.124,Ferrari
+2013,8,British Grand Prix,1,4,HAM,Lewis,Hamilton,British,12,Finished,+7.756,Mercedes
+2013,8,British Grand Prix,8,5,RAI,Kimi,Räikkönen,Finnish,10,Finished,+11.257,Lotus F1
+2013,8,British Grand Prix,11,6,MAS,Felipe,Massa,Brazilian,8,Finished,+14.573,Ferrari
+2013,8,British Grand Prix,6,7,SUT,Adrian,Sutil,German,6,Finished,+16.335,Force India
+2013,8,British Grand Prix,5,8,RIC,Daniel,Ricciardo,Australian,4,Finished,+16.543,Toro Rosso
+2013,8,British Grand Prix,21,9,DIR,Paul,di Resta,British,2,Finished,+17.943,Force India
+2013,8,British Grand Prix,14,10,HUL,Nico,Hülkenberg,German,1,Finished,+19.709,Sauber
+2013,8,British Grand Prix,15,11,MAL,Pastor,Maldonado,Venezuelan,0,Finished,+21.135,Williams
+2013,8,British Grand Prix,16,12,BOT,Valtteri,Bottas,Finnish,0,Finished,+25.094,Williams
+2013,8,British Grand Prix,10,13,BUT,Jenson,Button,British,0,Finished,+25.969,McLaren
+2013,8,British Grand Prix,17,14,GUT,Esteban,Gutiérrez,Mexican,0,Finished,+26.285,Sauber
+2013,8,British Grand Prix,18,15,PIC,Charles,Pic,French,0,Finished,+31.613,Caterham
+2013,8,British Grand Prix,19,16,BIA,Jules,Bianchi,French,0,Finished,+36.097,Marussia
+2013,8,British Grand Prix,20,17,CHI,Max,Chilton,British,0,Finished,+1:07.660,Marussia
+2013,8,British Grand Prix,22,18,VDG,Giedo,van der Garde,Dutch,0,Finished,+1:07.759,Caterham
+2013,8,British Grand Prix,7,19,GRO,Romain,Grosjean,French,0,Retired,,Lotus F1
+2013,8,British Grand Prix,13,20,PER,Sergio,Pérez,Mexican,0,Wheel,,McLaren
+2013,8,British Grand Prix,3,21,VET,Sebastian,Vettel,German,0,Gearbox,,Red Bull
+2013,8,British Grand Prix,12,22,VER,Jean-Éric,Vergne,French,0,Tyre,,Toro Rosso

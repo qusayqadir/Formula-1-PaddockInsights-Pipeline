@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,1,Australian Grand Prix,7,1,RAI,Kimi,Räikkönen,Finnish,25,Finished,1:30:03.225,Lotus F1
+2013,1,Australian Grand Prix,5,2,ALO,Fernando,Alonso,Spanish,18,Finished,+12.451,Ferrari
+2013,1,Australian Grand Prix,1,3,VET,Sebastian,Vettel,German,15,Finished,+22.346,Red Bull
+2013,1,Australian Grand Prix,4,4,MAS,Felipe,Massa,Brazilian,12,Finished,+33.577,Ferrari
+2013,1,Australian Grand Prix,3,5,HAM,Lewis,Hamilton,British,10,Finished,+45.561,Mercedes
+2013,1,Australian Grand Prix,2,6,WEB,Mark,Webber,Australian,8,Finished,+46.800,Red Bull
+2013,1,Australian Grand Prix,12,7,SUT,Adrian,Sutil,German,6,Finished,+1:05.068,Force India
+2013,1,Australian Grand Prix,9,8,DIR,Paul,di Resta,British,4,Finished,+1:08.449,Force India
+2013,1,Australian Grand Prix,10,9,BUT,Jenson,Button,British,2,Finished,+1:21.630,McLaren
+2013,1,Australian Grand Prix,8,10,GRO,Romain,Grosjean,French,1,Finished,+1:22.759,Lotus F1
+2013,1,Australian Grand Prix,15,11,PER,Sergio,Pérez,Mexican,0,Finished,+1:23.367,McLaren
+2013,1,Australian Grand Prix,13,12,VER,Jean-Éric,Vergne,French,0,Finished,+1:23.857,Toro Rosso
+2013,1,Australian Grand Prix,18,13,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Sauber
+2013,1,Australian Grand Prix,16,14,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Williams
+2013,1,Australian Grand Prix,19,15,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2013,1,Australian Grand Prix,22,16,PIC,Charles,Pic,French,0,+2 Laps,,Caterham
+2013,1,Australian Grand Prix,20,17,CHI,Max,Chilton,British,0,+2 Laps,,Marussia
+2013,1,Australian Grand Prix,21,18,VDG,Giedo,van der Garde,Dutch,0,+2 Laps,,Caterham
+2013,1,Australian Grand Prix,14,19,RIC,Daniel,Ricciardo,Australian,0,Hydraulics,,Toro Rosso
+2013,1,Australian Grand Prix,6,20,ROS,Nico,Rosberg,German,0,Electrical,,Mercedes
+2013,1,Australian Grand Prix,17,21,MAL,Pastor,Maldonado,Venezuelan,0,Spun off,,Williams
+2013,1,Australian Grand Prix,11,22,HUL,Nico,Hülkenberg,German,0,Fuel system,,Sauber

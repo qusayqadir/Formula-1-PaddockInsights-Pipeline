@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2019,20,Brazilian Grand Prix,1,1,VER,Max,Verstappen,Dutch,25,Finished,1:33:14.678,Red Bull
+2019,20,Brazilian Grand Prix,6,2,GAS,Pierre,Gasly,French,18,Finished,+6.077,Toro Rosso
+2019,20,Brazilian Grand Prix,20,3,SAI,Carlos,Sainz,Spanish,15,Finished,+8.896,McLaren
+2019,20,Brazilian Grand Prix,8,4,RAI,Kimi,Räikkönen,Finnish,12,Finished,+9.452,Alfa Romeo
+2019,20,Brazilian Grand Prix,12,5,GIO,Antonio,Giovinazzi,Italian,10,Finished,+10.201,Alfa Romeo
+2019,20,Brazilian Grand Prix,11,6,RIC,Daniel,Ricciardo,Australian,8,Finished,+10.541,Renault
+2019,20,Brazilian Grand Prix,3,7,HAM,Lewis,Hamilton,British,6,Finished,+11.139,Mercedes
+2019,20,Brazilian Grand Prix,10,8,NOR,Lando,Norris,British,4,Finished,+11.204,McLaren
+2019,20,Brazilian Grand Prix,15,9,PER,Sergio,Pérez,Mexican,2,Finished,+11.529,Racing Point
+2019,20,Brazilian Grand Prix,16,10,KVY,Daniil,Kvyat,Russian,1,Finished,+11.931,Toro Rosso
+2019,20,Brazilian Grand Prix,9,11,MAG,Kevin,Magnussen,Danish,0,Finished,+12.732,Haas F1 Team
+2019,20,Brazilian Grand Prix,18,12,RUS,George,Russell,British,0,Finished,+13.599,Williams
+2019,20,Brazilian Grand Prix,7,13,GRO,Romain,Grosjean,French,0,Finished,+14.247,Haas F1 Team
+2019,20,Brazilian Grand Prix,5,14,ALB,Alexander,Albon,Thai,0,Finished,+14.927,Red Bull
+2019,20,Brazilian Grand Prix,13,15,HUL,Nico,Hülkenberg,German,0,Finished,+18.059,Renault
+2019,20,Brazilian Grand Prix,19,16,KUB,Robert,Kubica,Polish,0,+1 Lap,,Williams
+2019,20,Brazilian Grand Prix,2,17,VET,Sebastian,Vettel,German,0,Collision,,Ferrari
+2019,20,Brazilian Grand Prix,14,18,LEC,Charles,Leclerc,Monegasque,0,Collision,,Ferrari
+2019,20,Brazilian Grand Prix,17,19,STR,Lance,Stroll,Canadian,0,Suspension,,Racing Point
+2019,20,Brazilian Grand Prix,4,20,BOT,Valtteri,Bottas,Finnish,0,Power Unit,,Mercedes

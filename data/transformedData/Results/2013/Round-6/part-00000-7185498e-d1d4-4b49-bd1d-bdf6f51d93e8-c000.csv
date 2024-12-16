@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,6,Monaco Grand Prix,1,1,ROS,Nico,Rosberg,German,25,Finished,2:17:52.056,Mercedes
+2013,6,Monaco Grand Prix,3,2,VET,Sebastian,Vettel,German,18,Finished,+3.888,Red Bull
+2013,6,Monaco Grand Prix,4,3,WEB,Mark,Webber,Australian,15,Finished,+6.314,Red Bull
+2013,6,Monaco Grand Prix,2,4,HAM,Lewis,Hamilton,British,12,Finished,+13.894,Mercedes
+2013,6,Monaco Grand Prix,8,5,SUT,Adrian,Sutil,German,10,Finished,+21.477,Force India
+2013,6,Monaco Grand Prix,9,6,BUT,Jenson,Button,British,8,Finished,+23.103,McLaren
+2013,6,Monaco Grand Prix,6,7,ALO,Fernando,Alonso,Spanish,6,Finished,+26.734,Ferrari
+2013,6,Monaco Grand Prix,10,8,VER,Jean-Éric,Vergne,French,4,Finished,+27.223,Toro Rosso
+2013,6,Monaco Grand Prix,17,9,DIR,Paul,di Resta,British,2,Finished,+27.608,Force India
+2013,6,Monaco Grand Prix,5,10,RAI,Kimi,Räikkönen,Finnish,1,Finished,+36.582,Lotus F1
+2013,6,Monaco Grand Prix,11,11,HUL,Nico,Hülkenberg,German,0,Finished,+42.572,Sauber
+2013,6,Monaco Grand Prix,14,12,BOT,Valtteri,Bottas,Finnish,0,Finished,+42.691,Williams
+2013,6,Monaco Grand Prix,19,13,GUT,Esteban,Gutiérrez,Mexican,0,Finished,+43.212,Sauber
+2013,6,Monaco Grand Prix,22,14,CHI,Max,Chilton,British,0,Finished,+49.885,Marussia
+2013,6,Monaco Grand Prix,15,15,VDG,Giedo,van der Garde,Dutch,0,Finished,+1:02.590,Caterham
+2013,6,Monaco Grand Prix,7,16,PER,Sergio,Pérez,Mexican,0,Suspension,,McLaren
+2013,6,Monaco Grand Prix,13,17,GRO,Romain,Grosjean,French,0,Collision,,Lotus F1
+2013,6,Monaco Grand Prix,12,18,RIC,Daniel,Ricciardo,Australian,0,Collision,,Toro Rosso
+2013,6,Monaco Grand Prix,20,19,BIA,Jules,Bianchi,French,0,Brakes,,Marussia
+2013,6,Monaco Grand Prix,16,20,MAL,Pastor,Maldonado,Venezuelan,0,Collision,,Williams
+2013,6,Monaco Grand Prix,21,21,MAS,Felipe,Massa,Brazilian,0,Accident,,Ferrari
+2013,6,Monaco Grand Prix,18,22,PIC,Charles,Pic,French,0,Gearbox,,Caterham

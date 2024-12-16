@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,6,Canadian Grand Prix,1,1,HAM,Lewis,Hamilton,British,10,Finished,1:44:11.292,McLaren
+2007,6,Canadian Grand Prix,3,2,HEI,Nick,Heidfeld,German,8,Finished,+4.343,BMW Sauber
+2007,6,Canadian Grand Prix,19,3,WUR,Alexander,Wurz,Austrian,6,Finished,+5.325,Williams
+2007,6,Canadian Grand Prix,22,4,KOV,Heikki,Kovalainen,Finnish,5,Finished,+6.729,Renault
+2007,6,Canadian Grand Prix,4,5,RAI,Kimi,Räikkönen,Finnish,4,Finished,+13.007,Ferrari
+2007,6,Canadian Grand Prix,11,6,SAT,Takuma,Sato,Japanese,3,Finished,+16.698,Super Aguri
+2007,6,Canadian Grand Prix,2,7,ALO,Fernando,Alonso,Spanish,2,Finished,+21.936,McLaren
+2007,6,Canadian Grand Prix,18,8,SCH,Ralf,Schumacher,German,1,Finished,+22.888,Toyota
+2007,6,Canadian Grand Prix,6,9,WEB,Mark,Webber,Australian,0,Finished,+22.960,Red Bull
+2007,6,Canadian Grand Prix,7,10,ROS,Nico,Rosberg,German,0,Finished,+23.984,Williams
+2007,6,Canadian Grand Prix,17,11,DAV,Anthony,Davidson,British,0,Finished,+24.318,Super Aguri
+2007,6,Canadian Grand Prix,13,12,BAR,Rubens,Barrichello,Brazilian,0,Finished,+30.439,Honda
+2007,6,Canadian Grand Prix,10,13,TRU,Jarno,Trulli,Italian,0,Accident,,Toyota
+2007,6,Canadian Grand Prix,12,14,LIU,Vitantonio,Liuzzi,Italian,0,Accident,,Toro Rosso
+2007,6,Canadian Grand Prix,21,15,ALB,Christijan,Albers,Dutch,0,Front wing,,Spyker
+2007,6,Canadian Grand Prix,14,16,COU,David,Coulthard,British,0,Gearbox,,Red Bull
+2007,6,Canadian Grand Prix,8,17,KUB,Robert,Kubica,Polish,0,Accident,,BMW Sauber
+2007,6,Canadian Grand Prix,20,18,SUT,Adrian,Sutil,German,0,Accident,,Spyker
+2007,6,Canadian Grand Prix,16,19,SPE,Scott,Speed,American,0,Accident,,Toro Rosso
+2007,6,Canadian Grand Prix,15,20,BUT,Jenson,Button,British,0,Gearbox,,Honda
+2007,6,Canadian Grand Prix,5,21,MAS,Felipe,Massa,Brazilian,0,Disqualified,,Ferrari
+2007,6,Canadian Grand Prix,9,22,FIS,Giancarlo,Fisichella,Italian,0,Disqualified,,Renault

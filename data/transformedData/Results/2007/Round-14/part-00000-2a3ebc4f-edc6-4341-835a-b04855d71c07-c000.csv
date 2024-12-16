@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,14,Belgian Grand Prix,1,1,RAI,Kimi,Räikkönen,Finnish,10,Finished,1:20:39.066,Ferrari
+2007,14,Belgian Grand Prix,2,2,MAS,Felipe,Massa,Brazilian,8,Finished,+4.695,Ferrari
+2007,14,Belgian Grand Prix,3,3,ALO,Fernando,Alonso,Spanish,6,Finished,+14.343,McLaren
+2007,14,Belgian Grand Prix,4,4,HAM,Lewis,Hamilton,British,5,Finished,+23.615,McLaren
+2007,14,Belgian Grand Prix,6,5,HEI,Nick,Heidfeld,German,4,Finished,+51.879,BMW Sauber
+2007,14,Belgian Grand Prix,5,6,ROS,Nico,Rosberg,German,3,Finished,+1:16.876,Williams
+2007,14,Belgian Grand Prix,7,7,WEB,Mark,Webber,Australian,2,Finished,+1:20.639,Red Bull
+2007,14,Belgian Grand Prix,9,8,KOV,Heikki,Kovalainen,Finnish,1,Finished,+1:25.106,Renault
+2007,14,Belgian Grand Prix,14,9,KUB,Robert,Kubica,Polish,0,Finished,+1:25.661,BMW Sauber
+2007,14,Belgian Grand Prix,10,10,SCH,Ralf,Schumacher,German,0,Finished,+1:28.574,Toyota
+2007,14,Belgian Grand Prix,8,11,TRU,Jarno,Trulli,Italian,0,Finished,+1:43.653,Toyota
+2007,14,Belgian Grand Prix,13,12,LIU,Vitantonio,Liuzzi,Italian,0,+1 Lap,,Toro Rosso
+2007,14,Belgian Grand Prix,17,13,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Honda
+2007,14,Belgian Grand Prix,19,14,SUT,Adrian,Sutil,German,0,+1 Lap,,Spyker
+2007,14,Belgian Grand Prix,18,15,SAT,Takuma,Sato,Japanese,0,+1 Lap,,Super Aguri
+2007,14,Belgian Grand Prix,20,16,DAV,Anthony,Davidson,British,0,+1 Lap,,Super Aguri
+2007,14,Belgian Grand Prix,21,17,YAM,Sakon,Yamamoto,Japanese,0,+1 Lap,,Spyker
+2007,14,Belgian Grand Prix,12,18,BUT,Jenson,Button,British,0,Hydraulics,,Honda
+2007,14,Belgian Grand Prix,15,19,WUR,Alexander,Wurz,Austrian,0,Fuel pressure,,Williams
+2007,14,Belgian Grand Prix,11,20,COU,David,Coulthard,British,0,Hydraulics,,Red Bull
+2007,14,Belgian Grand Prix,16,21,VET,Sebastian,Vettel,German,0,Steering,,Toro Rosso
+2007,14,Belgian Grand Prix,22,22,FIS,Giancarlo,Fisichella,Italian,0,Suspension,,Renault

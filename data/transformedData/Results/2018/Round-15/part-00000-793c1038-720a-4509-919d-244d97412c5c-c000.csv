@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2018,15,Singapore Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:51:11.611,Mercedes
+2018,15,Singapore Grand Prix,2,2,VER,Max,Verstappen,Dutch,18,Finished,+8.961,Red Bull
+2018,15,Singapore Grand Prix,3,3,VET,Sebastian,Vettel,German,15,Finished,+39.984,Ferrari
+2018,15,Singapore Grand Prix,4,4,BOT,Valtteri,Bottas,Finnish,12,Finished,+51.930,Mercedes
+2018,15,Singapore Grand Prix,5,5,RAI,Kimi,Räikkönen,Finnish,10,Finished,+53.001,Ferrari
+2018,15,Singapore Grand Prix,6,6,RIC,Daniel,Ricciardo,Australian,8,Finished,+53.982,Red Bull
+2018,15,Singapore Grand Prix,11,7,ALO,Fernando,Alonso,Spanish,6,Finished,+1:43.001,McLaren
+2018,15,Singapore Grand Prix,12,8,SAI,Carlos,Sainz,Spanish,4,+1 Lap,,Renault
+2018,15,Singapore Grand Prix,13,9,LEC,Charles,Leclerc,Monegasque,2,+1 Lap,,Sauber
+2018,15,Singapore Grand Prix,10,10,HUL,Nico,Hülkenberg,German,1,+1 Lap,,Renault
+2018,15,Singapore Grand Prix,14,11,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2018,15,Singapore Grand Prix,18,12,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2018,15,Singapore Grand Prix,15,13,GAS,Pierre,Gasly,French,0,+1 Lap,,Toro Rosso
+2018,15,Singapore Grand Prix,20,14,STR,Lance,Stroll,Canadian,0,+1 Lap,,Williams
+2018,15,Singapore Grand Prix,8,15,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2018,15,Singapore Grand Prix,7,16,PER,Sergio,Pérez,Mexican,0,+1 Lap,,Force India
+2018,15,Singapore Grand Prix,17,17,HAR,Brendon,Hartley,New Zealander,0,+1 Lap,,Toro Rosso
+2018,15,Singapore Grand Prix,16,18,MAG,Kevin,Magnussen,Danish,0,+2 Laps,,Haas F1 Team
+2018,15,Singapore Grand Prix,19,19,SIR,Sergey,Sirotkin,Russian,0,+2 Laps,,Williams
+2018,15,Singapore Grand Prix,9,20,OCO,Esteban,Ocon,French,0,Collision,,Force India

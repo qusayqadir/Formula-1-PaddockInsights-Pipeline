@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2016,17,Japanese Grand Prix,1,1,ROS,Nico,Rosberg,German,25,Finished,1:26:43.333,Mercedes
+2016,17,Japanese Grand Prix,3,2,VER,Max,Verstappen,Dutch,18,Finished,+4.978,Red Bull
+2016,17,Japanese Grand Prix,2,3,HAM,Lewis,Hamilton,British,15,Finished,+5.776,Mercedes
+2016,17,Japanese Grand Prix,6,4,VET,Sebastian,Vettel,German,12,Finished,+20.269,Ferrari
+2016,17,Japanese Grand Prix,8,5,RAI,Kimi,Räikkönen,Finnish,10,Finished,+28.370,Ferrari
+2016,17,Japanese Grand Prix,4,6,RIC,Daniel,Ricciardo,Australian,8,Finished,+33.941,Red Bull
+2016,17,Japanese Grand Prix,5,7,PER,Sergio,Pérez,Mexican,6,Finished,+57.495,Force India
+2016,17,Japanese Grand Prix,9,8,HUL,Nico,Hülkenberg,German,4,Finished,+59.177,Force India
+2016,17,Japanese Grand Prix,12,9,MAS,Felipe,Massa,Brazilian,2,Finished,+1:37.763,Williams
+2016,17,Japanese Grand Prix,11,10,BOT,Valtteri,Bottas,Finnish,1,Finished,+1:38.323,Williams
+2016,17,Japanese Grand Prix,7,11,GRO,Romain,Grosjean,French,0,Finished,+1:39.254,Haas F1 Team
+2016,17,Japanese Grand Prix,16,12,PAL,Jolyon,Palmer,British,0,+1 Lap,,Renault
+2016,17,Japanese Grand Prix,13,13,KVY,Daniil,Kvyat,Russian,0,+1 Lap,,Toro Rosso
+2016,17,Japanese Grand Prix,17,14,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Renault
+2016,17,Japanese Grand Prix,18,15,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2016,17,Japanese Grand Prix,15,16,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,McLaren
+2016,17,Japanese Grand Prix,14,17,SAI,Carlos,Sainz,Spanish,0,+1 Lap,,Toro Rosso
+2016,17,Japanese Grand Prix,22,18,BUT,Jenson,Button,British,0,+1 Lap,,McLaren
+2016,17,Japanese Grand Prix,19,19,NAS,Felipe,Nasr,Brazilian,0,+1 Lap,,Sauber
+2016,17,Japanese Grand Prix,10,20,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Haas F1 Team
+2016,17,Japanese Grand Prix,20,21,OCO,Esteban,Ocon,French,0,+1 Lap,,Manor Marussia
+2016,17,Japanese Grand Prix,21,22,WEH,Pascal,Wehrlein,German,0,+1 Lap,,Manor Marussia

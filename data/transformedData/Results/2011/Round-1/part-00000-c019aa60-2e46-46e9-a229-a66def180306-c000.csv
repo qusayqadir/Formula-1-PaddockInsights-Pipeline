@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2011,1,Australian Grand Prix,1,1,VET,Sebastian,Vettel,German,25,Finished,1:29:30.259,Red Bull
+2011,1,Australian Grand Prix,2,2,HAM,Lewis,Hamilton,British,18,Finished,+22.297,McLaren
+2011,1,Australian Grand Prix,6,3,PET,Vitaly,Petrov,Russian,15,Finished,+30.560,Renault
+2011,1,Australian Grand Prix,5,4,ALO,Fernando,Alonso,Spanish,12,Finished,+31.772,Ferrari
+2011,1,Australian Grand Prix,3,5,WEB,Mark,Webber,Australian,10,Finished,+38.171,Red Bull
+2011,1,Australian Grand Prix,4,6,BUT,Jenson,Button,British,8,Finished,+54.304,McLaren
+2011,1,Australian Grand Prix,8,7,MAS,Felipe,Massa,Brazilian,6,Finished,+1:25.186,Ferrari
+2011,1,Australian Grand Prix,10,8,BUE,Sébastien,Buemi,Swiss,4,+1 Lap,,Toro Rosso
+2011,1,Australian Grand Prix,16,9,SUT,Adrian,Sutil,German,2,+1 Lap,,Force India
+2011,1,Australian Grand Prix,14,10,DIR,Paul,di Resta,British,1,+1 Lap,,Force India
+2011,1,Australian Grand Prix,12,11,ALG,Jaime,Alguersuari,Spanish,0,+1 Lap,,Toro Rosso
+2011,1,Australian Grand Prix,18,12,HEI,Nick,Heidfeld,German,0,+1 Lap,,Renault
+2011,1,Australian Grand Prix,20,13,TRU,Jarno,Trulli,Italian,0,+2 Laps,,Lotus
+2011,1,Australian Grand Prix,22,14,DAM,Jérôme,d'Ambrosio,Belgian,0,+4 Laps,,Virgin
+2011,1,Australian Grand Prix,21,15,GLO,Timo,Glock,German,0,+9 Laps,,Virgin
+2011,1,Australian Grand Prix,17,16,BAR,Rubens,Barrichello,Brazilian,0,Transmission,,Williams
+2011,1,Australian Grand Prix,7,17,ROS,Nico,Rosberg,German,0,Collision,,Mercedes
+2011,1,Australian Grand Prix,19,18,KOV,Heikki,Kovalainen,Finnish,0,Water leak,,Lotus
+2011,1,Australian Grand Prix,11,19,MSC,Michael,Schumacher,German,0,Collision,,Mercedes
+2011,1,Australian Grand Prix,15,20,MAL,Pastor,Maldonado,Venezuelan,0,Transmission,,Williams
+2011,1,Australian Grand Prix,9,21,KOB,Kamui,Kobayashi,Japanese,0,Disqualified,,Sauber
+2011,1,Australian Grand Prix,13,22,PER,Sergio,Pérez,Mexican,0,Disqualified,,Sauber
+2011,1,Australian Grand Prix,0,23,LIU,Vitantonio,Liuzzi,Italian,0,Did not qualify,,HRT
+2011,1,Australian Grand Prix,0,24,KAR,Narain,Karthikeyan,Indian,0,Did not qualify,,HRT

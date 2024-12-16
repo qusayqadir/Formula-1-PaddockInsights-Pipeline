@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,9,British Grand Prix,2,1,RAI,Kimi,Räikkönen,Finnish,10,Finished,1:21:43.074,Ferrari
+2007,9,British Grand Prix,3,2,ALO,Fernando,Alonso,Spanish,8,Finished,+2.459,McLaren
+2007,9,British Grand Prix,1,3,HAM,Lewis,Hamilton,British,6,Finished,+39.373,McLaren
+2007,9,British Grand Prix,5,4,KUB,Robert,Kubica,Polish,5,Finished,+53.319,BMW Sauber
+2007,9,British Grand Prix,4,5,MAS,Felipe,Massa,Brazilian,4,Finished,+54.063,Ferrari
+2007,9,British Grand Prix,9,6,HEI,Nick,Heidfeld,German,3,Finished,+56.336,BMW Sauber
+2007,9,British Grand Prix,7,7,KOV,Heikki,Kovalainen,Finnish,2,+1 Lap,,Renault
+2007,9,British Grand Prix,8,8,FIS,Giancarlo,Fisichella,Italian,1,+1 Lap,,Renault
+2007,9,British Grand Prix,14,9,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Honda
+2007,9,British Grand Prix,18,10,BUT,Jenson,Button,British,0,+1 Lap,,Honda
+2007,9,British Grand Prix,12,11,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2007,9,British Grand Prix,17,12,ROS,Nico,Rosberg,German,0,+1 Lap,,Williams
+2007,9,British Grand Prix,13,13,WUR,Alexander,Wurz,Austrian,0,+1 Lap,,Williams
+2007,9,British Grand Prix,21,14,SAT,Takuma,Sato,Japanese,0,+2 Laps,,Super Aguri
+2007,9,British Grand Prix,22,15,ALB,Christijan,Albers,Dutch,0,+2 Laps,,Spyker
+2007,9,British Grand Prix,16,16,LIU,Vitantonio,Liuzzi,Italian,0,Gearbox,,Toro Rosso
+2007,9,British Grand Prix,10,17,TRU,Jarno,Trulli,Italian,0,Retired,,Toyota
+2007,9,British Grand Prix,19,18,DAV,Anthony,Davidson,British,0,Mechanical,,Super Aguri
+2007,9,British Grand Prix,15,19,SPE,Scott,Speed,American,0,Accident,,Toro Rosso
+2007,9,British Grand Prix,6,20,SCH,Ralf,Schumacher,German,0,Wheel,,Toyota
+2007,9,British Grand Prix,20,21,SUT,Adrian,Sutil,German,0,Engine,,Spyker
+2007,9,British Grand Prix,11,22,WEB,Mark,Webber,Australian,0,Hydraulics,,Red Bull

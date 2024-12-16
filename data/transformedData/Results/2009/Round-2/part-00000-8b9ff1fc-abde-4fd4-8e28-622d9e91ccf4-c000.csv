@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2009,2,Malaysian Grand Prix,1,1,BUT,Jenson,Button,British,5,Finished,1:10:52.092,Brawn
+2009,2,Malaysian Grand Prix,10,2,HEI,Nick,Heidfeld,German,4,Finished,+22.722,BMW Sauber
+2009,2,Malaysian Grand Prix,3,3,GLO,Timo,Glock,German,3,Finished,+23.513,Toyota
+2009,2,Malaysian Grand Prix,2,4,TRU,Jarno,Trulli,Italian,2.5,Finished,+46.173,Toyota
+2009,2,Malaysian Grand Prix,8,5,BAR,Rubens,Barrichello,Brazilian,2,Finished,+47.360,Brawn
+2009,2,Malaysian Grand Prix,5,6,WEB,Mark,Webber,Australian,1.5,Finished,+52.333,Red Bull
+2009,2,Malaysian Grand Prix,12,7,HAM,Lewis,Hamilton,British,1,Finished,+1:00.733,McLaren
+2009,2,Malaysian Grand Prix,4,8,ROS,Nico,Rosberg,German,0.5,Finished,+1:11.576,Williams
+2009,2,Malaysian Grand Prix,16,9,MAS,Felipe,Massa,Brazilian,0,Finished,+1:16.932,Ferrari
+2009,2,Malaysian Grand Prix,15,10,BOU,Sébastien,Bourdais,French,0,Finished,+1:42.164,Toro Rosso
+2009,2,Malaysian Grand Prix,9,11,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,Renault
+2009,2,Malaysian Grand Prix,11,12,NAK,Kazuki,Nakajima,Japanese,0,+1 Lap,,Williams
+2009,2,Malaysian Grand Prix,17,13,PIQ,Nelson,Piquet Jr.,Brazilian,0,+1 Lap,,Renault
+2009,2,Malaysian Grand Prix,7,14,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Ferrari
+2009,2,Malaysian Grand Prix,13,15,VET,Sebastian,Vettel,German,0,Spun off,,Red Bull
+2009,2,Malaysian Grand Prix,20,16,BUE,Sébastien,Buemi,Swiss,0,Spun off,,Toro Rosso
+2009,2,Malaysian Grand Prix,19,17,SUT,Adrian,Sutil,German,0,+1 Lap,,Force India
+2009,2,Malaysian Grand Prix,18,18,FIS,Giancarlo,Fisichella,Italian,0,Spun off,,Force India
+2009,2,Malaysian Grand Prix,6,19,KUB,Robert,Kubica,Polish,0,Engine,,BMW Sauber
+2009,2,Malaysian Grand Prix,14,20,KOV,Heikki,Kovalainen,Finnish,0,Spun off,,McLaren

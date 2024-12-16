@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2011,15,Japanese Grand Prix,2,1,BUT,Jenson,Button,British,25,Finished,1:30:53.427,McLaren
+2011,15,Japanese Grand Prix,5,2,ALO,Fernando,Alonso,Spanish,18,Finished,+1.160,Ferrari
+2011,15,Japanese Grand Prix,1,3,VET,Sebastian,Vettel,German,15,Finished,+2.006,Red Bull
+2011,15,Japanese Grand Prix,6,4,WEB,Mark,Webber,Australian,12,Finished,+8.071,Red Bull
+2011,15,Japanese Grand Prix,3,5,HAM,Lewis,Hamilton,British,10,Finished,+24.268,McLaren
+2011,15,Japanese Grand Prix,8,6,MSC,Michael,Schumacher,German,8,Finished,+27.120,Mercedes
+2011,15,Japanese Grand Prix,4,7,MAS,Felipe,Massa,Brazilian,6,Finished,+28.240,Ferrari
+2011,15,Japanese Grand Prix,17,8,PER,Sergio,Pérez,Mexican,4,Finished,+39.377,Sauber
+2011,15,Japanese Grand Prix,10,9,PET,Vitaly,Petrov,Russian,2,Finished,+42.607,Renault
+2011,15,Japanese Grand Prix,23,10,ROS,Nico,Rosberg,German,1,Finished,+44.322,Mercedes
+2011,15,Japanese Grand Prix,11,11,SUT,Adrian,Sutil,German,0,Finished,+54.447,Force India
+2011,15,Japanese Grand Prix,12,12,DIR,Paul,di Resta,British,0,Finished,+1:02.326,Force India
+2011,15,Japanese Grand Prix,7,13,KOB,Kamui,Kobayashi,Japanese,0,Finished,+1:03.705,Sauber
+2011,15,Japanese Grand Prix,14,14,MAL,Pastor,Maldonado,Venezuelan,0,Finished,+1:04.194,Williams
+2011,15,Japanese Grand Prix,16,15,ALG,Jaime,Alguersuari,Spanish,0,Finished,+1:06.623,Toro Rosso
+2011,15,Japanese Grand Prix,9,16,SEN,Bruno,Senna,Brazilian,0,Finished,+1:12.628,Renault
+2011,15,Japanese Grand Prix,13,17,BAR,Rubens,Barrichello,Brazilian,0,Finished,+1:14.191,Williams
+2011,15,Japanese Grand Prix,18,18,KOV,Heikki,Kovalainen,Finnish,0,Finished,+1:27.824,Lotus
+2011,15,Japanese Grand Prix,19,19,TRU,Jarno,Trulli,Italian,0,Finished,+1:36.140,Lotus
+2011,15,Japanese Grand Prix,21,20,GLO,Timo,Glock,German,0,+2 Laps,,Virgin
+2011,15,Japanese Grand Prix,20,21,DAM,Jérôme,d'Ambrosio,Belgian,0,+2 Laps,,Virgin
+2011,15,Japanese Grand Prix,22,22,RIC,Daniel,Ricciardo,Australian,0,+2 Laps,,HRT
+2011,15,Japanese Grand Prix,24,23,LIU,Vitantonio,Liuzzi,Italian,0,+3 Laps,,HRT
+2011,15,Japanese Grand Prix,15,24,BUE,Sébastien,Buemi,Swiss,0,Wheel,,Toro Rosso
