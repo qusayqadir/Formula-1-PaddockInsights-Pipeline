@@ -10,3 +10,12 @@
 
 
 ## use spark to transform and flatten the json into table or sql format so that it can be pushed onto the cloud so that the dashboard can be created
+
+from pyspark.sql import SparkSession 
+from pyspark.sql.functions import col 
+from pyspark.sql.functions import explode 
+
+import pandas as pd 
+
+
+# Spark Session 
