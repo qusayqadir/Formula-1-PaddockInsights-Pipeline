@@ -11,18 +11,26 @@
 
 ## use spark to transform and flatten the json into table or sql format so that it can be pushed onto the cloud so that the dashboard can be created
 
-from pyspark.sql import SparkSession 
-from pyspark.sql.functions import col
-from pyspark.sql.functions import explode 
-from pyspark.sql.functions import when 
-
 import pandas as pd 
 from concurrent.futures import ProcessPoolExecutor
 
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, explode, when, concat, lit, coalesce
+from pyspark.sql.types import StructType, StructField, StringType
+import os
+
+
 
 import os 
+import shutil
 
+def rename_output_file(filepath, custome_file_name): 
+    for file in os.listdir(filepath):
+        if file.startswith("part-") and file.endswith(".csv"): 
+            source_file = os.path.join(filepath, file) 
+            dest_file = os.path.join(filepath, custome_file_name) 
 
+            shutil.move(source_file, dest_file) #this moves and renames the name 
 # Spark Session 
 
 #summarize seasons: rounds
@@ -63,7 +71,8 @@ def job1():
     final_df.coalesce(1).write.mode("overwrite").csv(output_path, header=True) 
     #.coalesce() -> how many files will be created spark creates them in multiple paths 
     # mode="overwrite"; if file exsist it will overide
-    # header=True; include the column name 
+    # header=True; include the column name ]
+    rename_output_file(output_path, "yearSummary.csv")
 
 
     spark.stop()
@@ -126,17 +135,104 @@ def job2():
                         os.makedirs(output_path, exist_ok=True) 
 
                     final_df.coalesce(1).write.mode("overwrite").csv(output_path, header=True)
+                    rename_output_file(output_path, f"{year}-{round_folder}-RaceResults.csv")
         
     spark.stop()
 
 
 
 # round QualiResults
-# def job3(spark): 
+def job3():
+    spark = SparkSession.builder\
+            .appName("Convert JSON to CSV for QualiResults")\
+            .getOrCreate() 
+    
+    basePath = "../../data/initial-datafetch-api/Results"
+
+    for year in os.listdir(basePath): 
+        year_path = os.path.join(basePath, year)
+        if not year.isdigit() or int(year) < 2017:
+            continue
+
+        if os.path.isdir(year_path): 
+            for round_number in os.listdir(year_path): 
+                quali_path = os.path.join(year_path, round_number) 
+                removeHypen = round_number.replace("-", "")
+
+                qualiResultFile = os.path.join(quali_path, f"{year}-{removeHypen}-QualiResults.json")
+
+                if os.path.isfile(qualiResultFile):
+                    # Read the JSON file
+                    df = spark.read.option("multiline", "true").json(qualiResultFile)
+
+                    # Flatten the nested JSON structure
+                    exploded_df = df.select(
+                        col("MRData.RaceTable.season").alias("Season"),
+                        col("MRData.RaceTable.round").alias("Round"),
+                        col("MRData.RaceTable.Races")
+                    ).withColumn("Races", explode(col("Races"))) \
+                    .withColumn("QualiResults", explode(col("Races.QualifyingResults")))
+
+                    # Select the final columns with dynamic handling of Q1, Q2, Q3
+                    # final_df = exploded_df.select(
+                    #     col("Season"),
+                    #     col("Round"), 
+                    #     col("Races.raceName").alias("RaceName"), 
+                    #     col("QualiResults.position").alias("Position"),
+                    #     col("QualiResults.Driver.code").alias("DriverID"),
+                    #     col("QualiResults.Driver.givenName").alias("FirstName"),
+                    #     col("QualiResults.Driver.familyName").alias("FamilyName"), 
+                    #     col("QualiResults.Driver.nationality").alias("Nationality"),
+                    #     col("QualiResults.Q1").alias("Q1_time") 
+                    #     # Dynamically handle Q1, Q2, Q3 with coalesce and concat
+                    #     # concat(
+                    #     #     coalesce(col("QualiResults.Q1"), lit("")),
+                    #     #     lit(",")
+                    #     # ).alias("Q1_time"),
+                        
+                    #     # concat(
+                    #     #     coalesce(col("QualiResults.Q2"), lit("")),
+                    #     #     lit(",")
+                    #     # ).alias("Q2_time"),
+                        
+                    #     # coalesce(col("QualiResults.Q3"), lit("")).alias("Q3_time")
+                    # )
+
+                    final_df = exploded_df.select(
+                        col("Season"),
+                        col("Round"), 
+                        col("Races.raceName").alias("RaceName"), 
+                        col("QualiResults.position").alias("Position"),
+                        col("QualiResults.Driver.code").alias("DriverID"),
+                        col("QualiResults.Driver.givenName").alias("FirstName"),
+                        col("QualiResults.Driver.familyName").alias("FamilyName"), 
+                        col("QualiResults.Driver.nationality").alias("Nationality"),
+                        col("QualiResults.Constructor.name").alias("constructor"),
+                        col("QualiResults.Q1").alias("Q1_time"),
+                        when((col("Season") >= 2006) & (col("QualiResults.position").cast("int") <= 15),
+                            col("QualiResults.Q2")).alias("Q2_time"),
+                        when((col("Season") >= 2006) & (col("QualiResults.position").cast("int") <= 10),
+                            col("QualiResults.Q3")).alias("Q3_time")
+                    )
+
+                    # Write to CSV
+                    output_path = f"../../data/transformedData/Results/{year}/{round_number}"
+                    if not os.path.exists(output_path):
+                        os.makedirs(output_path, exist_ok=True)
+
+                    final_df.coalesce(1).write.mode("overwrite").csv(output_path, header=True, nullValue="")
+
+                    # Rename the part file to a readable name
+                    rename_output_file(output_path, f"{year}-{round_number}-QualiResults.csv")
+
+    spark.stop()
+
+
 
 
 # round driverChampionshipResults
-# def job4 (spark): 
+# def job4 (): 
+
 
 # round constructorsResults
 # def job5 (spark):
@@ -145,11 +241,25 @@ def job2():
 
 
 if __name__ == "__main__": 
-    print("Starting Job 1 : ")
-    job1()
-    print("Starting Job 2: ")
-    job2() 
 
-    print("Finished all jobs")
+    # print("Starting Job 1 : ")
+    # job1()
+    # print("Finsied Job 1 ")
 
+    # print("Starting Job 2: ")
+    # job2() 
+    # print("Finished Job 2")
+    
+    print("Starting Job 3") 
+    job3()
+    print("Finished Job 3")
 
+    # print("Starting Job 4")
+    # job4()
+    # print("Finished Job 4 ")
+
+    # print("Starting Job 5")
+    # job5()
+    # print("Finished Job 5")
+
+    print("Finished all Spark Jobs")
