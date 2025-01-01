@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,18,Singapore Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:30.002,1:30.007,1:29.525
+2024,18,Singapore Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:30.157,1:29.680,1:29.728
+2024,18,Singapore Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:30.393,1:29.929,1:29.841
+2024,18,Singapore Grand Prix,4,RUS,George,Russell,British,Mercedes,1:30.811,1:30.153,1:29.867
+2024,18,Singapore Grand Prix,5,PIA,Oscar,Piastri,Australian,McLaren,1:30.258,1:29.640,1:29.953
+2024,18,Singapore Grand Prix,6,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:30.724,1:30.150,1:30.115
+2024,18,Singapore Grand Prix,7,ALO,Fernando,Alonso,Spanish,Aston Martin,1:30.684,1:30.450,1:30.214
+2024,18,Singapore Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:30.710,1:30.289,1:30.354
+2024,18,Singapore Grand Prix,9,LEC,Charles,Leclerc,Monegasque,Ferrari,1:30.786,1:29.747,
+2024,18,Singapore Grand Prix,10,SAI,Carlos,Sainz,Spanish,Ferrari,1:30.670,1:30.108,
+2024,18,Singapore Grand Prix,11,ALB,Alexander,Albon,Thai,Williams,1:30.679,1:30.474,
+2024,18,Singapore Grand Prix,12,COL,Franco,Colapinto,Argentinian,Williams,1:30.704,1:30.481,
+2024,18,Singapore Grand Prix,13,PER,Sergio,Pérez,Mexican,Red Bull,1:30.624,1:30.579,
+2024,18,Singapore Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:30.829,1:30.653,
+2024,18,Singapore Grand Prix,15,OCO,Esteban,Ocon,French,Alpine F1 Team,1:30.958,1:30.769,
+2024,18,Singapore Grand Prix,16,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:31.085,,
+2024,18,Singapore Grand Prix,17,STR,Lance,Stroll,Canadian,Aston Martin,1:31.094,,
+2024,18,Singapore Grand Prix,18,GAS,Pierre,Gasly,French,Alpine F1 Team,1:31.312,,
+2024,18,Singapore Grand Prix,19,BOT,Valtteri,Bottas,Finnish,Sauber,1:31.572,,
+2024,18,Singapore Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:32.054,,

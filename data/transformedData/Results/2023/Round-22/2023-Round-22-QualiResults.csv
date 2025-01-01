@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,22,Abu Dhabi Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:24.160,1:23.740,1:23.445
+2023,22,Abu Dhabi Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:24.459,1:23.969,1:23.584
+2023,22,Abu Dhabi Grand Prix,3,PIA,Oscar,Piastri,Australian,McLaren,1:24.487,1:24.278,1:23.782
+2023,22,Abu Dhabi Grand Prix,4,RUS,George,Russell,British,Mercedes,1:24.337,1:24.013,1:23.788
+2023,22,Abu Dhabi Grand Prix,5,NOR,Lando,Norris,British,McLaren,1:24.368,1:23.920,1:23.816
+2023,22,Abu Dhabi Grand Prix,6,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:24.286,1:24.207,1:23.968
+2023,22,Abu Dhabi Grand Prix,7,ALO,Fernando,Alonso,Spanish,Aston Martin,1:24.501,1:24.131,1:24.084
+2023,22,Abu Dhabi Grand Prix,8,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:24.425,1:24.213,1:24.108
+2023,22,Abu Dhabi Grand Prix,9,PER,Sergio,Pérez,Mexican,Red Bull,1:24.209,1:24.116,1:24.171
+2023,22,Abu Dhabi Grand Prix,10,GAS,Pierre,Gasly,French,Alpine F1 Team,1:24.600,1:24.078,1:24.548
+2023,22,Abu Dhabi Grand Prix,11,HAM,Lewis,Hamilton,British,Mercedes,1:24.437,1:24.359,
+2023,22,Abu Dhabi Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:24.565,1:24.391,
+2023,22,Abu Dhabi Grand Prix,13,STR,Lance,Stroll,Canadian,Aston Martin,1:24.405,1:24.422,
+2023,22,Abu Dhabi Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:24.298,1:24.439,
+2023,22,Abu Dhabi Grand Prix,15,RIC,Daniel,Ricciardo,Australian,AlphaTauri,1:24.461,1:24.442,
+2023,22,Abu Dhabi Grand Prix,16,SAI,Carlos,Sainz,Spanish,Ferrari,1:24.738,,
+2023,22,Abu Dhabi Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:24.764,,
+2023,22,Abu Dhabi Grand Prix,18,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:24.788,,
+2023,22,Abu Dhabi Grand Prix,19,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:25.159,,
+2023,22,Abu Dhabi Grand Prix,20,SAR,Logan,Sargeant,American,Williams,"",,

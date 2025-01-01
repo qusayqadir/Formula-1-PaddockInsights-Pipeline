@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,12,Hungarian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:15.817,1:15.573,1:14.572
+2019,12,Hungarian Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:16.078,1:15.669,1:14.590
+2019,12,Hungarian Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:16.068,1:15.548,1:14.769
+2019,12,Hungarian Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:16.337,1:15.792,1:15.043
+2019,12,Hungarian Grand Prix,5,VET,Sebastian,Vettel,German,Ferrari,1:16.452,1:15.885,1:15.071
+2019,12,Hungarian Grand Prix,6,GAS,Pierre,Gasly,French,Red Bull,1:16.716,1:16.393,1:15.450
+2019,12,Hungarian Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:16.697,1:16.060,1:15.800
+2019,12,Hungarian Grand Prix,8,SAI,Carlos,Sainz,Spanish,McLaren,1:16.493,1:16.308,1:15.852
+2019,12,Hungarian Grand Prix,9,GRO,Romain,Grosjean,French,Haas F1 Team,1:16.978,1:16.319,1:16.013
+2019,12,Hungarian Grand Prix,10,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:16.506,1:16.518,1:16.041
+2019,12,Hungarian Grand Prix,11,HUL,Nico,Hülkenberg,German,Renault,1:16.790,1:16.565,
+2019,12,Hungarian Grand Prix,12,ALB,Alexander,Albon,Thai,Toro Rosso,1:16.912,1:16.687,
+2019,12,Hungarian Grand Prix,13,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:16.750,1:16.692,
+2019,12,Hungarian Grand Prix,14,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:16.894,1:16.804,
+2019,12,Hungarian Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:16.122,1:17.081,
+2019,12,Hungarian Grand Prix,16,RUS,George,Russell,British,Williams,1:17.031,,
+2019,12,Hungarian Grand Prix,17,PER,Sergio,Pérez,Mexican,Racing Point,1:17.109,,
+2019,12,Hungarian Grand Prix,18,RIC,Daniel,Ricciardo,Australian,Renault,1:17.257,,
+2019,12,Hungarian Grand Prix,19,STR,Lance,Stroll,Canadian,Racing Point,1:17.542,,
+2019,12,Hungarian Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:18.324,,

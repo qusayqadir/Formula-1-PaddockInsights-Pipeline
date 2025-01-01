@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,15,Dutch Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:11.377,1:10.496,1:09.673
+2024,15,Dutch Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:11.393,1:10.811,1:10.029
+2024,15,Dutch Grand Prix,3,PIA,Oscar,Piastri,Australian,McLaren,1:11.541,1:10.505,1:10.172
+2024,15,Dutch Grand Prix,4,RUS,George,Russell,British,Mercedes,1:11.049,1:10.552,1:10.244
+2024,15,Dutch Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:11.006,1:10.678,1:10.416
+2024,15,Dutch Grand Prix,6,LEC,Charles,Leclerc,Monegasque,Ferrari,1:11.370,1:10.689,1:10.582
+2024,15,Dutch Grand Prix,7,ALO,Fernando,Alonso,Spanish,Aston Martin,1:11.493,1:10.845,1:10.633
+2024,15,Dutch Grand Prix,8,STR,Lance,Stroll,Canadian,Aston Martin,1:11.518,1:10.661,1:10.857
+2024,15,Dutch Grand Prix,9,GAS,Pierre,Gasly,French,Alpine F1 Team,1:11.718,1:10.815,1:10.977
+2024,15,Dutch Grand Prix,10,SAI,Carlos,Sainz,Spanish,Ferrari,1:11.327,1:10.914,
+2024,15,Dutch Grand Prix,11,HAM,Lewis,Hamilton,British,Mercedes,1:11.375,1:10.948,
+2024,15,Dutch Grand Prix,12,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:11.603,1:10.955,
+2024,15,Dutch Grand Prix,13,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:11.832,1:11.215,
+2024,15,Dutch Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:11.630,1:11.295,
+2024,15,Dutch Grand Prix,15,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:11.943,,
+2024,15,Dutch Grand Prix,16,OCO,Esteban,Ocon,French,Alpine F1 Team,1:11.995,,
+2024,15,Dutch Grand Prix,17,BOT,Valtteri,Bottas,Finnish,Sauber,1:12.168,,
+2024,15,Dutch Grand Prix,18,ZHO,Guanyu,Zhou,Chinese,Sauber,1:13.261,,
+2024,15,Dutch Grand Prix,19,ALB,Alexander,Albon,Thai,Williams,"",,
+2024,15,Dutch Grand Prix,20,SAR,Logan,Sargeant,American,Williams,"",,

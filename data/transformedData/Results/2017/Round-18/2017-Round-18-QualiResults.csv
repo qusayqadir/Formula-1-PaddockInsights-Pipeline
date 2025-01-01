@@ -1,0 +1,20 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,18,Mexican Grand Prix,1,VET,Sebastian,Vettel,German,Ferrari,1:17.665,1:16.870,1:16.488
+2017,18,Mexican Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:17.630,1:16.524,1:16.574
+2017,18,Mexican Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:17.518,1:17.035,1:16.934
+2017,18,Mexican Grand Prix,4,BOT,Valtteri,Bottas,Finnish,Mercedes,1:17.578,1:17.161,1:16.958
+2017,18,Mexican Grand Prix,5,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:18.148,1:17.534,1:17.238
+2017,18,Mexican Grand Prix,6,OCO,Esteban,Ocon,French,Force India,1:18.336,1:17.827,1:17.437
+2017,18,Mexican Grand Prix,7,RIC,Daniel,Ricciardo,Australian,Red Bull,1:18.208,1:17.631,1:17.447
+2017,18,Mexican Grand Prix,8,HUL,Nico,Hülkenberg,German,Renault,1:18.322,1:17.792,1:17.466
+2017,18,Mexican Grand Prix,9,SAI,Carlos,Sainz,Spanish,Renault,1:18.405,1:17.753,1:17.794
+2017,18,Mexican Grand Prix,10,PER,Sergio,Pérez,Mexican,Force India,1:18.020,1:17.868,1:17.807
+2017,18,Mexican Grand Prix,11,MAS,Felipe,Massa,Brazilian,Williams,1:18.570,1:18.099,
+2017,18,Mexican Grand Prix,12,STR,Lance,Stroll,Canadian,Williams,1:18.902,1:19.159,
+2017,18,Mexican Grand Prix,13,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:18.683,,
+2017,18,Mexican Grand Prix,14,ALO,Fernando,Alonso,Spanish,McLaren,1:17.710,,
+2017,18,Mexican Grand Prix,15,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:18.578,,
+2017,18,Mexican Grand Prix,16,ERI,Marcus,Ericsson,Swedish,Sauber,1:19.176,,
+2017,18,Mexican Grand Prix,17,WEH,Pascal,Wehrlein,German,Sauber,1:19.333,,
+2017,18,Mexican Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:19.443,,
+2017,18,Mexican Grand Prix,19,GRO,Romain,Grosjean,French,Haas F1 Team,1:19.473,,

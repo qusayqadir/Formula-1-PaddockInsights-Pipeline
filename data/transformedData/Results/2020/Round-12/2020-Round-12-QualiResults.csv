@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,12,Portuguese Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:16.828,1:16.824,1:16.652
+2020,12,Portuguese Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:16.945,1:16.466,1:16.754
+2020,12,Portuguese Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:16.879,1:17.038,1:16.904
+2020,12,Portuguese Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:17.421,1:17.367,1:17.090
+2020,12,Portuguese Grand Prix,5,PER,Sergio,Pérez,Mexican,Racing Point,1:17.370,1:17.129,1:17.223
+2020,12,Portuguese Grand Prix,6,ALB,Alexander,Albon,Thai,Red Bull,1:17.435,1:17.411,1:17.437
+2020,12,Portuguese Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:17.627,1:17.183,1:17.520
+2020,12,Portuguese Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:17.547,1:17.321,1:17.525
+2020,12,Portuguese Grand Prix,9,GAS,Pierre,Gasly,French,AlphaTauri,1:17.209,1:17.367,1:17.803
+2020,12,Portuguese Grand Prix,10,RIC,Daniel,Ricciardo,Australian,Renault,1:17.621,1:17.481,
+2020,12,Portuguese Grand Prix,11,OCO,Esteban,Ocon,French,Renault,1:17.775,1:17.614,
+2020,12,Portuguese Grand Prix,12,STR,Lance,Stroll,Canadian,Racing Point,1:17.667,1:17.626,
+2020,12,Portuguese Grand Prix,13,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:17.841,1:17.728,
+2020,12,Portuguese Grand Prix,14,RUS,George,Russell,British,Williams,1:17.931,1:17.788,
+2020,12,Portuguese Grand Prix,15,VET,Sebastian,Vettel,German,Ferrari,1:17.446,1:17.919,
+2020,12,Portuguese Grand Prix,16,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:18.201,,
+2020,12,Portuguese Grand Prix,17,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:18.323,,
+2020,12,Portuguese Grand Prix,18,GRO,Romain,Grosjean,French,Haas F1 Team,1:18.364,,
+2020,12,Portuguese Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:18.508,,
+2020,12,Portuguese Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:18.777,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,3,Australian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:17.384,1:17.056,1:16.732
+2023,3,Australian Grand Prix,2,RUS,George,Russell,British,Mercedes,1:17.654,1:17.513,1:16.968
+2023,3,Australian Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:17.689,1:17.551,1:17.104
+2023,3,Australian Grand Prix,4,ALO,Fernando,Alonso,Spanish,Aston Martin,1:17.832,1:17.283,1:17.139
+2023,3,Australian Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:17.928,1:17.349,1:17.270
+2023,3,Australian Grand Prix,6,STR,Lance,Stroll,Canadian,Aston Martin,1:17.873,1:17.616,1:17.308
+2023,3,Australian Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.218,1:17.390,1:17.369
+2023,3,Australian Grand Prix,8,ALB,Alexander,Albon,Thai,Williams,1:17.962,1:17.761,1:17.609
+2023,3,Australian Grand Prix,9,GAS,Pierre,Gasly,French,Alpine F1 Team,1:18.312,1:17.574,1:17.675
+2023,3,Australian Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:18.029,1:17.412,1:17.735
+2023,3,Australian Grand Prix,11,OCO,Esteban,Ocon,French,Alpine F1 Team,1:17.770,1:17.768,
+2023,3,Australian Grand Prix,12,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:18.471,1:18.099,
+2023,3,Australian Grand Prix,13,NOR,Lando,Norris,British,McLaren,1:18.243,1:18.119,
+2023,3,Australian Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:18.159,1:18.129,
+2023,3,Australian Grand Prix,15,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:18.450,1:18.335,
+2023,3,Australian Grand Prix,16,PIA,Oscar,Piastri,Australian,McLaren,1:18.517,,
+2023,3,Australian Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:18.540,,
+2023,3,Australian Grand Prix,18,SAR,Logan,Sargeant,American,Williams,1:18.557,,
+2023,3,Australian Grand Prix,19,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:18.714,,
+2023,3,Australian Grand Prix,20,PER,Sergio,Pérez,Mexican,Red Bull,"",,

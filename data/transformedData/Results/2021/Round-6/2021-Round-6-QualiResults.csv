@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,6,Azerbaijan Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:42.241,1:41.659,1:41.218
+2021,6,Azerbaijan Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:41.545,1:41.634,1:41.450
+2021,6,Azerbaijan Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:41.760,1:41.625,1:41.563
+2021,6,Azerbaijan Grand Prix,4,GAS,Pierre,Gasly,French,AlphaTauri,1:42.288,1:41.932,1:41.565
+2021,6,Azerbaijan Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:42.121,1:41.740,1:41.576
+2021,6,Azerbaijan Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:42.167,1:41.813,1:41.747
+2021,6,Azerbaijan Grand Prix,7,PER,Sergio,Pérez,Mexican,Red Bull,1:41.968,1:41.630,1:41.917
+2021,6,Azerbaijan Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:42.521,1:41.654,1:42.211
+2021,6,Azerbaijan Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:42.934,1:42.195,1:42.327
+2021,6,Azerbaijan Grand Prix,10,BOT,Valtteri,Bottas,Finnish,Mercedes,1:42.701,1:42.106,1:42.659
+2021,6,Azerbaijan Grand Prix,11,VET,Sebastian,Vettel,German,Aston Martin,1:42.460,1:42.224,
+2021,6,Azerbaijan Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:42.426,1:42.273,
+2021,6,Azerbaijan Grand Prix,13,RIC,Daniel,Ricciardo,Australian,McLaren,1:42.304,1:42.558,
+2021,6,Azerbaijan Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:42.923,1:42.587,
+2021,6,Azerbaijan Grand Prix,15,RUS,George,Russell,British,Williams,1:42.728,1:42.758,
+2021,6,Azerbaijan Grand Prix,16,LAT,Nicholas,Latifi,Canadian,Williams,1:43.128,,
+2021,6,Azerbaijan Grand Prix,17,MSC,Mick,Schumacher,German,Haas F1 Team,1:44.158,,
+2021,6,Azerbaijan Grand Prix,18,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:44.238,,
+2021,6,Azerbaijan Grand Prix,19,STR,Lance,Stroll,Canadian,Aston Martin,"",,
+2021,6,Azerbaijan Grand Prix,20,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,"",,

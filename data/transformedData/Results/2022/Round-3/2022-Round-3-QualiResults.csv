@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,3,Australian Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.881,1:18.606,1:17.868
+2022,3,Australian Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:18.580,1:18.611,1:18.154
+2022,3,Australian Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:18.834,1:18.340,1:18.240
+2022,3,Australian Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:19.280,1:19.066,1:18.703
+2022,3,Australian Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:19.401,1:19.106,1:18.825
+2022,3,Australian Grand Prix,6,RUS,George,Russell,British,Mercedes,1:19.405,1:19.076,1:18.933
+2022,3,Australian Grand Prix,7,RIC,Daniel,Ricciardo,Australian,McLaren,1:19.665,1:19.130,1:19.032
+2022,3,Australian Grand Prix,8,OCO,Esteban,Ocon,French,Alpine F1 Team,1:19.605,1:19.136,1:19.061
+2022,3,Australian Grand Prix,9,SAI,Carlos,Sainz,Spanish,Ferrari,1:18.983,1:18.469,1:19.408
+2022,3,Australian Grand Prix,10,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:19.192,1:18.815,
+2022,3,Australian Grand Prix,11,GAS,Pierre,Gasly,French,AlphaTauri,1:19.580,1:19.226,
+2022,3,Australian Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:19.251,1:19.410,
+2022,3,Australian Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:19.742,1:19.424,
+2022,3,Australian Grand Prix,14,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:19.910,1:20.155,
+2022,3,Australian Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:20.104,1:20.465,
+2022,3,Australian Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:20.135,,
+2022,3,Australian Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.254,,
+2022,3,Australian Grand Prix,18,VET,Sebastian,Vettel,German,Aston Martin,1:21.149,,
+2022,3,Australian Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:21.372,,
+2022,3,Australian Grand Prix,20,STR,Lance,Stroll,Canadian,Aston Martin,"",,

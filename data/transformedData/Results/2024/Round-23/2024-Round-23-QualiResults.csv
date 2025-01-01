@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,23,Qatar Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:21.579,1:20.687,1:20.520
+2024,23,Qatar Grand Prix,2,RUS,George,Russell,British,Mercedes,1:21.241,1:21.069,1:20.575
+2024,23,Qatar Grand Prix,3,NOR,Lando,Norris,British,McLaren,1:21.578,1:20.983,1:20.772
+2024,23,Qatar Grand Prix,4,PIA,Oscar,Piastri,Australian,McLaren,1:21.821,1:21.121,1:20.829
+2024,23,Qatar Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:21.278,1:21.000,1:20.852
+2024,23,Qatar Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:21.637,1:21.095,1:21.011
+2024,23,Qatar Grand Prix,7,SAI,Carlos,Sainz,Spanish,Ferrari,1:21.447,1:21.199,1:21.041
+2024,23,Qatar Grand Prix,8,ALO,Fernando,Alonso,Spanish,Aston Martin,1:21.608,1:21.208,1:21.251
+2024,23,Qatar Grand Prix,9,PER,Sergio,Pérez,Mexican,Red Bull,1:21.675,1:21.425,1:21.425
+2024,23,Qatar Grand Prix,10,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:21.891,1:21.387,1:21.500
+2024,23,Qatar Grand Prix,11,GAS,Pierre,Gasly,French,Alpine F1 Team,1:21.843,1:21.437,
+2024,23,Qatar Grand Prix,12,ZHO,Guanyu,Zhou,Chinese,Sauber,1:22.103,1:21.501,
+2024,23,Qatar Grand Prix,13,BOT,Valtteri,Bottas,Finnish,Sauber,1:21.927,1:21.731,
+2024,23,Qatar Grand Prix,14,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:22.364,1:21.771,
+2024,23,Qatar Grand Prix,15,STR,Lance,Stroll,Canadian,Aston Martin,1:22.011,1:21.911,
+2024,23,Qatar Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:22.390,,
+2024,23,Qatar Grand Prix,17,LAW,Liam,Lawson,New Zealander,RB F1 Team,1:22.411,,
+2024,23,Qatar Grand Prix,18,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:22.442,,
+2024,23,Qatar Grand Prix,19,COL,Franco,Colapinto,Argentinian,Williams,1:22.594,,
+2024,23,Qatar Grand Prix,20,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.714,,

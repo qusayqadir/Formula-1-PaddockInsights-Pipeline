@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,11,Hungarian Grand Prix,1,VET,Sebastian,Vettel,German,Ferrari,1:17.244,1:16.802,1:16.276
+2017,11,Hungarian Grand Prix,2,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:17.364,1:17.207,1:16.444
+2017,11,Hungarian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:18.058,1:17.362,1:16.530
+2017,11,Hungarian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:17.492,1:16.693,1:16.707
+2017,11,Hungarian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:17.266,1:17.028,1:16.797
+2017,11,Hungarian Grand Prix,6,RIC,Daniel,Ricciardo,Australian,Red Bull,1:17.702,1:17.698,1:16.818
+2017,11,Hungarian Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:18.137,1:17.655,1:17.468
+2017,11,Hungarian Grand Prix,8,ALO,Fernando,Alonso,Spanish,McLaren,1:18.395,1:17.919,1:17.549
+2017,11,Hungarian Grand Prix,9,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:18.479,1:18.000,1:17.894
+2017,11,Hungarian Grand Prix,10,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:18.948,1:18.311,1:18.912
+2017,11,Hungarian Grand Prix,11,PAL,Jolyon,Palmer,British,Renault,1:18.699,1:18.415,
+2017,11,Hungarian Grand Prix,12,OCO,Esteban,Ocon,French,Force India,1:18.843,1:18.495,
+2017,11,Hungarian Grand Prix,13,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:18.702,1:18.538,
+2017,11,Hungarian Grand Prix,14,PER,Sergio,Pérez,Mexican,Force India,1:19.095,1:18.639,
+2017,11,Hungarian Grand Prix,15,GRO,Romain,Grosjean,French,Haas F1 Team,1:19.085,1:18.771,
+2017,11,Hungarian Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:19.095,,
+2017,11,Hungarian Grand Prix,17,STR,Lance,Stroll,Canadian,Williams,1:19.102,,
+2017,11,Hungarian Grand Prix,18,WEH,Pascal,Wehrlein,German,Sauber,1:19.839,,
+2017,11,Hungarian Grand Prix,19,DIR,Paul,di Resta,British,Williams,1:19.868,,
+2017,11,Hungarian Grand Prix,20,ERI,Marcus,Ericsson,Swedish,Sauber,1:19.972,,

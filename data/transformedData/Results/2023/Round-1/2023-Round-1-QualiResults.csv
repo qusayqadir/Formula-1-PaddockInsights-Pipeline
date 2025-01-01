@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,1,Bahrain Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:31.295,1:30.503,1:29.708
+2023,1,Bahrain Grand Prix,2,PER,Sergio,Pérez,Mexican,Red Bull,1:31.479,1:30.746,1:29.846
+2023,1,Bahrain Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:31.094,1:30.282,1:30.000
+2023,1,Bahrain Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:30.993,1:30.515,1:30.154
+2023,1,Bahrain Grand Prix,5,ALO,Fernando,Alonso,Spanish,Aston Martin,1:31.158,1:30.645,1:30.336
+2023,1,Bahrain Grand Prix,6,RUS,George,Russell,British,Mercedes,1:31.057,1:30.507,1:30.340
+2023,1,Bahrain Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:31.543,1:30.513,1:30.384
+2023,1,Bahrain Grand Prix,8,STR,Lance,Stroll,Canadian,Aston Martin,1:31.184,1:31.127,1:30.836
+2023,1,Bahrain Grand Prix,9,OCO,Esteban,Ocon,French,Alpine F1 Team,1:31.508,1:30.914,1:30.984
+2023,1,Bahrain Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:31.204,1:30.809,
+2023,1,Bahrain Grand Prix,11,NOR,Lando,Norris,British,McLaren,1:31.652,1:31.381,
+2023,1,Bahrain Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:31.504,1:31.443,
+2023,1,Bahrain Grand Prix,13,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:31.615,1:31.473,
+2023,1,Bahrain Grand Prix,14,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:31.400,1:32.510,
+2023,1,Bahrain Grand Prix,15,ALB,Alexander,Albon,Thai,Williams,1:31.461,,
+2023,1,Bahrain Grand Prix,16,SAR,Logan,Sargeant,American,Williams,1:31.652,,
+2023,1,Bahrain Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:31.892,,
+2023,1,Bahrain Grand Prix,18,PIA,Oscar,Piastri,Australian,McLaren,1:32.101,,
+2023,1,Bahrain Grand Prix,19,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:32.121,,
+2023,1,Bahrain Grand Prix,20,GAS,Pierre,Gasly,French,Alpine F1 Team,1:32.181,,

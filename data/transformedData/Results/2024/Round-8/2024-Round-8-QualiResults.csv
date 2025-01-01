@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,8,Monaco Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:11.584,1:10.825,1:10.270
+2024,8,Monaco Grand Prix,2,PIA,Oscar,Piastri,Australian,McLaren,1:11.500,1:10.756,1:10.424
+2024,8,Monaco Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:11.543,1:11.075,1:10.518
+2024,8,Monaco Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:11.760,1:10.732,1:10.542
+2024,8,Monaco Grand Prix,5,RUS,George,Russell,British,Mercedes,1:11.492,1:10.929,1:10.543
+2024,8,Monaco Grand Prix,6,VER,Max,Verstappen,Dutch,Red Bull,1:11.711,1:10.745,1:10.567
+2024,8,Monaco Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:11.528,1:11.056,1:10.621
+2024,8,Monaco Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:11.852,1:11.106,1:10.858
+2024,8,Monaco Grand Prix,9,ALB,Alexander,Albon,Thai,Williams,1:11.623,1:11.216,1:10.948
+2024,8,Monaco Grand Prix,10,GAS,Pierre,Gasly,French,Alpine F1 Team,1:11.714,1:10.896,1:11.311
+2024,8,Monaco Grand Prix,11,OCO,Esteban,Ocon,French,Alpine F1 Team,1:11.887,1:11.285,
+2024,8,Monaco Grand Prix,12,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:11.876,1:11.440,
+2024,8,Monaco Grand Prix,13,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:11.785,1:11.482,
+2024,8,Monaco Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:11.728,1:11.563,
+2024,8,Monaco Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:11.832,1:11.725,
+2024,8,Monaco Grand Prix,16,ALO,Fernando,Alonso,Spanish,Aston Martin,1:12.019,,
+2024,8,Monaco Grand Prix,17,SAR,Logan,Sargeant,American,Williams,1:12.020,,
+2024,8,Monaco Grand Prix,18,PER,Sergio,Pérez,Mexican,Red Bull,1:12.060,,
+2024,8,Monaco Grand Prix,19,BOT,Valtteri,Bottas,Finnish,Sauber,1:12.512,,
+2024,8,Monaco Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:13.028,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,2,Chinese Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:33.333,1:32.406,1:31.678
+2017,2,Chinese Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:33.078,1:32.391,1:31.864
+2017,2,Chinese Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:33.684,1:32.552,1:31.865
+2017,2,Chinese Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:33.341,1:32.181,1:32.140
+2017,2,Chinese Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:34.041,1:33.546,1:33.033
+2017,2,Chinese Grand Prix,6,MAS,Felipe,Massa,Brazilian,Williams,1:34.205,1:33.759,1:33.507
+2017,2,Chinese Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:34.453,1:33.636,1:33.580
+2017,2,Chinese Grand Prix,8,PER,Sergio,Pérez,Mexican,Force India,1:34.657,1:33.920,1:33.706
+2017,2,Chinese Grand Prix,9,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:34.440,1:34.034,1:33.719
+2017,2,Chinese Grand Prix,10,STR,Lance,Stroll,Canadian,Williams,1:33.986,1:34.090,1:34.220
+2017,2,Chinese Grand Prix,11,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:34.567,1:34.150,
+2017,2,Chinese Grand Prix,12,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:34.942,1:34.164,
+2017,2,Chinese Grand Prix,13,ALO,Fernando,Alonso,Spanish,McLaren,1:34.499,1:34.372,
+2017,2,Chinese Grand Prix,14,ERI,Marcus,Ericsson,Swedish,Sauber,1:34.892,1:35.046,
+2017,2,Chinese Grand Prix,15,GIO,Antonio,Giovinazzi,Italian,Sauber,1:34.963,,
+2017,2,Chinese Grand Prix,16,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:35.023,,
+2017,2,Chinese Grand Prix,17,GRO,Romain,Grosjean,French,Haas F1 Team,1:35.223,,
+2017,2,Chinese Grand Prix,18,PAL,Jolyon,Palmer,British,Renault,1:35.279,,
+2017,2,Chinese Grand Prix,19,VER,Max,Verstappen,Dutch,Red Bull,1:35.433,,
+2017,2,Chinese Grand Prix,20,OCO,Esteban,Ocon,French,Force India,1:35.496,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,13,Dutch Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:10.036,1:09.071,1:08.885
+2021,13,Dutch Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:10.114,1:09.726,1:08.923
+2021,13,Dutch Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:10.219,1:09.769,1:09.222
+2021,13,Dutch Grand Prix,4,GAS,Pierre,Gasly,French,AlphaTauri,1:10.274,1:09.541,1:09.478
+2021,13,Dutch Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:09.829,1:09.437,1:09.527
+2021,13,Dutch Grand Prix,6,SAI,Carlos,Sainz,Spanish,Ferrari,1:10.022,1:09.870,1:09.537
+2021,13,Dutch Grand Prix,7,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:10.050,1:10.033,1:09.590
+2021,13,Dutch Grand Prix,8,OCO,Esteban,Ocon,French,Alpine F1 Team,1:10.179,1:09.919,1:09.933
+2021,13,Dutch Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:10.435,1:10.020,1:09.956
+2021,13,Dutch Grand Prix,10,RIC,Daniel,Ricciardo,Australian,McLaren,1:10.255,1:09.865,1:10.166
+2021,13,Dutch Grand Prix,11,RUS,George,Russell,British,Williams,1:10.382,1:10.332,
+2021,13,Dutch Grand Prix,12,STR,Lance,Stroll,Canadian,Aston Martin,1:10.438,1:10.367,
+2021,13,Dutch Grand Prix,13,NOR,Lando,Norris,British,McLaren,1:10.489,1:10.406,
+2021,13,Dutch Grand Prix,14,LAT,Nicholas,Latifi,Canadian,Williams,1:10.093,1:11.161,
+2021,13,Dutch Grand Prix,15,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:10.462,1:11.314,
+2021,13,Dutch Grand Prix,16,PER,Sergio,Pérez,Mexican,Red Bull,1:10.530,,
+2021,13,Dutch Grand Prix,17,VET,Sebastian,Vettel,German,Aston Martin,1:10.731,,
+2021,13,Dutch Grand Prix,18,KUB,Robert,Kubica,Polish,Alfa Romeo,1:11.301,,
+2021,13,Dutch Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:11.387,,
+2021,13,Dutch Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:11.875,,

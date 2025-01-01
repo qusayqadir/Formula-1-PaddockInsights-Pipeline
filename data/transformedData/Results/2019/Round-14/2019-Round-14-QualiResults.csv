@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,14,Italian Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:20.126,1:19.553,1:19.307
+2019,14,Italian Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:20.272,1:19.464,1:19.346
+2019,14,Italian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:20.156,1:20.018,1:19.354
+2019,14,Italian Grand Prix,4,VET,Sebastian,Vettel,German,Ferrari,1:20.378,1:19.715,1:19.457
+2019,14,Italian Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Renault,1:20.374,1:19.833,1:19.839
+2019,14,Italian Grand Prix,6,HUL,Nico,Hülkenberg,German,Renault,1:20.155,1:20.275,1:20.049
+2019,14,Italian Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:20.413,1:20.202,1:20.455
+2019,14,Italian Grand Prix,8,ALB,Alexander,Albon,Thai,Red Bull,1:20.382,1:20.021,
+2019,14,Italian Grand Prix,9,STR,Lance,Stroll,Canadian,Racing Point,1:20.643,1:20.498,
+2019,14,Italian Grand Prix,10,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:20.634,1:20.515,
+2019,14,Italian Grand Prix,11,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:20.657,1:20.517,
+2019,14,Italian Grand Prix,12,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.616,1:20.615,
+2019,14,Italian Grand Prix,13,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:20.723,1:20.630,
+2019,14,Italian Grand Prix,14,NOR,Lando,Norris,British,McLaren,1:20.646,1:21.068,
+2019,14,Italian Grand Prix,15,GAS,Pierre,Gasly,French,Toro Rosso,1:20.508,1:21.125,
+2019,14,Italian Grand Prix,16,GRO,Romain,Grosjean,French,Haas F1 Team,1:20.784,,
+2019,14,Italian Grand Prix,17,PER,Sergio,Pérez,Mexican,Racing Point,1:21.291,,
+2019,14,Italian Grand Prix,18,RUS,George,Russell,British,Williams,1:21.800,,
+2019,14,Italian Grand Prix,19,KUB,Robert,Kubica,Polish,Williams,1:22.356,,
+2019,14,Italian Grand Prix,20,VER,Max,Verstappen,Dutch,Red Bull,"",,

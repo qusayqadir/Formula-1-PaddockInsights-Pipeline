@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,1,Australian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:24.191,1:23.251,1:22.188
+2017,1,Australian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:25.210,1:23.401,1:22.456
+2017,1,Australian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:24.514,1:23.215,1:22.481
+2017,1,Australian Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:24.352,1:23.376,1:23.033
+2017,1,Australian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:24.482,1:24.092,1:23.485
+2017,1,Australian Grand Prix,6,GRO,Romain,Grosjean,French,Haas F1 Team,1:25.419,1:24.718,1:24.074
+2017,1,Australian Grand Prix,7,MAS,Felipe,Massa,Brazilian,Williams,1:25.099,1:24.597,1:24.443
+2017,1,Australian Grand Prix,8,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:25.542,1:24.997,1:24.487
+2017,1,Australian Grand Prix,9,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:25.970,1:24.864,1:24.512
+2017,1,Australian Grand Prix,10,RIC,Daniel,Ricciardo,Australian,Red Bull,1:25.383,1:23.989,
+2017,1,Australian Grand Prix,11,PER,Sergio,Pérez,Mexican,Force India,1:25.064,1:25.081,
+2017,1,Australian Grand Prix,12,HUL,Nico,Hülkenberg,German,Renault,1:24.975,1:25.091,
+2017,1,Australian Grand Prix,13,ALO,Fernando,Alonso,Spanish,McLaren,1:25.872,1:25.425,
+2017,1,Australian Grand Prix,14,OCO,Esteban,Ocon,French,Force India,1:26.009,1:25.568,
+2017,1,Australian Grand Prix,15,ERI,Marcus,Ericsson,Swedish,Sauber,1:26.236,1:26.465,
+2017,1,Australian Grand Prix,16,GIO,Antonio,Giovinazzi,Italian,Sauber,1:26.419,,
+2017,1,Australian Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:26.847,,
+2017,1,Australian Grand Prix,18,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:26.858,,
+2017,1,Australian Grand Prix,19,STR,Lance,Stroll,Canadian,Williams,1:27.143,,
+2017,1,Australian Grand Prix,20,PAL,Jolyon,Palmer,British,Renault,1:28.244,,

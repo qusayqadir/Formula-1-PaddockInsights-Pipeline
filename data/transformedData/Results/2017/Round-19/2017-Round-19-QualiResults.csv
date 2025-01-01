@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,19,Brazilian Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:09.452,1:08.638,1:08.322
+2017,19,Brazilian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:09.643,1:08.494,1:08.360
+2017,19,Brazilian Grand Prix,3,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:09.405,1:09.116,1:08.538
+2017,19,Brazilian Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:09.820,1:09.050,1:08.925
+2017,19,Brazilian Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:09.828,1:09.533,1:09.330
+2017,19,Brazilian Grand Prix,6,PER,Sergio,Pérez,Mexican,Force India,1:10.145,1:09.760,1:09.598
+2017,19,Brazilian Grand Prix,7,ALO,Fernando,Alonso,Spanish,McLaren,1:10.172,1:09.593,1:09.617
+2017,19,Brazilian Grand Prix,8,HUL,Nico,Hülkenberg,German,Renault,1:10.078,1:09.726,1:09.703
+2017,19,Brazilian Grand Prix,9,SAI,Carlos,Sainz,Spanish,Renault,1:10.227,1:09.768,1:09.805
+2017,19,Brazilian Grand Prix,10,MAS,Felipe,Massa,Brazilian,Williams,1:09.789,1:09.612,1:09.841
+2017,19,Brazilian Grand Prix,11,OCO,Esteban,Ocon,French,Force India,1:10.168,1:09.830,
+2017,19,Brazilian Grand Prix,12,GRO,Romain,Grosjean,French,Haas F1 Team,1:10.148,1:09.879,
+2017,19,Brazilian Grand Prix,13,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:10.286,1:10.116,
+2017,19,Brazilian Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:10.521,1:10.154,
+2017,19,Brazilian Grand Prix,15,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:10.625,,
+2017,19,Brazilian Grand Prix,16,WEH,Pascal,Wehrlein,German,Sauber,1:10.678,,
+2017,19,Brazilian Grand Prix,17,GAS,Pierre,Gasly,French,Toro Rosso,1:10.686,,
+2017,19,Brazilian Grand Prix,18,STR,Lance,Stroll,Canadian,Williams,1:10.776,,
+2017,19,Brazilian Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:10.875,,
+2017,19,Brazilian Grand Prix,20,HAM,Lewis,Hamilton,British,Mercedes,"",,

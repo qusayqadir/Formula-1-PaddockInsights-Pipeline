@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,16,Italian Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:19.911,1:19.727,1:19.327
+2024,16,Italian Grand Prix,2,PIA,Oscar,Piastri,Australian,McLaren,1:20.076,1:19.808,1:19.436
+2024,16,Italian Grand Prix,3,RUS,George,Russell,British,Mercedes,1:20.169,1:19.877,1:19.440
+2024,16,Italian Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:20.074,1:20.007,1:19.461
+2024,16,Italian Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:20.149,1:19.799,1:19.467
+2024,16,Italian Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:20.477,1:19.641,1:19.513
+2024,16,Italian Grand Prix,7,VER,Max,Verstappen,Dutch,Red Bull,1:20.226,1:19.662,1:20.022
+2024,16,Italian Grand Prix,8,PER,Sergio,Pérez,Mexican,Red Bull,1:20.598,1:20.216,1:20.062
+2024,16,Italian Grand Prix,9,ALB,Alexander,Albon,Thai,Williams,1:20.542,1:20.314,1:20.299
+2024,16,Italian Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:20.781,1:20.411,1:20.339
+2024,16,Italian Grand Prix,11,ALO,Fernando,Alonso,Spanish,Aston Martin,1:20.617,1:20.421,
+2024,16,Italian Grand Prix,12,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:20.901,1:20.479,
+2024,16,Italian Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.856,1:20.698,
+2024,16,Italian Grand Prix,14,GAS,Pierre,Gasly,French,Alpine F1 Team,1:20.748,1:20.738,
+2024,16,Italian Grand Prix,15,OCO,Esteban,Ocon,French,Alpine F1 Team,1:20.764,1:20.766,
+2024,16,Italian Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:20.945,,
+2024,16,Italian Grand Prix,17,STR,Lance,Stroll,Canadian,Aston Martin,1:21.013,,
+2024,16,Italian Grand Prix,18,COL,Franco,Colapinto,Argentinian,Williams,1:21.061,,
+2024,16,Italian Grand Prix,19,BOT,Valtteri,Bottas,Finnish,Sauber,1:21.101,,
+2024,16,Italian Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:21.445,,

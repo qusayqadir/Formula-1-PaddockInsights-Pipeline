@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,4,Japanese Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:28.866,1:28.740,1:28.197
+2024,4,Japanese Grand Prix,2,PER,Sergio,Pérez,Mexican,Red Bull,1:29.303,1:28.752,1:28.263
+2024,4,Japanese Grand Prix,3,NOR,Lando,Norris,British,McLaren,1:29.536,1:28.940,1:28.489
+2024,4,Japanese Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:29.513,1:29.099,1:28.682
+2024,4,Japanese Grand Prix,5,ALO,Fernando,Alonso,Spanish,Aston Martin,1:29.254,1:29.082,1:28.686
+2024,4,Japanese Grand Prix,6,PIA,Oscar,Piastri,Australian,McLaren,1:29.425,1:29.148,1:28.760
+2024,4,Japanese Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:29.661,1:28.887,1:28.766
+2024,4,Japanese Grand Prix,8,LEC,Charles,Leclerc,Monegasque,Ferrari,1:29.338,1:29.196,1:28.786
+2024,4,Japanese Grand Prix,9,RUS,George,Russell,British,Mercedes,1:29.799,1:29.140,1:29.008
+2024,4,Japanese Grand Prix,10,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:29.775,1:29.417,1:29.413
+2024,4,Japanese Grand Prix,11,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:29.727,1:29.472,
+2024,4,Japanese Grand Prix,12,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:29.821,1:29.494,
+2024,4,Japanese Grand Prix,13,BOT,Valtteri,Bottas,Finnish,Sauber,1:29.602,1:29.593,
+2024,4,Japanese Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:29.963,1:29.714,
+2024,4,Japanese Grand Prix,15,OCO,Esteban,Ocon,French,Alpine F1 Team,1:29.811,1:29.816,
+2024,4,Japanese Grand Prix,16,STR,Lance,Stroll,Canadian,Aston Martin,1:30.024,,
+2024,4,Japanese Grand Prix,17,GAS,Pierre,Gasly,French,Alpine F1 Team,1:30.119,,
+2024,4,Japanese Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:30.131,,
+2024,4,Japanese Grand Prix,19,SAR,Logan,Sargeant,American,Williams,1:30.139,,
+2024,4,Japanese Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:30.143,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,7,Monaco Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:12.569,1:11.864,1:11.376
+2022,7,Monaco Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:12.616,1:12.074,1:11.601
+2022,7,Monaco Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:13.004,1:11.954,1:11.629
+2022,7,Monaco Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:12.993,1:12.117,1:11.666
+2022,7,Monaco Grand Prix,5,NOR,Lando,Norris,British,McLaren,1:12.927,1:12.266,1:11.849
+2022,7,Monaco Grand Prix,6,RUS,George,Russell,British,Mercedes,1:12.787,1:12.617,1:12.112
+2022,7,Monaco Grand Prix,7,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:13.394,1:12.688,1:12.247
+2022,7,Monaco Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:13.444,1:12.595,1:12.560
+2022,7,Monaco Grand Prix,9,VET,Sebastian,Vettel,German,Aston Martin,1:13.313,1:12.613,1:12.732
+2022,7,Monaco Grand Prix,10,OCO,Esteban,Ocon,French,Alpine F1 Team,1:12.848,1:12.528,1:13.047
+2022,7,Monaco Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:13.110,1:12.797,
+2022,7,Monaco Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:13.541,1:12.909,
+2022,7,Monaco Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:13.069,1:12.921,
+2022,7,Monaco Grand Prix,14,RIC,Daniel,Ricciardo,Australian,McLaren,1:13.338,1:12.964,
+2022,7,Monaco Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:13.469,1:13.081,
+2022,7,Monaco Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:13.611,,
+2022,7,Monaco Grand Prix,17,GAS,Pierre,Gasly,French,AlphaTauri,1:13.660,,
+2022,7,Monaco Grand Prix,18,STR,Lance,Stroll,Canadian,Aston Martin,1:13.678,,
+2022,7,Monaco Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:14.403,,
+2022,7,Monaco Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:15.606,,

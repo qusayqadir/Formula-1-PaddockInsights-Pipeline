@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,3,Bahrain Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:31.041,1:29.555,1:28.769
+2017,3,Bahrain Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:30.814,1:29.535,1:28.792
+2017,3,Bahrain Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:31.037,1:29.596,1:29.247
+2017,3,Bahrain Grand Prix,4,RIC,Daniel,Ricciardo,Australian,Red Bull,1:31.667,1:30.497,1:29.545
+2017,3,Bahrain Grand Prix,5,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:30.988,1:29.843,1:29.567
+2017,3,Bahrain Grand Prix,6,VER,Max,Verstappen,Dutch,Red Bull,1:30.904,1:30.307,1:29.687
+2017,3,Bahrain Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:31.057,1:30.169,1:29.842
+2017,3,Bahrain Grand Prix,8,MAS,Felipe,Massa,Brazilian,Williams,1:31.373,1:30.677,1:30.074
+2017,3,Bahrain Grand Prix,9,GRO,Romain,Grosjean,French,Haas F1 Team,1:31.691,1:30.857,1:30.763
+2017,3,Bahrain Grand Prix,10,PAL,Jolyon,Palmer,British,Renault,1:31.458,1:30.899,1:31.074
+2017,3,Bahrain Grand Prix,11,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:31.531,1:30.923,
+2017,3,Bahrain Grand Prix,12,STR,Lance,Stroll,Canadian,Williams,1:31.748,1:31.168,
+2017,3,Bahrain Grand Prix,13,WEH,Pascal,Wehrlein,German,Sauber,1:31.995,1:31.414,
+2017,3,Bahrain Grand Prix,14,OCO,Esteban,Ocon,French,Force India,1:31.774,1:31.684,
+2017,3,Bahrain Grand Prix,15,ALO,Fernando,Alonso,Spanish,McLaren,1:32.054,,
+2017,3,Bahrain Grand Prix,16,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:32.118,,
+2017,3,Bahrain Grand Prix,17,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:32.313,,
+2017,3,Bahrain Grand Prix,18,PER,Sergio,Pérez,Mexican,Force India,1:32.318,,
+2017,3,Bahrain Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:32.543,,
+2017,3,Bahrain Grand Prix,20,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:32.900,,

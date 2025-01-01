@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,7,French Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:31.001,1:31.080,1:29.990
+2021,7,French Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:31.237,1:30.788,1:30.248
+2021,7,French Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:31.669,1:30.735,1:30.376
+2021,7,French Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:31.560,1:30.971,1:30.445
+2021,7,French Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:32.079,1:31.146,1:30.840
+2021,7,French Grand Prix,6,GAS,Pierre,Gasly,French,AlphaTauri,1:31.898,1:31.353,1:30.868
+2021,7,French Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:32.209,1:31.567,1:30.987
+2021,7,French Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:31.733,1:31.542,1:31.252
+2021,7,French Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:32.158,1:31.549,1:31.340
+2021,7,French Grand Prix,10,RIC,Daniel,Ricciardo,Australian,McLaren,1:32.181,1:31.615,1:31.382
+2021,7,French Grand Prix,11,OCO,Esteban,Ocon,French,Alpine F1 Team,1:32.139,1:31.736,
+2021,7,French Grand Prix,12,VET,Sebastian,Vettel,German,Aston Martin,1:32.132,1:31.767,
+2021,7,French Grand Prix,13,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:32.722,1:31.813,
+2021,7,French Grand Prix,14,RUS,George,Russell,British,Williams,1:33.060,1:32.065,
+2021,7,French Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:32.942,,
+2021,7,French Grand Prix,16,LAT,Nicholas,Latifi,Canadian,Williams,1:33.062,,
+2021,7,French Grand Prix,17,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:33.354,,
+2021,7,French Grand Prix,18,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:33.554,,
+2021,7,French Grand Prix,19,STR,Lance,Stroll,Canadian,Aston Martin,"",,
+2021,7,French Grand Prix,20,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,"",,

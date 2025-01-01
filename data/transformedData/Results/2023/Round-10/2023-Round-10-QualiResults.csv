@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,10,British Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:29.428,1:27.702,1:26.720
+2023,10,British Grand Prix,2,NOR,Lando,Norris,British,McLaren,1:28.917,1:28.042,1:26.961
+2023,10,British Grand Prix,3,PIA,Oscar,Piastri,Australian,McLaren,1:29.874,1:27.845,1:27.092
+2023,10,British Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:29.143,1:28.361,1:27.136
+2023,10,British Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:29.865,1:28.265,1:27.148
+2023,10,British Grand Prix,6,RUS,George,Russell,British,Mercedes,1:29.412,1:28.782,1:27.155
+2023,10,British Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:29.415,1:28.545,1:27.211
+2023,10,British Grand Prix,8,ALB,Alexander,Albon,Thai,Williams,1:29.466,1:28.067,1:27.530
+2023,10,British Grand Prix,9,ALO,Fernando,Alonso,Spanish,Aston Martin,1:29.949,1:28.368,1:27.659
+2023,10,British Grand Prix,10,GAS,Pierre,Gasly,French,Alpine F1 Team,1:29.533,1:28.751,1:27.689
+2023,10,British Grand Prix,11,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:29.603,1:28.896,
+2023,10,British Grand Prix,12,STR,Lance,Stroll,Canadian,Aston Martin,1:29.448,1:28.935,
+2023,10,British Grand Prix,13,OCO,Esteban,Ocon,French,Alpine F1 Team,1:29.700,1:28.956,
+2023,10,British Grand Prix,14,SAR,Logan,Sargeant,American,Williams,1:29.873,1:29.031,
+2023,10,British Grand Prix,15,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:29.798,,
+2023,10,British Grand Prix,16,PER,Sergio,Pérez,Mexican,Red Bull,1:29.968,,
+2023,10,British Grand Prix,17,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:30.025,,
+2023,10,British Grand Prix,18,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:30.123,,
+2023,10,British Grand Prix,19,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:30.513,,
+2023,10,British Grand Prix,20,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:32.378,,

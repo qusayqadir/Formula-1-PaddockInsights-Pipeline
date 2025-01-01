@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,1,Bahrain Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:30.031,1:29.374,1:29.179
+2024,1,Bahrain Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:30.243,1:29.165,1:29.407
+2024,1,Bahrain Grand Prix,3,RUS,George,Russell,British,Mercedes,1:30.350,1:29.922,1:29.485
+2024,1,Bahrain Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:29.909,1:29.573,1:29.507
+2024,1,Bahrain Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:30.221,1:29.932,1:29.537
+2024,1,Bahrain Grand Prix,6,ALO,Fernando,Alonso,Spanish,Aston Martin,1:30.179,1:29.801,1:29.542
+2024,1,Bahrain Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:30.143,1:29.941,1:29.614
+2024,1,Bahrain Grand Prix,8,PIA,Oscar,Piastri,Australian,McLaren,1:30.531,1:30.122,1:29.683
+2024,1,Bahrain Grand Prix,9,HAM,Lewis,Hamilton,British,Mercedes,1:30.451,1:29.718,1:29.710
+2024,1,Bahrain Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:30.566,1:29.851,1:30.502
+2024,1,Bahrain Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:30.481,1:30.129,
+2024,1,Bahrain Grand Prix,12,STR,Lance,Stroll,Canadian,Aston Martin,1:29.965,1:30.200,
+2024,1,Bahrain Grand Prix,13,ALB,Alexander,Albon,Thai,Williams,1:30.397,1:30.221,
+2024,1,Bahrain Grand Prix,14,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:30.562,1:30.278,
+2024,1,Bahrain Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:30.646,1:30.529,
+2024,1,Bahrain Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Sauber,1:30.756,,
+2024,1,Bahrain Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Sauber,1:30.757,,
+2024,1,Bahrain Grand Prix,18,SAR,Logan,Sargeant,American,Williams,1:30.770,,
+2024,1,Bahrain Grand Prix,19,OCO,Esteban,Ocon,French,Alpine F1 Team,1:30.793,,
+2024,1,Bahrain Grand Prix,20,GAS,Pierre,Gasly,French,Alpine F1 Team,1:30.948,,

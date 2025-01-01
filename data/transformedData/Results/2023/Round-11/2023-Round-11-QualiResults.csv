@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,11,Hungarian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:18.577,1:17.427,1:16.609
+2023,11,Hungarian Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:18.318,1:17.547,1:16.612
+2023,11,Hungarian Grand Prix,3,NOR,Lando,Norris,British,McLaren,1:18.697,1:17.328,1:16.694
+2023,11,Hungarian Grand Prix,4,PIA,Oscar,Piastri,Australian,McLaren,1:18.464,1:17.571,1:16.905
+2023,11,Hungarian Grand Prix,5,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:18.143,1:17.700,1:16.971
+2023,11,Hungarian Grand Prix,6,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.440,1:17.580,1:16.992
+2023,11,Hungarian Grand Prix,7,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:18.775,1:17.563,1:17.034
+2023,11,Hungarian Grand Prix,8,ALO,Fernando,Alonso,Spanish,Aston Martin,1:18.580,1:17.701,1:17.035
+2023,11,Hungarian Grand Prix,9,PER,Sergio,Pérez,Mexican,Red Bull,1:18.360,1:17.675,1:17.045
+2023,11,Hungarian Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:18.695,1:17.652,1:17.186
+2023,11,Hungarian Grand Prix,11,SAI,Carlos,Sainz,Spanish,Ferrari,1:18.393,1:17.703,
+2023,11,Hungarian Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:18.854,1:17.841,
+2023,11,Hungarian Grand Prix,13,RIC,Daniel,Ricciardo,Australian,AlphaTauri,1:18.906,1:18.002,
+2023,11,Hungarian Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:18.782,1:18.144,
+2023,11,Hungarian Grand Prix,15,GAS,Pierre,Gasly,French,Alpine F1 Team,1:18.743,1:18.217,
+2023,11,Hungarian Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:18.917,,
+2023,11,Hungarian Grand Prix,17,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:18.919,,
+2023,11,Hungarian Grand Prix,18,RUS,George,Russell,British,Mercedes,1:19.027,,
+2023,11,Hungarian Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:19.206,,
+2023,11,Hungarian Grand Prix,20,SAR,Logan,Sargeant,American,Williams,1:19.248,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2018,7,Canadian Grand Prix,1,VET,Sebastian,Vettel,German,Ferrari,1:11.710,1:11.524,1:10.764
+2018,7,Canadian Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:11.950,1:11.514,1:10.857
+2018,7,Canadian Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:12.008,1:11.472,1:10.937
+2018,7,Canadian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:11.835,1:11.740,1:10.996
+2018,7,Canadian Grand Prix,5,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:11.725,1:11.620,1:11.095
+2018,7,Canadian Grand Prix,6,RIC,Daniel,Ricciardo,Australian,Red Bull,1:12.459,1:11.434,1:11.116
+2018,7,Canadian Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:12.795,1:11.916,1:11.973
+2018,7,Canadian Grand Prix,8,OCO,Esteban,Ocon,French,Force India,1:12.577,1:12.141,1:12.084
+2018,7,Canadian Grand Prix,9,SAI,Carlos,Sainz,Spanish,Renault,1:12.689,1:12.097,1:12.168
+2018,7,Canadian Grand Prix,10,PER,Sergio,Pérez,Mexican,Force India,1:12.702,1:12.395,1:12.671
+2018,7,Canadian Grand Prix,11,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:12.680,1:12.606,
+2018,7,Canadian Grand Prix,12,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:12.587,1:12.635,
+2018,7,Canadian Grand Prix,13,LEC,Charles,Leclerc,Monegasque,Sauber,1:12.945,1:12.661,
+2018,7,Canadian Grand Prix,14,ALO,Fernando,Alonso,Spanish,McLaren,1:12.979,1:12.856,
+2018,7,Canadian Grand Prix,15,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:12.998,1:12.865,
+2018,7,Canadian Grand Prix,16,GAS,Pierre,Gasly,French,Toro Rosso,1:13.047,,
+2018,7,Canadian Grand Prix,17,STR,Lance,Stroll,Canadian,Williams,1:13.590,,
+2018,7,Canadian Grand Prix,18,SIR,Sergey,Sirotkin,Russian,Williams,1:13.643,,
+2018,7,Canadian Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:14.593,,
+2018,7,Canadian Grand Prix,20,GRO,Romain,Grosjean,French,Haas F1 Team,"",,

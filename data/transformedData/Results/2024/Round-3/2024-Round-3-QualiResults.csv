@@ -1,0 +1,20 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,3,Australian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:16.819,1:16.387,1:15.915
+2024,3,Australian Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:16.731,1:16.189,1:16.185
+2024,3,Australian Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:16.805,1:16.631,1:16.274
+2024,3,Australian Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:17.430,1:16.750,1:16.315
+2024,3,Australian Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:16.984,1:16.304,1:16.435
+2024,3,Australian Grand Prix,6,PIA,Oscar,Piastri,Australian,McLaren,1:17.369,1:16.601,1:16.572
+2024,3,Australian Grand Prix,7,RUS,George,Russell,British,Mercedes,1:17.062,1:16.901,1:16.724
+2024,3,Australian Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:17.356,1:16.791,1:16.788
+2024,3,Australian Grand Prix,9,STR,Lance,Stroll,Canadian,Aston Martin,1:17.376,1:16.780,1:17.072
+2024,3,Australian Grand Prix,10,ALO,Fernando,Alonso,Spanish,Aston Martin,1:16.991,1:16.710,1:17.552
+2024,3,Australian Grand Prix,11,HAM,Lewis,Hamilton,British,Mercedes,1:17.499,1:16.960,
+2024,3,Australian Grand Prix,12,ALB,Alexander,Albon,Thai,Williams,1:17.130,1:17.167,
+2024,3,Australian Grand Prix,13,BOT,Valtteri,Bottas,Finnish,Sauber,1:17.543,1:17.340,
+2024,3,Australian Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:17.709,1:17.427,
+2024,3,Australian Grand Prix,15,OCO,Esteban,Ocon,French,Alpine F1 Team,1:17.617,1:17.697,
+2024,3,Australian Grand Prix,16,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:17.976,,
+2024,3,Australian Grand Prix,17,GAS,Pierre,Gasly,French,Alpine F1 Team,1:17.982,,
+2024,3,Australian Grand Prix,18,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:18.085,,
+2024,3,Australian Grand Prix,19,ZHO,Guanyu,Zhou,Chinese,Sauber,1:18.188,,

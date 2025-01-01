@@ -1,0 +1,20 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,8,Azerbaijan Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:41.983,1:41.275,1:40.593
+2017,8,Azerbaijan Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:43.026,1:41.502,1:41.027
+2017,8,Azerbaijan Grand Prix,3,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:42.678,1:42.090,1:41.693
+2017,8,Azerbaijan Grand Prix,4,VET,Sebastian,Vettel,German,Ferrari,1:42.952,1:41.911,1:41.841
+2017,8,Azerbaijan Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:42.544,1:41.961,1:41.879
+2017,8,Azerbaijan Grand Prix,6,PER,Sergio,Pérez,Mexican,Force India,1:43.162,1:42.467,1:42.111
+2017,8,Azerbaijan Grand Prix,7,OCO,Esteban,Ocon,French,Force India,1:43.051,1:42.751,1:42.186
+2017,8,Azerbaijan Grand Prix,8,STR,Lance,Stroll,Canadian,Williams,1:43.613,1:42.284,1:42.753
+2017,8,Azerbaijan Grand Prix,9,MAS,Felipe,Massa,Brazilian,Williams,1:43.165,1:42.735,1:42.798
+2017,8,Azerbaijan Grand Prix,10,RIC,Daniel,Ricciardo,Australian,Red Bull,1:42.857,1:42.215,1:43.414
+2017,8,Azerbaijan Grand Prix,11,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:42.927,1:43.186,
+2017,8,Azerbaijan Grand Prix,12,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:43.489,1:43.347,
+2017,8,Azerbaijan Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:44.029,1:43.796,
+2017,8,Azerbaijan Grand Prix,14,HUL,Nico,Hülkenberg,German,Renault,1:43.930,1:44.267,
+2017,8,Azerbaijan Grand Prix,15,WEH,Pascal,Wehrlein,German,Sauber,1:44.317,1:44.603,
+2017,8,Azerbaijan Grand Prix,16,ALO,Fernando,Alonso,Spanish,McLaren,1:44.334,,
+2017,8,Azerbaijan Grand Prix,17,GRO,Romain,Grosjean,French,Haas F1 Team,1:44.468,,
+2017,8,Azerbaijan Grand Prix,18,ERI,Marcus,Ericsson,Swedish,Sauber,1:44.795,,
+2017,8,Azerbaijan Grand Prix,19,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:45.030,,

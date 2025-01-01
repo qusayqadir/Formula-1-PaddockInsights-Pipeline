@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,13,Hungarian Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:17.755,1:15.540,1:15.227
+2024,13,Hungarian Grand Prix,2,PIA,Oscar,Piastri,Australian,McLaren,1:17.504,1:15.785,1:15.249
+2024,13,Hungarian Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:17.087,1:15.770,1:15.273
+2024,13,Hungarian Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:17.244,1:15.885,1:15.696
+2024,13,Hungarian Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:17.087,1:16.307,1:15.854
+2024,13,Hungarian Grand Prix,6,LEC,Charles,Leclerc,Monegasque,Ferrari,1:17.437,1:15.891,1:15.905
+2024,13,Hungarian Grand Prix,7,ALO,Fernando,Alonso,Spanish,Aston Martin,1:17.624,1:16.117,1:16.043
+2024,13,Hungarian Grand Prix,8,STR,Lance,Stroll,Canadian,Aston Martin,1:17.405,1:16.075,1:16.244
+2024,13,Hungarian Grand Prix,9,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:17.050,1:16.202,1:16.447
+2024,13,Hungarian Grand Prix,10,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:17.436,1:16.121,1:16.477
+2024,13,Hungarian Grand Prix,11,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:17.362,1:16.317,
+2024,13,Hungarian Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Sauber,1:17.487,1:16.384,
+2024,13,Hungarian Grand Prix,13,ALB,Alexander,Albon,Thai,Williams,1:17.280,1:16.429,
+2024,13,Hungarian Grand Prix,14,SAR,Logan,Sargeant,American,Williams,1:17.770,1:16.543,
+2024,13,Hungarian Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:17.851,1:16.548,
+2024,13,Hungarian Grand Prix,16,PER,Sergio,Pérez,Mexican,Red Bull,1:17.886,,
+2024,13,Hungarian Grand Prix,17,RUS,George,Russell,British,Mercedes,1:17.968,,
+2024,13,Hungarian Grand Prix,18,ZHO,Guanyu,Zhou,Chinese,Sauber,1:18.037,,
+2024,13,Hungarian Grand Prix,19,OCO,Esteban,Ocon,French,Alpine F1 Team,1:18.049,,
+2024,13,Hungarian Grand Prix,20,GAS,Pierre,Gasly,French,Alpine F1 Team,1:18.166,,

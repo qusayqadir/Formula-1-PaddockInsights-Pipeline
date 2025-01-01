@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,12,Belgian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:44.184,1:42.927,1:42.553
+2017,12,Belgian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:44.275,1:43.987,1:42.795
+2017,12,Belgian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:44.773,1:43.249,1:43.094
+2017,12,Belgian Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:44.729,1:43.700,1:43.270
+2017,12,Belgian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:44.535,1:43.940,1:43.380
+2017,12,Belgian Grand Prix,6,RIC,Daniel,Ricciardo,Australian,Red Bull,1:45.114,1:44.224,1:43.863
+2017,12,Belgian Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:45.280,1:44.988,1:44.982
+2017,12,Belgian Grand Prix,8,PER,Sergio,Pérez,Mexican,Force India,1:45.591,1:44.894,1:45.244
+2017,12,Belgian Grand Prix,9,OCO,Esteban,Ocon,French,Force India,1:45.277,1:45.006,1:45.369
+2017,12,Belgian Grand Prix,10,PAL,Jolyon,Palmer,British,Renault,1:45.447,1:44.685,
+2017,12,Belgian Grand Prix,11,ALO,Fernando,Alonso,Spanish,McLaren,1:45.668,1:45.090,
+2017,12,Belgian Grand Prix,12,GRO,Romain,Grosjean,French,Haas F1 Team,1:45.728,1:45.133,
+2017,12,Belgian Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:45.535,1:45.400,
+2017,12,Belgian Grand Prix,14,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:45.374,1:45.439,
+2017,12,Belgian Grand Prix,15,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:45.441,,
+2017,12,Belgian Grand Prix,16,MAS,Felipe,Massa,Brazilian,Williams,1:45.823,,
+2017,12,Belgian Grand Prix,17,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:46.028,,
+2017,12,Belgian Grand Prix,18,STR,Lance,Stroll,Canadian,Williams,1:46.915,,
+2017,12,Belgian Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:47.214,,
+2017,12,Belgian Grand Prix,20,WEH,Pascal,Wehrlein,German,Sauber,1:47.679,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,4,Russian Grand Prix,1,VET,Sebastian,Vettel,German,Ferrari,1:34.493,1:34.038,1:33.194
+2017,4,Russian Grand Prix,2,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:34.953,1:33.663,1:33.253
+2017,4,Russian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:34.041,1:33.264,1:33.289
+2017,4,Russian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:34.409,1:33.760,1:33.767
+2017,4,Russian Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:35.560,1:35.483,1:34.905
+2017,4,Russian Grand Prix,6,MAS,Felipe,Massa,Brazilian,Williams,1:35.828,1:35.049,1:35.110
+2017,4,Russian Grand Prix,7,VER,Max,Verstappen,Dutch,Red Bull,1:35.301,1:35.221,1:35.161
+2017,4,Russian Grand Prix,8,HUL,Nico,Hülkenberg,German,Renault,1:35.507,1:35.328,1:35.285
+2017,4,Russian Grand Prix,9,PER,Sergio,Pérez,Mexican,Force India,1:36.185,1:35.513,1:35.337
+2017,4,Russian Grand Prix,10,OCO,Esteban,Ocon,French,Force India,1:35.372,1:35.729,1:35.430
+2017,4,Russian Grand Prix,11,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:35.827,1:35.948,
+2017,4,Russian Grand Prix,12,STR,Lance,Stroll,Canadian,Williams,1:36.279,1:35.964,
+2017,4,Russian Grand Prix,13,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:35.984,1:35.968,
+2017,4,Russian Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:36.408,1:36.017,
+2017,4,Russian Grand Prix,15,ALO,Fernando,Alonso,Spanish,McLaren,1:36.353,1:36.660,
+2017,4,Russian Grand Prix,16,PAL,Jolyon,Palmer,British,Renault,1:36.462,,
+2017,4,Russian Grand Prix,17,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:37.070,,
+2017,4,Russian Grand Prix,18,WEH,Pascal,Wehrlein,German,Sauber,1:37.332,,
+2017,4,Russian Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:37.507,,
+2017,4,Russian Grand Prix,20,GRO,Romain,Grosjean,French,Haas F1 Team,1:37.620,,

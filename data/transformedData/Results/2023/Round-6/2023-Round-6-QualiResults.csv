@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,6,Monaco Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:12.386,1:11.908,1:11.365
+2023,6,Monaco Grand Prix,2,ALO,Fernando,Alonso,Spanish,Aston Martin,1:12.886,1:12.107,1:11.449
+2023,6,Monaco Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:12.912,1:12.103,1:11.471
+2023,6,Monaco Grand Prix,4,OCO,Esteban,Ocon,French,Alpine F1 Team,1:12.967,1:12.248,1:11.553
+2023,6,Monaco Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:12.717,1:12.210,1:11.630
+2023,6,Monaco Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:12.872,1:12.156,1:11.725
+2023,6,Monaco Grand Prix,7,GAS,Pierre,Gasly,French,Alpine F1 Team,1:13.033,1:12.169,1:11.933
+2023,6,Monaco Grand Prix,8,RUS,George,Russell,British,Mercedes,1:12.769,1:12.151,1:11.964
+2023,6,Monaco Grand Prix,9,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:12.642,1:12.249,1:12.082
+2023,6,Monaco Grand Prix,10,NOR,Lando,Norris,British,McLaren,1:12.877,1:12.377,1:12.254
+2023,6,Monaco Grand Prix,11,PIA,Oscar,Piastri,Australian,McLaren,1:13.006,1:12.395,
+2023,6,Monaco Grand Prix,12,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:13.054,1:12.428,
+2023,6,Monaco Grand Prix,13,ALB,Alexander,Albon,Thai,Williams,1:12.706,1:12.527,
+2023,6,Monaco Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:12.722,1:12.623,
+2023,6,Monaco Grand Prix,15,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:13.038,1:12.625,
+2023,6,Monaco Grand Prix,16,SAR,Logan,Sargeant,American,Williams,1:13.113,,
+2023,6,Monaco Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:13.270,,
+2023,6,Monaco Grand Prix,18,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:13.279,,
+2023,6,Monaco Grand Prix,19,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:13.523,,
+2023,6,Monaco Grand Prix,20,PER,Sergio,Pérez,Mexican,Red Bull,1:13.850,,

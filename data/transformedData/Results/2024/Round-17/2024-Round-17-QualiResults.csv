@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,17,Azerbaijan Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:42.775,1:42.056,1:41.365
+2024,17,Azerbaijan Grand Prix,2,PIA,Oscar,Piastri,Australian,McLaren,1:43.033,1:42.598,1:41.686
+2024,17,Azerbaijan Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:43.357,1:42.503,1:41.805
+2024,17,Azerbaijan Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:43.213,1:42.263,1:41.813
+2024,17,Azerbaijan Grand Prix,5,RUS,George,Russell,British,Mercedes,1:43.139,1:42.329,1:41.874
+2024,17,Azerbaijan Grand Prix,6,VER,Max,Verstappen,Dutch,Red Bull,1:43.097,1:42.042,1:42.023
+2024,17,Azerbaijan Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:43.089,1:42.765,1:42.289
+2024,17,Azerbaijan Grand Prix,8,ALO,Fernando,Alonso,Spanish,Aston Martin,1:43.472,1:42.426,1:42.369
+2024,17,Azerbaijan Grand Prix,9,COL,Franco,Colapinto,Argentinian,Williams,1:43.138,1:42.473,1:42.530
+2024,17,Azerbaijan Grand Prix,10,ALB,Alexander,Albon,Thai,Williams,1:42.899,1:42.840,1:42.859
+2024,17,Azerbaijan Grand Prix,11,BEA,Oliver,Bearman,British,Haas F1 Team,1:43.471,1:42.968,
+2024,17,Azerbaijan Grand Prix,12,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:43.337,1:43.035,
+2024,17,Azerbaijan Grand Prix,13,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:43.101,1:43.191,
+2024,17,Azerbaijan Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:43.370,1:43.404,
+2024,17,Azerbaijan Grand Prix,15,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:43.547,,
+2024,17,Azerbaijan Grand Prix,16,NOR,Lando,Norris,British,McLaren,1:43.609,,
+2024,17,Azerbaijan Grand Prix,17,BOT,Valtteri,Bottas,Finnish,Sauber,1:43.618,,
+2024,17,Azerbaijan Grand Prix,18,ZHO,Guanyu,Zhou,Chinese,Sauber,1:44.246,,
+2024,17,Azerbaijan Grand Prix,19,OCO,Esteban,Ocon,French,Alpine F1 Team,1:44.504,,
+2024,17,Azerbaijan Grand Prix,20,GAS,Pierre,Gasly,French,Alpine F1 Team,1:43.088,,

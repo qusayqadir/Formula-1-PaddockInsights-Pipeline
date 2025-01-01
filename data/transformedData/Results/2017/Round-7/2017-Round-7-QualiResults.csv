@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,7,Canadian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:12.692,1:12.496,1:11.459
+2017,7,Canadian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:13.046,1:12.749,1:11.789
+2017,7,Canadian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:12.685,1:12.563,1:12.177
+2017,7,Canadian Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:13.548,1:12.580,1:12.252
+2017,7,Canadian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:13.177,1:12.751,1:12.403
+2017,7,Canadian Grand Prix,6,RIC,Daniel,Ricciardo,Australian,Red Bull,1:13.543,1:12.810,1:12.557
+2017,7,Canadian Grand Prix,7,MAS,Felipe,Massa,Brazilian,Williams,1:13.435,1:13.012,1:12.858
+2017,7,Canadian Grand Prix,8,PER,Sergio,Pérez,Mexican,Force India,1:13.470,1:13.262,1:13.018
+2017,7,Canadian Grand Prix,9,OCO,Esteban,Ocon,French,Force India,1:13.520,1:13.320,1:13.135
+2017,7,Canadian Grand Prix,10,HUL,Nico,Hülkenberg,German,Renault,1:13.804,1:13.406,1:13.271
+2017,7,Canadian Grand Prix,11,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:13.802,1:13.690,
+2017,7,Canadian Grand Prix,12,ALO,Fernando,Alonso,Spanish,McLaren,1:13.669,1:13.693,
+2017,7,Canadian Grand Prix,13,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:14.051,1:13.756,
+2017,7,Canadian Grand Prix,14,GRO,Romain,Grosjean,French,Haas F1 Team,1:13.780,1:13.839,
+2017,7,Canadian Grand Prix,15,PAL,Jolyon,Palmer,British,Renault,1:13.990,1:14.293,
+2017,7,Canadian Grand Prix,16,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:14.182,,
+2017,7,Canadian Grand Prix,17,STR,Lance,Stroll,Canadian,Williams,1:14.209,,
+2017,7,Canadian Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:14.318,,
+2017,7,Canadian Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:14.495,,
+2017,7,Canadian Grand Prix,20,WEH,Pascal,Wehrlein,German,Sauber,1:14.810,,

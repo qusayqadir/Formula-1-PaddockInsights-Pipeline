@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,6,Monaco Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:11.542,1:10.835,1:10.166
+2019,6,Monaco Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:11.562,1:10.701,1:10.252
+2019,6,Monaco Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:11.597,1:10.618,1:10.641
+2019,6,Monaco Grand Prix,4,VET,Sebastian,Vettel,German,Ferrari,1:11.434,1:11.227,1:10.947
+2019,6,Monaco Grand Prix,5,GAS,Pierre,Gasly,French,Red Bull,1:11.740,1:11.457,1:11.041
+2019,6,Monaco Grand Prix,6,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:11.865,1:11.363,1:11.109
+2019,6,Monaco Grand Prix,7,RIC,Daniel,Ricciardo,Australian,Renault,1:11.767,1:11.543,1:11.218
+2019,6,Monaco Grand Prix,8,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:11.602,1:11.412,1:11.271
+2019,6,Monaco Grand Prix,9,SAI,Carlos,Sainz,Spanish,McLaren,1:11.872,1:11.608,1:11.417
+2019,6,Monaco Grand Prix,10,ALB,Alexander,Albon,Thai,Toro Rosso,1:12.007,1:11.429,1:11.653
+2019,6,Monaco Grand Prix,11,HUL,Nico,Hülkenberg,German,Renault,1:12.097,1:11.670,
+2019,6,Monaco Grand Prix,12,NOR,Lando,Norris,British,McLaren,1:11.845,1:11.724,
+2019,6,Monaco Grand Prix,13,GRO,Romain,Grosjean,French,Haas F1 Team,1:11.837,1:12.027,
+2019,6,Monaco Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:11.993,1:12.115,
+2019,6,Monaco Grand Prix,15,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:11.976,1:12.185,
+2019,6,Monaco Grand Prix,16,LEC,Charles,Leclerc,Monegasque,Ferrari,1:12.149,,
+2019,6,Monaco Grand Prix,17,PER,Sergio,Pérez,Mexican,Racing Point,1:12.233,,
+2019,6,Monaco Grand Prix,18,STR,Lance,Stroll,Canadian,Racing Point,1:12.846,,
+2019,6,Monaco Grand Prix,19,RUS,George,Russell,British,Williams,1:13.477,,
+2019,6,Monaco Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:13.751,,

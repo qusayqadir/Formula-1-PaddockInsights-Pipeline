@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,10,British Grand Prix,1,SAI,Carlos,Sainz,Spanish,Ferrari,1:40.190,1:41.602,1:40.983
+2022,10,British Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:39.129,1:40.655,1:41.055
+2022,10,British Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:39.846,1:41.247,1:41.298
+2022,10,British Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:40.521,1:42.513,1:41.616
+2022,10,British Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:40.428,1:41.062,1:41.995
+2022,10,British Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:41.515,1:41.821,1:42.084
+2022,10,British Grand Prix,7,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:41.598,1:42.209,1:42.116
+2022,10,British Grand Prix,8,RUS,George,Russell,British,Mercedes,1:40.028,1:41.725,1:42.161
+2022,10,British Grand Prix,9,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:40.791,1:42.640,1:42.719
+2022,10,British Grand Prix,10,LAT,Nicholas,Latifi,Canadian,Williams,1:41.998,1:43.273,2:03.095
+2022,10,British Grand Prix,11,GAS,Pierre,Gasly,French,AlphaTauri,1:41.680,1:43.702,
+2022,10,British Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:41.396,1:44.232,
+2022,10,British Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:41.893,1:44.311,
+2022,10,British Grand Prix,14,RIC,Daniel,Ricciardo,Australian,McLaren,1:41.933,1:44.355,
+2022,10,British Grand Prix,15,OCO,Esteban,Ocon,French,Alpine F1 Team,1:41.730,1:45.190,
+2022,10,British Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:42.078,,
+2022,10,British Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:42.159,,
+2022,10,British Grand Prix,18,VET,Sebastian,Vettel,German,Aston Martin,1:42.666,,
+2022,10,British Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:42.708,,
+2022,10,British Grand Prix,20,STR,Lance,Stroll,Canadian,Aston Martin,1:43.430,,

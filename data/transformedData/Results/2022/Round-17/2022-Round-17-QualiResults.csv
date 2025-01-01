@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,17,Singapore Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:54.129,1:52.343,1:49.412
+2022,17,Singapore Grand Prix,2,PER,Sergio,Pérez,Mexican,Red Bull,1:54.404,1:52.818,1:49.434
+2022,17,Singapore Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:53.161,1:52.691,1:49.466
+2022,17,Singapore Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:54.559,1:53.219,1:49.583
+2022,17,Singapore Grand Prix,5,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:55.360,1:53.127,1:49.966
+2022,17,Singapore Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:55.914,1:53.942,1:50.584
+2022,17,Singapore Grand Prix,7,GAS,Pierre,Gasly,French,AlphaTauri,1:55.606,1:53.546,1:51.211
+2022,17,Singapore Grand Prix,8,VER,Max,Verstappen,Dutch,Red Bull,1:53.057,1:52.723,1:51.395
+2022,17,Singapore Grand Prix,9,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:55.103,1:54.006,1:51.573
+2022,17,Singapore Grand Prix,10,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:55.314,1:53.848,1:51.983
+2022,17,Singapore Grand Prix,11,RUS,George,Russell,British,Mercedes,1:54.633,1:54.012,
+2022,17,Singapore Grand Prix,12,STR,Lance,Stroll,Canadian,Aston Martin,1:55.629,1:54.211,
+2022,17,Singapore Grand Prix,13,MSC,Mick,Schumacher,German,Haas F1 Team,1:55.736,1:54.370,
+2022,17,Singapore Grand Prix,14,VET,Sebastian,Vettel,German,Aston Martin,1:55.602,1:54.380,
+2022,17,Singapore Grand Prix,15,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:55.375,1:55.518,
+2022,17,Singapore Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:56.083,,
+2022,17,Singapore Grand Prix,17,RIC,Daniel,Ricciardo,Australian,McLaren,1:56.226,,
+2022,17,Singapore Grand Prix,18,OCO,Esteban,Ocon,French,Alpine F1 Team,1:56.337,,
+2022,17,Singapore Grand Prix,19,ALB,Alexander,Albon,Thai,Williams,1:56.985,,
+2022,17,Singapore Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:57.532,,

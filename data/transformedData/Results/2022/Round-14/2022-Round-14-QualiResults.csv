@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,14,Belgian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:44.581,1:44.723,1:43.665
+2022,14,Belgian Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:45.050,1:45.418,1:44.297
+2022,14,Belgian Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:45.377,1:44.794,1:44.462
+2022,14,Belgian Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:45.572,1:44.551,1:44.553
+2022,14,Belgian Grand Prix,5,OCO,Esteban,Ocon,French,Alpine F1 Team,1:46.039,1:45.475,1:45.180
+2022,14,Belgian Grand Prix,6,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:46.075,1:45.552,1:45.368
+2022,14,Belgian Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:45.736,1:45.420,1:45.503
+2022,14,Belgian Grand Prix,8,RUS,George,Russell,British,Mercedes,1:45.650,1:45.461,1:45.776
+2022,14,Belgian Grand Prix,9,ALB,Alexander,Albon,Thai,Williams,1:45.672,1:45.675,1:45.837
+2022,14,Belgian Grand Prix,10,NOR,Lando,Norris,British,McLaren,1:45.745,1:45.603,1:46.178
+2022,14,Belgian Grand Prix,11,RIC,Daniel,Ricciardo,Australian,McLaren,1:46.212,1:45.767,
+2022,14,Belgian Grand Prix,12,GAS,Pierre,Gasly,French,AlphaTauri,1:46.183,1:45.827,
+2022,14,Belgian Grand Prix,13,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:46.178,1:46.085,
+2022,14,Belgian Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:46.256,1:46.611,
+2022,14,Belgian Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:46.342,1:47.718,
+2022,14,Belgian Grand Prix,16,VET,Sebastian,Vettel,German,Aston Martin,1:46.344,,
+2022,14,Belgian Grand Prix,17,LAT,Nicholas,Latifi,Canadian,Williams,1:46.401,,
+2022,14,Belgian Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:46.557,,
+2022,14,Belgian Grand Prix,19,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:46.692,,
+2022,14,Belgian Grand Prix,20,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:47.866,,

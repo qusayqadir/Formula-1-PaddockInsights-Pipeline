@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,20,São Paulo Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:10.436,1:10.162,1:10.727
+2023,20,São Paulo Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:10.472,1:10.303,1:11.021
+2023,20,São Paulo Grand Prix,3,STR,Lance,Stroll,Canadian,Aston Martin,1:10.551,1:10.375,1:11.344
+2023,20,São Paulo Grand Prix,4,ALO,Fernando,Alonso,Spanish,Aston Martin,1:10.557,1:10.237,1:11.387
+2023,20,São Paulo Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:10.604,1:10.266,1:11.469
+2023,20,São Paulo Grand Prix,6,RUS,George,Russell,British,Mercedes,1:10.340,1:10.316,1:11.590
+2023,20,São Paulo Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:10.623,1:10.021,1:11.987
+2023,20,São Paulo Grand Prix,8,SAI,Carlos,Sainz,Spanish,Ferrari,1:10.624,1:10.254,1:11.989
+2023,20,São Paulo Grand Prix,9,PER,Sergio,Pérez,Mexican,Red Bull,1:10.668,1:10.219,1:12.321
+2023,20,São Paulo Grand Prix,10,PIA,Oscar,Piastri,Australian,McLaren,1:10.519,1:10.330,
+2023,20,São Paulo Grand Prix,11,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:10.475,1:10.547,
+2023,20,São Paulo Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:10.763,1:10.562,
+2023,20,São Paulo Grand Prix,13,GAS,Pierre,Gasly,French,Alpine F1 Team,1:10.793,1:10.567,
+2023,20,São Paulo Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:10.602,1:10.723,
+2023,20,São Paulo Grand Prix,15,ALB,Alexander,Albon,Thai,Williams,1:10.621,1:10.840,
+2023,20,São Paulo Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:10.837,,
+2023,20,São Paulo Grand Prix,17,RIC,Daniel,Ricciardo,Australian,AlphaTauri,1:10.843,,
+2023,20,São Paulo Grand Prix,18,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:10.955,,
+2023,20,São Paulo Grand Prix,19,SAR,Logan,Sargeant,American,Williams,1:11.035,,
+2023,20,São Paulo Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:11.275,,

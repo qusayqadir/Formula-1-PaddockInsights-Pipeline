@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,11,Austrian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:05.336,1:04.469,1:04.314
+2024,11,Austrian Grand Prix,2,NOR,Lando,Norris,British,McLaren,1:05.450,1:05.103,1:04.718
+2024,11,Austrian Grand Prix,3,RUS,George,Russell,British,Mercedes,1:05.585,1:05.016,1:04.840
+2024,11,Austrian Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:05.263,1:05.016,1:04.851
+2024,11,Austrian Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:05.541,1:05.053,1:04.903
+2024,11,Austrian Grand Prix,6,LEC,Charles,Leclerc,Monegasque,Ferrari,1:05.509,1:05.104,1:05.044
+2024,11,Austrian Grand Prix,7,PIA,Oscar,Piastri,Australian,McLaren,1:05.311,1:05.070,1:05.048
+2024,11,Austrian Grand Prix,8,PER,Sergio,Pérez,Mexican,Red Bull,1:05.587,1:05.144,1:05.202
+2024,11,Austrian Grand Prix,9,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:05.596,1:05.262,1:05.385
+2024,11,Austrian Grand Prix,10,OCO,Esteban,Ocon,French,Alpine F1 Team,1:05.574,1:05.274,1:05.883
+2024,11,Austrian Grand Prix,11,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:05.569,1:05.289,
+2024,11,Austrian Grand Prix,12,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:05.508,1:05.347,
+2024,11,Austrian Grand Prix,13,GAS,Pierre,Gasly,French,Alpine F1 Team,1:05.598,1:05.359,
+2024,11,Austrian Grand Prix,14,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:05.563,1:05.412,
+2024,11,Austrian Grand Prix,15,ALO,Fernando,Alonso,Spanish,Aston Martin,1:05.656,1:05.639,
+2024,11,Austrian Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:05.736,,
+2024,11,Austrian Grand Prix,17,STR,Lance,Stroll,Canadian,Aston Martin,1:05.819,,
+2024,11,Austrian Grand Prix,18,BOT,Valtteri,Bottas,Finnish,Sauber,1:05.847,,
+2024,11,Austrian Grand Prix,19,SAR,Logan,Sargeant,American,Williams,1:05.856,,
+2024,11,Austrian Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:06.061,,

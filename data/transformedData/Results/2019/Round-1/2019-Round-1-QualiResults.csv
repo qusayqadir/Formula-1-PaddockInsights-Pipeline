@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,1,Australian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:22.043,1:21.014,1:20.486
+2019,1,Australian Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:22.367,1:21.193,1:20.598
+2019,1,Australian Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:22.885,1:21.912,1:21.190
+2019,1,Australian Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:22.876,1:21.678,1:21.320
+2019,1,Australian Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:22.017,1:21.739,1:21.442
+2019,1,Australian Grand Prix,6,GRO,Romain,Grosjean,French,Haas F1 Team,1:22.959,1:21.870,1:21.826
+2019,1,Australian Grand Prix,7,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:22.519,1:22.221,1:22.099
+2019,1,Australian Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:22.702,1:22.423,1:22.304
+2019,1,Australian Grand Prix,9,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:22.966,1:22.349,1:22.314
+2019,1,Australian Grand Prix,10,PER,Sergio,Pérez,Mexican,Racing Point,1:22.908,1:22.532,1:22.781
+2019,1,Australian Grand Prix,11,HUL,Nico,Hülkenberg,German,Renault,1:22.540,1:22.562,
+2019,1,Australian Grand Prix,12,RIC,Daniel,Ricciardo,Australian,Renault,1:22.921,1:22.570,
+2019,1,Australian Grand Prix,13,ALB,Alexander,Albon,Thai,Toro Rosso,1:22.757,1:22.636,
+2019,1,Australian Grand Prix,14,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:22.431,1:22.714,
+2019,1,Australian Grand Prix,15,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:22.511,1:22.774,
+2019,1,Australian Grand Prix,16,STR,Lance,Stroll,Canadian,Racing Point,1:23.017,,
+2019,1,Australian Grand Prix,17,GAS,Pierre,Gasly,French,Red Bull,1:23.020,,
+2019,1,Australian Grand Prix,18,SAI,Carlos,Sainz,Spanish,McLaren,1:23.084,,
+2019,1,Australian Grand Prix,19,RUS,George,Russell,British,Williams,1:24.360,,
+2019,1,Australian Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:26.067,,

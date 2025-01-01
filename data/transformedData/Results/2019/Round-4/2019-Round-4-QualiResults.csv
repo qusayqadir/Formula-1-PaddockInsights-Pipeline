@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,4,Azerbaijan Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:42.026,1:41.500,1:40.495
+2019,4,Azerbaijan Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:41.614,1:41.580,1:40.554
+2019,4,Azerbaijan Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:42.042,1:41.889,1:40.797
+2019,4,Azerbaijan Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:41.727,1:41.388,1:41.069
+2019,4,Azerbaijan Grand Prix,5,PER,Sergio,Pérez,Mexican,Racing Point,1:42.249,1:41.870,1:41.593
+2019,4,Azerbaijan Grand Prix,6,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:42.324,1:42.221,1:41.681
+2019,4,Azerbaijan Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:42.371,1:42.084,1:41.886
+2019,4,Azerbaijan Grand Prix,8,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:42.140,1:42.381,1:42.424
+2019,4,Azerbaijan Grand Prix,9,LEC,Charles,Leclerc,Monegasque,Ferrari,1:41.426,1:41.995,
+2019,4,Azerbaijan Grand Prix,10,SAI,Carlos,Sainz,Spanish,McLaren,1:41.936,1:42.398,
+2019,4,Azerbaijan Grand Prix,11,RIC,Daniel,Ricciardo,Australian,Renault,1:42.486,1:42.477,
+2019,4,Azerbaijan Grand Prix,12,ALB,Alexander,Albon,Thai,Toro Rosso,1:42.154,1:42.494,
+2019,4,Azerbaijan Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:42.382,1:42.699,
+2019,4,Azerbaijan Grand Prix,14,STR,Lance,Stroll,Canadian,Racing Point,1:42.630,,
+2019,4,Azerbaijan Grand Prix,15,GRO,Romain,Grosjean,French,Haas F1 Team,1:43.407,,
+2019,4,Azerbaijan Grand Prix,16,HUL,Nico,Hülkenberg,German,Renault,1:43.427,,
+2019,4,Azerbaijan Grand Prix,17,RUS,George,Russell,British,Williams,1:45.062,,
+2019,4,Azerbaijan Grand Prix,18,KUB,Robert,Kubica,Polish,Williams,1:45.455,,
+2019,4,Azerbaijan Grand Prix,19,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,"",,
+2019,4,Azerbaijan Grand Prix,20,GAS,Pierre,Gasly,French,Red Bull,"",,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,2,Saudi Arabian Grand Prix,1,PER,Sergio,Pérez,Mexican,Red Bull,1:29.244,1:28.635,1:28.265
+2023,2,Saudi Arabian Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:29.376,1:28.903,1:28.420
+2023,2,Saudi Arabian Grand Prix,3,ALO,Fernando,Alonso,Spanish,Aston Martin,1:29.298,1:28.757,1:28.730
+2023,2,Saudi Arabian Grand Prix,4,RUS,George,Russell,British,Mercedes,1:29.592,1:29.132,1:28.857
+2023,2,Saudi Arabian Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:29.411,1:28.957,1:28.931
+2023,2,Saudi Arabian Grand Prix,6,STR,Lance,Stroll,Canadian,Aston Martin,1:29.335,1:28.962,1:28.945
+2023,2,Saudi Arabian Grand Prix,7,OCO,Esteban,Ocon,French,Alpine F1 Team,1:29.707,1:29.255,1:29.078
+2023,2,Saudi Arabian Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:29.689,1:29.374,1:29.223
+2023,2,Saudi Arabian Grand Prix,9,PIA,Oscar,Piastri,Australian,McLaren,1:29.706,1:29.378,1:29.243
+2023,2,Saudi Arabian Grand Prix,10,GAS,Pierre,Gasly,French,Alpine F1 Team,1:29.890,1:29.411,1:29.357
+2023,2,Saudi Arabian Grand Prix,11,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:29.547,1:29.451,
+2023,2,Saudi Arabian Grand Prix,12,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:29.654,1:29.461,
+2023,2,Saudi Arabian Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:29.744,1:29.634,
+2023,2,Saudi Arabian Grand Prix,14,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:29.929,1:29.668,
+2023,2,Saudi Arabian Grand Prix,15,VER,Max,Verstappen,Dutch,Red Bull,1:28.761,1:49.953,
+2023,2,Saudi Arabian Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:29.939,,
+2023,2,Saudi Arabian Grand Prix,17,ALB,Alexander,Albon,Thai,Williams,1:29.994,,
+2023,2,Saudi Arabian Grand Prix,18,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:30.244,,
+2023,2,Saudi Arabian Grand Prix,19,NOR,Lando,Norris,British,McLaren,1:30.447,,
+2023,2,Saudi Arabian Grand Prix,20,SAR,Logan,Sargeant,American,Williams,2:08.510,,

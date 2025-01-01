@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,8,Canadian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:20.851,1:19.092,1:25.858
+2023,8,Canadian Grand Prix,2,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:22.730,1:20.305,1:27.102
+2023,8,Canadian Grand Prix,3,ALO,Fernando,Alonso,Spanish,Aston Martin,1:21.481,1:19.776,1:27.286
+2023,8,Canadian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:21.554,1:20.426,1:27.627
+2023,8,Canadian Grand Prix,5,RUS,George,Russell,British,Mercedes,1:21.798,1:20.098,1:27.893
+2023,8,Canadian Grand Prix,6,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.114,1:20.406,1:27.945
+2023,8,Canadian Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:21.998,1:19.347,1:28.046
+2023,8,Canadian Grand Prix,8,SAI,Carlos,Sainz,Spanish,Ferrari,1:22.248,1:19.856,1:29.294
+2023,8,Canadian Grand Prix,9,PIA,Oscar,Piastri,Australian,McLaren,1:22.190,1:19.659,1:31.349
+2023,8,Canadian Grand Prix,10,ALB,Alexander,Albon,Thai,Williams,1:21.938,1:18.725,
+2023,8,Canadian Grand Prix,11,LEC,Charles,Leclerc,Monegasque,Ferrari,1:21.843,1:20.615,
+2023,8,Canadian Grand Prix,12,PER,Sergio,Pérez,Mexican,Red Bull,1:22.151,1:20.959,
+2023,8,Canadian Grand Prix,13,STR,Lance,Stroll,Canadian,Aston Martin,1:22.677,1:21.484,
+2023,8,Canadian Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:22.351,1:21.678,
+2023,8,Canadian Grand Prix,15,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:22.332,1:21.821,
+2023,8,Canadian Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:22.746,,
+2023,8,Canadian Grand Prix,17,GAS,Pierre,Gasly,French,Alpine F1 Team,1:22.886,,
+2023,8,Canadian Grand Prix,18,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:23.137,,
+2023,8,Canadian Grand Prix,19,SAR,Logan,Sargeant,American,Williams,1:23.337,,
+2023,8,Canadian Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:23.342,,

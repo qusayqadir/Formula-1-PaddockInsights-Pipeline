@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,10,Spanish Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:12.386,1:11.872,1:11.383
+2024,10,Spanish Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:12.306,1:11.653,1:11.403
+2024,10,Spanish Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:12.143,1:11.792,1:11.701
+2024,10,Spanish Grand Prix,4,RUS,George,Russell,British,Mercedes,1:12.456,1:11.812,1:11.703
+2024,10,Spanish Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:12.257,1:12.038,1:11.731
+2024,10,Spanish Grand Prix,6,SAI,Carlos,Sainz,Spanish,Ferrari,1:12.403,1:11.874,1:11.736
+2024,10,Spanish Grand Prix,7,GAS,Pierre,Gasly,French,Alpine F1 Team,1:12.651,1:12.079,1:11.857
+2024,10,Spanish Grand Prix,8,PER,Sergio,Pérez,Mexican,Red Bull,1:12.477,1:12.054,1:12.061
+2024,10,Spanish Grand Prix,9,OCO,Esteban,Ocon,French,Alpine F1 Team,1:12.691,1:12.109,1:12.125
+2024,10,Spanish Grand Prix,10,PIA,Oscar,Piastri,Australian,McLaren,1:12.460,1:12.011,
+2024,10,Spanish Grand Prix,11,ALO,Fernando,Alonso,Spanish,Aston Martin,1:12.505,1:12.128,
+2024,10,Spanish Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Sauber,1:12.758,1:12.227,
+2024,10,Spanish Grand Prix,13,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:12.708,1:12.310,
+2024,10,Spanish Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:12.881,1:12.372,
+2024,10,Spanish Grand Prix,15,ZHO,Guanyu,Zhou,Chinese,Sauber,1:12.880,1:12.738,
+2024,10,Spanish Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:12.937,,
+2024,10,Spanish Grand Prix,17,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:12.985,,
+2024,10,Spanish Grand Prix,18,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:13.075,,
+2024,10,Spanish Grand Prix,19,ALB,Alexander,Albon,Thai,Williams,1:13.153,,
+2024,10,Spanish Grand Prix,20,SAR,Logan,Sargeant,American,Williams,1:13.509,,

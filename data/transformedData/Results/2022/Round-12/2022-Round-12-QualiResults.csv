@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,12,French Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:31.727,1:31.216,1:30.872
+2022,12,French Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:31.891,1:31.990,1:31.176
+2022,12,French Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:32.354,1:32.120,1:31.335
+2022,12,French Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:33.041,1:32.274,1:31.765
+2022,12,French Grand Prix,5,NOR,Lando,Norris,British,McLaren,1:32.672,1:32.777,1:32.032
+2022,12,French Grand Prix,6,RUS,George,Russell,British,Mercedes,1:33.109,1:32.633,1:32.131
+2022,12,French Grand Prix,7,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:32.819,1:32.631,1:32.552
+2022,12,French Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:33.394,1:32.836,1:32.780
+2022,12,French Grand Prix,9,SAI,Carlos,Sainz,Spanish,Ferrari,1:32.297,1:31.081,
+2022,12,French Grand Prix,10,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:32.756,1:32.649,
+2022,12,French Grand Prix,11,RIC,Daniel,Ricciardo,Australian,McLaren,1:33.404,1:32.922,
+2022,12,French Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:33.346,1:33.048,
+2022,12,French Grand Prix,13,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:33.034,1:33.052,
+2022,12,French Grand Prix,14,VET,Sebastian,Vettel,German,Aston Martin,1:33.285,1:33.276,
+2022,12,French Grand Prix,15,ALB,Alexander,Albon,Thai,Williams,1:33.423,1:33.307,
+2022,12,French Grand Prix,16,GAS,Pierre,Gasly,French,AlphaTauri,1:33.439,,
+2022,12,French Grand Prix,17,STR,Lance,Stroll,Canadian,Aston Martin,1:33.439,,
+2022,12,French Grand Prix,18,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:33.674,,
+2022,12,French Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:33.701,,
+2022,12,French Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:33.794,,

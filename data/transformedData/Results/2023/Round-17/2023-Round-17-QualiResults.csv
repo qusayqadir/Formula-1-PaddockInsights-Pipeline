@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,17,Qatar Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:25.007,1:24.483,1:23.778
+2023,17,Qatar Grand Prix,2,RUS,George,Russell,British,Mercedes,1:25.334,1:24.827,1:24.219
+2023,17,Qatar Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:26.076,1:24.381,1:24.305
+2023,17,Qatar Grand Prix,4,ALO,Fernando,Alonso,Spanish,Aston Martin,1:25.223,1:25.241,1:24.369
+2023,17,Qatar Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:25.452,1:25.079,1:24.424
+2023,17,Qatar Grand Prix,6,PIA,Oscar,Piastri,Australian,McLaren,1:25.266,1:24.724,1:24.540
+2023,17,Qatar Grand Prix,7,GAS,Pierre,Gasly,French,Alpine F1 Team,1:25.566,1:24.918,1:24.553
+2023,17,Qatar Grand Prix,8,OCO,Esteban,Ocon,French,Alpine F1 Team,1:25.711,1:24.928,1:24.763
+2023,17,Qatar Grand Prix,9,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:26.038,1:25.297,1:25.058
+2023,17,Qatar Grand Prix,10,NOR,Lando,Norris,British,McLaren,1:25.131,1:24.685,
+2023,17,Qatar Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:26.058,1:25.301,
+2023,17,Qatar Grand Prix,12,SAI,Carlos,Sainz,Spanish,Ferrari,1:25.808,1:25.328,
+2023,17,Qatar Grand Prix,13,PER,Sergio,Pérez,Mexican,Red Bull,1:25.991,1:25.462,
+2023,17,Qatar Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:26.118,1:25.707,
+2023,17,Qatar Grand Prix,15,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:25.904,1:25.783,
+2023,17,Qatar Grand Prix,16,SAR,Logan,Sargeant,American,Williams,1:26.210,,
+2023,17,Qatar Grand Prix,17,STR,Lance,Stroll,Canadian,Aston Martin,1:26.345,,
+2023,17,Qatar Grand Prix,18,LAW,Liam,Lawson,New Zealander,AlphaTauri,1:26.635,,
+2023,17,Qatar Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:27.046,,
+2023,17,Qatar Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:27.432,,

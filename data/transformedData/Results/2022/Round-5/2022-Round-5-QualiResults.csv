@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,5,Miami Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:29.474,1:29.130,1:28.796
+2022,5,Miami Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:30.079,1:29.729,1:28.986
+2022,5,Miami Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:29.836,1:29.202,1:28.991
+2022,5,Miami Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:30.055,1:29.673,1:29.036
+2022,5,Miami Grand Prix,5,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:30.845,1:29.751,1:29.475
+2022,5,Miami Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:30.388,1:29.797,1:29.625
+2022,5,Miami Grand Prix,7,GAS,Pierre,Gasly,French,AlphaTauri,1:30.779,1:30.128,1:29.690
+2022,5,Miami Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:30.761,1:29.634,1:29.750
+2022,5,Miami Grand Prix,9,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:30.485,1:30.031,1:29.932
+2022,5,Miami Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:30.441,1:29.996,1:30.676
+2022,5,Miami Grand Prix,11,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:30.407,1:30.160,
+2022,5,Miami Grand Prix,12,RUS,George,Russell,British,Mercedes,1:30.490,1:30.173,
+2022,5,Miami Grand Prix,13,VET,Sebastian,Vettel,German,Aston Martin,1:30.677,1:30.214,
+2022,5,Miami Grand Prix,14,RIC,Daniel,Ricciardo,Australian,McLaren,1:30.583,1:30.310,
+2022,5,Miami Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:30.645,1:30.423,
+2022,5,Miami Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:30.975,,
+2022,5,Miami Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:31.020,,
+2022,5,Miami Grand Prix,18,ALB,Alexander,Albon,Thai,Williams,1:31.266,,
+2022,5,Miami Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:31.325,,
+2022,5,Miami Grand Prix,20,OCO,Esteban,Ocon,French,Alpine F1 Team,"",,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,6,Spanish Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:19.861,1:19.969,1:18.750
+2022,6,Spanish Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:20.091,1:19.219,1:19.073
+2022,6,Spanish Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:19.892,1:19.453,1:19.166
+2022,6,Spanish Grand Prix,4,RUS,George,Russell,British,Mercedes,1:20.218,1:19.470,1:19.393
+2022,6,Spanish Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:20.447,1:19.830,1:19.420
+2022,6,Spanish Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:20.252,1:19.794,1:19.512
+2022,6,Spanish Grand Prix,7,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:20.355,1:20.053,1:19.608
+2022,6,Spanish Grand Prix,8,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.227,1:19.810,1:19.682
+2022,6,Spanish Grand Prix,9,RIC,Daniel,Ricciardo,Australian,McLaren,1:20.549,1:20.287,1:20.297
+2022,6,Spanish Grand Prix,10,MSC,Mick,Schumacher,German,Haas F1 Team,1:20.683,1:20.436,1:20.368
+2022,6,Spanish Grand Prix,11,NOR,Lando,Norris,British,McLaren,1:20.838,1:20.471,
+2022,6,Spanish Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:20.880,1:20.638,
+2022,6,Spanish Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:20.707,1:20.639,
+2022,6,Spanish Grand Prix,14,GAS,Pierre,Gasly,French,AlphaTauri,1:20.719,1:20.861,
+2022,6,Spanish Grand Prix,15,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:20.476,1:21.094,
+2022,6,Spanish Grand Prix,16,VET,Sebastian,Vettel,German,Aston Martin,1:20.954,,
+2022,6,Spanish Grand Prix,17,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:21.043,,
+2022,6,Spanish Grand Prix,18,STR,Lance,Stroll,Canadian,Aston Martin,1:21.418,,
+2022,6,Spanish Grand Prix,19,ALB,Alexander,Albon,Thai,Williams,1:21.645,,
+2022,6,Spanish Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:21.915,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,2,Bahrain Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:28.495,1:28.046,1:27.866
+2019,2,Bahrain Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:28.733,1:28.356,1:28.160
+2019,2,Bahrain Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:29.262,1:28.578,1:28.190
+2019,2,Bahrain Grand Prix,4,BOT,Valtteri,Bottas,Finnish,Mercedes,1:29.498,1:28.830,1:28.256
+2019,2,Bahrain Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:29.579,1:29.109,1:28.752
+2019,2,Bahrain Grand Prix,6,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:29.532,1:29.017,1:28.757
+2019,2,Bahrain Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:29.528,1:29.055,1:28.813
+2019,2,Bahrain Grand Prix,8,GRO,Romain,Grosjean,French,Haas F1 Team,1:29.688,1:29.249,1:29.015
+2019,2,Bahrain Grand Prix,9,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:29.959,1:29.471,1:29.022
+2019,2,Bahrain Grand Prix,10,NOR,Lando,Norris,British,McLaren,1:29.381,1:29.258,1:29.043
+2019,2,Bahrain Grand Prix,11,RIC,Daniel,Ricciardo,Australian,Renault,1:29.859,1:29.488,
+2019,2,Bahrain Grand Prix,12,ALB,Alexander,Albon,Thai,Toro Rosso,1:29.514,1:29.513,
+2019,2,Bahrain Grand Prix,13,GAS,Pierre,Gasly,French,Red Bull,1:29.900,1:29.526,
+2019,2,Bahrain Grand Prix,14,PER,Sergio,Pérez,Mexican,Racing Point,1:29.893,1:29.756,
+2019,2,Bahrain Grand Prix,15,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:29.876,1:29.854,
+2019,2,Bahrain Grand Prix,16,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:30.026,,
+2019,2,Bahrain Grand Prix,17,HUL,Nico,Hülkenberg,German,Renault,1:30.034,,
+2019,2,Bahrain Grand Prix,18,STR,Lance,Stroll,Canadian,Racing Point,1:30.217,,
+2019,2,Bahrain Grand Prix,19,RUS,George,Russell,British,Williams,1:31.759,,
+2019,2,Bahrain Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:31.799,,

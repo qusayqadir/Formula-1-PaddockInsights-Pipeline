@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2018,20,Brazilian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:08.464,1:07.795,1:07.281
+2018,20,Brazilian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:08.452,1:07.776,1:07.374
+2018,20,Brazilian Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:08.492,1:07.727,1:07.441
+2018,20,Brazilian Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:08.452,1:08.028,1:07.456
+2018,20,Brazilian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:08.205,1:08.017,1:07.778
+2018,20,Brazilian Grand Prix,6,RIC,Daniel,Ricciardo,Australian,Red Bull,1:08.544,1:08.055,1:07.780
+2018,20,Brazilian Grand Prix,7,ERI,Marcus,Ericsson,Swedish,Sauber,1:08.754,1:08.579,1:08.296
+2018,20,Brazilian Grand Prix,8,LEC,Charles,Leclerc,Monegasque,Sauber,1:08.667,1:08.335,1:08.492
+2018,20,Brazilian Grand Prix,9,GRO,Romain,Grosjean,French,Haas F1 Team,1:08.735,1:08.239,1:08.517
+2018,20,Brazilian Grand Prix,10,GAS,Pierre,Gasly,French,Toro Rosso,1:09.046,1:08.616,1:09.029
+2018,20,Brazilian Grand Prix,11,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:08.474,1:08.659,
+2018,20,Brazilian Grand Prix,12,PER,Sergio,Pérez,Mexican,Force India,1:09.217,1:08.741,
+2018,20,Brazilian Grand Prix,13,OCO,Esteban,Ocon,French,Force India,1:09.264,1:08.770,
+2018,20,Brazilian Grand Prix,14,HUL,Nico,Hülkenberg,German,Renault,1:09.009,1:08.834,
+2018,20,Brazilian Grand Prix,15,SIR,Sergey,Sirotkin,Russian,Williams,1:09.259,1:10.381,
+2018,20,Brazilian Grand Prix,16,SAI,Carlos,Sainz,Spanish,Renault,1:09.269,,
+2018,20,Brazilian Grand Prix,17,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:09.280,,
+2018,20,Brazilian Grand Prix,18,ALO,Fernando,Alonso,Spanish,McLaren,1:09.402,,
+2018,20,Brazilian Grand Prix,19,STR,Lance,Stroll,Canadian,Williams,1:09.441,,
+2018,20,Brazilian Grand Prix,20,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:09.601,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,12,Belgian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:58.717,1:56.559,1:59.765
+2021,12,Belgian Grand Prix,2,RUS,George,Russell,British,Williams,1:59.864,1:56.950,2:00.086
+2021,12,Belgian Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:59.218,1:56.229,2:00.099
+2021,12,Belgian Grand Prix,4,RIC,Daniel,Ricciardo,Australian,McLaren,2:01.583,1:57.127,2:00.864
+2021,12,Belgian Grand Prix,5,VET,Sebastian,Vettel,German,Aston Martin,2:00.175,1:56.814,2:00.935
+2021,12,Belgian Grand Prix,6,GAS,Pierre,Gasly,French,AlphaTauri,2:00.387,1:56.440,2:01.164
+2021,12,Belgian Grand Prix,7,PER,Sergio,Pérez,Mexican,Red Bull,1:59.334,1:56.886,2:02.112
+2021,12,Belgian Grand Prix,8,BOT,Valtteri,Bottas,Finnish,Mercedes,1:59.870,1:56.295,2:02.502
+2021,12,Belgian Grand Prix,9,OCO,Esteban,Ocon,French,Alpine F1 Team,2:01.824,1:57.354,2:03.513
+2021,12,Belgian Grand Prix,10,NOR,Lando,Norris,British,McLaren,1:58.301,1:56.025,
+2021,12,Belgian Grand Prix,11,LEC,Charles,Leclerc,Monegasque,Ferrari,2:00.728,1:57.721,
+2021,12,Belgian Grand Prix,12,LAT,Nicholas,Latifi,Canadian,Williams,2:00.966,1:58.056,
+2021,12,Belgian Grand Prix,13,SAI,Carlos,Sainz,Spanish,Ferrari,2:01.184,1:58.137,
+2021,12,Belgian Grand Prix,14,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,2:01.653,1:58.205,
+2021,12,Belgian Grand Prix,15,STR,Lance,Stroll,Canadian,Aston Martin,2:01.597,1:58.231,
+2021,12,Belgian Grand Prix,16,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,2:02.306,,
+2021,12,Belgian Grand Prix,17,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,2:02.413,,
+2021,12,Belgian Grand Prix,18,MSC,Mick,Schumacher,German,Haas F1 Team,2:03.973,,
+2021,12,Belgian Grand Prix,19,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,2:04.452,,
+2021,12,Belgian Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,2:04.939,,

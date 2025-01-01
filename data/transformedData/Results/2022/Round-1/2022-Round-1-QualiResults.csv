@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,1,Bahrain Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:31.471,1:30.932,1:30.558
+2022,1,Bahrain Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:31.785,1:30.757,1:30.681
+2022,1,Bahrain Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:31.567,1:30.787,1:30.687
+2022,1,Bahrain Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:32.311,1:31.008,1:30.921
+2022,1,Bahrain Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:32.285,1:31.048,1:31.238
+2022,1,Bahrain Grand Prix,6,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:31.919,1:31.717,1:31.560
+2022,1,Bahrain Grand Prix,7,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:31.955,1:31.461,1:31.808
+2022,1,Bahrain Grand Prix,8,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:32.346,1:31.621,1:32.195
+2022,1,Bahrain Grand Prix,9,RUS,George,Russell,British,Mercedes,1:32.269,1:31.252,1:32.216
+2022,1,Bahrain Grand Prix,10,GAS,Pierre,Gasly,French,AlphaTauri,1:32.096,1:31.635,1:32.338
+2022,1,Bahrain Grand Prix,11,OCO,Esteban,Ocon,French,Alpine F1 Team,1:32.041,1:31.782,
+2022,1,Bahrain Grand Prix,12,MSC,Mick,Schumacher,German,Haas F1 Team,1:32.380,1:31.998,
+2022,1,Bahrain Grand Prix,13,NOR,Lando,Norris,British,McLaren,1:32.239,1:32.008,
+2022,1,Bahrain Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:32.726,1:32.664,
+2022,1,Bahrain Grand Prix,15,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:32.493,1:33.543,
+2022,1,Bahrain Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:32.750,,
+2022,1,Bahrain Grand Prix,17,HUL,Nico,Hülkenberg,German,Aston Martin,1:32.777,,
+2022,1,Bahrain Grand Prix,18,RIC,Daniel,Ricciardo,Australian,McLaren,1:32.945,,
+2022,1,Bahrain Grand Prix,19,STR,Lance,Stroll,Canadian,Aston Martin,1:33.032,,
+2022,1,Bahrain Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:33.634,,

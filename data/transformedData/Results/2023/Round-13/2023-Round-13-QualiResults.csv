@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,13,Dutch Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:20.965,1:18.856,1:10.567
+2023,13,Dutch Grand Prix,2,NOR,Lando,Norris,British,McLaren,1:21.276,1:19.769,1:11.104
+2023,13,Dutch Grand Prix,3,RUS,George,Russell,British,Mercedes,1:21.345,1:19.620,1:11.294
+2023,13,Dutch Grand Prix,4,ALB,Alexander,Albon,Thai,Williams,1:20.939,1:19.399,1:11.419
+2023,13,Dutch Grand Prix,5,ALO,Fernando,Alonso,Spanish,Aston Martin,1:21.840,1:19.429,1:11.506
+2023,13,Dutch Grand Prix,6,SAI,Carlos,Sainz,Spanish,Ferrari,1:21.321,1:19.929,1:11.754
+2023,13,Dutch Grand Prix,7,PER,Sergio,Pérez,Mexican,Red Bull,1:21.972,1:19.856,1:11.880
+2023,13,Dutch Grand Prix,8,PIA,Oscar,Piastri,Australian,McLaren,1:21.231,1:19.392,1:11.938
+2023,13,Dutch Grand Prix,9,LEC,Charles,Leclerc,Monegasque,Ferrari,1:22.019,1:19.600,1:12.665
+2023,13,Dutch Grand Prix,10,SAR,Logan,Sargeant,American,Williams,1:22.036,1:20.067,1:16.748
+2023,13,Dutch Grand Prix,11,STR,Lance,Stroll,Canadian,Aston Martin,1:21.570,1:20.121,
+2023,13,Dutch Grand Prix,12,GAS,Pierre,Gasly,French,Alpine F1 Team,1:21.735,1:20.128,
+2023,13,Dutch Grand Prix,13,HAM,Lewis,Hamilton,British,Mercedes,1:21.919,1:20.151,
+2023,13,Dutch Grand Prix,14,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:21.781,1:20.230,
+2023,13,Dutch Grand Prix,15,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:21.891,1:20.250,
+2023,13,Dutch Grand Prix,16,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:22.067,,
+2023,13,Dutch Grand Prix,17,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.110,,
+2023,13,Dutch Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:22.192,,
+2023,13,Dutch Grand Prix,19,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:22.260,,
+2023,13,Dutch Grand Prix,20,LAW,Liam,Lawson,New Zealander,AlphaTauri,1:23.420,,

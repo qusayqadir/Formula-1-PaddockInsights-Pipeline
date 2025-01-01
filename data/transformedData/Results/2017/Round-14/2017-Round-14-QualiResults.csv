@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,14,Singapore Grand Prix,1,VET,Sebastian,Vettel,German,Ferrari,1:43.336,1:40.529,1:39.491
+2017,14,Singapore Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:42.010,1:40.332,1:39.814
+2017,14,Singapore Grand Prix,3,RIC,Daniel,Ricciardo,Australian,Red Bull,1:42.063,1:40.385,1:39.840
+2017,14,Singapore Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:43.328,1:40.525,1:40.069
+2017,14,Singapore Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:42.455,1:40.577,1:40.126
+2017,14,Singapore Grand Prix,6,BOT,Valtteri,Bottas,Finnish,Mercedes,1:43.137,1:41.409,1:40.810
+2017,14,Singapore Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:42.586,1:41.277,1:41.013
+2017,14,Singapore Grand Prix,8,ALO,Fernando,Alonso,Spanish,McLaren,1:42.086,1:41.442,1:41.179
+2017,14,Singapore Grand Prix,9,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:42.222,1:41.227,1:41.398
+2017,14,Singapore Grand Prix,10,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:42.176,1:41.826,1:42.056
+2017,14,Singapore Grand Prix,11,PAL,Jolyon,Palmer,British,Renault,1:42.472,1:42.107,
+2017,14,Singapore Grand Prix,12,PER,Sergio,Pérez,Mexican,Force India,1:43.594,1:42.246,
+2017,14,Singapore Grand Prix,13,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:42.544,1:42.338,
+2017,14,Singapore Grand Prix,14,OCO,Esteban,Ocon,French,Force India,1:43.626,1:42.760,
+2017,14,Singapore Grand Prix,15,GRO,Romain,Grosjean,French,Haas F1 Team,1:43.627,1:43.883,
+2017,14,Singapore Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:43.756,,
+2017,14,Singapore Grand Prix,17,MAS,Felipe,Massa,Brazilian,Williams,1:44.014,,
+2017,14,Singapore Grand Prix,18,STR,Lance,Stroll,Canadian,Williams,1:44.728,,
+2017,14,Singapore Grand Prix,19,WEH,Pascal,Wehrlein,German,Sauber,1:45.059,,
+2017,14,Singapore Grand Prix,20,ERI,Marcus,Ericsson,Swedish,Sauber,1:45.570,,

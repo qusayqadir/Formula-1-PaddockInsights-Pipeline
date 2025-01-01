@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,14,Italian Grand Prix,1,SAI,Carlos,Sainz,Spanish,Ferrari,1:21.965,1:20.991,1:20.294
+2023,14,Italian Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:21.573,1:20.937,1:20.307
+2023,14,Italian Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:21.788,1:20.977,1:20.361
+2023,14,Italian Grand Prix,4,RUS,George,Russell,British,Mercedes,1:22.148,1:21.382,1:20.671
+2023,14,Italian Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:21.911,1:21.240,1:20.688
+2023,14,Italian Grand Prix,6,ALB,Alexander,Albon,Thai,Williams,1:21.661,1:21.272,1:20.760
+2023,14,Italian Grand Prix,7,PIA,Oscar,Piastri,Australian,McLaren,1:22.106,1:21.527,1:20.785
+2023,14,Italian Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:21.977,1:21.369,1:20.820
+2023,14,Italian Grand Prix,9,NOR,Lando,Norris,British,McLaren,1:21.995,1:21.581,1:20.979
+2023,14,Italian Grand Prix,10,ALO,Fernando,Alonso,Spanish,Aston Martin,1:22.043,1:21.543,1:21.417
+2023,14,Italian Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:21.852,1:21.594,
+2023,14,Italian Grand Prix,12,LAW,Liam,Lawson,New Zealander,AlphaTauri,1:22.112,1:21.758,
+2023,14,Italian Grand Prix,13,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:22.343,1:21.776,
+2023,14,Italian Grand Prix,14,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:22.249,1:21.940,
+2023,14,Italian Grand Prix,15,SAR,Logan,Sargeant,American,Williams,1:21.930,1:21.944,
+2023,14,Italian Grand Prix,16,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:22.390,,
+2023,14,Italian Grand Prix,17,GAS,Pierre,Gasly,French,Alpine F1 Team,1:22.545,,
+2023,14,Italian Grand Prix,18,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.548,,
+2023,14,Italian Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:22.592,,
+2023,14,Italian Grand Prix,20,STR,Lance,Stroll,Canadian,Aston Martin,1:22.860,,

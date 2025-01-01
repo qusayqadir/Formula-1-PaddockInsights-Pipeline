@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,20,Brazilian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:08.242,1:07.503,1:07.508
+2019,20,Brazilian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:08.556,1:08.050,1:07.631
+2019,20,Brazilian Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:08.614,1:08.088,1:07.699
+2019,20,Brazilian Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:08.496,1:07.888,1:07.728
+2019,20,Brazilian Grand Prix,5,BOT,Valtteri,Bottas,Finnish,Mercedes,1:08.545,1:08.232,1:07.874
+2019,20,Brazilian Grand Prix,6,ALB,Alexander,Albon,Thai,Red Bull,1:08.503,1:08.117,1:07.935
+2019,20,Brazilian Grand Prix,7,GAS,Pierre,Gasly,French,Toro Rosso,1:08.909,1:08.770,1:08.837
+2019,20,Brazilian Grand Prix,8,GRO,Romain,Grosjean,French,Haas F1 Team,1:09.197,1:08.705,1:08.854
+2019,20,Brazilian Grand Prix,9,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:09.276,1:08.858,1:08.984
+2019,20,Brazilian Grand Prix,10,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:08.875,1:08.803,1:09.037
+2019,20,Brazilian Grand Prix,11,NOR,Lando,Norris,British,McLaren,1:08.891,1:08.868,
+2019,20,Brazilian Grand Prix,12,RIC,Daniel,Ricciardo,Australian,Renault,1:09.086,1:08.903,
+2019,20,Brazilian Grand Prix,13,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:09.175,1:08.919,
+2019,20,Brazilian Grand Prix,14,HUL,Nico,Hülkenberg,German,Renault,1:09.050,1:08.921,
+2019,20,Brazilian Grand Prix,15,PER,Sergio,Pérez,Mexican,Racing Point,1:09.288,1:09.035,
+2019,20,Brazilian Grand Prix,16,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:09.320,,
+2019,20,Brazilian Grand Prix,17,STR,Lance,Stroll,Canadian,Racing Point,1:09.536,,
+2019,20,Brazilian Grand Prix,18,RUS,George,Russell,British,Williams,1:10.126,,
+2019,20,Brazilian Grand Prix,19,KUB,Robert,Kubica,Polish,Williams,1:10.614,,
+2019,20,Brazilian Grand Prix,20,SAI,Carlos,Sainz,Spanish,McLaren,"",,

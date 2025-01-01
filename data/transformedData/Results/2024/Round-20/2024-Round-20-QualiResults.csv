@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,20,Mexico City Grand Prix,1,SAI,Carlos,Sainz,Spanish,Ferrari,1:16.778,1:16.515,1:15.946
+2024,20,Mexico City Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:16.803,1:16.514,1:16.171
+2024,20,Mexico City Grand Prix,3,NOR,Lando,Norris,British,McLaren,1:16.505,1:16.301,1:16.260
+2024,20,Mexico City Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:16.972,1:16.641,1:16.265
+2024,20,Mexico City Grand Prix,5,RUS,George,Russell,British,Mercedes,1:17.194,1:16.937,1:16.356
+2024,20,Mexico City Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:17.306,1:16.973,1:16.651
+2024,20,Mexico City Grand Prix,7,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:17.125,1:17.003,1:16.886
+2024,20,Mexico City Grand Prix,8,GAS,Pierre,Gasly,French,Alpine F1 Team,1:17.149,1:17.048,1:16.892
+2024,20,Mexico City Grand Prix,9,ALB,Alexander,Albon,Thai,Williams,1:17.189,1:16.988,1:17.065
+2024,20,Mexico City Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:17.186,1:16.995,1:17.365
+2024,20,Mexico City Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:17.182,1:17.129,
+2024,20,Mexico City Grand Prix,12,LAW,Liam,Lawson,New Zealander,RB F1 Team,1:17.380,1:17.162,
+2024,20,Mexico City Grand Prix,13,ALO,Fernando,Alonso,Spanish,Aston Martin,1:17.307,1:17.168,
+2024,20,Mexico City Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:17.407,1:17.294,
+2024,20,Mexico City Grand Prix,15,BOT,Valtteri,Bottas,Finnish,Sauber,1:17.393,1:17.817,
+2024,20,Mexico City Grand Prix,16,COL,Franco,Colapinto,Argentinian,Williams,1:17.558,,
+2024,20,Mexico City Grand Prix,17,PIA,Oscar,Piastri,Australian,McLaren,1:17.597,,
+2024,20,Mexico City Grand Prix,18,PER,Sergio,Pérez,Mexican,Red Bull,1:17.611,,
+2024,20,Mexico City Grand Prix,19,OCO,Esteban,Ocon,French,Alpine F1 Team,1:17.617,,
+2024,20,Mexico City Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:18.072,,

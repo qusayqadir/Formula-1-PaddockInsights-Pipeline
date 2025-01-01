@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,19,United States Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:33.616,1:32.851,1:32.330
+2024,19,United States Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:33.046,1:32.584,1:32.361
+2024,19,United States Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:33.556,1:32.836,1:32.652
+2024,19,United States Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:33.241,1:32.962,1:32.740
+2024,19,United States Grand Prix,5,PIA,Oscar,Piastri,Australian,McLaren,1:33.864,1:33.057,1:32.950
+2024,19,United States Grand Prix,6,RUS,George,Russell,British,Mercedes,1:33.536,1:33.142,1:32.974
+2024,19,United States Grand Prix,7,GAS,Pierre,Gasly,French,Alpine F1 Team,1:33.550,1:33.162,1:33.018
+2024,19,United States Grand Prix,8,ALO,Fernando,Alonso,Spanish,Aston Martin,1:33.973,1:33.429,1:33.309
+2024,19,United States Grand Prix,9,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:33.564,1:33.474,1:33.481
+2024,19,United States Grand Prix,10,PER,Sergio,Pérez,Mexican,Red Bull,1:33.611,1:33.020,
+2024,19,United States Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:33.795,1:33.506,
+2024,19,United States Grand Prix,12,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:33.601,1:33.544,
+2024,19,United States Grand Prix,13,OCO,Esteban,Ocon,French,Alpine F1 Team,1:33.986,1:33.597,
+2024,19,United States Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:34.033,1:33.759,
+2024,19,United States Grand Prix,15,LAW,Liam,Lawson,New Zealander,RB F1 Team,1:33.339,,
+2024,19,United States Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:34.051,,
+2024,19,United States Grand Prix,17,COL,Franco,Colapinto,Argentinian,Williams,1:34.062,,
+2024,19,United States Grand Prix,18,BOT,Valtteri,Bottas,Finnish,Sauber,1:34.152,,
+2024,19,United States Grand Prix,19,HAM,Lewis,Hamilton,British,Mercedes,1:34.154,,
+2024,19,United States Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:34.228,,

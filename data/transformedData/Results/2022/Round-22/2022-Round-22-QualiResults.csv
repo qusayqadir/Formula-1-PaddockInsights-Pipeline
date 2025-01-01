@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,22,Abu Dhabi Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:24.754,1:24.622,1:23.824
+2022,22,Abu Dhabi Grand Prix,2,PER,Sergio,Pérez,Mexican,Red Bull,1:24.820,1:24.419,1:24.052
+2022,22,Abu Dhabi Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:25.211,1:24.517,1:24.092
+2022,22,Abu Dhabi Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:25.090,1:24.521,1:24.242
+2022,22,Abu Dhabi Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:25.594,1:24.774,1:24.508
+2022,22,Abu Dhabi Grand Prix,6,RUS,George,Russell,British,Mercedes,1:25.545,1:24.940,1:24.511
+2022,22,Abu Dhabi Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:25.387,1:24.903,1:24.769
+2022,22,Abu Dhabi Grand Prix,8,OCO,Esteban,Ocon,French,Alpine F1 Team,1:25.735,1:25.007,1:24.830
+2022,22,Abu Dhabi Grand Prix,9,VET,Sebastian,Vettel,German,Aston Martin,1:25.523,1:24.974,1:24.961
+2022,22,Abu Dhabi Grand Prix,10,RIC,Daniel,Ricciardo,Australian,McLaren,1:25.766,1:25.068,1:25.045
+2022,22,Abu Dhabi Grand Prix,11,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:25.782,1:25.096,
+2022,22,Abu Dhabi Grand Prix,12,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:25.630,1:25.219,
+2022,22,Abu Dhabi Grand Prix,13,MSC,Mick,Schumacher,German,Haas F1 Team,1:25.711,1:25.225,
+2022,22,Abu Dhabi Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:25.741,1:25.359,
+2022,22,Abu Dhabi Grand Prix,15,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:25.594,1:25.408,
+2022,22,Abu Dhabi Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:25.834,,
+2022,22,Abu Dhabi Grand Prix,17,GAS,Pierre,Gasly,French,AlphaTauri,1:25.859,,
+2022,22,Abu Dhabi Grand Prix,18,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:25.892,,
+2022,22,Abu Dhabi Grand Prix,19,ALB,Alexander,Albon,Thai,Williams,1:26.028,,
+2022,22,Abu Dhabi Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:26.054,,

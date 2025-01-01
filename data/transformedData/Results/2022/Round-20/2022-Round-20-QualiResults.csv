@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,20,Mexico City Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:19.222,1:18.566,1:17.775
+2022,20,Mexico City Grand Prix,2,RUS,George,Russell,British,Mercedes,1:19.583,1:18.565,1:18.079
+2022,20,Mexico City Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:19.169,1:18.552,1:18.084
+2022,20,Mexico City Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:19.706,1:18.615,1:18.128
+2022,20,Mexico City Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:19.566,1:18.560,1:18.351
+2022,20,Mexico City Grand Prix,6,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:19.523,1:18.762,1:18.401
+2022,20,Mexico City Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:19.505,1:19.109,1:18.555
+2022,20,Mexico City Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:19.857,1:19.119,1:18.721
+2022,20,Mexico City Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:20.006,1:19.272,1:18.939
+2022,20,Mexico City Grand Prix,10,OCO,Esteban,Ocon,French,Alpine F1 Team,1:19.945,1:19.081,1:19.010
+2022,20,Mexico City Grand Prix,11,RIC,Daniel,Ricciardo,Australian,McLaren,1:20.279,1:19.325,
+2022,20,Mexico City Grand Prix,12,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:20.283,1:19.476,
+2022,20,Mexico City Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:19.907,1:19.589,
+2022,20,Mexico City Grand Prix,14,GAS,Pierre,Gasly,French,AlphaTauri,1:20.256,1:19.672,
+2022,20,Mexico City Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.293,1:19.833,
+2022,20,Mexico City Grand Prix,16,MSC,Mick,Schumacher,German,Haas F1 Team,1:20.419,,
+2022,20,Mexico City Grand Prix,17,VET,Sebastian,Vettel,German,Aston Martin,1:20.419,,
+2022,20,Mexico City Grand Prix,18,STR,Lance,Stroll,Canadian,Aston Martin,1:20.520,,
+2022,20,Mexico City Grand Prix,19,ALB,Alexander,Albon,Thai,Williams,1:20.859,,
+2022,20,Mexico City Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:21.167,,

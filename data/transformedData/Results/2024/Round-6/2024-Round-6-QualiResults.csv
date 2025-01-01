@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,6,Miami Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:27.689,1:27.566,1:27.241
+2024,6,Miami Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:28.081,1:27.533,1:27.382
+2024,6,Miami Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:27.937,1:27.941,1:27.455
+2024,6,Miami Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:27.772,1:27.839,1:27.460
+2024,6,Miami Grand Prix,5,NOR,Lando,Norris,British,McLaren,1:27.913,1:27.871,1:27.594
+2024,6,Miami Grand Prix,6,PIA,Oscar,Piastri,Australian,McLaren,1:28.032,1:27.721,1:27.675
+2024,6,Miami Grand Prix,7,RUS,George,Russell,British,Mercedes,1:28.159,1:28.095,1:28.067
+2024,6,Miami Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:28.167,1:27.697,1:28.107
+2024,6,Miami Grand Prix,9,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:28.383,1:28.200,1:28.146
+2024,6,Miami Grand Prix,10,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:28.324,1:28.167,1:28.192
+2024,6,Miami Grand Prix,11,STR,Lance,Stroll,Canadian,Aston Martin,1:28.177,1:28.222,
+2024,6,Miami Grand Prix,12,GAS,Pierre,Gasly,French,Alpine F1 Team,1:27.976,1:28.324,
+2024,6,Miami Grand Prix,13,OCO,Esteban,Ocon,French,Alpine F1 Team,1:28.209,1:28.371,
+2024,6,Miami Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:28.343,1:28.413,
+2024,6,Miami Grand Prix,15,ALO,Fernando,Alonso,Spanish,Aston Martin,1:28.453,1:28.427,
+2024,6,Miami Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Sauber,1:28.463,,
+2024,6,Miami Grand Prix,17,SAR,Logan,Sargeant,American,Williams,1:28.487,,
+2024,6,Miami Grand Prix,18,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:28.617,,
+2024,6,Miami Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:28.619,,
+2024,6,Miami Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:28.824,,

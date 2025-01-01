@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,18,Mexican Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:15.949,1:16.136,1:14.758
+2019,18,Mexican Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:16.364,1:16.219,1:15.024
+2019,18,Mexican Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:16.696,1:15.914,1:15.170
+2019,18,Mexican Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:16.424,1:15.721,1:15.262
+2019,18,Mexican Grand Prix,5,ALB,Alexander,Albon,Thai,Red Bull,1:16.175,1:16.574,1:15.336
+2019,18,Mexican Grand Prix,6,BOT,Valtteri,Bottas,Finnish,Mercedes,1:17.062,1:15.852,1:15.338
+2019,18,Mexican Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:17.044,1:16.267,1:16.014
+2019,18,Mexican Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:17.092,1:16.447,1:16.322
+2019,18,Mexican Grand Prix,9,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:17.041,1:16.657,1:16.469
+2019,18,Mexican Grand Prix,10,GAS,Pierre,Gasly,French,Toro Rosso,1:17.065,1:16.679,1:16.586
+2019,18,Mexican Grand Prix,11,PER,Sergio,Pérez,Mexican,Racing Point,1:17.465,1:16.687,
+2019,18,Mexican Grand Prix,12,HUL,Nico,Hülkenberg,German,Renault,1:17.608,1:16.885,
+2019,18,Mexican Grand Prix,13,RIC,Daniel,Ricciardo,Australian,Renault,1:17.270,1:16.933,
+2019,18,Mexican Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:17.225,1:16.967,
+2019,18,Mexican Grand Prix,15,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:17.794,1:17.269,
+2019,18,Mexican Grand Prix,16,STR,Lance,Stroll,Canadian,Racing Point,1:18.065,,
+2019,18,Mexican Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:18.436,,
+2019,18,Mexican Grand Prix,18,GRO,Romain,Grosjean,French,Haas F1 Team,1:18.599,,
+2019,18,Mexican Grand Prix,19,RUS,George,Russell,British,Williams,1:18.823,,
+2019,18,Mexican Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:20.179,,

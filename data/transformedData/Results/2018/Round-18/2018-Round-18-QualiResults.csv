@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2018,18,United States Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:34.130,1:33.480,1:32.237
+2018,18,United States Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:34.569,1:33.079,1:32.298
+2018,18,United States Grand Prix,3,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:34.703,1:32.884,1:32.307
+2018,18,United States Grand Prix,4,BOT,Valtteri,Bottas,Finnish,Mercedes,1:34.518,1:33.702,1:32.616
+2018,18,United States Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:34.755,1:34.185,1:33.494
+2018,18,United States Grand Prix,6,OCO,Esteban,Ocon,French,Force India,1:34.876,1:34.522,1:34.145
+2018,18,United States Grand Prix,7,HUL,Nico,Hülkenberg,German,Renault,1:34.932,1:34.564,1:34.215
+2018,18,United States Grand Prix,8,GRO,Romain,Grosjean,French,Haas F1 Team,1:34.892,1:34.419,1:34.250
+2018,18,United States Grand Prix,9,LEC,Charles,Leclerc,Monegasque,Sauber,1:35.069,1:34.255,1:34.420
+2018,18,United States Grand Prix,10,PER,Sergio,Pérez,Mexican,Force India,1:35.193,1:34.525,1:34.594
+2018,18,United States Grand Prix,11,SAI,Carlos,Sainz,Spanish,Renault,1:34.891,1:34.566,
+2018,18,United States Grand Prix,12,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:34.972,1:34.732,
+2018,18,United States Grand Prix,13,GAS,Pierre,Gasly,French,Toro Rosso,1:34.850,,
+2018,18,United States Grand Prix,14,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:35.206,,
+2018,18,United States Grand Prix,15,VER,Max,Verstappen,Dutch,Red Bull,1:34.766,,
+2018,18,United States Grand Prix,16,ALO,Fernando,Alonso,Spanish,McLaren,1:35.294,,
+2018,18,United States Grand Prix,17,SIR,Sergey,Sirotkin,Russian,Williams,1:35.362,,
+2018,18,United States Grand Prix,18,STR,Lance,Stroll,Canadian,Williams,1:35.480,,
+2018,18,United States Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:35.536,,
+2018,18,United States Grand Prix,20,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:35.735,,

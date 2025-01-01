@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,8,Azerbaijan Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:42.865,1:42.046,1:41.359
+2022,8,Azerbaijan Grand Prix,2,PER,Sergio,Pérez,Mexican,Red Bull,1:42.733,1:41.955,1:41.641
+2022,8,Azerbaijan Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:42.722,1:42.227,1:41.706
+2022,8,Azerbaijan Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:42.957,1:42.088,1:41.814
+2022,8,Azerbaijan Grand Prix,5,RUS,George,Russell,British,Mercedes,1:43.754,1:43.281,1:42.712
+2022,8,Azerbaijan Grand Prix,6,GAS,Pierre,Gasly,French,AlphaTauri,1:43.268,1:43.129,1:42.845
+2022,8,Azerbaijan Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:43.939,1:43.182,1:42.924
+2022,8,Azerbaijan Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:43.595,1:43.376,1:43.056
+2022,8,Azerbaijan Grand Prix,9,VET,Sebastian,Vettel,German,Aston Martin,1:43.279,1:43.268,1:43.091
+2022,8,Azerbaijan Grand Prix,10,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:44.083,1:43.360,1:43.173
+2022,8,Azerbaijan Grand Prix,11,NOR,Lando,Norris,British,McLaren,1:44.237,1:43.398,
+2022,8,Azerbaijan Grand Prix,12,RIC,Daniel,Ricciardo,Australian,McLaren,1:44.437,1:43.574,
+2022,8,Azerbaijan Grand Prix,13,OCO,Esteban,Ocon,French,Alpine F1 Team,1:43.903,1:43.585,
+2022,8,Azerbaijan Grand Prix,14,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:43.777,1:43.790,
+2022,8,Azerbaijan Grand Prix,15,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:44.478,1:44.444,
+2022,8,Azerbaijan Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:44.643,,
+2022,8,Azerbaijan Grand Prix,17,ALB,Alexander,Albon,Thai,Williams,1:44.719,,
+2022,8,Azerbaijan Grand Prix,18,LAT,Nicholas,Latifi,Canadian,Williams,1:45.367,,
+2022,8,Azerbaijan Grand Prix,19,STR,Lance,Stroll,Canadian,Aston Martin,1:45.371,,
+2022,8,Azerbaijan Grand Prix,20,MSC,Mick,Schumacher,German,Haas F1 Team,1:45.775,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,11,German Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:12.852,1:12.149,1:11.767
+2019,11,German Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:12.593,1:12.427,1:12.113
+2019,11,German Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:13.075,1:12.424,1:12.129
+2019,11,German Grand Prix,4,GAS,Pierre,Gasly,French,Red Bull,1:12.991,1:12.385,1:12.522
+2019,11,German Grand Prix,5,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:13.066,1:12.519,1:12.538
+2019,11,German Grand Prix,6,GRO,Romain,Grosjean,French,Haas F1 Team,1:13.146,1:12.769,1:12.851
+2019,11,German Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:13.221,1:12.632,1:12.897
+2019,11,German Grand Prix,8,PER,Sergio,Pérez,Mexican,Racing Point,1:13.194,1:12.776,1:13.065
+2019,11,German Grand Prix,9,HUL,Nico,Hülkenberg,German,Renault,1:13.186,1:12.766,1:13.126
+2019,11,German Grand Prix,10,LEC,Charles,Leclerc,Monegasque,Ferrari,1:12.229,1:12.344,
+2019,11,German Grand Prix,11,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:13.170,1:12.786,
+2019,11,German Grand Prix,12,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:13.103,1:12.789,
+2019,11,German Grand Prix,13,RIC,Daniel,Ricciardo,Australian,Renault,1:13.131,1:12.799,
+2019,11,German Grand Prix,14,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:13.278,1:13.135,
+2019,11,German Grand Prix,15,STR,Lance,Stroll,Canadian,Racing Point,1:13.256,1:13.450,
+2019,11,German Grand Prix,16,NOR,Lando,Norris,British,McLaren,1:13.333,,
+2019,11,German Grand Prix,17,ALB,Alexander,Albon,Thai,Toro Rosso,1:13.461,,
+2019,11,German Grand Prix,18,RUS,George,Russell,British,Williams,1:14.721,,
+2019,11,German Grand Prix,19,KUB,Robert,Kubica,Polish,Williams,1:14.839,,
+2019,11,German Grand Prix,20,VET,Sebastian,Vettel,German,Ferrari,"",,

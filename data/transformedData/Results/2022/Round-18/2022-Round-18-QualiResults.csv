@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,18,Japanese Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:30.224,1:30.346,1:29.304
+2022,18,Japanese Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:30.402,1:30.486,1:29.314
+2022,18,Japanese Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:30.336,1:30.444,1:29.361
+2022,18,Japanese Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:30.622,1:29.925,1:29.709
+2022,18,Japanese Grand Prix,5,OCO,Esteban,Ocon,French,Alpine F1 Team,1:30.696,1:30.357,1:30.165
+2022,18,Japanese Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:30.906,1:30.443,1:30.261
+2022,18,Japanese Grand Prix,7,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:30.603,1:30.343,1:30.322
+2022,18,Japanese Grand Prix,8,RUS,George,Russell,British,Mercedes,1:30.865,1:30.465,1:30.389
+2022,18,Japanese Grand Prix,9,VET,Sebastian,Vettel,German,Aston Martin,1:31.256,1:30.656,1:30.554
+2022,18,Japanese Grand Prix,10,NOR,Lando,Norris,British,McLaren,1:30.881,1:30.473,1:31.003
+2022,18,Japanese Grand Prix,11,RIC,Daniel,Ricciardo,Australian,McLaren,1:30.880,1:30.659,
+2022,18,Japanese Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:31.226,1:30.709,
+2022,18,Japanese Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:31.130,1:30.808,
+2022,18,Japanese Grand Prix,14,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:30.894,1:30.953,
+2022,18,Japanese Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:31.152,1:31.439,
+2022,18,Japanese Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,1:31.311,,
+2022,18,Japanese Grand Prix,17,GAS,Pierre,Gasly,French,AlphaTauri,1:31.322,,
+2022,18,Japanese Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:31.352,,
+2022,18,Japanese Grand Prix,19,STR,Lance,Stroll,Canadian,Aston Martin,1:31.419,,
+2022,18,Japanese Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:31.511,,

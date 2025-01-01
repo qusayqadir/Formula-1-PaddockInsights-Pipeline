@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,15,Dutch Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:11.317,1:10.927,1:10.342
+2022,15,Dutch Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:11.443,1:10.988,1:10.363
+2022,15,Dutch Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:11.767,1:10.814,1:10.434
+2022,15,Dutch Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:11.331,1:11.075,1:10.648
+2022,15,Dutch Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:11.641,1:11.314,1:11.077
+2022,15,Dutch Grand Prix,6,RUS,George,Russell,British,Mercedes,1:11.561,1:10.824,1:11.147
+2022,15,Dutch Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:11.556,1:11.116,1:11.174
+2022,15,Dutch Grand Prix,8,MSC,Mick,Schumacher,German,Haas F1 Team,1:11.741,1:11.420,1:11.442
+2022,15,Dutch Grand Prix,9,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:11.427,1:11.428,1:12.556
+2022,15,Dutch Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:11.568,1:11.416,
+2022,15,Dutch Grand Prix,11,GAS,Pierre,Gasly,French,AlphaTauri,1:11.705,1:11.512,
+2022,15,Dutch Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:11.748,1:11.605,
+2022,15,Dutch Grand Prix,13,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:11.667,1:11.613,
+2022,15,Dutch Grand Prix,14,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:11.826,1:11.704,
+2022,15,Dutch Grand Prix,15,ALB,Alexander,Albon,Thai,Williams,1:11.695,1:11.802,
+2022,15,Dutch Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:11.961,,
+2022,15,Dutch Grand Prix,17,RIC,Daniel,Ricciardo,Australian,McLaren,1:12.081,,
+2022,15,Dutch Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:12.319,,
+2022,15,Dutch Grand Prix,19,VET,Sebastian,Vettel,German,Aston Martin,1:12.391,,
+2022,15,Dutch Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:13.353,,

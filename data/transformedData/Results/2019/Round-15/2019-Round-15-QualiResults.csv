@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,15,Singapore Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:38.014,1:36.650,1:36.217
+2019,15,Singapore Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:37.565,1:36.933,1:36.408
+2019,15,Singapore Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:38.374,1:36.720,1:36.437
+2019,15,Singapore Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:38.540,1:37.089,1:36.813
+2019,15,Singapore Grand Prix,5,BOT,Valtteri,Bottas,Finnish,Mercedes,1:37.317,1:37.142,1:37.146
+2019,15,Singapore Grand Prix,6,ALB,Alexander,Albon,Thai,Red Bull,1:39.106,1:37.865,1:37.411
+2019,15,Singapore Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:38.882,1:37.982,1:37.818
+2019,15,Singapore Grand Prix,8,HUL,Nico,Hülkenberg,German,Renault,1:39.001,1:38.580,1:38.264
+2019,15,Singapore Grand Prix,9,NOR,Lando,Norris,British,McLaren,1:38.606,1:37.572,1:38.329
+2019,15,Singapore Grand Prix,10,PER,Sergio,Pérez,Mexican,Racing Point,1:39.909,1:38.520,
+2019,15,Singapore Grand Prix,11,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:39.272,1:38.697,
+2019,15,Singapore Grand Prix,12,GAS,Pierre,Gasly,French,Toro Rosso,1:39.085,1:38.699,
+2019,15,Singapore Grand Prix,13,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:39.454,1:38.858,
+2019,15,Singapore Grand Prix,14,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:39.942,1:39.650,
+2019,15,Singapore Grand Prix,15,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:39.957,,
+2019,15,Singapore Grand Prix,16,STR,Lance,Stroll,Canadian,Racing Point,1:39.979,,
+2019,15,Singapore Grand Prix,17,GRO,Romain,Grosjean,French,Haas F1 Team,1:40.277,,
+2019,15,Singapore Grand Prix,18,RUS,George,Russell,British,Williams,1:40.867,,
+2019,15,Singapore Grand Prix,19,KUB,Robert,Kubica,Polish,Williams,1:41.186,,
+2019,15,Singapore Grand Prix,20,RIC,Daniel,Ricciardo,Australian,Renault,"",,

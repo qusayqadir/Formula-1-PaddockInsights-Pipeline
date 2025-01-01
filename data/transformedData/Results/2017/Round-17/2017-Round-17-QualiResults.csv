@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,17,United States Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:34.822,1:33.437,1:33.108
+2017,17,United States Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:35.420,1:34.103,1:33.347
+2017,17,United States Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:35.309,1:33.769,1:33.568
+2017,17,United States Grand Prix,4,RIC,Daniel,Ricciardo,Australian,Red Bull,1:35.991,1:34.495,1:33.577
+2017,17,United States Grand Prix,5,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:35.649,1:33.840,1:33.577
+2017,17,United States Grand Prix,6,VER,Max,Verstappen,Dutch,Red Bull,1:34.899,1:34.716,1:33.658
+2017,17,United States Grand Prix,7,OCO,Esteban,Ocon,French,Force India,1:35.849,1:35.113,1:34.647
+2017,17,United States Grand Prix,8,SAI,Carlos,Sainz,Spanish,Renault,1:35.517,1:34.899,1:34.852
+2017,17,United States Grand Prix,9,ALO,Fernando,Alonso,Spanish,McLaren,1:35.712,1:35.046,1:35.007
+2017,17,United States Grand Prix,10,PER,Sergio,Pérez,Mexican,Force India,1:36.358,1:34.789,1:35.148
+2017,17,United States Grand Prix,11,MAS,Felipe,Massa,Brazilian,Williams,1:35.603,1:35.155,
+2017,17,United States Grand Prix,12,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:36.073,1:35.529,
+2017,17,United States Grand Prix,13,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:36.286,1:35.641,
+2017,17,United States Grand Prix,14,GRO,Romain,Grosjean,French,Haas F1 Team,1:36.835,1:35.870,
+2017,17,United States Grand Prix,15,HUL,Nico,Hülkenberg,German,Renault,1:35.740,,
+2017,17,United States Grand Prix,16,ERI,Marcus,Ericsson,Swedish,Sauber,1:36.842,,
+2017,17,United States Grand Prix,17,STR,Lance,Stroll,Canadian,Williams,1:36.868,,
+2017,17,United States Grand Prix,18,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:36.889,,
+2017,17,United States Grand Prix,19,WEH,Pascal,Wehrlein,German,Sauber,1:37.179,,
+2017,17,United States Grand Prix,20,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:37.394,,

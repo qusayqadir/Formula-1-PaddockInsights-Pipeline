@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,16,Italian Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:21.280,1:21.208,1:20.161
+2022,16,Italian Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:20.922,1:21.265,1:20.306
+2022,16,Italian Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:21.348,1:20.878,1:20.429
+2022,16,Italian Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:21.495,1:21.358,1:21.206
+2022,16,Italian Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:22.048,1:21.708,1:21.524
+2022,16,Italian Grand Prix,6,RUS,George,Russell,British,Mercedes,1:21.785,1:21.747,1:21.542
+2022,16,Italian Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:22.130,1:21.831,1:21.584
+2022,16,Italian Grand Prix,8,RIC,Daniel,Ricciardo,Australian,McLaren,1:22.139,1:21.855,1:21.925
+2022,16,Italian Grand Prix,9,GAS,Pierre,Gasly,French,AlphaTauri,1:22.010,1:22.062,1:22.648
+2022,16,Italian Grand Prix,10,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:22.089,1:21.861,
+2022,16,Italian Grand Prix,11,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.166,1:22.130,
+2022,16,Italian Grand Prix,12,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:22.254,1:22.235,
+2022,16,Italian Grand Prix,13,DEV,Nyck,de Vries,Dutch,Williams,1:22.567,1:22.471,
+2022,16,Italian Grand Prix,14,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:22.003,1:22.577,
+2022,16,Italian Grand Prix,15,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:22.020,,
+2022,16,Italian Grand Prix,16,LAT,Nicholas,Latifi,Canadian,Williams,1:22.587,,
+2022,16,Italian Grand Prix,17,VET,Sebastian,Vettel,German,Aston Martin,1:22.636,,
+2022,16,Italian Grand Prix,18,STR,Lance,Stroll,Canadian,Aston Martin,1:22.748,,
+2022,16,Italian Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:22.908,,
+2022,16,Italian Grand Prix,20,MSC,Mick,Schumacher,German,Haas F1 Team,1:23.005,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,12,Belgian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:58.515,1:52.784,1:46.168
+2023,12,Belgian Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:58.300,1:52.017,1:46.988
+2023,12,Belgian Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:58.899,1:52.353,1:47.045
+2023,12,Belgian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:58.563,1:52.345,1:47.087
+2023,12,Belgian Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:58.688,1:51.711,1:47.152
+2023,12,Belgian Grand Prix,6,PIA,Oscar,Piastri,Australian,McLaren,1:58.872,1:51.534,1:47.365
+2023,12,Belgian Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:59.981,1:52.252,1:47.669
+2023,12,Belgian Grand Prix,8,RUS,George,Russell,British,Mercedes,1:59.035,1:52.605,1:47.805
+2023,12,Belgian Grand Prix,9,ALO,Fernando,Alonso,Spanish,Aston Martin,1:58.834,1:52.751,1:47.843
+2023,12,Belgian Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:59.663,1:52.193,1:48.841
+2023,12,Belgian Grand Prix,11,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:59.044,1:53.148,
+2023,12,Belgian Grand Prix,12,GAS,Pierre,Gasly,French,Alpine F1 Team,1:59.511,1:53.671,
+2023,12,Belgian Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,2:00.020,1:54.160,
+2023,12,Belgian Grand Prix,14,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:59.484,1:54.694,
+2023,12,Belgian Grand Prix,15,OCO,Esteban,Ocon,French,Alpine F1 Team,1:59.634,1:56.372,
+2023,12,Belgian Grand Prix,16,ALB,Alexander,Albon,Thai,Williams,2:00.314,,
+2023,12,Belgian Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,2:00.832,,
+2023,12,Belgian Grand Prix,18,SAR,Logan,Sargeant,American,Williams,2:01.535,,
+2023,12,Belgian Grand Prix,19,RIC,Daniel,Ricciardo,Australian,AlphaTauri,2:02.159,,
+2023,12,Belgian Grand Prix,20,HUL,Nico,Hülkenberg,German,Haas F1 Team,2:03.166,,

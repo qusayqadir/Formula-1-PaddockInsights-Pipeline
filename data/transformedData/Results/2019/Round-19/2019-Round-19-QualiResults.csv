@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,19,United States Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:33.750,1:33.160,1:32.029
+2019,19,United States Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:33.766,1:33.782,1:32.041
+2019,19,United States Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:33.549,1:33.120,1:32.096
+2019,19,United States Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:33.988,1:32.760,1:32.137
+2019,19,United States Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:33.454,1:33.045,1:32.321
+2019,19,United States Grand Prix,6,ALB,Alexander,Albon,Thai,Red Bull,1:33.984,1:32.898,1:32.548
+2019,19,United States Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:33.916,1:33.422,1:32.847
+2019,19,United States Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:33.353,1:33.316,1:33.175
+2019,19,United States Grand Prix,9,RIC,Daniel,Ricciardo,Australian,Renault,1:33.835,1:33.608,1:33.488
+2019,19,United States Grand Prix,10,GAS,Pierre,Gasly,French,Toro Rosso,1:33.556,1:33.715,1:33.601
+2019,19,United States Grand Prix,11,HUL,Nico,Hülkenberg,German,Renault,1:34.092,1:33.815,
+2019,19,United States Grand Prix,12,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:33.812,1:33.979,
+2019,19,United States Grand Prix,13,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:34.138,1:33.989,
+2019,19,United States Grand Prix,14,STR,Lance,Stroll,Canadian,Racing Point,1:33.921,1:34.100,
+2019,19,United States Grand Prix,15,GRO,Romain,Grosjean,French,Haas F1 Team,1:34.161,1:34.158,
+2019,19,United States Grand Prix,16,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:34.226,,
+2019,19,United States Grand Prix,17,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:34.369,,
+2019,19,United States Grand Prix,18,RUS,George,Russell,British,Williams,1:35.372,,
+2019,19,United States Grand Prix,19,PER,Sergio,Pérez,Mexican,Racing Point,1:35.808,,
+2019,19,United States Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:35.889,,

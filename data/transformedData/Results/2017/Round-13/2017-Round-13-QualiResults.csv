@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,13,Italian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:36.009,1:34.660,1:35.554
+2017,13,Italian Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:37.344,1:36.113,1:36.702
+2017,13,Italian Grand Prix,3,RIC,Daniel,Ricciardo,Australian,Red Bull,1:38.304,1:37.313,1:36.841
+2017,13,Italian Grand Prix,4,STR,Lance,Stroll,Canadian,Williams,1:37.653,1:37.002,1:37.032
+2017,13,Italian Grand Prix,5,OCO,Esteban,Ocon,French,Force India,1:38.775,1:37.580,1:37.719
+2017,13,Italian Grand Prix,6,BOT,Valtteri,Bottas,Finnish,Mercedes,1:35.716,1:35.396,1:37.833
+2017,13,Italian Grand Prix,7,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:38.235,1:37.031,1:37.987
+2017,13,Italian Grand Prix,8,VET,Sebastian,Vettel,German,Ferrari,1:37.198,1:36.223,1:38.064
+2017,13,Italian Grand Prix,9,MAS,Felipe,Massa,Brazilian,Williams,1:38.338,1:37.456,1:38.251
+2017,13,Italian Grand Prix,10,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:38.767,1:37.471,1:39.157
+2017,13,Italian Grand Prix,11,PER,Sergio,Pérez,Mexican,Force India,1:38.511,1:37.582,
+2017,13,Italian Grand Prix,12,HUL,Nico,Hülkenberg,German,Renault,1:39.242,1:38.059,
+2017,13,Italian Grand Prix,13,ALO,Fernando,Alonso,Spanish,McLaren,1:39.134,1:38.202,
+2017,13,Italian Grand Prix,14,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:39.183,1:38.245,
+2017,13,Italian Grand Prix,15,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:39.788,1:38.526,
+2017,13,Italian Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:40.489,,
+2017,13,Italian Grand Prix,17,PAL,Jolyon,Palmer,British,Renault,1:40.646,,
+2017,13,Italian Grand Prix,18,ERI,Marcus,Ericsson,Swedish,Sauber,1:41.732,,
+2017,13,Italian Grand Prix,19,WEH,Pascal,Wehrlein,German,Sauber,1:41.875,,
+2017,13,Italian Grand Prix,20,GRO,Romain,Grosjean,French,Haas F1 Team,1:43.355,,

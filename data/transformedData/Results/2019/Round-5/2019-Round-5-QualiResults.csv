@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,5,Spanish Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:16.979,1:15.924,1:15.406
+2019,5,Spanish Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:17.292,1:16.038,1:16.040
+2019,5,Spanish Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:17.425,1:16.667,1:16.272
+2019,5,Spanish Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:17.244,1:16.726,1:16.357
+2019,5,Spanish Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:17.388,1:16.714,1:16.588
+2019,5,Spanish Grand Prix,6,GAS,Pierre,Gasly,French,Red Bull,1:17.862,1:16.932,1:16.708
+2019,5,Spanish Grand Prix,7,GRO,Romain,Grosjean,French,Haas F1 Team,1:18.042,1:17.066,1:16.911
+2019,5,Spanish Grand Prix,8,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:17.669,1:17.272,1:16.922
+2019,5,Spanish Grand Prix,9,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:17.914,1:17.243,1:17.573
+2019,5,Spanish Grand Prix,10,RIC,Daniel,Ricciardo,Australian,Renault,1:18.385,1:17.299,1:18.106
+2019,5,Spanish Grand Prix,11,NOR,Lando,Norris,British,McLaren,1:17.611,1:17.338,
+2019,5,Spanish Grand Prix,12,ALB,Alexander,Albon,Thai,Toro Rosso,1:17.796,1:17.445,
+2019,5,Spanish Grand Prix,13,SAI,Carlos,Sainz,Spanish,McLaren,1:17.760,1:17.599,
+2019,5,Spanish Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:18.132,1:17.788,
+2019,5,Spanish Grand Prix,15,PER,Sergio,Pérez,Mexican,Racing Point,1:18.286,1:17.886,
+2019,5,Spanish Grand Prix,16,HUL,Nico,Hülkenberg,German,Renault,1:18.404,,
+2019,5,Spanish Grand Prix,17,STR,Lance,Stroll,Canadian,Racing Point,1:18.471,,
+2019,5,Spanish Grand Prix,18,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:18.664,,
+2019,5,Spanish Grand Prix,19,RUS,George,Russell,British,Williams,1:19.072,,
+2019,5,Spanish Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:20.254,,

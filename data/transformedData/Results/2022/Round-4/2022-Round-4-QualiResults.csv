@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,4,Emilia Romagna Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:19.295,1:18.793,1:27.999
+2022,4,Emilia Romagna Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.796,1:19.584,1:28.778
+2022,4,Emilia Romagna Grand Prix,3,NOR,Lando,Norris,British,McLaren,1:20.168,1:19.294,1:29.131
+2022,4,Emilia Romagna Grand Prix,4,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.147,1:19.902,1:29.164
+2022,4,Emilia Romagna Grand Prix,5,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:20.198,1:19.595,1:29.202
+2022,4,Emilia Romagna Grand Prix,6,RIC,Daniel,Ricciardo,Australian,McLaren,1:19.980,1:20.031,1:29.742
+2022,4,Emilia Romagna Grand Prix,7,PER,Sergio,Pérez,Mexican,Red Bull,1:19.773,1:19.296,1:29.808
+2022,4,Emilia Romagna Grand Prix,8,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:20.419,1:20.192,1:30.439
+2022,4,Emilia Romagna Grand Prix,9,VET,Sebastian,Vettel,German,Aston Martin,1:20.364,1:19.957,1:31.062
+2022,4,Emilia Romagna Grand Prix,10,SAI,Carlos,Sainz,Spanish,Ferrari,1:19.305,1:18.990,
+2022,4,Emilia Romagna Grand Prix,11,RUS,George,Russell,British,Mercedes,1:20.383,1:20.757,
+2022,4,Emilia Romagna Grand Prix,12,MSC,Mick,Schumacher,German,Haas F1 Team,1:20.422,1:20.916,
+2022,4,Emilia Romagna Grand Prix,13,HAM,Lewis,Hamilton,British,Mercedes,1:20.470,1:21.138,
+2022,4,Emilia Romagna Grand Prix,14,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:19.730,1:21.434,
+2022,4,Emilia Romagna Grand Prix,15,STR,Lance,Stroll,Canadian,Aston Martin,1:20.342,1:28.119,
+2022,4,Emilia Romagna Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:20.474,,
+2022,4,Emilia Romagna Grand Prix,17,GAS,Pierre,Gasly,French,AlphaTauri,1:20.732,,
+2022,4,Emilia Romagna Grand Prix,18,LAT,Nicholas,Latifi,Canadian,Williams,1:21.971,,
+2022,4,Emilia Romagna Grand Prix,19,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.338,,
+2022,4,Emilia Romagna Grand Prix,20,ALB,Alexander,Albon,Thai,Williams,"",,

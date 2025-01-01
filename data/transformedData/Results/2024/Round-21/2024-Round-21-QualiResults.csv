@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,21,São Paulo Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:30.944,1:24.844,1:23.405
+2024,21,São Paulo Grand Prix,2,RUS,George,Russell,British,Mercedes,1:29.121,1:26.307,1:23.578
+2024,21,São Paulo Grand Prix,3,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:29.172,1:26.464,1:24.111
+2024,21,São Paulo Grand Prix,4,OCO,Esteban,Ocon,French,Alpine F1 Team,1:29.171,1:26.206,1:24.475
+2024,21,São Paulo Grand Prix,5,LAW,Liam,Lawson,New Zealander,RB F1 Team,1:30.758,1:25.654,1:24.484
+2024,21,São Paulo Grand Prix,6,LEC,Charles,Leclerc,Monegasque,Ferrari,1:29.839,1:26.097,1:24.525
+2024,21,São Paulo Grand Prix,7,ALB,Alexander,Albon,Thai,Williams,1:29.072,1:25.889,1:24.657
+2024,21,São Paulo Grand Prix,8,PIA,Oscar,Piastri,Australian,McLaren,1:30.114,1:25.179,1:24.686
+2024,21,São Paulo Grand Prix,9,ALO,Fernando,Alonso,Spanish,Aston Martin,1:30.207,1:25.035,1:28.998
+2024,21,São Paulo Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:30.580,1:26.334,
+2024,21,São Paulo Grand Prix,11,BOT,Valtteri,Bottas,Finnish,Sauber,1:30.633,1:26.472,
+2024,21,São Paulo Grand Prix,12,VER,Max,Verstappen,Dutch,Red Bull,1:28.522,1:27.771,
+2024,21,São Paulo Grand Prix,13,PER,Sergio,Pérez,Mexican,Red Bull,1:30.035,1:28.158,
+2024,21,São Paulo Grand Prix,14,SAI,Carlos,Sainz,Spanish,Ferrari,1:30.303,1:29.406,
+2024,21,São Paulo Grand Prix,15,GAS,Pierre,Gasly,French,Alpine F1 Team,1:29.420,1:29.614,
+2024,21,São Paulo Grand Prix,16,HAM,Lewis,Hamilton,British,Mercedes,1:31.150,,
+2024,21,São Paulo Grand Prix,17,BEA,Oliver,Bearman,British,Haas F1 Team,1:31.229,,
+2024,21,São Paulo Grand Prix,18,COL,Franco,Colapinto,Argentinian,Williams,1:31.270,,
+2024,21,São Paulo Grand Prix,19,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:31.623,,
+2024,21,São Paulo Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:32.263,,

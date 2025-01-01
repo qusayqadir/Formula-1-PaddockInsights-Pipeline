@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,9,Austrian Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:05.760,1:04.316,1:04.251
+2017,9,Austrian Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:05.585,1:04.772,1:04.293
+2017,9,Austrian Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:05.064,1:04.800,1:04.424
+2017,9,Austrian Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:05.148,1:05.004,1:04.779
+2017,9,Austrian Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:05.854,1:05.161,1:04.896
+2017,9,Austrian Grand Prix,6,VER,Max,Verstappen,Dutch,Red Bull,1:05.779,1:04.948,1:04.983
+2017,9,Austrian Grand Prix,7,GRO,Romain,Grosjean,French,Haas F1 Team,1:05.902,1:05.319,1:05.480
+2017,9,Austrian Grand Prix,8,PER,Sergio,Pérez,Mexican,Force India,1:05.975,1:05.435,1:05.605
+2017,9,Austrian Grand Prix,9,OCO,Esteban,Ocon,French,Force India,1:06.033,1:05.550,1:05.674
+2017,9,Austrian Grand Prix,10,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:05.675,1:05.544,1:05.726
+2017,9,Austrian Grand Prix,11,HUL,Nico,Hülkenberg,German,Renault,1:06.174,1:05.597,
+2017,9,Austrian Grand Prix,12,ALO,Fernando,Alonso,Spanish,McLaren,1:06.158,1:05.602,
+2017,9,Austrian Grand Prix,13,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:06.316,1:05.741,
+2017,9,Austrian Grand Prix,14,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:05.990,1:05.884,
+2017,9,Austrian Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:06.143,,
+2017,9,Austrian Grand Prix,16,PAL,Jolyon,Palmer,British,Renault,1:06.345,,
+2017,9,Austrian Grand Prix,17,MAS,Felipe,Massa,Brazilian,Williams,1:06.534,,
+2017,9,Austrian Grand Prix,18,STR,Lance,Stroll,Canadian,Williams,1:06.608,,
+2017,9,Austrian Grand Prix,19,ERI,Marcus,Ericsson,Swedish,Sauber,1:06.857,,
+2017,9,Austrian Grand Prix,20,WEH,Pascal,Wehrlein,German,Sauber,1:07.011,,

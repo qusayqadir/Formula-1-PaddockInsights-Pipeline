@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,7,Emilia Romagna Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:15.762,1:15.176,1:14.746
+2024,7,Emilia Romagna Grand Prix,2,PIA,Oscar,Piastri,Australian,McLaren,1:15.940,1:15.407,1:14.820
+2024,7,Emilia Romagna Grand Prix,3,NOR,Lando,Norris,British,McLaren,1:15.915,1:15.371,1:14.837
+2024,7,Emilia Romagna Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:15.823,1:15.328,1:14.970
+2024,7,Emilia Romagna Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:16.015,1:15.512,1:15.233
+2024,7,Emilia Romagna Grand Prix,6,RUS,George,Russell,British,Mercedes,1:16.107,1:15.671,1:15.234
+2024,7,Emilia Romagna Grand Prix,7,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:15.894,1:15.358,1:15.465
+2024,7,Emilia Romagna Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:16.604,1:15.677,1:15.504
+2024,7,Emilia Romagna Grand Prix,9,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:16.060,1:15.691,1:15.674
+2024,7,Emilia Romagna Grand Prix,10,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:15.841,1:15.569,1:15.980
+2024,7,Emilia Romagna Grand Prix,11,PER,Sergio,Pérez,Mexican,Red Bull,1:16.404,1:15.706,
+2024,7,Emilia Romagna Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:16.361,1:15.906,
+2024,7,Emilia Romagna Grand Prix,13,STR,Lance,Stroll,Canadian,Aston Martin,1:16.458,1:15.992,
+2024,7,Emilia Romagna Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:16.524,1:16.200,
+2024,7,Emilia Romagna Grand Prix,15,GAS,Pierre,Gasly,French,Alpine F1 Team,1:16.015,1:16.381,
+2024,7,Emilia Romagna Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Sauber,1:16.626,,
+2024,7,Emilia Romagna Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Sauber,1:16.834,,
+2024,7,Emilia Romagna Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:16.854,,
+2024,7,Emilia Romagna Grand Prix,19,ALO,Fernando,Alonso,Spanish,Aston Martin,1:16.917,,
+2024,7,Emilia Romagna Grand Prix,20,SAR,Logan,Sargeant,American,Williams,"",,

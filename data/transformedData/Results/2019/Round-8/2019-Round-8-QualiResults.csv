@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2019,8,French Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:30.609,1:29.520,1:28.319
+2019,8,French Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:30.550,1:29.437,1:28.605
+2019,8,French Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:30.647,1:29.699,1:28.965
+2019,8,French Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:31.327,1:30.099,1:29.409
+2019,8,French Grand Prix,5,NOR,Lando,Norris,British,McLaren,1:30.989,1:30.019,1:29.418
+2019,8,French Grand Prix,6,SAI,Carlos,Sainz,Spanish,McLaren,1:31.073,1:30.319,1:29.522
+2019,8,French Grand Prix,7,VET,Sebastian,Vettel,German,Ferrari,1:31.075,1:29.506,1:29.799
+2019,8,French Grand Prix,8,RIC,Daniel,Ricciardo,Australian,Renault,1:30.954,1:30.369,1:29.918
+2019,8,French Grand Prix,9,GAS,Pierre,Gasly,French,Red Bull,1:31.152,1:30.421,1:30.184
+2019,8,French Grand Prix,10,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:31.180,1:30.408,1:33.420
+2019,8,French Grand Prix,11,ALB,Alexander,Albon,Thai,Toro Rosso,1:31.445,1:30.461,
+2019,8,French Grand Prix,12,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:30.972,1:30.533,
+2019,8,French Grand Prix,13,HUL,Nico,Hülkenberg,German,Renault,1:30.865,1:30.544,
+2019,8,French Grand Prix,14,PER,Sergio,Pérez,Mexican,Racing Point,1:30.964,1:30.738,
+2019,8,French Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:31.166,1:31.440,
+2019,8,French Grand Prix,16,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:31.564,,
+2019,8,French Grand Prix,17,GRO,Romain,Grosjean,French,Haas F1 Team,1:31.626,,
+2019,8,French Grand Prix,18,STR,Lance,Stroll,Canadian,Racing Point,1:31.726,,
+2019,8,French Grand Prix,19,RUS,George,Russell,British,Williams,1:32.789,,
+2019,8,French Grand Prix,20,KUB,Robert,Kubica,Polish,Williams,1:33.205,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,2,Saudi Arabian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:28.171,1:28.033,1:27.472
+2024,2,Saudi Arabian Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:28.318,1:28.112,1:27.791
+2024,2,Saudi Arabian Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:28.638,1:28.467,1:27.807
+2024,2,Saudi Arabian Grand Prix,4,ALO,Fernando,Alonso,Spanish,Aston Martin,1:28.706,1:28.122,1:27.846
+2024,2,Saudi Arabian Grand Prix,5,PIA,Oscar,Piastri,Australian,McLaren,1:28.755,1:28.343,1:28.089
+2024,2,Saudi Arabian Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:28.805,1:28.479,1:28.132
+2024,2,Saudi Arabian Grand Prix,7,RUS,George,Russell,British,Mercedes,1:28.749,1:28.448,1:28.316
+2024,2,Saudi Arabian Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:28.994,1:28.606,1:28.460
+2024,2,Saudi Arabian Grand Prix,9,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:28.988,1:28.564,1:28.547
+2024,2,Saudi Arabian Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:28.250,1:28.578,1:28.572
+2024,2,Saudi Arabian Grand Prix,11,BEA,Oliver,Bearman,British,Ferrari,1:28.984,1:28.642,
+2024,2,Saudi Arabian Grand Prix,12,ALB,Alexander,Albon,Thai,Williams,1:29.107,1:28.980,
+2024,2,Saudi Arabian Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:29.069,1:29.020,
+2024,2,Saudi Arabian Grand Prix,14,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:29.065,1:29.025,
+2024,2,Saudi Arabian Grand Prix,15,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:29.055,,
+2024,2,Saudi Arabian Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Sauber,1:29.179,,
+2024,2,Saudi Arabian Grand Prix,17,OCO,Esteban,Ocon,French,Alpine F1 Team,1:29.475,,
+2024,2,Saudi Arabian Grand Prix,18,GAS,Pierre,Gasly,French,Alpine F1 Team,1:29.479,,
+2024,2,Saudi Arabian Grand Prix,19,SAR,Logan,Sargeant,American,Williams,1:29.526,,
+2024,2,Saudi Arabian Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,"",,

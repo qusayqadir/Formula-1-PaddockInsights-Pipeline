@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,15,Singapore Grand Prix,1,SAI,Carlos,Sainz,Spanish,Ferrari,1:32.339,1:31.439,1:30.984
+2023,15,Singapore Grand Prix,2,RUS,George,Russell,British,Mercedes,1:32.331,1:31.743,1:31.056
+2023,15,Singapore Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:32.406,1:32.012,1:31.063
+2023,15,Singapore Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:32.483,1:31.951,1:31.270
+2023,15,Singapore Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:32.651,1:32.019,1:31.485
+2023,15,Singapore Grand Prix,6,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:32.242,1:31.892,1:31.575
+2023,15,Singapore Grand Prix,7,ALO,Fernando,Alonso,Spanish,Aston Martin,1:32.584,1:31.835,1:31.615
+2023,15,Singapore Grand Prix,8,OCO,Esteban,Ocon,French,Alpine F1 Team,1:32.369,1:32.089,1:31.673
+2023,15,Singapore Grand Prix,9,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:32.100,1:31.994,1:31.808
+2023,15,Singapore Grand Prix,10,LAW,Liam,Lawson,New Zealander,AlphaTauri,1:32.215,1:32.166,1:32.268
+2023,15,Singapore Grand Prix,11,VER,Max,Verstappen,Dutch,Red Bull,1:32.398,1:32.173,
+2023,15,Singapore Grand Prix,12,GAS,Pierre,Gasly,French,Alpine F1 Team,1:32.452,1:32.274,
+2023,15,Singapore Grand Prix,13,PER,Sergio,Pérez,Mexican,Red Bull,1:32.099,1:32.310,
+2023,15,Singapore Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:32.668,1:33.719,
+2023,15,Singapore Grand Prix,15,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:31.991,,
+2023,15,Singapore Grand Prix,16,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:32.809,,
+2023,15,Singapore Grand Prix,17,PIA,Oscar,Piastri,Australian,McLaren,1:32.902,,
+2023,15,Singapore Grand Prix,18,SAR,Logan,Sargeant,American,Williams,1:33.252,,
+2023,15,Singapore Grand Prix,19,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:33.258,,
+2023,15,Singapore Grand Prix,20,STR,Lance,Stroll,Canadian,Aston Martin,1:33.397,,

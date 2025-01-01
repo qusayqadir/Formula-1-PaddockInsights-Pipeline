@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,9,Austrian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:05.116,1:04.951,1:04.391
+2023,9,Austrian Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:05.577,1:05.087,1:04.439
+2023,9,Austrian Grand Prix,3,SAI,Carlos,Sainz,Spanish,Ferrari,1:05.339,1:04.975,1:04.581
+2023,9,Austrian Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:05.617,1:05.038,1:04.658
+2023,9,Austrian Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:05.673,1:05.188,1:04.819
+2023,9,Austrian Grand Prix,6,STR,Lance,Stroll,Canadian,Aston Martin,1:05.710,1:05.121,1:04.893
+2023,9,Austrian Grand Prix,7,ALO,Fernando,Alonso,Spanish,Aston Martin,1:05.655,1:05.181,1:04.911
+2023,9,Austrian Grand Prix,8,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:05.740,1:05.362,1:05.090
+2023,9,Austrian Grand Prix,9,GAS,Pierre,Gasly,French,Alpine F1 Team,1:05.515,1:05.308,1:05.170
+2023,9,Austrian Grand Prix,10,ALB,Alexander,Albon,Thai,Williams,1:05.673,1:05.387,1:05.823
+2023,9,Austrian Grand Prix,11,RUS,George,Russell,British,Mercedes,1:05.686,1:05.428,
+2023,9,Austrian Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:05.729,1:05.453,
+2023,9,Austrian Grand Prix,13,PIA,Oscar,Piastri,Australian,McLaren,1:05.683,1:05.605,
+2023,9,Austrian Grand Prix,14,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:05.763,1:05.680,
+2023,9,Austrian Grand Prix,15,PER,Sergio,Pérez,Mexican,Red Bull,1:05.177,2:06.688,
+2023,9,Austrian Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:05.784,,
+2023,9,Austrian Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:05.818,,
+2023,9,Austrian Grand Prix,18,SAR,Logan,Sargeant,American,Williams,1:05.948,,
+2023,9,Austrian Grand Prix,19,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:05.971,,
+2023,9,Austrian Grand Prix,20,DEV,Nyck,de Vries,Dutch,AlphaTauri,1:05.974,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2024,14,Belgian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:54.938,1:53.837,1:53.159
+2024,14,Belgian Grand Prix,2,LEC,Charles,Leclerc,Monegasque,Ferrari,1:55.349,1:54.193,1:53.754
+2024,14,Belgian Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:55.139,1:54.470,1:53.765
+2024,14,Belgian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:55.692,1:54.037,1:53.835
+2024,14,Belgian Grand Prix,5,NOR,Lando,Norris,British,McLaren,1:55.582,1:54.358,1:53.981
+2024,14,Belgian Grand Prix,6,PIA,Oscar,Piastri,Australian,McLaren,1:54.835,1:54.136,1:54.027
+2024,14,Belgian Grand Prix,7,RUS,George,Russell,British,Mercedes,1:55.353,1:54.095,1:54.184
+2024,14,Belgian Grand Prix,8,SAI,Carlos,Sainz,Spanish,Ferrari,1:55.169,1:54.112,1:54.477
+2024,14,Belgian Grand Prix,9,ALO,Fernando,Alonso,Spanish,Aston Martin,1:55.489,1:54.258,1:54.765
+2024,14,Belgian Grand Prix,10,OCO,Esteban,Ocon,French,Alpine F1 Team,1:55.417,1:54.460,1:54.810
+2024,14,Belgian Grand Prix,11,ALB,Alexander,Albon,Thai,Williams,1:55.722,1:54.473,
+2024,14,Belgian Grand Prix,12,GAS,Pierre,Gasly,French,Alpine F1 Team,1:54.911,1:54.635,
+2024,14,Belgian Grand Prix,13,RIC,Daniel,Ricciardo,Australian,RB F1 Team,1:55.451,1:54.682,
+2024,14,Belgian Grand Prix,14,BOT,Valtteri,Bottas,Finnish,Sauber,1:55.531,1:54.764,
+2024,14,Belgian Grand Prix,15,STR,Lance,Stroll,Canadian,Aston Martin,1:56.072,1:55.716,
+2024,14,Belgian Grand Prix,16,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:56.308,,
+2024,14,Belgian Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:56.500,,
+2024,14,Belgian Grand Prix,18,TSU,Yuki,Tsunoda,Japanese,RB F1 Team,1:56.593,,
+2024,14,Belgian Grand Prix,19,SAR,Logan,Sargeant,American,Williams,1:57.230,,
+2024,14,Belgian Grand Prix,20,ZHO,Guanyu,Zhou,Chinese,Sauber,1:57.775,,

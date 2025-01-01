@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,19,Mexico City Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.401,1:17.901,1:17.166
+2023,19,Mexico City Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:18.755,1:18.382,1:17.233
+2023,19,Mexico City Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:18.099,1:17.625,1:17.263
+2023,19,Mexico City Grand Prix,4,RIC,Daniel,Ricciardo,Australian,AlphaTauri,1:18.341,1:17.706,1:17.382
+2023,19,Mexico City Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:18.553,1:18.124,1:17.423
+2023,19,Mexico City Grand Prix,6,HAM,Lewis,Hamilton,British,Mercedes,1:18.677,1:17.571,1:17.454
+2023,19,Mexico City Grand Prix,7,PIA,Oscar,Piastri,Australian,McLaren,1:18.241,1:17.874,1:17.623
+2023,19,Mexico City Grand Prix,8,RUS,George,Russell,British,Mercedes,1:18.893,1:17.673,1:17.674
+2023,19,Mexico City Grand Prix,9,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:18.429,1:18.016,1:18.032
+2023,19,Mexico City Grand Prix,10,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:19.016,1:18.440,1:18.050
+2023,19,Mexico City Grand Prix,11,GAS,Pierre,Gasly,French,Alpine F1 Team,1:18.945,1:18.521,
+2023,19,Mexico City Grand Prix,12,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:18.969,1:18.524,
+2023,19,Mexico City Grand Prix,13,ALO,Fernando,Alonso,Spanish,Aston Martin,1:18.848,1:18.738,
+2023,19,Mexico City Grand Prix,14,ALB,Alexander,Albon,Thai,Williams,1:18.828,1:19.147,
+2023,19,Mexico City Grand Prix,15,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:18.890,,
+2023,19,Mexico City Grand Prix,16,OCO,Esteban,Ocon,French,Alpine F1 Team,1:19.080,,
+2023,19,Mexico City Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:19.163,,
+2023,19,Mexico City Grand Prix,18,STR,Lance,Stroll,Canadian,Aston Martin,1:19.227,,
+2023,19,Mexico City Grand Prix,19,NOR,Lando,Norris,British,McLaren,1:21.554,,
+2023,19,Mexico City Grand Prix,20,SAR,Logan,Sargeant,American,Williams,"",,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,13,Hungarian Grand Prix,1,RUS,George,Russell,British,Mercedes,1:18.407,1:18.154,1:17.377
+2022,13,Hungarian Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:18.434,1:17.946,1:17.421
+2022,13,Hungarian Grand Prix,3,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.806,1:17.768,1:17.567
+2022,13,Hungarian Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:18.653,1:18.121,1:17.769
+2022,13,Hungarian Grand Prix,5,OCO,Esteban,Ocon,French,Alpine F1 Team,1:18.866,1:18.216,1:18.018
+2022,13,Hungarian Grand Prix,6,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:18.716,1:17.904,1:18.078
+2022,13,Hungarian Grand Prix,7,HAM,Lewis,Hamilton,British,Mercedes,1:18.374,1:18.035,1:18.142
+2022,13,Hungarian Grand Prix,8,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:18.935,1:18.445,1:18.157
+2022,13,Hungarian Grand Prix,9,RIC,Daniel,Ricciardo,Australian,McLaren,1:18.775,1:18.198,1:18.379
+2022,13,Hungarian Grand Prix,10,VER,Max,Verstappen,Dutch,Red Bull,1:18.509,1:17.703,1:18.823
+2022,13,Hungarian Grand Prix,11,PER,Sergio,Pérez,Mexican,Red Bull,1:19.118,1:18.516,
+2022,13,Hungarian Grand Prix,12,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:18.973,1:18.573,
+2022,13,Hungarian Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:18.993,1:18.825,
+2022,13,Hungarian Grand Prix,14,STR,Lance,Stroll,Canadian,Aston Martin,1:19.205,1:19.137,
+2022,13,Hungarian Grand Prix,15,MSC,Mick,Schumacher,German,Haas F1 Team,1:19.164,1:19.202,
+2022,13,Hungarian Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:19.240,,
+2022,13,Hungarian Grand Prix,17,ALB,Alexander,Albon,Thai,Williams,1:19.256,,
+2022,13,Hungarian Grand Prix,18,VET,Sebastian,Vettel,German,Aston Martin,1:19.273,,
+2022,13,Hungarian Grand Prix,19,GAS,Pierre,Gasly,French,AlphaTauri,1:19.527,,
+2022,13,Hungarian Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:19.570,,

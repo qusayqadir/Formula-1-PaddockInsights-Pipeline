@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2017,6,Monaco Grand Prix,1,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:13.117,1:12.231,1:12.178
+2017,6,Monaco Grand Prix,2,VET,Sebastian,Vettel,German,Ferrari,1:13.090,1:12.449,1:12.221
+2017,6,Monaco Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:13.325,1:12.901,1:12.223
+2017,6,Monaco Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:13.078,1:12.697,1:12.496
+2017,6,Monaco Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:13.219,1:13.011,1:12.998
+2017,6,Monaco Grand Prix,6,SAI,Carlos,Sainz,Spanish,Toro Rosso,1:13.526,1:13.397,1:13.162
+2017,6,Monaco Grand Prix,7,PER,Sergio,Pérez,Mexican,Force India,1:13.530,1:13.430,1:13.329
+2017,6,Monaco Grand Prix,8,GRO,Romain,Grosjean,French,Haas F1 Team,1:13.786,1:13.203,1:13.349
+2017,6,Monaco Grand Prix,9,BUT,Jenson,Button,British,McLaren,1:13.723,1:13.453,1:13.613
+2017,6,Monaco Grand Prix,10,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:13.476,1:13.249,
+2017,6,Monaco Grand Prix,11,KVY,Daniil,Kvyat,Russian,Toro Rosso,1:13.899,1:13.516,
+2017,6,Monaco Grand Prix,12,HUL,Nico,Hülkenberg,German,Renault,1:13.787,1:13.628,
+2017,6,Monaco Grand Prix,13,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:13.531,1:13.959,
+2017,6,Monaco Grand Prix,14,HAM,Lewis,Hamilton,British,Mercedes,1:13.640,1:14.106,
+2017,6,Monaco Grand Prix,15,MAS,Felipe,Massa,Brazilian,Williams,1:13.796,1:20.529,
+2017,6,Monaco Grand Prix,16,OCO,Esteban,Ocon,French,Force India,1:14.101,,
+2017,6,Monaco Grand Prix,17,PAL,Jolyon,Palmer,British,Renault,1:14.696,,
+2017,6,Monaco Grand Prix,18,STR,Lance,Stroll,Canadian,Williams,1:14.893,,
+2017,6,Monaco Grand Prix,19,WEH,Pascal,Wehrlein,German,Sauber,1:15.159,,
+2017,6,Monaco Grand Prix,20,ERI,Marcus,Ericsson,Swedish,Sauber,1:15.276,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2023,4,Azerbaijan Grand Prix,1,LEC,Charles,Leclerc,Monegasque,Ferrari,1:41.269,1:41.037,1:40.203
+2023,4,Azerbaijan Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:41.398,1:40.822,1:40.391
+2023,4,Azerbaijan Grand Prix,3,PER,Sergio,Pérez,Mexican,Red Bull,1:41.756,1:41.131,1:40.495
+2023,4,Azerbaijan Grand Prix,4,SAI,Carlos,Sainz,Spanish,Ferrari,1:42.197,1:41.369,1:41.016
+2023,4,Azerbaijan Grand Prix,5,HAM,Lewis,Hamilton,British,Mercedes,1:42.113,1:41.650,1:41.177
+2023,4,Azerbaijan Grand Prix,6,ALO,Fernando,Alonso,Spanish,Aston Martin,1:41.720,1:41.370,1:41.253
+2023,4,Azerbaijan Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:42.154,1:41.485,1:41.281
+2023,4,Azerbaijan Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:42.234,1:41.569,1:41.581
+2023,4,Azerbaijan Grand Prix,9,STR,Lance,Stroll,Canadian,Aston Martin,1:42.524,1:41.576,1:41.611
+2023,4,Azerbaijan Grand Prix,10,PIA,Oscar,Piastri,Australian,McLaren,1:42.455,1:41.636,1:41.611
+2023,4,Azerbaijan Grand Prix,11,RUS,George,Russell,British,Mercedes,1:42.073,1:41.654,
+2023,4,Azerbaijan Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:42.622,1:41.798,
+2023,4,Azerbaijan Grand Prix,13,ALB,Alexander,Albon,Thai,Williams,1:42.171,1:41.818,
+2023,4,Azerbaijan Grand Prix,14,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:42.582,1:42.259,
+2023,4,Azerbaijan Grand Prix,15,SAR,Logan,Sargeant,American,Williams,1:42.242,1:42.395,
+2023,4,Azerbaijan Grand Prix,16,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:42.642,,
+2023,4,Azerbaijan Grand Prix,17,HUL,Nico,Hülkenberg,German,Haas F1 Team,1:42.755,,
+2023,4,Azerbaijan Grand Prix,18,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:43.417,,
+2023,4,Azerbaijan Grand Prix,19,GAS,Pierre,Gasly,French,Alpine F1 Team,1:44.853,,
+2023,4,Azerbaijan Grand Prix,20,DEV,Nyck,de Vries,Dutch,AlphaTauri,"",,

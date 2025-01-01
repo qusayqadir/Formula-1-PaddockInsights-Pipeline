@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2022,21,São Paulo Grand Prix,1,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:13.954,1:11.410,1:11.674
+2022,21,São Paulo Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:13.625,1:10.881,1:11.877
+2022,21,São Paulo Grand Prix,3,RUS,George,Russell,British,Mercedes,1:14.427,1:11.318,1:12.059
+2022,21,São Paulo Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:13.106,1:11.377,1:12.263
+2022,21,São Paulo Grand Prix,5,SAI,Carlos,Sainz,Spanish,Ferrari,1:14.680,1:10.890,1:12.357
+2022,21,São Paulo Grand Prix,6,OCO,Esteban,Ocon,French,Alpine F1 Team,1:14.663,1:11.587,1:12.425
+2022,21,São Paulo Grand Prix,7,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:13.542,1:11.394,1:12.504
+2022,21,São Paulo Grand Prix,8,HAM,Lewis,Hamilton,British,Mercedes,1:13.403,1:11.539,1:12.611
+2022,21,São Paulo Grand Prix,9,PER,Sergio,Pérez,Mexican,Red Bull,1:13.613,1:11.456,1:15.601
+2022,21,São Paulo Grand Prix,10,LEC,Charles,Leclerc,Monegasque,Ferrari,1:14.486,1:10.950,
+2022,21,São Paulo Grand Prix,11,ALB,Alexander,Albon,Thai,Williams,1:14.324,1:11.631,
+2022,21,São Paulo Grand Prix,12,GAS,Pierre,Gasly,French,AlphaTauri,1:14.371,1:11.675,
+2022,21,São Paulo Grand Prix,13,VET,Sebastian,Vettel,German,Aston Martin,1:13.597,1:11.678,
+2022,21,São Paulo Grand Prix,14,RIC,Daniel,Ricciardo,Australian,McLaren,1:14.931,1:12.140,
+2022,21,São Paulo Grand Prix,15,STR,Lance,Stroll,Canadian,Aston Martin,1:14.398,1:12.210,
+2022,21,São Paulo Grand Prix,16,LAT,Nicholas,Latifi,Canadian,Williams,1:15.095,,
+2022,21,São Paulo Grand Prix,17,ZHO,Guanyu,Zhou,Chinese,Alfa Romeo,1:15.197,,
+2022,21,São Paulo Grand Prix,18,BOT,Valtteri,Bottas,Finnish,Alfa Romeo,1:15.486,,
+2022,21,São Paulo Grand Prix,19,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:16.264,,
+2022,21,São Paulo Grand Prix,20,MSC,Mick,Schumacher,German,Haas F1 Team,1:16.361,,
