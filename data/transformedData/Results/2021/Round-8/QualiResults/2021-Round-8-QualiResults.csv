@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,8,Styrian Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:04.489,1:04.433,1:03.841
+2021,8,Styrian Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:04.537,1:04.443,1:04.035
+2021,8,Styrian Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:04.672,1:04.512,1:04.067
+2021,8,Styrian Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:04.584,1:04.298,1:04.120
+2021,8,Styrian Grand Prix,5,PER,Sergio,Pérez,Mexican,Red Bull,1:04.638,1:04.197,1:04.168
+2021,8,Styrian Grand Prix,6,GAS,Pierre,Gasly,French,AlphaTauri,1:04.765,1:04.429,1:04.236
+2021,8,Styrian Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:04.745,1:04.646,1:04.472
+2021,8,Styrian Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:04.608,1:04.631,1:04.514
+2021,8,Styrian Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:04.971,1:04.582,1:04.574
+2021,8,Styrian Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:04.821,1:04.663,1:04.708
+2021,8,Styrian Grand Prix,11,RUS,George,Russell,British,Williams,1:05.033,1:04.671,
+2021,8,Styrian Grand Prix,12,SAI,Carlos,Sainz,Spanish,Ferrari,1:04.859,1:04.800,
+2021,8,Styrian Grand Prix,13,RIC,Daniel,Ricciardo,Australian,McLaren,1:05.142,1:04.808,
+2021,8,Styrian Grand Prix,14,VET,Sebastian,Vettel,German,Aston Martin,1:05.051,1:04.875,
+2021,8,Styrian Grand Prix,15,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:05.092,1:04.913,
+2021,8,Styrian Grand Prix,16,LAT,Nicholas,Latifi,Canadian,Williams,1:05.175,,
+2021,8,Styrian Grand Prix,17,OCO,Esteban,Ocon,French,Alpine F1 Team,1:05.217,,
+2021,8,Styrian Grand Prix,18,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:05.429,,
+2021,8,Styrian Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:06.041,,
+2021,8,Styrian Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:06.192,,

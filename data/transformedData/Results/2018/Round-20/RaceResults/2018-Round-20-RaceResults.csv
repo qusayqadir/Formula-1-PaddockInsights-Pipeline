@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2018,20,Brazilian Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:27:09.066,Mercedes
+2018,20,Brazilian Grand Prix,5,2,VER,Max,Verstappen,Dutch,18,Finished,+1.469,Red Bull
+2018,20,Brazilian Grand Prix,4,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+4.764,Ferrari
+2018,20,Brazilian Grand Prix,11,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+5.193,Red Bull
+2018,20,Brazilian Grand Prix,3,5,BOT,Valtteri,Bottas,Finnish,10,Finished,+22.943,Mercedes
+2018,20,Brazilian Grand Prix,2,6,VET,Sebastian,Vettel,German,8,Finished,+26.997,Ferrari
+2018,20,Brazilian Grand Prix,7,7,LEC,Charles,Leclerc,Monegasque,6,Finished,+44.199,Sauber
+2018,20,Brazilian Grand Prix,8,8,GRO,Romain,Grosjean,French,4,Finished,+51.230,Haas F1 Team
+2018,20,Brazilian Grand Prix,10,9,MAG,Kevin,Magnussen,Danish,2,Finished,+52.857,Haas F1 Team
+2018,20,Brazilian Grand Prix,12,10,PER,Sergio,Pérez,Mexican,1,+1 Lap,,Force India
+2018,20,Brazilian Grand Prix,16,11,HAR,Brendon,Hartley,New Zealander,0,+1 Lap,,Toro Rosso
+2018,20,Brazilian Grand Prix,15,12,SAI,Carlos,Sainz,Spanish,0,+1 Lap,,Renault
+2018,20,Brazilian Grand Prix,9,13,GAS,Pierre,Gasly,French,0,+1 Lap,,Toro Rosso
+2018,20,Brazilian Grand Prix,20,14,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2018,20,Brazilian Grand Prix,18,15,OCO,Esteban,Ocon,French,0,+1 Lap,,Force India
+2018,20,Brazilian Grand Prix,14,16,SIR,Sergey,Sirotkin,Russian,0,+2 Laps,,Williams
+2018,20,Brazilian Grand Prix,17,17,ALO,Fernando,Alonso,Spanish,0,+2 Laps,,McLaren
+2018,20,Brazilian Grand Prix,19,18,STR,Lance,Stroll,Canadian,0,+2 Laps,,Williams
+2018,20,Brazilian Grand Prix,13,19,HUL,Nico,Hülkenberg,German,0,Overheating,,Renault
+2018,20,Brazilian Grand Prix,6,20,ERI,Marcus,Ericsson,Swedish,0,Collision,,Sauber

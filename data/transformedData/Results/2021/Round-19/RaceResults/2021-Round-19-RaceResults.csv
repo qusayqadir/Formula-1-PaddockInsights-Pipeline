@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2021,19,São Paulo Grand Prix,10,1,HAM,Lewis,Hamilton,British,25,Finished,1:32:22.851,Mercedes
+2021,19,São Paulo Grand Prix,2,2,VER,Max,Verstappen,Dutch,18,Finished,+10.496,Red Bull
+2021,19,São Paulo Grand Prix,1,3,BOT,Valtteri,Bottas,Finnish,15,Finished,+13.576,Mercedes
+2021,19,São Paulo Grand Prix,4,4,PER,Sergio,Pérez,Mexican,13,Finished,+39.940,Red Bull
+2021,19,São Paulo Grand Prix,6,5,LEC,Charles,Leclerc,Monegasque,10,Finished,+49.517,Ferrari
+2021,19,São Paulo Grand Prix,3,6,SAI,Carlos,Sainz,Spanish,8,Finished,+51.820,Ferrari
+2021,19,São Paulo Grand Prix,7,7,GAS,Pierre,Gasly,French,6,+1 Lap,,AlphaTauri
+2021,19,São Paulo Grand Prix,8,8,OCO,Esteban,Ocon,French,4,+1 Lap,,Alpine F1 Team
+2021,19,São Paulo Grand Prix,12,9,ALO,Fernando,Alonso,Spanish,2,+1 Lap,,Alpine F1 Team
+2021,19,São Paulo Grand Prix,5,10,NOR,Lando,Norris,British,1,+1 Lap,,McLaren
+2021,19,São Paulo Grand Prix,9,11,VET,Sebastian,Vettel,German,0,+1 Lap,,Aston Martin
+2021,19,São Paulo Grand Prix,0,12,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Alfa Romeo
+2021,19,São Paulo Grand Prix,17,13,RUS,George,Russell,British,0,+1 Lap,,Williams
+2021,19,São Paulo Grand Prix,13,14,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2021,19,São Paulo Grand Prix,15,15,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,AlphaTauri
+2021,19,São Paulo Grand Prix,16,16,LAT,Nicholas,Latifi,Canadian,0,+1 Lap,,Williams
+2021,19,São Paulo Grand Prix,19,17,MAZ,Nikita,Mazepin,Russian,0,+2 Laps,,Haas F1 Team
+2021,19,São Paulo Grand Prix,18,18,MSC,Mick,Schumacher,German,0,+2 Laps,,Haas F1 Team
+2021,19,São Paulo Grand Prix,11,19,RIC,Daniel,Ricciardo,Australian,0,Power loss,,McLaren
+2021,19,São Paulo Grand Prix,14,20,STR,Lance,Stroll,Canadian,0,Collision damage,,Aston Martin

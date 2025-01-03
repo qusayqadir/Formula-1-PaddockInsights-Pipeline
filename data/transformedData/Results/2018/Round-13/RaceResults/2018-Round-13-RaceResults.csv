@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2018,13,Belgian Grand Prix,2,1,VET,Sebastian,Vettel,German,25,Finished,1:23:34.476,Ferrari
+2018,13,Belgian Grand Prix,1,2,HAM,Lewis,Hamilton,British,18,Finished,+11.061,Mercedes
+2018,13,Belgian Grand Prix,7,3,VER,Max,Verstappen,Dutch,15,Finished,+31.372,Red Bull
+2018,13,Belgian Grand Prix,19,4,BOT,Valtteri,Bottas,Finnish,12,Finished,+1:03.605,Mercedes
+2018,13,Belgian Grand Prix,4,5,PER,Sergio,Pérez,Mexican,10,Finished,+1:11.023,Force India
+2018,13,Belgian Grand Prix,3,6,OCO,Esteban,Ocon,French,8,Finished,+1:19.520,Force India
+2018,13,Belgian Grand Prix,5,7,GRO,Romain,Grosjean,French,6,Finished,+1:25.953,Haas F1 Team
+2018,13,Belgian Grand Prix,9,8,MAG,Kevin,Magnussen,Danish,4,Finished,+1:27.639,Haas F1 Team
+2018,13,Belgian Grand Prix,10,9,GAS,Pierre,Gasly,French,2,Finished,+1:45.892,Toro Rosso
+2018,13,Belgian Grand Prix,13,10,ERI,Marcus,Ericsson,Swedish,1,+1 Lap,,Sauber
+2018,13,Belgian Grand Prix,14,11,SAI,Carlos,Sainz,Spanish,0,+1 Lap,,Renault
+2018,13,Belgian Grand Prix,16,12,SIR,Sergey,Sirotkin,Russian,0,+1 Lap,,Williams
+2018,13,Belgian Grand Prix,17,13,STR,Lance,Stroll,Canadian,0,+1 Lap,,Williams
+2018,13,Belgian Grand Prix,11,14,HAR,Brendon,Hartley,New Zealander,0,+1 Lap,,Toro Rosso
+2018,13,Belgian Grand Prix,18,15,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2018,13,Belgian Grand Prix,8,16,RIC,Daniel,Ricciardo,Australian,0,Retired,,Red Bull
+2018,13,Belgian Grand Prix,6,17,RAI,Kimi,Räikkönen,Finnish,0,Brakes,,Ferrari
+2018,13,Belgian Grand Prix,12,18,LEC,Charles,Leclerc,Monegasque,0,Accident,,Sauber
+2018,13,Belgian Grand Prix,15,19,ALO,Fernando,Alonso,Spanish,0,Accident,,McLaren
+2018,13,Belgian Grand Prix,20,20,HUL,Nico,Hülkenberg,German,0,Accident,,Renault

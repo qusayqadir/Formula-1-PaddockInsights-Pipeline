@@ -1,0 +1,21 @@
+Season,Round,Championship Position,DriverID,FirstName,FamilyName,Nationaility,Points
+2018,8,1,hamilton,Lewis,Hamilton,British,145
+2018,8,2,vettel,Sebastian,Vettel,German,131
+2018,8,3,ricciardo,Daniel,Ricciardo,Australian,96
+2018,8,4,bottas,Valtteri,Bottas,Finnish,92
+2018,8,5,raikkonen,Kimi,Räikkönen,Finnish,83
+2018,8,6,max_verstappen,Max,Verstappen,Dutch,68
+2018,8,7,hulkenberg,Nico,Hülkenberg,German,34
+2018,8,8,alonso,Fernando,Alonso,Spanish,32
+2018,8,9,sainz,Carlos,Sainz,Spanish,28
+2018,8,10,kevin_magnussen,Kevin,Magnussen,Danish,27
+2018,8,11,gasly,Pierre,Gasly,French,18
+2018,8,12,perez,Sergio,Pérez,Mexican,17
+2018,8,13,ocon,Esteban,Ocon,French,11
+2018,8,14,leclerc,Charles,Leclerc,Monegasque,11
+2018,8,15,vandoorne,Stoffel,Vandoorne,Belgian,8
+2018,8,16,stroll,Lance,Stroll,Canadian,4
+2018,8,17,ericsson,Marcus,Ericsson,Swedish,2
+2018,8,18,brendon_hartley,Brendon,Hartley,New Zealander,1
+2018,8,19,grosjean,Romain,Grosjean,French,0
+2018,8,20,sirotkin,Sergey,Sirotkin,Russian,0

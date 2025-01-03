@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,1,Bahrain Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:30.499,1:30.318,1:28.997
+2021,1,Bahrain Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:30.617,1:30.085,1:29.385
+2021,1,Bahrain Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:31.200,1:30.186,1:29.586
+2021,1,Bahrain Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:30.691,1:30.010,1:29.678
+2021,1,Bahrain Grand Prix,5,GAS,Pierre,Gasly,French,AlphaTauri,1:30.848,1:30.513,1:29.809
+2021,1,Bahrain Grand Prix,6,RIC,Daniel,Ricciardo,Australian,McLaren,1:30.795,1:30.222,1:29.927
+2021,1,Bahrain Grand Prix,7,NOR,Lando,Norris,British,McLaren,1:30.902,1:30.099,1:29.974
+2021,1,Bahrain Grand Prix,8,SAI,Carlos,Sainz,Spanish,Ferrari,1:31.653,1:30.009,1:30.215
+2021,1,Bahrain Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:30.863,1:30.595,1:30.249
+2021,1,Bahrain Grand Prix,10,STR,Lance,Stroll,Canadian,Aston Martin,1:31.261,1:30.624,1:30.601
+2021,1,Bahrain Grand Prix,11,PER,Sergio,Pérez,Mexican,Red Bull,1:31.165,1:30.659,
+2021,1,Bahrain Grand Prix,12,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:30.998,1:30.708,
+2021,1,Bahrain Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:30.607,1:31.203,
+2021,1,Bahrain Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:31.547,1:31.238,
+2021,1,Bahrain Grand Prix,15,RUS,George,Russell,British,Williams,1:31.316,1:33.430,
+2021,1,Bahrain Grand Prix,16,OCO,Esteban,Ocon,French,Alpine F1 Team,1:31.724,,
+2021,1,Bahrain Grand Prix,17,LAT,Nicholas,Latifi,Canadian,Williams,1:31.936,,
+2021,1,Bahrain Grand Prix,18,VET,Sebastian,Vettel,German,Aston Martin,1:32.056,,
+2021,1,Bahrain Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:32.449,,
+2021,1,Bahrain Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:33.273,,

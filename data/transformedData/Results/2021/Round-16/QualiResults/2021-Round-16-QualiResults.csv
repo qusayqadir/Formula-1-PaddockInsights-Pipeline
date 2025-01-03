@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,16,Turkish Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:24.585,1:23.082,1:22.868
+2021,16,Turkish Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:25.047,1:23.579,1:22.998
+2021,16,Turkish Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:24.592,1:23.732,1:23.196
+2021,16,Turkish Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:24.869,1:24.015,1:23.265
+2021,16,Turkish Grand Prix,5,GAS,Pierre,Gasly,French,AlphaTauri,1:24.704,1:23.817,1:23.326
+2021,16,Turkish Grand Prix,6,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:25.174,1:23.914,1:23.477
+2021,16,Turkish Grand Prix,7,PER,Sergio,Pérez,Mexican,Red Bull,1:24.963,1:23.961,1:23.706
+2021,16,Turkish Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:25.138,1:24.642,1:23.954
+2021,16,Turkish Grand Prix,9,STR,Lance,Stroll,Canadian,Aston Martin,1:25.511,1:24.601,1:24.305
+2021,16,Turkish Grand Prix,10,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:25.409,1:24.054,1:24.368
+2021,16,Turkish Grand Prix,11,VET,Sebastian,Vettel,German,Aston Martin,1:25.787,1:24.795,
+2021,16,Turkish Grand Prix,12,OCO,Esteban,Ocon,French,Alpine F1 Team,1:25.422,1:24.842,
+2021,16,Turkish Grand Prix,13,RUS,George,Russell,British,Williams,1:25.417,1:25.007,
+2021,16,Turkish Grand Prix,14,MSC,Mick,Schumacher,German,Haas F1 Team,1:25.555,1:25.200,
+2021,16,Turkish Grand Prix,15,SAI,Carlos,Sainz,Spanish,Ferrari,1:25.177,,
+2021,16,Turkish Grand Prix,16,RIC,Daniel,Ricciardo,Australian,McLaren,1:25.881,,
+2021,16,Turkish Grand Prix,17,LAT,Nicholas,Latifi,Canadian,Williams,1:26.086,,
+2021,16,Turkish Grand Prix,18,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:26.430,,
+2021,16,Turkish Grand Prix,19,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:27.525,,
+2021,16,Turkish Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:28.449,,

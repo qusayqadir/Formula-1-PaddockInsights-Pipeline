@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2004,16,Chinese Grand Prix,1,1,BAR,Rubens,Barrichello,Brazilian,10,Finished,1:29:12.420,Ferrari
+2004,16,Chinese Grand Prix,3,2,BUT,Jenson,Button,British,8,Finished,+1.035,BAR
+2004,16,Chinese Grand Prix,2,3,RAI,Kimi,Räikkönen,Finnish,6,Finished,+1.469,McLaren
+2004,16,Chinese Grand Prix,6,4,ALO,Fernando,Alonso,Spanish,5,Finished,+32.510,Renault
+2004,16,Chinese Grand Prix,10,5,MON,Juan,Pablo Montoya,Colombian,4,Finished,+45.193,Williams
+2004,16,Chinese Grand Prix,18,6,SAT,Takuma,Sato,Japanese,3,Finished,+54.791,BAR
+2004,16,Chinese Grand Prix,7,7,FIS,Giancarlo,Fisichella,Italian,2,Finished,+1:05.454,Sauber
+2004,16,Chinese Grand Prix,4,8,MAS,Felipe,Massa,Brazilian,1,Finished,+1:20.080,Sauber
+2004,16,Chinese Grand Prix,9,9,COU,David,Coulthard,British,0,Finished,+1:20.619,McLaren
+2004,16,Chinese Grand Prix,11,10,WEB,Mark,Webber,Australian,0,+1 Lap,,Jaguar
+2004,16,Chinese Grand Prix,12,11,VIL,Jacques,Villeneuve,Canadian,0,+1 Lap,,Renault
+2004,16,Chinese Grand Prix,20,12,MSC,Michael,Schumacher,German,0,+1 Lap,,Ferrari
+2004,16,Chinese Grand Prix,14,13,HEI,Nick,Heidfeld,German,0,+1 Lap,,Jordan
+2004,16,Chinese Grand Prix,8,14,,Olivier,Panis,French,0,+1 Lap,,Toyota
+2004,16,Chinese Grand Prix,16,15,GLO,Timo,Glock,German,0,+1 Lap,,Jordan
+2004,16,Chinese Grand Prix,19,16,,Zsolt,Baumgartner,Hungarian,0,+3 Laps,,Minardi
+2004,16,Chinese Grand Prix,17,17,,Gianmaria,Bruni,Italian,0,Wheel,,Minardi
+2004,16,Chinese Grand Prix,5,18,SCH,Ralf,Schumacher,German,0,Collision,,Williams
+2004,16,Chinese Grand Prix,13,19,ZON,Ricardo,Zonta,Brazilian,0,Transmission,,Toyota
+2004,16,Chinese Grand Prix,15,20,KLI,Christian,Klien,Austrian,0,Collision,,Jaguar

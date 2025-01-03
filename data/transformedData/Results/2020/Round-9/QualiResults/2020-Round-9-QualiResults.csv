@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,9,Tuscan Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:15.778,1:15.309,1:15.144
+2020,9,Tuscan Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:15.749,1:15.322,1:15.203
+2020,9,Tuscan Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:16.335,1:15.471,1:15.509
+2020,9,Tuscan Grand Prix,4,ALB,Alexander,Albon,Thai,Red Bull,1:16.527,1:15.914,1:15.954
+2020,9,Tuscan Grand Prix,5,LEC,Charles,Leclerc,Monegasque,Ferrari,1:16.698,1:16.324,1:16.270
+2020,9,Tuscan Grand Prix,6,PER,Sergio,Pérez,Mexican,Racing Point,1:16.596,1:16.489,1:16.311
+2020,9,Tuscan Grand Prix,7,STR,Lance,Stroll,Canadian,Racing Point,1:16.701,1:16.271,1:16.356
+2020,9,Tuscan Grand Prix,8,RIC,Daniel,Ricciardo,Australian,Renault,1:16.981,1:16.243,1:16.543
+2020,9,Tuscan Grand Prix,9,SAI,Carlos,Sainz,Spanish,McLaren,1:16.993,1:16.522,1:17.870
+2020,9,Tuscan Grand Prix,10,OCO,Esteban,Ocon,French,Renault,1:16.825,1:16.297,
+2020,9,Tuscan Grand Prix,11,NOR,Lando,Norris,British,McLaren,1:16.895,1:16.640,
+2020,9,Tuscan Grand Prix,12,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:16.928,1:16.854,
+2020,9,Tuscan Grand Prix,13,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:17.059,1:16.854,
+2020,9,Tuscan Grand Prix,14,VET,Sebastian,Vettel,German,Ferrari,1:17.072,1:16.858,
+2020,9,Tuscan Grand Prix,15,GRO,Romain,Grosjean,French,Haas F1 Team,1:17.069,1:17.254,
+2020,9,Tuscan Grand Prix,16,GAS,Pierre,Gasly,French,AlphaTauri,1:17.125,,
+2020,9,Tuscan Grand Prix,17,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:17.220,,
+2020,9,Tuscan Grand Prix,18,RUS,George,Russell,British,Williams,1:17.232,,
+2020,9,Tuscan Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:17.320,,
+2020,9,Tuscan Grand Prix,20,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:17.348,,

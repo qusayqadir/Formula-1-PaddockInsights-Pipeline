@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,15,Russian Grand Prix,1,NOR,Lando,Norris,British,McLaren,1:47.238,1:45.827,1:41.993
+2021,15,Russian Grand Prix,2,SAI,Carlos,Sainz,Spanish,Ferrari,1:47.924,1:46.521,1:42.510
+2021,15,Russian Grand Prix,3,RUS,George,Russell,British,Williams,1:48.303,1:46.435,1:42.983
+2021,15,Russian Grand Prix,4,HAM,Lewis,Hamilton,British,Mercedes,1:45.992,1:45.129,1:44.050
+2021,15,Russian Grand Prix,5,RIC,Daniel,Ricciardo,Australian,McLaren,1:48.345,1:46.361,1:44.156
+2021,15,Russian Grand Prix,6,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:47.877,1:45.514,1:44.204
+2021,15,Russian Grand Prix,7,BOT,Valtteri,Bottas,Finnish,Mercedes,1:46.396,1:45.306,1:44.710
+2021,15,Russian Grand Prix,8,STR,Lance,Stroll,Canadian,Aston Martin,1:48.322,1:46.360,1:44.956
+2021,15,Russian Grand Prix,9,PER,Sergio,Pérez,Mexican,Red Bull,1:46.455,1:45.834,1:45.337
+2021,15,Russian Grand Prix,10,OCO,Esteban,Ocon,French,Alpine F1 Team,1:48.099,1:46.070,1:45.865
+2021,15,Russian Grand Prix,11,VET,Sebastian,Vettel,German,Aston Martin,1:47.205,1:46.573,
+2021,15,Russian Grand Prix,12,GAS,Pierre,Gasly,French,AlphaTauri,1:47.828,1:46.641,
+2021,15,Russian Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:48.854,1:46.751,
+2021,15,Russian Grand Prix,14,LAT,Nicholas,Latifi,Canadian,Williams,1:48.252,,
+2021,15,Russian Grand Prix,15,LEC,Charles,Leclerc,Monegasque,Ferrari,1:48.470,,
+2021,15,Russian Grand Prix,16,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:49.586,,
+2021,15,Russian Grand Prix,17,MSC,Mick,Schumacher,German,Haas F1 Team,1:49.830,,
+2021,15,Russian Grand Prix,18,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:51.023,,
+2021,15,Russian Grand Prix,19,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:53.764,,
+2021,15,Russian Grand Prix,20,VER,Max,Verstappen,Dutch,Red Bull,"",,

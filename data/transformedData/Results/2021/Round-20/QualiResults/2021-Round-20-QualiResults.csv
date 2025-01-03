@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,20,Qatar Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:21.901,1:21.682,1:20.827
+2021,20,Qatar Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:21.996,1:21.984,1:21.282
+2021,20,Qatar Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:22.016,1:21.991,1:21.478
+2021,20,Qatar Grand Prix,4,GAS,Pierre,Gasly,French,AlphaTauri,1:22.535,1:21.728,1:21.640
+2021,20,Qatar Grand Prix,5,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:22.422,1:21.894,1:21.670
+2021,20,Qatar Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:22.839,1:22.216,1:21.731
+2021,20,Qatar Grand Prix,7,SAI,Carlos,Sainz,Spanish,Ferrari,1:22.304,1:22.241,1:21.840
+2021,20,Qatar Grand Prix,8,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:22.458,1:22.058,1:21.881
+2021,20,Qatar Grand Prix,9,OCO,Esteban,Ocon,French,Alpine F1 Team,1:22.565,1:22.012,1:22.028
+2021,20,Qatar Grand Prix,10,VET,Sebastian,Vettel,German,Aston Martin,1:22.549,1:22.146,1:22.785
+2021,20,Qatar Grand Prix,11,PER,Sergio,Pérez,Mexican,Red Bull,1:22.398,1:22.346,
+2021,20,Qatar Grand Prix,12,STR,Lance,Stroll,Canadian,Aston Martin,1:22.551,1:22.460,
+2021,20,Qatar Grand Prix,13,LEC,Charles,Leclerc,Monegasque,Ferrari,1:22.742,1:22.463,
+2021,20,Qatar Grand Prix,14,RIC,Daniel,Ricciardo,Australian,McLaren,1:22.688,1:22.597,
+2021,20,Qatar Grand Prix,15,RUS,George,Russell,British,Williams,1:22.863,1:22.756,
+2021,20,Qatar Grand Prix,16,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:23.156,,
+2021,20,Qatar Grand Prix,17,LAT,Nicholas,Latifi,Canadian,Williams,1:23.213,,
+2021,20,Qatar Grand Prix,18,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:23.262,,
+2021,20,Qatar Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:23.407,,
+2021,20,Qatar Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:25.859,,

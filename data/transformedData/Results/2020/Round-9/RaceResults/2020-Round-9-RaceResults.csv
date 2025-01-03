@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2020,9,Tuscan Grand Prix,1,1,HAM,Lewis,Hamilton,British,26,Finished,2:19:35.060,Mercedes
+2020,9,Tuscan Grand Prix,2,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+4.880,Mercedes
+2020,9,Tuscan Grand Prix,4,3,ALB,Alexander,Albon,Thai,15,Finished,+8.064,Red Bull
+2020,9,Tuscan Grand Prix,8,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+10.417,Renault
+2020,9,Tuscan Grand Prix,7,5,PER,Sergio,Pérez,Mexican,10,Finished,+15.650,Racing Point
+2020,9,Tuscan Grand Prix,11,6,NOR,Lando,Norris,British,8,Finished,+18.883,McLaren
+2020,9,Tuscan Grand Prix,12,7,KVY,Daniil,Kvyat,Russian,6,Finished,+21.756,AlphaTauri
+2020,9,Tuscan Grand Prix,5,8,LEC,Charles,Leclerc,Monegasque,4,Finished,+28.345,Ferrari
+2020,9,Tuscan Grand Prix,13,9,RAI,Kimi,Räikkönen,Finnish,2,Finished,+29.770,Alfa Romeo
+2020,9,Tuscan Grand Prix,14,10,VET,Sebastian,Vettel,German,1,Finished,+29.983,Ferrari
+2020,9,Tuscan Grand Prix,18,11,RUS,George,Russell,British,0,Finished,+32.404,Williams
+2020,9,Tuscan Grand Prix,15,12,GRO,Romain,Grosjean,French,0,Finished,+42.036,Haas F1 Team
+2020,9,Tuscan Grand Prix,6,13,STR,Lance,Stroll,Canadian,0,Puncture,,Racing Point
+2020,9,Tuscan Grand Prix,10,14,OCO,Esteban,Ocon,French,0,Brakes,,Renault
+2020,9,Tuscan Grand Prix,19,15,LAT,Nicholas,Latifi,Canadian,0,Collision,,Williams
+2020,9,Tuscan Grand Prix,20,16,MAG,Kevin,Magnussen,Danish,0,Collision,,Haas F1 Team
+2020,9,Tuscan Grand Prix,17,17,GIO,Antonio,Giovinazzi,Italian,0,Collision,,Alfa Romeo
+2020,9,Tuscan Grand Prix,9,18,SAI,Carlos,Sainz,Spanish,0,Collision,,McLaren
+2020,9,Tuscan Grand Prix,3,19,VER,Max,Verstappen,Dutch,0,Collision,,Red Bull
+2020,9,Tuscan Grand Prix,16,20,GAS,Pierre,Gasly,French,0,Collision,,AlphaTauri

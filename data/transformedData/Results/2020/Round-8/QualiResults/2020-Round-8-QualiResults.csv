@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,8,Italian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:19.514,1:19.092,1:18.887
+2020,8,Italian Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:19.786,1:18.952,1:18.956
+2020,8,Italian Grand Prix,3,SAI,Carlos,Sainz,Spanish,McLaren,1:20.099,1:19.705,1:19.695
+2020,8,Italian Grand Prix,4,PER,Sergio,Pérez,Mexican,Racing Point,1:20.048,1:19.718,1:19.720
+2020,8,Italian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:20.193,1:19.780,1:19.795
+2020,8,Italian Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:20.344,1:19.962,1:19.820
+2020,8,Italian Grand Prix,7,RIC,Daniel,Ricciardo,Australian,Renault,1:20.548,1:20.031,1:19.864
+2020,8,Italian Grand Prix,8,STR,Lance,Stroll,Canadian,Racing Point,1:20.400,1:19.924,1:20.049
+2020,8,Italian Grand Prix,9,ALB,Alexander,Albon,Thai,Red Bull,1:21.104,1:20.064,1:20.090
+2020,8,Italian Grand Prix,10,GAS,Pierre,Gasly,French,AlphaTauri,1:20.145,1:19.909,1:20.177
+2020,8,Italian Grand Prix,11,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:20.307,1:20.169,
+2020,8,Italian Grand Prix,12,OCO,Esteban,Ocon,French,Renault,1:20.747,1:20.234,
+2020,8,Italian Grand Prix,13,LEC,Charles,Leclerc,Monegasque,Ferrari,1:20.443,1:20.273,
+2020,8,Italian Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:21.010,1:20.926,
+2020,8,Italian Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:20.869,1:21.573,
+2020,8,Italian Grand Prix,16,GRO,Romain,Grosjean,French,Haas F1 Team,1:21.139,,
+2020,8,Italian Grand Prix,17,VET,Sebastian,Vettel,German,Ferrari,1:21.151,,
+2020,8,Italian Grand Prix,18,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:21.206,,
+2020,8,Italian Grand Prix,19,RUS,George,Russell,British,Williams,1:21.587,,
+2020,8,Italian Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:21.717,,
