@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2019,4,Azerbaijan Grand Prix,1,1,BOT,Valtteri,Bottas,Finnish,25,Finished,1:31:52.942,Mercedes
+2019,4,Azerbaijan Grand Prix,2,2,HAM,Lewis,Hamilton,British,18,Finished,+1.524,Mercedes
+2019,4,Azerbaijan Grand Prix,3,3,VET,Sebastian,Vettel,German,15,Finished,+11.739,Ferrari
+2019,4,Azerbaijan Grand Prix,4,4,VER,Max,Verstappen,Dutch,12,Finished,+17.493,Red Bull
+2019,4,Azerbaijan Grand Prix,8,5,LEC,Charles,Leclerc,Monegasque,11,Finished,+1:09.107,Ferrari
+2019,4,Azerbaijan Grand Prix,5,6,PER,Sergio,Pérez,Mexican,8,Finished,+1:16.416,Racing Point
+2019,4,Azerbaijan Grand Prix,9,7,SAI,Carlos,Sainz,Spanish,6,Finished,+1:23.826,McLaren
+2019,4,Azerbaijan Grand Prix,7,8,NOR,Lando,Norris,British,4,Finished,+1:40.268,McLaren
+2019,4,Azerbaijan Grand Prix,13,9,STR,Lance,Stroll,Canadian,2,Finished,+1:43.816,Racing Point
+2019,4,Azerbaijan Grand Prix,0,10,RAI,Kimi,Räikkönen,Finnish,1,+1 Lap,,Alfa Romeo
+2019,4,Azerbaijan Grand Prix,11,11,ALB,Alexander,Albon,Thai,0,+1 Lap,,Toro Rosso
+2019,4,Azerbaijan Grand Prix,17,12,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2019,4,Azerbaijan Grand Prix,12,13,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2019,4,Azerbaijan Grand Prix,15,14,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Renault
+2019,4,Azerbaijan Grand Prix,16,15,RUS,George,Russell,British,0,+2 Laps,,Williams
+2019,4,Azerbaijan Grand Prix,0,16,KUB,Robert,Kubica,Polish,0,+2 Laps,,Williams
+2019,4,Azerbaijan Grand Prix,0,17,GAS,Pierre,Gasly,French,0,Transmission,,Red Bull
+2019,4,Azerbaijan Grand Prix,14,18,GRO,Romain,Grosjean,French,0,Brakes,,Haas F1 Team
+2019,4,Azerbaijan Grand Prix,6,19,KVY,Daniil,Kvyat,Russian,0,Collision,,Toro Rosso
+2019,4,Azerbaijan Grand Prix,10,20,RIC,Daniel,Ricciardo,Australian,0,Collision,,Renault

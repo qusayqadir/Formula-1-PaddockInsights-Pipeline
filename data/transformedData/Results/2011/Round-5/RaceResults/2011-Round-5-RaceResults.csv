@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2011,5,Spanish Grand Prix,2,1,VET,Sebastian,Vettel,German,25,Finished,1:39:03.301,Red Bull
+2011,5,Spanish Grand Prix,3,2,HAM,Lewis,Hamilton,British,18,Finished,+0.630,McLaren
+2011,5,Spanish Grand Prix,5,3,BUT,Jenson,Button,British,15,Finished,+35.697,McLaren
+2011,5,Spanish Grand Prix,1,4,WEB,Mark,Webber,Australian,12,Finished,+47.966,Red Bull
+2011,5,Spanish Grand Prix,4,5,ALO,Fernando,Alonso,Spanish,10,+1 Lap,,Ferrari
+2011,5,Spanish Grand Prix,10,6,MSC,Michael,Schumacher,German,8,+1 Lap,,Mercedes
+2011,5,Spanish Grand Prix,7,7,ROS,Nico,Rosberg,German,6,+1 Lap,,Mercedes
+2011,5,Spanish Grand Prix,24,8,HEI,Nick,Heidfeld,German,4,+1 Lap,,Renault
+2011,5,Spanish Grand Prix,12,9,PER,Sergio,Pérez,Mexican,2,+1 Lap,,Sauber
+2011,5,Spanish Grand Prix,14,10,KOB,Kamui,Kobayashi,Japanese,1,+1 Lap,,Sauber
+2011,5,Spanish Grand Prix,6,11,PET,Vitaly,Petrov,Russian,0,+1 Lap,,Renault
+2011,5,Spanish Grand Prix,16,12,DIR,Paul,di Resta,British,0,+1 Lap,,Force India
+2011,5,Spanish Grand Prix,17,13,SUT,Adrian,Sutil,German,0,+1 Lap,,Force India
+2011,5,Spanish Grand Prix,11,14,BUE,Sébastien,Buemi,Swiss,0,+1 Lap,,Toro Rosso
+2011,5,Spanish Grand Prix,9,15,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Williams
+2011,5,Spanish Grand Prix,13,16,ALG,Jaime,Alguersuari,Spanish,0,+2 Laps,,Toro Rosso
+2011,5,Spanish Grand Prix,19,17,BAR,Rubens,Barrichello,Brazilian,0,+2 Laps,,Williams
+2011,5,Spanish Grand Prix,18,18,TRU,Jarno,Trulli,Italian,0,+2 Laps,,Lotus
+2011,5,Spanish Grand Prix,20,19,GLO,Timo,Glock,German,0,+3 Laps,,Virgin
+2011,5,Spanish Grand Prix,23,20,DAM,Jérôme,d'Ambrosio,Belgian,0,+4 Laps,,Virgin
+2011,5,Spanish Grand Prix,22,21,KAR,Narain,Karthikeyan,Indian,0,+5 Laps,,HRT
+2011,5,Spanish Grand Prix,8,22,MAS,Felipe,Massa,Brazilian,0,Gearbox,,Ferrari
+2011,5,Spanish Grand Prix,15,23,KOV,Heikki,Kovalainen,Finnish,0,Accident,,Lotus
+2011,5,Spanish Grand Prix,21,24,LIU,Vitantonio,Liuzzi,Italian,0,Gearbox,,HRT

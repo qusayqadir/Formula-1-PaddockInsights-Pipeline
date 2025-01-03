@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2001,17,Japanese Grand Prix,1,1,MSC,Michael,Schumacher,German,10,Finished,1:27:33.298,Ferrari
+2001,17,Japanese Grand Prix,2,2,MON,Juan,Pablo Montoya,Colombian,6,Finished,+3.154,Williams
+2001,17,Japanese Grand Prix,7,3,COU,David,Coulthard,British,4,Finished,+23.262,McLaren
+2001,17,Japanese Grand Prix,5,4,,Mika,Häkkinen,Finnish,3,Finished,+35.539,McLaren
+2001,17,Japanese Grand Prix,4,5,BAR,Rubens,Barrichello,Brazilian,2,Finished,+36.544,Ferrari
+2001,17,Japanese Grand Prix,3,6,SCH,Ralf,Schumacher,German,1,Finished,+37.122,Williams
+2001,17,Japanese Grand Prix,9,7,BUT,Jenson,Button,British,0,Finished,+1:37.102,Benetton
+2001,17,Japanese Grand Prix,8,8,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Jordan
+2001,17,Japanese Grand Prix,10,9,HEI,Nick,Heidfeld,German,0,+1 Lap,,Sauber
+2001,17,Japanese Grand Prix,14,10,VIL,Jacques,Villeneuve,Canadian,0,+1 Lap,,BAR
+2001,17,Japanese Grand Prix,18,11,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,Minardi
+2001,17,Japanese Grand Prix,15,12,,Heinz-Harald,Frentzen,German,0,+1 Lap,,Prost
+2001,17,Japanese Grand Prix,17,13,,Olivier,Panis,French,0,+2 Laps,,BAR
+2001,17,Japanese Grand Prix,20,14,,Enrique,Bernoldi,Brazilian,0,+2 Laps,,Arrows
+2001,17,Japanese Grand Prix,21,15,,Jos,Verstappen,Dutch,0,+2 Laps,,Arrows
+2001,17,Japanese Grand Prix,22,16,,Alex,Yoong,Malaysian,0,+3 Laps,,Minardi
+2001,17,Japanese Grand Prix,6,17,FIS,Giancarlo,Fisichella,Italian,0,Gearbox,,Benetton
+2001,17,Japanese Grand Prix,16,18,DLR,Pedro,de la Rosa,Spanish,0,Oil leak,,Jaguar
+2001,17,Japanese Grand Prix,19,19,,Tomáš,Enge,Czech,0,Brakes,,Prost
+2001,17,Japanese Grand Prix,13,20,,Eddie,Irvine,British,0,Fuel rig,,Jaguar
+2001,17,Japanese Grand Prix,12,21,RAI,Kimi,Räikkönen,Finnish,0,Collision,,Sauber
+2001,17,Japanese Grand Prix,11,22,,Jean,Alesi,French,0,Collision,,Jordan

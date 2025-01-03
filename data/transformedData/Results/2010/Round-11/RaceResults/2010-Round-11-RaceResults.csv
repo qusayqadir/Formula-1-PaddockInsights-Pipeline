@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2010,11,German Grand Prix,2,1,ALO,Fernando,Alonso,Spanish,25,Finished,1:27:38.864,Ferrari
+2010,11,German Grand Prix,3,2,MAS,Felipe,Massa,Brazilian,18,Finished,+4.196,Ferrari
+2010,11,German Grand Prix,1,3,VET,Sebastian,Vettel,German,15,Finished,+5.121,Red Bull
+2010,11,German Grand Prix,6,4,HAM,Lewis,Hamilton,British,12,Finished,+26.896,McLaren
+2010,11,German Grand Prix,5,5,BUT,Jenson,Button,British,10,Finished,+29.482,McLaren
+2010,11,German Grand Prix,4,6,WEB,Mark,Webber,Australian,8,Finished,+43.606,Red Bull
+2010,11,German Grand Prix,7,7,KUB,Robert,Kubica,Polish,6,+1 Lap,,Renault
+2010,11,German Grand Prix,9,8,ROS,Nico,Rosberg,German,4,+1 Lap,,Mercedes
+2010,11,German Grand Prix,11,9,MSC,Michael,Schumacher,German,2,+1 Lap,,Mercedes
+2010,11,German Grand Prix,13,10,PET,Vitaly,Petrov,Russian,1,+1 Lap,,Renault
+2010,11,German Grand Prix,12,11,KOB,Kamui,Kobayashi,Japanese,0,+1 Lap,,Sauber
+2010,11,German Grand Prix,8,12,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Williams
+2010,11,German Grand Prix,10,13,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Williams
+2010,11,German Grand Prix,14,14,DLR,Pedro,de la Rosa,Spanish,0,+1 Lap,,Sauber
+2010,11,German Grand Prix,15,15,ALG,Jaime,Alguersuari,Spanish,0,+1 Lap,,Toro Rosso
+2010,11,German Grand Prix,21,16,LIU,Vitantonio,Liuzzi,Italian,0,+2 Laps,,Force India
+2010,11,German Grand Prix,19,17,SUT,Adrian,Sutil,German,0,+2 Laps,,Force India
+2010,11,German Grand Prix,23,18,GLO,Timo,Glock,German,0,+3 Laps,,Virgin
+2010,11,German Grand Prix,20,19,SEN,Bruno,Senna,Brazilian,0,+4 Laps,,HRT
+2010,11,German Grand Prix,18,20,KOV,Heikki,Kovalainen,Finnish,0,Collision,,Lotus
+2010,11,German Grand Prix,24,21,DIG,Lucas,di Grassi,Brazilian,0,Gearbox,,Virgin
+2010,11,German Grand Prix,22,22,YAM,Sakon,Yamamoto,Japanese,0,Engine,,HRT
+2010,11,German Grand Prix,17,23,TRU,Jarno,Trulli,Italian,0,Gearbox,,Lotus
+2010,11,German Grand Prix,16,24,BUE,Sébastien,Buemi,Swiss,0,Collision,,Toro Rosso

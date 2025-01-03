@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2003,2,Malaysian Grand Prix,7,1,RAI,Kimi,Räikkönen,Finnish,10,Finished,1:32:22.195,McLaren
+2003,2,Malaysian Grand Prix,5,2,BAR,Rubens,Barrichello,Brazilian,8,Finished,+39.286,Ferrari
+2003,2,Malaysian Grand Prix,1,3,ALO,Fernando,Alonso,Spanish,6,Finished,+1:04.007,Renault
+2003,2,Malaysian Grand Prix,17,4,SCH,Ralf,Schumacher,German,5,Finished,+1:28.026,Williams
+2003,2,Malaysian Grand Prix,2,5,TRU,Jarno,Trulli,Italian,4,+1 Lap,,Renault
+2003,2,Malaysian Grand Prix,3,6,MSC,Michael,Schumacher,German,3,+1 Lap,,Ferrari
+2003,2,Malaysian Grand Prix,9,7,BUT,Jenson,Button,British,2,+1 Lap,,BAR
+2003,2,Malaysian Grand Prix,6,8,HEI,Nick,Heidfeld,German,1,+1 Lap,,Sauber
+2003,2,Malaysian Grand Prix,13,9,,Heinz-Harald,Frentzen,German,0,+1 Lap,,Sauber
+2003,2,Malaysian Grand Prix,20,10,,Ralph,Firman,Irish,0,+1 Lap,,Jordan
+2003,2,Malaysian Grand Prix,11,11,,Cristiano,da Matta,Brazilian,0,+1 Lap,,Toyota
+2003,2,Malaysian Grand Prix,8,12,MON,Juan,Pablo Montoya,Colombian,0,+3 Laps,,Williams
+2003,2,Malaysian Grand Prix,18,13,,Jos,Verstappen,Dutch,0,+4 Laps,,Minardi
+2003,2,Malaysian Grand Prix,15,14,PIZ,Antônio,Pizzonia,Brazilian,0,Spun off,,Jaguar
+2003,2,Malaysian Grand Prix,19,15,,Justin,Wilson,British,0,Mechanical,,Minardi
+2003,2,Malaysian Grand Prix,16,16,WEB,Mark,Webber,Australian,0,Engine,,Jaguar
+2003,2,Malaysian Grand Prix,10,17,,Olivier,Panis,French,0,Fuel pressure,,Toyota
+2003,2,Malaysian Grand Prix,4,18,COU,David,Coulthard,British,0,Electrical,,McLaren
+2003,2,Malaysian Grand Prix,14,19,FIS,Giancarlo,Fisichella,Italian,0,Electrical,,Jordan
+2003,2,Malaysian Grand Prix,12,20,VIL,Jacques,Villeneuve,Canadian,0,Electrical,,BAR

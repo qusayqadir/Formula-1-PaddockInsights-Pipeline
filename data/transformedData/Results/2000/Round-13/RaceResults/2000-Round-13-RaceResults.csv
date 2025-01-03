@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2000,13,Belgian Grand Prix,1,1,,Mika,Häkkinen,Finnish,10,Finished,1:28:14.494,McLaren
+2000,13,Belgian Grand Prix,4,2,MSC,Michael,Schumacher,German,6,Finished,+1.104,Ferrari
+2000,13,Belgian Grand Prix,6,3,SCH,Ralf,Schumacher,German,4,Finished,+38.096,Williams
+2000,13,Belgian Grand Prix,5,4,COU,David,Coulthard,British,3,Finished,+43.281,McLaren
+2000,13,Belgian Grand Prix,3,5,BUT,Jenson,Button,British,2,Finished,+49.914,Williams
+2000,13,Belgian Grand Prix,8,6,,Heinz-Harald,Frentzen,German,1,Finished,+55.984,Jordan
+2000,13,Belgian Grand Prix,7,7,VIL,Jacques,Villeneuve,Canadian,0,Finished,+1:12.380,BAR
+2000,13,Belgian Grand Prix,9,8,,Johnny,Herbert,British,0,Finished,+1:27.808,Jaguar
+2000,13,Belgian Grand Prix,18,9,,Mika,Salo,Finnish,0,Finished,+1:28.670,Sauber
+2000,13,Belgian Grand Prix,12,10,,Eddie,Irvine,British,0,Finished,+1:31.555,Jaguar
+2000,13,Belgian Grand Prix,15,11,,Pedro,Diniz,Brazilian,0,Finished,+1:34.123,Sauber
+2000,13,Belgian Grand Prix,13,12,ZON,Ricardo,Zonta,Brazilian,0,+1 Lap,,BAR
+2000,13,Belgian Grand Prix,19,13,WUR,Alexander,Wurz,Austrian,0,+1 Lap,,Benetton
+2000,13,Belgian Grand Prix,21,14,,Marc,Gené,Spanish,0,+1 Lap,,Minardi
+2000,13,Belgian Grand Prix,20,15,,Jos,Verstappen,Dutch,0,+1 Lap,,Arrows
+2000,13,Belgian Grand Prix,16,16,DLR,Pedro,de la Rosa,Spanish,0,+2 Laps,,Arrows
+2000,13,Belgian Grand Prix,22,17,,Gastón,Mazzacane,Argentine,0,+2 Laps,,Minardi
+2000,13,Belgian Grand Prix,10,18,BAR,Rubens,Barrichello,Brazilian,0,Fuel pressure,,Ferrari
+2000,13,Belgian Grand Prix,17,19,,Jean,Alesi,French,0,Fuel pressure,,Prost
+2000,13,Belgian Grand Prix,14,20,HEI,Nick,Heidfeld,German,0,Engine,,Prost
+2000,13,Belgian Grand Prix,11,21,FIS,Giancarlo,Fisichella,Italian,0,Electrical,,Benetton
+2000,13,Belgian Grand Prix,2,22,TRU,Jarno,Trulli,Italian,0,Collision,,Jordan

@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2002,7,Monaco Grand Prix,2,1,COU,David,Coulthard,British,10,Finished,1:45:39.055,McLaren
+2002,7,Monaco Grand Prix,3,2,MSC,Michael,Schumacher,German,6,Finished,+1.050,Ferrari
+2002,7,Monaco Grand Prix,4,3,SCH,Ralf,Schumacher,German,4,Finished,+1:07.450,Williams
+2002,7,Monaco Grand Prix,7,4,TRU,Jarno,Trulli,Italian,3,+1 Lap,,Renault
+2002,7,Monaco Grand Prix,11,5,FIS,Giancarlo,Fisichella,Italian,2,+1 Lap,,Jordan
+2002,7,Monaco Grand Prix,12,6,,Heinz-Harald,Frentzen,German,1,+1 Lap,,Arrows
+2002,7,Monaco Grand Prix,5,7,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Ferrari
+2002,7,Monaco Grand Prix,15,8,HEI,Nick,Heidfeld,German,0,+2 Laps,,Sauber
+2002,7,Monaco Grand Prix,19,9,,Eddie,Irvine,British,0,+2 Laps,,Jaguar
+2002,7,Monaco Grand Prix,17,10,DLR,Pedro,de la Rosa,Spanish,0,+2 Laps,,Jaguar
+2002,7,Monaco Grand Prix,20,11,WEB,Mark,Webber,Australian,0,+2 Laps,,Minardi
+2002,7,Monaco Grand Prix,21,12,,Enrique,Bernoldi,Brazilian,0,+2 Laps,,Arrows
+2002,7,Monaco Grand Prix,9,13,,Mika,Salo,Finnish,0,Brakes,,Toyota
+2002,7,Monaco Grand Prix,13,14,MAS,Felipe,Massa,Brazilian,0,Accident,,Sauber
+2002,7,Monaco Grand Prix,18,15,,Olivier,Panis,French,0,Collision,,BAR
+2002,7,Monaco Grand Prix,8,16,BUT,Jenson,Button,British,0,Collision,,Renault
+2002,7,Monaco Grand Prix,1,17,MON,Juan,Pablo Montoya,Colombian,0,Engine,,Williams
+2002,7,Monaco Grand Prix,14,18,VIL,Jacques,Villeneuve,Canadian,0,Mechanical,,BAR
+2002,7,Monaco Grand Prix,6,19,RAI,Kimi,Räikkönen,Finnish,0,Collision,,McLaren
+2002,7,Monaco Grand Prix,22,20,,Alex,Yoong,Malaysian,0,Accident,,Minardi
+2002,7,Monaco Grand Prix,16,21,SAT,Takuma,Sato,Japanese,0,Spun off,,Jordan
+2002,7,Monaco Grand Prix,10,22,,Allan,McNish,British,0,Accident,,Toyota

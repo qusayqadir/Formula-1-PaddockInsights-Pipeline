@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2024,24,Abu Dhabi Grand Prix,1,1,NOR,Lando,Norris,British,25,Finished,1:26:33.291,McLaren
+2024,24,Abu Dhabi Grand Prix,3,2,SAI,Carlos,Sainz,Spanish,18,Finished,+5.832,Ferrari
+2024,24,Abu Dhabi Grand Prix,19,3,LEC,Charles,Leclerc,Monegasque,15,Finished,+31.928,Ferrari
+2024,24,Abu Dhabi Grand Prix,16,4,HAM,Lewis,Hamilton,British,12,Finished,+36.483,Mercedes
+2024,24,Abu Dhabi Grand Prix,6,5,RUS,George,Russell,British,10,Finished,+37.538,Mercedes
+2024,24,Abu Dhabi Grand Prix,4,6,VER,Max,Verstappen,Dutch,8,Finished,+49.847,Red Bull
+2024,24,Abu Dhabi Grand Prix,5,7,GAS,Pierre,Gasly,French,6,Finished,+1:12.560,Alpine F1 Team
+2024,24,Abu Dhabi Grand Prix,7,8,HUL,Nico,Hülkenberg,German,4,Finished,+1:15.554,Haas F1 Team
+2024,24,Abu Dhabi Grand Prix,8,9,ALO,Fernando,Alonso,Spanish,2,Finished,+1:22.373,Aston Martin
+2024,24,Abu Dhabi Grand Prix,2,10,PIA,Oscar,Piastri,Australian,1,Finished,+1:23.821,McLaren
+2024,24,Abu Dhabi Grand Prix,18,11,ALB,Alexander,Albon,Thai,0,+1 Lap,,Williams
+2024,24,Abu Dhabi Grand Prix,11,12,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,RB F1 Team
+2024,24,Abu Dhabi Grand Prix,15,13,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Sauber
+2024,24,Abu Dhabi Grand Prix,13,14,STR,Lance,Stroll,Canadian,0,+1 Lap,,Aston Martin
+2024,24,Abu Dhabi Grand Prix,17,15,DOO,Jack,Doohan,Australian,0,+1 Lap,,Alpine F1 Team
+2024,24,Abu Dhabi Grand Prix,14,16,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2024,24,Abu Dhabi Grand Prix,12,17,LAW,Liam,Lawson,New Zealander,0,Engine,,RB F1 Team
+2024,24,Abu Dhabi Grand Prix,9,18,BOT,Valtteri,Bottas,Finnish,0,Collision damage,,Sauber
+2024,24,Abu Dhabi Grand Prix,20,19,COL,Franco,Colapinto,Argentinian,0,Engine,,Williams
+2024,24,Abu Dhabi Grand Prix,10,20,PER,Sergio,Pérez,Mexican,0,Collision,,Red Bull

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2019,15,Singapore Grand Prix,3,1,VET,Sebastian,Vettel,German,25,Finished,1:58:33.667,Ferrari
+2019,15,Singapore Grand Prix,1,2,LEC,Charles,Leclerc,Monegasque,18,Finished,+2.641,Ferrari
+2019,15,Singapore Grand Prix,4,3,VER,Max,Verstappen,Dutch,15,Finished,+3.821,Red Bull
+2019,15,Singapore Grand Prix,2,4,HAM,Lewis,Hamilton,British,12,Finished,+4.608,Mercedes
+2019,15,Singapore Grand Prix,5,5,BOT,Valtteri,Bottas,Finnish,10,Finished,+6.119,Mercedes
+2019,15,Singapore Grand Prix,6,6,ALB,Alexander,Albon,Thai,8,Finished,+11.663,Red Bull
+2019,15,Singapore Grand Prix,9,7,NOR,Lando,Norris,British,6,Finished,+14.769,McLaren
+2019,15,Singapore Grand Prix,11,8,GAS,Pierre,Gasly,French,4,Finished,+15.547,Toro Rosso
+2019,15,Singapore Grand Prix,8,9,HUL,Nico,Hülkenberg,German,2,Finished,+16.718,Renault
+2019,15,Singapore Grand Prix,10,10,GIO,Antonio,Giovinazzi,Italian,1,Finished,+27.855,Alfa Romeo
+2019,15,Singapore Grand Prix,17,11,GRO,Romain,Grosjean,French,0,Finished,+35.436,Haas F1 Team
+2019,15,Singapore Grand Prix,7,12,SAI,Carlos,Sainz,Spanish,0,Finished,+35.974,McLaren
+2019,15,Singapore Grand Prix,16,13,STR,Lance,Stroll,Canadian,0,Finished,+36.419,Racing Point
+2019,15,Singapore Grand Prix,20,14,RIC,Daniel,Ricciardo,Australian,0,Finished,+37.660,Renault
+2019,15,Singapore Grand Prix,14,15,KVY,Daniil,Kvyat,Russian,0,Finished,+38.178,Toro Rosso
+2019,15,Singapore Grand Prix,19,16,KUB,Robert,Kubica,Polish,0,Finished,+47.024,Williams
+2019,15,Singapore Grand Prix,13,17,MAG,Kevin,Magnussen,Danish,0,Finished,+1:26.522,Haas F1 Team
+2019,15,Singapore Grand Prix,12,18,RAI,Kimi,Räikkönen,Finnish,0,Collision,,Alfa Romeo
+2019,15,Singapore Grand Prix,15,19,PER,Sergio,Pérez,Mexican,0,Engine,,Racing Point
+2019,15,Singapore Grand Prix,18,20,RUS,George,Russell,British,0,Collision,,Williams

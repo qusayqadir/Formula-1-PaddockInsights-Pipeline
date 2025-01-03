@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2008,3,Bahrain Grand Prix,2,1,MAS,Felipe,Massa,Brazilian,10,Finished,1:31:06.970,Ferrari
+2008,3,Bahrain Grand Prix,4,2,RAI,Kimi,Räikkönen,Finnish,8,Finished,+3.339,Ferrari
+2008,3,Bahrain Grand Prix,1,3,KUB,Robert,Kubica,Polish,6,Finished,+4.998,BMW Sauber
+2008,3,Bahrain Grand Prix,6,4,HEI,Nick,Heidfeld,German,5,Finished,+8.409,BMW Sauber
+2008,3,Bahrain Grand Prix,5,5,KOV,Heikki,Kovalainen,Finnish,4,Finished,+26.789,McLaren
+2008,3,Bahrain Grand Prix,7,6,TRU,Jarno,Trulli,Italian,3,Finished,+41.314,Toyota
+2008,3,Bahrain Grand Prix,11,7,WEB,Mark,Webber,Australian,2,Finished,+45.473,Red Bull
+2008,3,Bahrain Grand Prix,8,8,ROS,Nico,Rosberg,German,1,Finished,+55.889,Williams
+2008,3,Bahrain Grand Prix,13,9,GLO,Timo,Glock,German,0,Finished,+1:09.500,Toyota
+2008,3,Bahrain Grand Prix,10,10,ALO,Fernando,Alonso,Spanish,0,Finished,+1:17.181,Renault
+2008,3,Bahrain Grand Prix,12,11,BAR,Rubens,Barrichello,Brazilian,0,Finished,+1:17.862,Honda
+2008,3,Bahrain Grand Prix,18,12,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Force India
+2008,3,Bahrain Grand Prix,3,13,HAM,Lewis,Hamilton,British,0,+1 Lap,,McLaren
+2008,3,Bahrain Grand Prix,16,14,NAK,Kazuki,Nakajima,Japanese,0,+1 Lap,,Williams
+2008,3,Bahrain Grand Prix,15,15,BOU,Sébastien,Bourdais,French,0,+1 Lap,,Toro Rosso
+2008,3,Bahrain Grand Prix,21,16,DAV,Anthony,Davidson,British,0,+1 Lap,,Super Aguri
+2008,3,Bahrain Grand Prix,22,17,SAT,Takuma,Sato,Japanese,0,+1 Lap,,Super Aguri
+2008,3,Bahrain Grand Prix,17,18,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2008,3,Bahrain Grand Prix,20,19,SUT,Adrian,Sutil,German,0,+2 Laps,,Force India
+2008,3,Bahrain Grand Prix,14,20,PIQ,Nelson,Piquet Jr.,Brazilian,0,Gearbox,,Renault
+2008,3,Bahrain Grand Prix,9,21,BUT,Jenson,Button,British,0,Collision,,Honda
+2008,3,Bahrain Grand Prix,19,22,VET,Sebastian,Vettel,German,0,Engine,,Toro Rosso

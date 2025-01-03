@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2006,12,German Grand Prix,2,1,MSC,Michael,Schumacher,German,10,Finished,1:27:51.693,Ferrari
+2006,12,German Grand Prix,3,2,MAS,Felipe,Massa,Brazilian,8,Finished,+0.7,Ferrari
+2006,12,German Grand Prix,1,3,RAI,Kimi,Räikkönen,Finnish,6,Finished,+13.2,McLaren
+2006,12,German Grand Prix,4,4,BUT,Jenson,Button,British,5,Finished,+18.8,Honda
+2006,12,German Grand Prix,7,5,ALO,Fernando,Alonso,Spanish,4,Finished,+23.7,Renault
+2006,12,German Grand Prix,5,6,FIS,Giancarlo,Fisichella,Italian,3,Finished,+24.8,Renault
+2006,12,German Grand Prix,20,7,TRU,Jarno,Trulli,Italian,2,Finished,+26.5,Toyota
+2006,12,German Grand Prix,12,8,KLI,Christian,Klien,Austrian,1,Finished,+48.1,Red Bull
+2006,12,German Grand Prix,8,9,SCH,Ralf,Schumacher,German,0,Finished,+60.3,Toyota
+2006,12,German Grand Prix,16,10,LIU,Vitantonio,Liuzzi,Italian,0,+1 Lap,,Toro Rosso
+2006,12,German Grand Prix,10,11,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2006,12,German Grand Prix,19,12,SPE,Scott,Speed,American,0,+1 Lap,,Toro Rosso
+2006,12,German Grand Prix,11,13,WEB,Mark,Webber,Australian,0,Water leak,,Williams
+2006,12,German Grand Prix,17,14,SAT,Takuma,Sato,Japanese,0,Gearbox,,Super Aguri
+2006,12,German Grand Prix,13,15,VIL,Jacques,Villeneuve,Canadian,0,Accident,,BMW Sauber
+2006,12,German Grand Prix,6,16,BAR,Rubens,Barrichello,Brazilian,0,Engine,,Honda
+2006,12,German Grand Prix,15,17,HEI,Nick,Heidfeld,German,0,Brakes,,BMW Sauber
+2006,12,German Grand Prix,9,18,DLR,Pedro,de la Rosa,Spanish,0,Fuel pump,,McLaren
+2006,12,German Grand Prix,22,19,YAM,Sakon,Yamamoto,Japanese,0,Driveshaft,,Super Aguri
+2006,12,German Grand Prix,14,20,ROS,Nico,Rosberg,German,0,Accident,,Williams
+2006,12,German Grand Prix,21,21,ALB,Christijan,Albers,Dutch,0,Disqualified,,MF1
+2006,12,German Grand Prix,18,22,TMO,Tiago,Monteiro,Portuguese,0,Disqualified,,MF1

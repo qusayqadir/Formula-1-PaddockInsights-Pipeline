@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,13,Italian Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:19:10.236,Mercedes
+2014,13,Italian Grand Prix,2,2,ROS,Nico,Rosberg,German,18,Finished,+3.175,Mercedes
+2014,13,Italian Grand Prix,4,3,MAS,Felipe,Massa,Brazilian,15,Finished,+25.026,Williams
+2014,13,Italian Grand Prix,3,4,BOT,Valtteri,Bottas,Finnish,12,Finished,+40.786,Williams
+2014,13,Italian Grand Prix,9,5,RIC,Daniel,Ricciardo,Australian,10,Finished,+50.309,Red Bull
+2014,13,Italian Grand Prix,8,6,VET,Sebastian,Vettel,German,8,Finished,+59.965,Red Bull
+2014,13,Italian Grand Prix,10,7,PER,Sergio,Pérez,Mexican,6,Finished,+1:02.518,Force India
+2014,13,Italian Grand Prix,6,8,BUT,Jenson,Button,British,4,Finished,+1:03.063,McLaren
+2014,13,Italian Grand Prix,11,9,RAI,Kimi,Räikkönen,Finnish,2,Finished,+1:03.535,Ferrari
+2014,13,Italian Grand Prix,5,10,MAG,Kevin,Magnussen,Danish,1,Finished,+1:06.171,McLaren
+2014,13,Italian Grand Prix,21,11,KVY,Daniil,Kvyat,Russian,0,Finished,+1:11.184,Toro Rosso
+2014,13,Italian Grand Prix,13,12,HUL,Nico,Hülkenberg,German,0,Finished,+1:12.606,Force India
+2014,13,Italian Grand Prix,12,13,VER,Jean-Éric,Vergne,French,0,Finished,+1:13.093,Toro Rosso
+2014,13,Italian Grand Prix,16,14,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Lotus F1
+2014,13,Italian Grand Prix,14,15,SUT,Adrian,Sutil,German,0,+1 Lap,,Sauber
+2014,13,Italian Grand Prix,17,16,GRO,Romain,Grosjean,French,0,+1 Lap,,Lotus F1
+2014,13,Italian Grand Prix,18,17,KOB,Kamui,Kobayashi,Japanese,0,+1 Lap,,Caterham
+2014,13,Italian Grand Prix,19,18,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2014,13,Italian Grand Prix,15,19,GUT,Esteban,Gutiérrez,Mexican,0,+2 Laps,,Sauber
+2014,13,Italian Grand Prix,22,20,ERI,Marcus,Ericsson,Swedish,0,+2 Laps,,Caterham
+2014,13,Italian Grand Prix,7,21,ALO,Fernando,Alonso,Spanish,0,Engine,,Ferrari
+2014,13,Italian Grand Prix,20,22,CHI,Max,Chilton,British,0,Accident,,Marussia

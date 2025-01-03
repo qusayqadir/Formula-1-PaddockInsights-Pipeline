@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2023,15,Singapore Grand Prix,1,1,SAI,Carlos,Sainz,Spanish,25,Finished,1:46:37.418,Ferrari
+2023,15,Singapore Grand Prix,4,2,NOR,Lando,Norris,British,18,Finished,+0.812,McLaren
+2023,15,Singapore Grand Prix,5,3,HAM,Lewis,Hamilton,British,16,Finished,+1.269,Mercedes
+2023,15,Singapore Grand Prix,3,4,LEC,Charles,Leclerc,Monegasque,12,Finished,+21.177,Ferrari
+2023,15,Singapore Grand Prix,11,5,VER,Max,Verstappen,Dutch,10,Finished,+21.441,Red Bull
+2023,15,Singapore Grand Prix,12,6,GAS,Pierre,Gasly,French,8,Finished,+38.441,Alpine F1 Team
+2023,15,Singapore Grand Prix,17,7,PIA,Oscar,Piastri,Australian,6,Finished,+41.479,McLaren
+2023,15,Singapore Grand Prix,13,8,PER,Sergio,Pérez,Mexican,4,Finished,+59.534,Red Bull
+2023,15,Singapore Grand Prix,10,9,LAW,Liam,Lawson,New Zealander,2,Finished,+1:05.918,AlphaTauri
+2023,15,Singapore Grand Prix,6,10,MAG,Kevin,Magnussen,Danish,1,Finished,+1:12.116,Haas F1 Team
+2023,15,Singapore Grand Prix,14,11,ALB,Alexander,Albon,Thai,0,Finished,+1:13.417,Williams
+2023,15,Singapore Grand Prix,0,12,ZHO,Guanyu,Zhou,Chinese,0,Finished,+1:23.649,Alfa Romeo
+2023,15,Singapore Grand Prix,9,13,HUL,Nico,Hülkenberg,German,0,Finished,+1:26.201,Haas F1 Team
+2023,15,Singapore Grand Prix,18,14,SAR,Logan,Sargeant,American,0,Finished,+1:26.889,Williams
+2023,15,Singapore Grand Prix,7,15,ALO,Fernando,Alonso,Spanish,0,Finished,+1:27.603,Aston Martin
+2023,15,Singapore Grand Prix,2,16,RUS,George,Russell,British,0,Accident,,Mercedes
+2023,15,Singapore Grand Prix,16,17,BOT,Valtteri,Bottas,Finnish,0,Technical,,Alfa Romeo
+2023,15,Singapore Grand Prix,8,18,OCO,Esteban,Ocon,French,0,Gearbox,,Alpine F1 Team
+2023,15,Singapore Grand Prix,15,19,TSU,Yuki,Tsunoda,Japanese,0,Collision,,AlphaTauri
+2023,15,Singapore Grand Prix,0,20,STR,Lance,Stroll,Canadian,0,Withdrew,,Aston Martin

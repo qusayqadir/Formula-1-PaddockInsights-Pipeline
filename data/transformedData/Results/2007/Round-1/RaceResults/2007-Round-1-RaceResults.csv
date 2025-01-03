@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,1,Australian Grand Prix,1,1,RAI,Kimi,Räikkönen,Finnish,10,Finished,1:25:28.770,Ferrari
+2007,1,Australian Grand Prix,2,2,ALO,Fernando,Alonso,Spanish,8,Finished,+7.242,McLaren
+2007,1,Australian Grand Prix,4,3,HAM,Lewis,Hamilton,British,6,Finished,+18.595,McLaren
+2007,1,Australian Grand Prix,3,4,HEI,Nick,Heidfeld,German,5,Finished,+38.763,BMW Sauber
+2007,1,Australian Grand Prix,6,5,FIS,Giancarlo,Fisichella,Italian,4,Finished,+1:06.469,Renault
+2007,1,Australian Grand Prix,22,6,MAS,Felipe,Massa,Brazilian,3,Finished,+1:06.805,Ferrari
+2007,1,Australian Grand Prix,12,7,ROS,Nico,Rosberg,German,2,+1 Lap,,Williams
+2007,1,Australian Grand Prix,9,8,SCH,Ralf,Schumacher,German,1,+1 Lap,,Toyota
+2007,1,Australian Grand Prix,8,9,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Toyota
+2007,1,Australian Grand Prix,13,10,KOV,Heikki,Kovalainen,Finnish,0,+1 Lap,,Renault
+2007,1,Australian Grand Prix,16,11,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Honda
+2007,1,Australian Grand Prix,10,12,SAT,Takuma,Sato,Japanese,0,+1 Lap,,Super Aguri
+2007,1,Australian Grand Prix,7,13,WEB,Mark,Webber,Australian,0,+1 Lap,,Red Bull
+2007,1,Australian Grand Prix,19,14,LIU,Vitantonio,Liuzzi,Italian,0,+1 Lap,,Toro Rosso
+2007,1,Australian Grand Prix,14,15,BUT,Jenson,Button,British,0,+1 Lap,,Honda
+2007,1,Australian Grand Prix,11,16,DAV,Anthony,Davidson,British,0,+2 Laps,,Super Aguri
+2007,1,Australian Grand Prix,20,17,SUT,Adrian,Sutil,German,0,+2 Laps,,Spyker
+2007,1,Australian Grand Prix,15,18,WUR,Alexander,Wurz,Austrian,0,Collision,,Williams
+2007,1,Australian Grand Prix,18,19,COU,David,Coulthard,British,0,Collision,,Red Bull
+2007,1,Australian Grand Prix,5,20,KUB,Robert,Kubica,Polish,0,Gearbox,,BMW Sauber
+2007,1,Australian Grand Prix,17,21,SPE,Scott,Speed,American,0,Puncture,,Toro Rosso
+2007,1,Australian Grand Prix,21,22,ALB,Christijan,Albers,Dutch,0,Accident,,Spyker

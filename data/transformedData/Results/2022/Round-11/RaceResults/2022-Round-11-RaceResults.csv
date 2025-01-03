@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2022,11,Austrian Grand Prix,2,1,LEC,Charles,Leclerc,Monegasque,25,Finished,1:24:24.312,Ferrari
+2022,11,Austrian Grand Prix,1,2,VER,Max,Verstappen,Dutch,19,Finished,+1.532,Red Bull
+2022,11,Austrian Grand Prix,8,3,HAM,Lewis,Hamilton,British,15,Finished,+41.217,Mercedes
+2022,11,Austrian Grand Prix,4,4,RUS,George,Russell,British,12,Finished,+58.972,Mercedes
+2022,11,Austrian Grand Prix,6,5,OCO,Esteban,Ocon,French,10,Finished,+1:08.436,Alpine F1 Team
+2022,11,Austrian Grand Prix,9,6,MSC,Mick,Schumacher,German,8,+1 Lap,,Haas F1 Team
+2022,11,Austrian Grand Prix,10,7,NOR,Lando,Norris,British,6,+1 Lap,,McLaren
+2022,11,Austrian Grand Prix,7,8,MAG,Kevin,Magnussen,Danish,4,+1 Lap,,Haas F1 Team
+2022,11,Austrian Grand Prix,11,9,RIC,Daniel,Ricciardo,Australian,2,+1 Lap,,McLaren
+2022,11,Austrian Grand Prix,19,10,ALO,Fernando,Alonso,Spanish,1,+1 Lap,,Alpine F1 Team
+2022,11,Austrian Grand Prix,0,11,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Alfa Romeo
+2022,11,Austrian Grand Prix,15,12,ALB,Alexander,Albon,Thai,0,+1 Lap,,Williams
+2022,11,Austrian Grand Prix,12,13,STR,Lance,Stroll,Canadian,0,+1 Lap,,Aston Martin
+2022,11,Austrian Grand Prix,13,14,ZHO,Guanyu,Zhou,Chinese,0,+1 Lap,,Alfa Romeo
+2022,11,Austrian Grand Prix,14,15,GAS,Pierre,Gasly,French,0,+1 Lap,,AlphaTauri
+2022,11,Austrian Grand Prix,16,16,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,AlphaTauri
+2022,11,Austrian Grand Prix,18,17,VET,Sebastian,Vettel,German,0,+1 Lap,,Aston Martin
+2022,11,Austrian Grand Prix,3,18,SAI,Carlos,Sainz,Spanish,0,Power Unit,,Ferrari
+2022,11,Austrian Grand Prix,17,19,LAT,Nicholas,Latifi,Canadian,0,Undertray,,Williams
+2022,11,Austrian Grand Prix,5,20,PER,Sergio,Pérez,Mexican,0,Collision damage,,Red Bull

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2020,7,Belgian Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:24:08.761,Mercedes
+2020,7,Belgian Grand Prix,2,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+8.448,Mercedes
+2020,7,Belgian Grand Prix,3,3,VER,Max,Verstappen,Dutch,15,Finished,+15.455,Red Bull
+2020,7,Belgian Grand Prix,4,4,RIC,Daniel,Ricciardo,Australian,13,Finished,+18.877,Renault
+2020,7,Belgian Grand Prix,6,5,OCO,Esteban,Ocon,French,10,Finished,+40.650,Renault
+2020,7,Belgian Grand Prix,5,6,ALB,Alexander,Albon,Thai,8,Finished,+42.712,Red Bull
+2020,7,Belgian Grand Prix,10,7,NOR,Lando,Norris,British,6,Finished,+43.774,McLaren
+2020,7,Belgian Grand Prix,12,8,GAS,Pierre,Gasly,French,4,Finished,+47.371,AlphaTauri
+2020,7,Belgian Grand Prix,9,9,STR,Lance,Stroll,Canadian,2,Finished,+52.603,Racing Point
+2020,7,Belgian Grand Prix,8,10,PER,Sergio,Pérez,Mexican,1,Finished,+53.179,Racing Point
+2020,7,Belgian Grand Prix,11,11,KVY,Daniil,Kvyat,Russian,0,Finished,+1:10.200,AlphaTauri
+2020,7,Belgian Grand Prix,16,12,RAI,Kimi,Räikkönen,Finnish,0,Finished,+1:11.504,Alfa Romeo
+2020,7,Belgian Grand Prix,14,13,VET,Sebastian,Vettel,German,0,Finished,+1:12.894,Ferrari
+2020,7,Belgian Grand Prix,13,14,LEC,Charles,Leclerc,Monegasque,0,Finished,+1:14.920,Ferrari
+2020,7,Belgian Grand Prix,17,15,GRO,Romain,Grosjean,French,0,Finished,+1:16.793,Haas F1 Team
+2020,7,Belgian Grand Prix,19,16,LAT,Nicholas,Latifi,Canadian,0,Finished,+1:17.795,Williams
+2020,7,Belgian Grand Prix,20,17,MAG,Kevin,Magnussen,Danish,0,Finished,+1:25.540,Haas F1 Team
+2020,7,Belgian Grand Prix,18,18,GIO,Antonio,Giovinazzi,Italian,0,Accident,,Alfa Romeo
+2020,7,Belgian Grand Prix,15,19,RUS,George,Russell,British,0,Debris,,Williams
+2020,7,Belgian Grand Prix,7,20,SAI,Carlos,Sainz,Spanish,0,Exhaust,,McLaren

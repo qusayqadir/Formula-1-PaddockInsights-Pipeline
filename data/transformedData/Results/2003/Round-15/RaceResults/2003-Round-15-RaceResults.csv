@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2003,15,United States Grand Prix,7,1,MSC,Michael,Schumacher,German,10,Finished,1:33:35.997,Ferrari
+2003,15,United States Grand Prix,1,2,RAI,Kimi,Räikkönen,Finnish,8,Finished,+18.258,McLaren
+2003,15,United States Grand Prix,15,3,,Heinz-Harald,Frentzen,German,6,Finished,+37.964,Sauber
+2003,15,United States Grand Prix,10,4,TRU,Jarno,Trulli,Italian,5,Finished,+48.329,Renault
+2003,15,United States Grand Prix,13,5,HEI,Nick,Heidfeld,German,4,Finished,+56.403,Sauber
+2003,15,United States Grand Prix,4,6,MON,Juan,Pablo Montoya,Colombian,3,+1 Lap,,Williams
+2003,15,United States Grand Prix,17,7,FIS,Giancarlo,Fisichella,Italian,2,+1 Lap,,Jordan
+2003,15,United States Grand Prix,16,8,,Justin,Wilson,British,1,+2 Laps,,Jaguar
+2003,15,United States Grand Prix,9,9,,Cristiano,da Matta,Brazilian,0,+2 Laps,,Toyota
+2003,15,United States Grand Prix,19,10,,Jos,Verstappen,Dutch,0,+4 Laps,,Minardi
+2003,15,United States Grand Prix,20,11,,Nicolas,Kiesa,Danish,0,+4 Laps,,Minardi
+2003,15,United States Grand Prix,12,12,VIL,Jacques,Villeneuve,Canadian,0,Engine,,BAR
+2003,15,United States Grand Prix,18,13,,Ralph,Firman,Irish,0,Spun off,,Jordan
+2003,15,United States Grand Prix,8,14,COU,David,Coulthard,British,0,Gearbox,,McLaren
+2003,15,United States Grand Prix,6,15,ALO,Fernando,Alonso,Spanish,0,Engine,,Renault
+2003,15,United States Grand Prix,11,16,BUT,Jenson,Button,British,0,Engine,,BAR
+2003,15,United States Grand Prix,3,17,,Olivier,Panis,French,0,Accident,,Toyota
+2003,15,United States Grand Prix,14,18,WEB,Mark,Webber,Australian,0,Accident,,Jaguar
+2003,15,United States Grand Prix,5,19,SCH,Ralf,Schumacher,German,0,Accident,,Williams
+2003,15,United States Grand Prix,2,20,BAR,Rubens,Barrichello,Brazilian,0,Collision,,Ferrari

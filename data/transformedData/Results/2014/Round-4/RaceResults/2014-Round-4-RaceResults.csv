@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,4,Chinese Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:33:28.338,Mercedes
+2014,4,Chinese Grand Prix,4,2,ROS,Nico,Rosberg,German,18,Finished,+18.062,Mercedes
+2014,4,Chinese Grand Prix,5,3,ALO,Fernando,Alonso,Spanish,15,Finished,+23.604,Ferrari
+2014,4,Chinese Grand Prix,2,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+27.136,Red Bull
+2014,4,Chinese Grand Prix,3,5,VET,Sebastian,Vettel,German,10,Finished,+47.778,Red Bull
+2014,4,Chinese Grand Prix,8,6,HUL,Nico,Hülkenberg,German,8,Finished,+54.295,Force India
+2014,4,Chinese Grand Prix,7,7,BOT,Valtteri,Bottas,Finnish,6,Finished,+55.697,Williams
+2014,4,Chinese Grand Prix,11,8,RAI,Kimi,Räikkönen,Finnish,4,Finished,+1:16.335,Ferrari
+2014,4,Chinese Grand Prix,16,9,PER,Sergio,Pérez,Mexican,2,Finished,+1:22.647,Force India
+2014,4,Chinese Grand Prix,13,10,KVY,Daniil,Kvyat,Russian,1,+1 Lap,,Toro Rosso
+2014,4,Chinese Grand Prix,12,11,BUT,Jenson,Button,British,0,+1 Lap,,McLaren
+2014,4,Chinese Grand Prix,9,12,VER,Jean-Éric,Vergne,French,0,+1 Lap,,Toro Rosso
+2014,4,Chinese Grand Prix,15,13,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,McLaren
+2014,4,Chinese Grand Prix,22,14,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Lotus F1
+2014,4,Chinese Grand Prix,6,15,MAS,Felipe,Massa,Brazilian,0,+1 Lap,,Williams
+2014,4,Chinese Grand Prix,17,16,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Sauber
+2014,4,Chinese Grand Prix,19,17,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2014,4,Chinese Grand Prix,18,18,KOB,Kamui,Kobayashi,Japanese,0,+1 Lap,,Caterham
+2014,4,Chinese Grand Prix,21,19,CHI,Max,Chilton,British,0,+2 Laps,,Marussia
+2014,4,Chinese Grand Prix,20,20,ERI,Marcus,Ericsson,Swedish,0,+2 Laps,,Caterham
+2014,4,Chinese Grand Prix,10,21,GRO,Romain,Grosjean,French,0,Gearbox,,Lotus F1
+2014,4,Chinese Grand Prix,14,22,SUT,Adrian,Sutil,German,0,Engine,,Sauber

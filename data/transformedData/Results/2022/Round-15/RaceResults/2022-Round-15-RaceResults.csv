@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2022,15,Dutch Grand Prix,1,1,VER,Max,Verstappen,Dutch,26,Finished,1:36:42.773,Red Bull
+2022,15,Dutch Grand Prix,6,2,RUS,George,Russell,British,18,Finished,+4.071,Mercedes
+2022,15,Dutch Grand Prix,2,3,LEC,Charles,Leclerc,Monegasque,15,Finished,+10.929,Ferrari
+2022,15,Dutch Grand Prix,4,4,HAM,Lewis,Hamilton,British,12,Finished,+13.016,Mercedes
+2022,15,Dutch Grand Prix,5,5,PER,Sergio,Pérez,Mexican,10,Finished,+18.168,Red Bull
+2022,15,Dutch Grand Prix,13,6,ALO,Fernando,Alonso,Spanish,8,Finished,+18.754,Alpine F1 Team
+2022,15,Dutch Grand Prix,7,7,NOR,Lando,Norris,British,6,Finished,+19.306,McLaren
+2022,15,Dutch Grand Prix,3,8,SAI,Carlos,Sainz,Spanish,4,Finished,+20.916,Ferrari
+2022,15,Dutch Grand Prix,12,9,OCO,Esteban,Ocon,French,2,Finished,+21.117,Alpine F1 Team
+2022,15,Dutch Grand Prix,10,10,STR,Lance,Stroll,Canadian,1,Finished,+22.459,Aston Martin
+2022,15,Dutch Grand Prix,11,11,GAS,Pierre,Gasly,French,0,Finished,+27.009,AlphaTauri
+2022,15,Dutch Grand Prix,15,12,ALB,Alexander,Albon,Thai,0,Finished,+30.390,Williams
+2022,15,Dutch Grand Prix,8,13,MSC,Mick,Schumacher,German,0,Finished,+32.995,Haas F1 Team
+2022,15,Dutch Grand Prix,19,14,VET,Sebastian,Vettel,German,0,Finished,+36.007,Aston Martin
+2022,15,Dutch Grand Prix,18,15,MAG,Kevin,Magnussen,Danish,0,Finished,+36.869,Haas F1 Team
+2022,15,Dutch Grand Prix,14,16,ZHO,Guanyu,Zhou,Chinese,0,Finished,+37.320,Alfa Romeo
+2022,15,Dutch Grand Prix,17,17,RIC,Daniel,Ricciardo,Australian,0,Finished,+37.764,McLaren
+2022,15,Dutch Grand Prix,20,18,LAT,Nicholas,Latifi,Canadian,0,+1 Lap,,Williams
+2022,15,Dutch Grand Prix,16,19,BOT,Valtteri,Bottas,Finnish,0,Engine,,Alfa Romeo
+2022,15,Dutch Grand Prix,9,20,TSU,Yuki,Tsunoda,Japanese,0,Differential,,AlphaTauri

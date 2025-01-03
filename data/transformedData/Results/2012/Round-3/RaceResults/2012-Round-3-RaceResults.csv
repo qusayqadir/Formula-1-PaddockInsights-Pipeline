@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2012,3,Chinese Grand Prix,1,1,ROS,Nico,Rosberg,German,25,Finished,1:36:26.929,Mercedes
+2012,3,Chinese Grand Prix,5,2,BUT,Jenson,Button,British,18,Finished,+20.626,McLaren
+2012,3,Chinese Grand Prix,7,3,HAM,Lewis,Hamilton,British,15,Finished,+26.012,McLaren
+2012,3,Chinese Grand Prix,6,4,WEB,Mark,Webber,Australian,12,Finished,+27.924,Red Bull
+2012,3,Chinese Grand Prix,11,5,VET,Sebastian,Vettel,German,10,Finished,+30.483,Red Bull
+2012,3,Chinese Grand Prix,10,6,GRO,Romain,Grosjean,French,8,Finished,+31.491,Lotus F1
+2012,3,Chinese Grand Prix,14,7,SEN,Bruno,Senna,Brazilian,6,Finished,+34.597,Williams
+2012,3,Chinese Grand Prix,13,8,MAL,Pastor,Maldonado,Venezuelan,4,Finished,+35.643,Williams
+2012,3,Chinese Grand Prix,9,9,ALO,Fernando,Alonso,Spanish,2,Finished,+37.256,Ferrari
+2012,3,Chinese Grand Prix,3,10,KOB,Kamui,Kobayashi,Japanese,1,Finished,+38.720,Sauber
+2012,3,Chinese Grand Prix,8,11,PER,Sergio,Pérez,Mexican,0,Finished,+41.066,Sauber
+2012,3,Chinese Grand Prix,15,12,DIR,Paul,di Resta,British,0,Finished,+42.273,Force India
+2012,3,Chinese Grand Prix,12,13,MAS,Felipe,Massa,Brazilian,0,Finished,+42.779,Ferrari
+2012,3,Chinese Grand Prix,4,14,RAI,Kimi,Räikkönen,Finnish,0,Finished,+50.573,Lotus F1
+2012,3,Chinese Grand Prix,16,15,HUL,Nico,Hülkenberg,German,0,Finished,+51.213,Force India
+2012,3,Chinese Grand Prix,24,16,VER,Jean-Éric,Vergne,French,0,Finished,+51.756,Toro Rosso
+2012,3,Chinese Grand Prix,17,17,RIC,Daniel,Ricciardo,Australian,0,Finished,+1:03.156,Toro Rosso
+2012,3,Chinese Grand Prix,19,18,PET,Vitaly,Petrov,Russian,0,+1 Lap,,Caterham
+2012,3,Chinese Grand Prix,20,19,GLO,Timo,Glock,German,0,+1 Lap,,Marussia
+2012,3,Chinese Grand Prix,21,20,PIC,Charles,Pic,French,0,+1 Lap,,Marussia
+2012,3,Chinese Grand Prix,22,21,DLR,Pedro,de la Rosa,Spanish,0,+1 Lap,,HRT
+2012,3,Chinese Grand Prix,23,22,KAR,Narain,Karthikeyan,Indian,0,+2 Laps,,HRT
+2012,3,Chinese Grand Prix,18,23,KOV,Heikki,Kovalainen,Finnish,0,+3 Laps,,Caterham
+2012,3,Chinese Grand Prix,2,24,MSC,Michael,Schumacher,German,0,Wheel nut,,Mercedes

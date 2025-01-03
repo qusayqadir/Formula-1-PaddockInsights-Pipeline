@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2009,1,Australian Grand Prix,1,1,BUT,Jenson,Button,British,10,Finished,1:34:15.784,Brawn
+2009,1,Australian Grand Prix,2,2,BAR,Rubens,Barrichello,Brazilian,8,Finished,+0.807,Brawn
+2009,1,Australian Grand Prix,20,3,TRU,Jarno,Trulli,Italian,6,Finished,+1.604,Toyota
+2009,1,Australian Grand Prix,19,4,GLO,Timo,Glock,German,5,Finished,+4.435,Toyota
+2009,1,Australian Grand Prix,10,5,ALO,Fernando,Alonso,Spanish,4,Finished,+4.879,Renault
+2009,1,Australian Grand Prix,5,6,ROS,Nico,Rosberg,German,3,Finished,+5.722,Williams
+2009,1,Australian Grand Prix,13,7,BUE,Sébastien,Buemi,Swiss,2,Finished,+6.004,Toro Rosso
+2009,1,Australian Grand Prix,17,8,BOU,Sébastien,Bourdais,French,1,Finished,+6.298,Toro Rosso
+2009,1,Australian Grand Prix,16,9,SUT,Adrian,Sutil,German,0,Finished,+6.335,Force India
+2009,1,Australian Grand Prix,9,10,HEI,Nick,Heidfeld,German,0,Finished,+7.085,BMW Sauber
+2009,1,Australian Grand Prix,15,11,FIS,Giancarlo,Fisichella,Italian,0,Finished,+7.374,Force India
+2009,1,Australian Grand Prix,8,12,WEB,Mark,Webber,Australian,0,+1 Lap,,Red Bull
+2009,1,Australian Grand Prix,3,13,VET,Sebastian,Vettel,German,0,Collision,,Red Bull
+2009,1,Australian Grand Prix,4,14,KUB,Robert,Kubica,Polish,0,Collision,,BMW Sauber
+2009,1,Australian Grand Prix,7,15,RAI,Kimi,Räikkönen,Finnish,0,Differential,,Ferrari
+2009,1,Australian Grand Prix,6,16,MAS,Felipe,Massa,Brazilian,0,Suspension,,Ferrari
+2009,1,Australian Grand Prix,14,17,PIQ,Nelson,Piquet Jr.,Brazilian,0,Spun off,,Renault
+2009,1,Australian Grand Prix,11,18,NAK,Kazuki,Nakajima,Japanese,0,Accident,,Williams
+2009,1,Australian Grand Prix,12,19,KOV,Heikki,Kovalainen,Finnish,0,Collision,,McLaren
+2009,1,Australian Grand Prix,18,20,HAM,Lewis,Hamilton,British,0,Disqualified,,McLaren

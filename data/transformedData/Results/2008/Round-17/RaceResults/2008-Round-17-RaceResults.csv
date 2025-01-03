@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2008,17,Chinese Grand Prix,1,1,HAM,Lewis,Hamilton,British,10,Finished,1:31:57.403,McLaren
+2008,17,Chinese Grand Prix,3,2,MAS,Felipe,Massa,Brazilian,8,Finished,+14.925,Ferrari
+2008,17,Chinese Grand Prix,2,3,RAI,Kimi,Räikkönen,Finnish,6,Finished,+16.445,Ferrari
+2008,17,Chinese Grand Prix,4,4,ALO,Fernando,Alonso,Spanish,5,Finished,+18.370,Renault
+2008,17,Chinese Grand Prix,9,5,HEI,Nick,Heidfeld,German,4,Finished,+28.923,BMW Sauber
+2008,17,Chinese Grand Prix,11,6,KUB,Robert,Kubica,Polish,3,Finished,+33.219,BMW Sauber
+2008,17,Chinese Grand Prix,12,7,GLO,Timo,Glock,German,2,Finished,+41.722,Toyota
+2008,17,Chinese Grand Prix,10,8,PIQ,Nelson,Piquet Jr.,Brazilian,1,Finished,+56.645,Renault
+2008,17,Chinese Grand Prix,6,9,VET,Sebastian,Vettel,German,0,Finished,+1:04.339,Toro Rosso
+2008,17,Chinese Grand Prix,15,10,COU,David,Coulthard,British,0,Finished,+1:14.842,Red Bull
+2008,17,Chinese Grand Prix,13,11,BAR,Rubens,Barrichello,Brazilian,0,Finished,+1:25.061,Honda
+2008,17,Chinese Grand Prix,17,12,NAK,Kazuki,Nakajima,Japanese,0,Finished,+1:30.847,Williams
+2008,17,Chinese Grand Prix,8,13,BOU,Sébastien,Bourdais,French,0,Finished,+1:31.457,Toro Rosso
+2008,17,Chinese Grand Prix,16,14,WEB,Mark,Webber,Australian,0,Finished,+1:32.422,Red Bull
+2008,17,Chinese Grand Prix,14,15,ROS,Nico,Rosberg,German,0,+1 Lap,,Williams
+2008,17,Chinese Grand Prix,18,16,BUT,Jenson,Button,British,0,+1 Lap,,Honda
+2008,17,Chinese Grand Prix,20,17,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Force India
+2008,17,Chinese Grand Prix,5,18,KOV,Heikki,Kovalainen,Finnish,0,Hydraulics,,McLaren
+2008,17,Chinese Grand Prix,19,19,SUT,Adrian,Sutil,German,0,Engine,,Force India
+2008,17,Chinese Grand Prix,7,20,TRU,Jarno,Trulli,Italian,0,Collision,,Toyota

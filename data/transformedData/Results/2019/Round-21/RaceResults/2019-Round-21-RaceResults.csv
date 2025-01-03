@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2019,21,Abu Dhabi Grand Prix,1,1,HAM,Lewis,Hamilton,British,26,Finished,1:34:05.715,Mercedes
+2019,21,Abu Dhabi Grand Prix,2,2,VER,Max,Verstappen,Dutch,18,Finished,+16.772,Red Bull
+2019,21,Abu Dhabi Grand Prix,3,3,LEC,Charles,Leclerc,Monegasque,15,Finished,+43.435,Ferrari
+2019,21,Abu Dhabi Grand Prix,20,4,BOT,Valtteri,Bottas,Finnish,12,Finished,+44.379,Mercedes
+2019,21,Abu Dhabi Grand Prix,4,5,VET,Sebastian,Vettel,German,10,Finished,+1:04.357,Ferrari
+2019,21,Abu Dhabi Grand Prix,5,6,ALB,Alexander,Albon,Thai,8,Finished,+1:09.205,Red Bull
+2019,21,Abu Dhabi Grand Prix,10,7,PER,Sergio,Pérez,Mexican,6,+1 Lap,,Racing Point
+2019,21,Abu Dhabi Grand Prix,6,8,NOR,Lando,Norris,British,4,+1 Lap,,McLaren
+2019,21,Abu Dhabi Grand Prix,13,9,KVY,Daniil,Kvyat,Russian,2,+1 Lap,,Toro Rosso
+2019,21,Abu Dhabi Grand Prix,8,10,SAI,Carlos,Sainz,Spanish,1,+1 Lap,,McLaren
+2019,21,Abu Dhabi Grand Prix,7,11,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,Renault
+2019,21,Abu Dhabi Grand Prix,9,12,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Renault
+2019,21,Abu Dhabi Grand Prix,17,13,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Alfa Romeo
+2019,21,Abu Dhabi Grand Prix,14,14,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2019,21,Abu Dhabi Grand Prix,15,15,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2019,21,Abu Dhabi Grand Prix,16,16,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2019,21,Abu Dhabi Grand Prix,18,17,RUS,George,Russell,British,0,+1 Lap,,Williams
+2019,21,Abu Dhabi Grand Prix,11,18,GAS,Pierre,Gasly,French,0,+2 Laps,,Toro Rosso
+2019,21,Abu Dhabi Grand Prix,19,19,KUB,Robert,Kubica,Polish,0,+2 Laps,,Williams
+2019,21,Abu Dhabi Grand Prix,12,20,STR,Lance,Stroll,Canadian,0,Brakes,,Racing Point

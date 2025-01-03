@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,19,Abu Dhabi Grand Prix,2,1,HAM,Lewis,Hamilton,British,50,Finished,1:39:02.619,Mercedes
+2014,19,Abu Dhabi Grand Prix,4,2,MAS,Felipe,Massa,Brazilian,36,Finished,+2.576,Williams
+2014,19,Abu Dhabi Grand Prix,3,3,BOT,Valtteri,Bottas,Finnish,30,Finished,+28.880,Williams
+2014,19,Abu Dhabi Grand Prix,20,4,RIC,Daniel,Ricciardo,Australian,24,Finished,+37.237,Red Bull
+2014,19,Abu Dhabi Grand Prix,6,5,BUT,Jenson,Button,British,20,Finished,+1:00.334,McLaren
+2014,19,Abu Dhabi Grand Prix,12,6,HUL,Nico,Hülkenberg,German,16,Finished,+1:02.148,Force India
+2014,19,Abu Dhabi Grand Prix,11,7,PER,Sergio,Pérez,Mexican,12,Finished,+1:11.060,Force India
+2014,19,Abu Dhabi Grand Prix,19,8,VET,Sebastian,Vettel,German,8,Finished,+1:12.045,Red Bull
+2014,19,Abu Dhabi Grand Prix,8,9,ALO,Fernando,Alonso,Spanish,4,Finished,+1:25.813,Ferrari
+2014,19,Abu Dhabi Grand Prix,7,10,RAI,Kimi,Räikkönen,Finnish,2,Finished,+1:27.820,Ferrari
+2014,19,Abu Dhabi Grand Prix,9,11,MAG,Kevin,Magnussen,Danish,0,Finished,+1:30.376,McLaren
+2014,19,Abu Dhabi Grand Prix,10,12,VER,Jean-Éric,Vergne,French,0,Finished,+1:31.947,Toro Rosso
+2014,19,Abu Dhabi Grand Prix,18,13,GRO,Romain,Grosjean,French,0,+1 Lap,,Lotus F1
+2014,19,Abu Dhabi Grand Prix,1,14,ROS,Nico,Rosberg,German,0,+1 Lap,,Mercedes
+2014,19,Abu Dhabi Grand Prix,14,15,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Sauber
+2014,19,Abu Dhabi Grand Prix,13,16,SUT,Adrian,Sutil,German,0,+1 Lap,,Sauber
+2014,19,Abu Dhabi Grand Prix,17,17,STE,Will,Stevens,British,0,+1 Lap,,Caterham
+2014,19,Abu Dhabi Grand Prix,16,18,KOB,Kamui,Kobayashi,Japanese,0,Retired,,Caterham
+2014,19,Abu Dhabi Grand Prix,15,19,MAL,Pastor,Maldonado,Venezuelan,0,Power Unit,,Lotus F1
+2014,19,Abu Dhabi Grand Prix,5,20,KVY,Daniil,Kvyat,Russian,0,Power Unit,,Toro Rosso

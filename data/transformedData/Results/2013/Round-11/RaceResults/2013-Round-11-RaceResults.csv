@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,11,Belgian Grand Prix,2,1,VET,Sebastian,Vettel,German,25,Finished,1:23:42.196,Red Bull
+2013,11,Belgian Grand Prix,9,2,ALO,Fernando,Alonso,Spanish,18,Finished,+16.869,Ferrari
+2013,11,Belgian Grand Prix,1,3,HAM,Lewis,Hamilton,British,15,Finished,+27.734,Mercedes
+2013,11,Belgian Grand Prix,4,4,ROS,Nico,Rosberg,German,12,Finished,+29.872,Mercedes
+2013,11,Belgian Grand Prix,3,5,WEB,Mark,Webber,Australian,10,Finished,+33.845,Red Bull
+2013,11,Belgian Grand Prix,6,6,BUT,Jenson,Button,British,8,Finished,+40.794,McLaren
+2013,11,Belgian Grand Prix,10,7,MAS,Felipe,Massa,Brazilian,6,Finished,+53.922,Ferrari
+2013,11,Belgian Grand Prix,7,8,GRO,Romain,Grosjean,French,4,Finished,+55.846,Lotus F1
+2013,11,Belgian Grand Prix,12,9,SUT,Adrian,Sutil,German,2,Finished,+1:09.547,Force India
+2013,11,Belgian Grand Prix,19,10,RIC,Daniel,Ricciardo,Australian,1,Finished,+1:13.470,Toro Rosso
+2013,11,Belgian Grand Prix,13,11,PER,Sergio,Pérez,Mexican,0,Finished,+1:21.936,McLaren
+2013,11,Belgian Grand Prix,18,12,VER,Jean-Éric,Vergne,French,0,Finished,+1:26.740,Toro Rosso
+2013,11,Belgian Grand Prix,11,13,HUL,Nico,Hülkenberg,German,0,Finished,+1:28.258,Sauber
+2013,11,Belgian Grand Prix,21,14,GUT,Esteban,Gutiérrez,Mexican,0,Finished,+1:40.436,Sauber
+2013,11,Belgian Grand Prix,20,15,BOT,Valtteri,Bottas,Finnish,0,Finished,+1:47.456,Williams
+2013,11,Belgian Grand Prix,14,16,VDG,Giedo,van der Garde,Dutch,0,+1 Lap,,Caterham
+2013,11,Belgian Grand Prix,17,17,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Williams
+2013,11,Belgian Grand Prix,15,18,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2013,11,Belgian Grand Prix,16,19,CHI,Max,Chilton,British,0,+2 Laps,,Marussia
+2013,11,Belgian Grand Prix,5,20,DIR,Paul,di Resta,British,0,Collision,,Force India
+2013,11,Belgian Grand Prix,8,21,RAI,Kimi,Räikkönen,Finnish,0,Brakes,,Lotus F1
+2013,11,Belgian Grand Prix,22,22,PIC,Charles,Pic,French,0,Oil leak,,Caterham

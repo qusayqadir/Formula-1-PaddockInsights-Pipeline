@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2005,15,Italian Grand Prix,1,1,MON,Juan,Pablo Montoya,Colombian,10,Finished,1:14:28.659,McLaren
+2005,15,Italian Grand Prix,2,2,ALO,Fernando,Alonso,Spanish,8,Finished,+2.479,Renault
+2005,15,Italian Grand Prix,8,3,FIS,Giancarlo,Fisichella,Italian,6,Finished,+17.975,Renault
+2005,15,Italian Grand Prix,11,4,RAI,Kimi,Räikkönen,Finnish,5,Finished,+22.775,McLaren
+2005,15,Italian Grand Prix,5,5,TRU,Jarno,Trulli,Italian,4,Finished,+33.786,Toyota
+2005,15,Italian Grand Prix,9,6,SCH,Ralf,Schumacher,German,3,Finished,+43.925,Toyota
+2005,15,Italian Grand Prix,16,7,PIZ,Antônio,Pizzonia,Brazilian,2,Finished,+44.643,Williams
+2005,15,Italian Grand Prix,3,8,BUT,Jenson,Button,British,1,Finished,+1:03.635,BAR
+2005,15,Italian Grand Prix,15,9,MAS,Felipe,Massa,Brazilian,0,Finished,+1:15.413,Sauber
+2005,15,Italian Grand Prix,6,10,MSC,Michael,Schumacher,German,0,Finished,+1:36.070,Ferrari
+2005,15,Italian Grand Prix,12,11,VIL,Jacques,Villeneuve,Canadian,0,+1 Lap,,Sauber
+2005,15,Italian Grand Prix,7,12,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Ferrari
+2005,15,Italian Grand Prix,13,13,KLI,Christian,Klien,Austrian,0,+1 Lap,,Red Bull
+2005,15,Italian Grand Prix,14,14,WEB,Mark,Webber,Australian,0,+1 Lap,,Williams
+2005,15,Italian Grand Prix,10,15,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2005,15,Italian Grand Prix,4,16,SAT,Takuma,Sato,Japanese,0,+1 Lap,,BAR
+2005,15,Italian Grand Prix,17,17,TMO,Tiago,Monteiro,Portuguese,0,+2 Laps,,Jordan
+2005,15,Italian Grand Prix,18,18,DOO,Robert,Doornbos,Dutch,0,+2 Laps,,Minardi
+2005,15,Italian Grand Prix,20,19,ALB,Christijan,Albers,Dutch,0,+2 Laps,,Minardi
+2005,15,Italian Grand Prix,19,20,KAR,Narain,Karthikeyan,Indian,0,+3 Laps,,Jordan

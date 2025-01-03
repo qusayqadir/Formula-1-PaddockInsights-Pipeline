@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2005,1,Australian Grand Prix,1,1,FIS,Giancarlo,Fisichella,Italian,10,Finished,1:24:17.336,Renault
+2005,1,Australian Grand Prix,11,2,BAR,Rubens,Barrichello,Brazilian,8,Finished,+5.553,Ferrari
+2005,1,Australian Grand Prix,13,3,ALO,Fernando,Alonso,Spanish,6,Finished,+6.712,Renault
+2005,1,Australian Grand Prix,5,4,COU,David,Coulthard,British,5,Finished,+16.131,Red Bull
+2005,1,Australian Grand Prix,3,5,WEB,Mark,Webber,Australian,4,Finished,+16.908,Williams
+2005,1,Australian Grand Prix,9,6,MON,Juan,Pablo Montoya,Colombian,3,Finished,+35.033,McLaren
+2005,1,Australian Grand Prix,6,7,KLI,Christian,Klien,Austrian,2,Finished,+38.997,Red Bull
+2005,1,Australian Grand Prix,10,8,RAI,Kimi,Räikkönen,Finnish,1,Finished,+39.633,McLaren
+2005,1,Australian Grand Prix,2,9,TRU,Jarno,Trulli,Italian,0,Finished,+1:03.108,Toyota
+2005,1,Australian Grand Prix,18,10,MAS,Felipe,Massa,Brazilian,0,Finished,+1:04.393,Sauber
+2005,1,Australian Grand Prix,8,11,BUT,Jenson,Button,British,0,+1 Lap,,BAR
+2005,1,Australian Grand Prix,15,12,SCH,Ralf,Schumacher,German,0,+1 Lap,,Toyota
+2005,1,Australian Grand Prix,4,13,VIL,Jacques,Villeneuve,Canadian,0,+1 Lap,,Sauber
+2005,1,Australian Grand Prix,20,14,SAT,Takuma,Sato,Japanese,0,+2 Laps,,BAR
+2005,1,Australian Grand Prix,12,15,KAR,Narain,Karthikeyan,Indian,0,+2 Laps,,Jordan
+2005,1,Australian Grand Prix,14,16,TMO,Tiago,Monteiro,Portuguese,0,+2 Laps,,Jordan
+2005,1,Australian Grand Prix,16,17,FRI,Patrick,Friesacher,Austrian,0,+4 Laps,,Minardi
+2005,1,Australian Grand Prix,19,18,MSC,Michael,Schumacher,German,0,Accident,,Ferrari
+2005,1,Australian Grand Prix,7,19,HEI,Nick,Heidfeld,German,0,Accident,,Williams
+2005,1,Australian Grand Prix,17,20,ALB,Christijan,Albers,Dutch,0,Gearbox,,Minardi

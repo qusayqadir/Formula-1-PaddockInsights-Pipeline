@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2003,3,Brazilian Grand Prix,8,1,FIS,Giancarlo,Fisichella,Italian,10,Finished,1:31:18.2,Jordan
+2003,3,Brazilian Grand Prix,4,2,RAI,Kimi,Räikkönen,Finnish,8,Finished,+0.945,McLaren
+2003,3,Brazilian Grand Prix,10,3,ALO,Fernando,Alonso,Spanish,6,Finished,+6.348,Renault
+2003,3,Brazilian Grand Prix,2,4,COU,David,Coulthard,British,5,Finished,+8.096,McLaren
+2003,3,Brazilian Grand Prix,14,5,,Heinz-Harald,Frentzen,German,4,Finished,+8.642,Sauber
+2003,3,Brazilian Grand Prix,13,6,VIL,Jacques,Villeneuve,Canadian,3,Finished,+16.054,BAR
+2003,3,Brazilian Grand Prix,6,7,SCH,Ralf,Schumacher,German,2,Finished,+38.526,Williams
+2003,3,Brazilian Grand Prix,5,8,TRU,Jarno,Trulli,Italian,1,Finished,+45.927,Renault
+2003,3,Brazilian Grand Prix,3,9,WEB,Mark,Webber,Australian,0,Accident,,Jaguar
+2003,3,Brazilian Grand Prix,18,10,,Cristiano,da Matta,Brazilian,0,+1 Lap,,Toyota
+2003,3,Brazilian Grand Prix,1,11,BAR,Rubens,Barrichello,Brazilian,0,Fuel system,,Ferrari
+2003,3,Brazilian Grand Prix,11,12,BUT,Jenson,Button,British,0,Accident,,BAR
+2003,3,Brazilian Grand Prix,19,13,,Jos,Verstappen,Dutch,0,Spun off,,Minardi
+2003,3,Brazilian Grand Prix,7,14,MSC,Michael,Schumacher,German,0,Accident,,Ferrari
+2003,3,Brazilian Grand Prix,9,15,MON,Juan,Pablo Montoya,Colombian,0,Accident,,Williams
+2003,3,Brazilian Grand Prix,17,16,PIZ,Antônio,Pizzonia,Brazilian,0,Accident,,Jaguar
+2003,3,Brazilian Grand Prix,15,17,,Olivier,Panis,French,0,Collision,,Toyota
+2003,3,Brazilian Grand Prix,16,18,,Ralph,Firman,Irish,0,Suspension,,Jordan
+2003,3,Brazilian Grand Prix,20,19,,Justin,Wilson,British,0,Spun off,,Minardi
+2003,3,Brazilian Grand Prix,12,20,HEI,Nick,Heidfeld,German,0,Engine,,Sauber

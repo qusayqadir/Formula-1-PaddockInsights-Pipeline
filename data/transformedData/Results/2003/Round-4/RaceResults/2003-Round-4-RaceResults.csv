@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2003,4,San Marino Grand Prix,1,1,MSC,Michael,Schumacher,German,10,Finished,1:28:12.058,Ferrari
+2003,4,San Marino Grand Prix,6,2,RAI,Kimi,Räikkönen,Finnish,8,Finished,+1.882,McLaren
+2003,4,San Marino Grand Prix,3,3,BAR,Rubens,Barrichello,Brazilian,6,Finished,+2.291,Ferrari
+2003,4,San Marino Grand Prix,2,4,SCH,Ralf,Schumacher,German,5,Finished,+8.803,Williams
+2003,4,San Marino Grand Prix,12,5,COU,David,Coulthard,British,4,Finished,+9.411,McLaren
+2003,4,San Marino Grand Prix,8,6,ALO,Fernando,Alonso,Spanish,3,Finished,+43.689,Renault
+2003,4,San Marino Grand Prix,4,7,MON,Juan,Pablo Montoya,Colombian,2,Finished,+45.271,Williams
+2003,4,San Marino Grand Prix,9,8,BUT,Jenson,Button,British,1,+1 Lap,,BAR
+2003,4,San Marino Grand Prix,10,9,,Olivier,Panis,French,0,+1 Lap,,Toyota
+2003,4,San Marino Grand Prix,11,10,HEI,Nick,Heidfeld,German,0,+1 Lap,,Sauber
+2003,4,San Marino Grand Prix,14,11,,Heinz-Harald,Frentzen,German,0,+1 Lap,,Sauber
+2003,4,San Marino Grand Prix,13,12,,Cristiano,da Matta,Brazilian,0,+1 Lap,,Toyota
+2003,4,San Marino Grand Prix,16,13,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Renault
+2003,4,San Marino Grand Prix,15,14,PIZ,Antônio,Pizzonia,Brazilian,0,+2 Laps,,Jaguar
+2003,4,San Marino Grand Prix,17,15,FIS,Giancarlo,Fisichella,Italian,0,+5 Laps,,Jordan
+2003,4,San Marino Grand Prix,5,16,WEB,Mark,Webber,Australian,0,Driveshaft,,Jaguar
+2003,4,San Marino Grand Prix,19,17,,Ralph,Firman,Irish,0,Oil line,,Jordan
+2003,4,San Marino Grand Prix,20,18,,Jos,Verstappen,Dutch,0,Electrical,,Minardi
+2003,4,San Marino Grand Prix,18,19,,Justin,Wilson,British,0,Fuel rig,,Minardi
+2003,4,San Marino Grand Prix,7,20,VIL,Jacques,Villeneuve,Canadian,0,Engine,,BAR

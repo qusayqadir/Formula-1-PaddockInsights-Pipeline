@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2023,10,British Grand Prix,1,1,VER,Max,Verstappen,Dutch,26,Finished,1:25:16.938,Red Bull
+2023,10,British Grand Prix,2,2,NOR,Lando,Norris,British,18,Finished,+3.798,McLaren
+2023,10,British Grand Prix,7,3,HAM,Lewis,Hamilton,British,15,Finished,+6.783,Mercedes
+2023,10,British Grand Prix,3,4,PIA,Oscar,Piastri,Australian,12,Finished,+7.776,McLaren
+2023,10,British Grand Prix,6,5,RUS,George,Russell,British,10,Finished,+11.206,Mercedes
+2023,10,British Grand Prix,15,6,PER,Sergio,Pérez,Mexican,8,Finished,+12.882,Red Bull
+2023,10,British Grand Prix,9,7,ALO,Fernando,Alonso,Spanish,6,Finished,+17.193,Aston Martin
+2023,10,British Grand Prix,8,8,ALB,Alexander,Albon,Thai,4,Finished,+17.878,Williams
+2023,10,British Grand Prix,4,9,LEC,Charles,Leclerc,Monegasque,2,Finished,+18.689,Ferrari
+2023,10,British Grand Prix,5,10,SAI,Carlos,Sainz,Spanish,1,Finished,+19.448,Ferrari
+2023,10,British Grand Prix,14,11,SAR,Logan,Sargeant,American,0,Finished,+23.632,Williams
+2023,10,British Grand Prix,20,12,BOT,Valtteri,Bottas,Finnish,0,Finished,+25.830,Alfa Romeo
+2023,10,British Grand Prix,11,13,HUL,Nico,Hülkenberg,German,0,Finished,+26.663,Haas F1 Team
+2023,10,British Grand Prix,12,14,STR,Lance,Stroll,Canadian,0,Finished,+27.483,Aston Martin
+2023,10,British Grand Prix,17,15,ZHO,Guanyu,Zhou,Chinese,0,Finished,+29.820,Alfa Romeo
+2023,10,British Grand Prix,16,16,TSU,Yuki,Tsunoda,Japanese,0,Finished,+31.225,AlphaTauri
+2023,10,British Grand Prix,18,17,DEV,Nyck,de Vries,Dutch,0,Finished,+33.128,AlphaTauri
+2023,10,British Grand Prix,10,18,GAS,Pierre,Gasly,French,0,Collision damage,,Alpine F1 Team
+2023,10,British Grand Prix,19,19,MAG,Kevin,Magnussen,Danish,0,Engine,,Haas F1 Team
+2023,10,British Grand Prix,13,20,OCO,Esteban,Ocon,French,0,Oil leak,,Alpine F1 Team

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2023,2,Saudi Arabian Grand Prix,1,1,PER,Sergio,Pérez,Mexican,25,Finished,1:21:14.894,Red Bull
+2023,2,Saudi Arabian Grand Prix,15,2,VER,Max,Verstappen,Dutch,19,Finished,+5.355,Red Bull
+2023,2,Saudi Arabian Grand Prix,2,3,ALO,Fernando,Alonso,Spanish,15,Finished,+20.728,Aston Martin
+2023,2,Saudi Arabian Grand Prix,3,4,RUS,George,Russell,British,12,Finished,+25.866,Mercedes
+2023,2,Saudi Arabian Grand Prix,7,5,HAM,Lewis,Hamilton,British,10,Finished,+31.065,Mercedes
+2023,2,Saudi Arabian Grand Prix,4,6,SAI,Carlos,Sainz,Spanish,8,Finished,+35.876,Ferrari
+2023,2,Saudi Arabian Grand Prix,12,7,LEC,Charles,Leclerc,Monegasque,6,Finished,+43.162,Ferrari
+2023,2,Saudi Arabian Grand Prix,6,8,OCO,Esteban,Ocon,French,4,Finished,+52.832,Alpine F1 Team
+2023,2,Saudi Arabian Grand Prix,9,9,GAS,Pierre,Gasly,French,2,Finished,+54.747,Alpine F1 Team
+2023,2,Saudi Arabian Grand Prix,13,10,MAG,Kevin,Magnussen,Danish,1,Finished,+1:04.826,Haas F1 Team
+2023,2,Saudi Arabian Grand Prix,16,11,TSU,Yuki,Tsunoda,Japanese,0,Finished,+1:07.494,AlphaTauri
+2023,2,Saudi Arabian Grand Prix,10,12,HUL,Nico,Hülkenberg,German,0,Finished,+1:10.588,Haas F1 Team
+2023,2,Saudi Arabian Grand Prix,11,13,ZHO,Guanyu,Zhou,Chinese,0,Finished,+1:16.060,Alfa Romeo
+2023,2,Saudi Arabian Grand Prix,18,14,DEV,Nyck,de Vries,Dutch,0,Finished,+1:17.478,AlphaTauri
+2023,2,Saudi Arabian Grand Prix,8,15,PIA,Oscar,Piastri,Australian,0,Finished,+1:25.021,McLaren
+2023,2,Saudi Arabian Grand Prix,20,16,SAR,Logan,Sargeant,American,0,Finished,+1:26.293,Williams
+2023,2,Saudi Arabian Grand Prix,19,17,NOR,Lando,Norris,British,0,Finished,+1:26.445,McLaren
+2023,2,Saudi Arabian Grand Prix,14,18,BOT,Valtteri,Bottas,Finnish,0,+1 Lap,,Alfa Romeo
+2023,2,Saudi Arabian Grand Prix,17,19,ALB,Alexander,Albon,Thai,0,Brakes,,Williams
+2023,2,Saudi Arabian Grand Prix,5,20,STR,Lance,Stroll,Canadian,0,Engine,,Aston Martin

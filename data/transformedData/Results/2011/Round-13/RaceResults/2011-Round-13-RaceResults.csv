@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2011,13,Italian Grand Prix,1,1,VET,Sebastian,Vettel,German,25,Finished,1:20:46.172,Red Bull
+2011,13,Italian Grand Prix,3,2,BUT,Jenson,Button,British,18,Finished,+9.590,McLaren
+2011,13,Italian Grand Prix,4,3,ALO,Fernando,Alonso,Spanish,15,Finished,+16.909,Ferrari
+2011,13,Italian Grand Prix,2,4,HAM,Lewis,Hamilton,British,12,Finished,+17.417,McLaren
+2011,13,Italian Grand Prix,8,5,MSC,Michael,Schumacher,German,10,Finished,+32.677,Mercedes
+2011,13,Italian Grand Prix,6,6,MAS,Felipe,Massa,Brazilian,8,Finished,+42.993,Ferrari
+2011,13,Italian Grand Prix,18,7,ALG,Jaime,Alguersuari,Spanish,6,+1 Lap,,Toro Rosso
+2011,13,Italian Grand Prix,11,8,DIR,Paul,di Resta,British,4,+1 Lap,,Force India
+2011,13,Italian Grand Prix,10,9,SEN,Bruno,Senna,Brazilian,2,+1 Lap,,Renault
+2011,13,Italian Grand Prix,16,10,BUE,Sébastien,Buemi,Swiss,1,+1 Lap,,Toro Rosso
+2011,13,Italian Grand Prix,14,11,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Williams
+2011,13,Italian Grand Prix,13,12,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Williams
+2011,13,Italian Grand Prix,20,13,KOV,Heikki,Kovalainen,Finnish,0,+2 Laps,,Lotus
+2011,13,Italian Grand Prix,19,14,TRU,Jarno,Trulli,Italian,0,+2 Laps,,Lotus
+2011,13,Italian Grand Prix,21,15,GLO,Timo,Glock,German,0,+2 Laps,,Virgin
+2011,13,Italian Grand Prix,23,16,RIC,Daniel,Ricciardo,Australian,0,+14 Laps,,HRT
+2011,13,Italian Grand Prix,15,17,PER,Sergio,Pérez,Mexican,0,Gearbox,,Sauber
+2011,13,Italian Grand Prix,17,18,KOB,Kamui,Kobayashi,Japanese,0,Gearbox,,Sauber
+2011,13,Italian Grand Prix,12,19,SUT,Adrian,Sutil,German,0,Hydraulics,,Force India
+2011,13,Italian Grand Prix,5,20,WEB,Mark,Webber,Australian,0,Accident,,Red Bull
+2011,13,Italian Grand Prix,22,21,DAM,Jérôme,d'Ambrosio,Belgian,0,Gearbox,,Virgin
+2011,13,Italian Grand Prix,7,22,PET,Vitaly,Petrov,Russian,0,Collision,,Renault
+2011,13,Italian Grand Prix,9,23,ROS,Nico,Rosberg,German,0,Collision,,Mercedes
+2011,13,Italian Grand Prix,24,24,LIU,Vitantonio,Liuzzi,Italian,0,Collision,,HRT

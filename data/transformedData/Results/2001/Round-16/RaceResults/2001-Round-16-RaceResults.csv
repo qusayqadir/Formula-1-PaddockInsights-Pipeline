@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2001,16,United States Grand Prix,4,1,,Mika,Häkkinen,Finnish,10,Finished,1:32:42.840,McLaren
+2001,16,United States Grand Prix,1,2,MSC,Michael,Schumacher,German,6,Finished,+11.046,Ferrari
+2001,16,United States Grand Prix,7,3,COU,David,Coulthard,British,4,Finished,+12.043,McLaren
+2001,16,United States Grand Prix,8,4,TRU,Jarno,Trulli,Italian,3,Finished,+57.423,Jordan
+2001,16,United States Grand Prix,14,5,,Eddie,Irvine,British,2,Finished,+1:12.434,Jaguar
+2001,16,United States Grand Prix,6,6,HEI,Nick,Heidfeld,German,1,Finished,+1:12.996,Sauber
+2001,16,United States Grand Prix,9,7,,Jean,Alesi,French,0,+1 Lap,,Jordan
+2001,16,United States Grand Prix,12,8,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Benetton
+2001,16,United States Grand Prix,10,9,BUT,Jenson,Button,British,0,+1 Lap,,Benetton
+2001,16,United States Grand Prix,15,10,,Heinz-Harald,Frentzen,German,0,+1 Lap,,Prost
+2001,16,United States Grand Prix,13,11,,Olivier,Panis,French,0,+1 Lap,,BAR
+2001,16,United States Grand Prix,16,12,DLR,Pedro,de la Rosa,Spanish,0,+1 Lap,,Jaguar
+2001,16,United States Grand Prix,19,13,,Enrique,Bernoldi,Brazilian,0,+1 Lap,,Arrows
+2001,16,United States Grand Prix,21,14,,Tomáš,Enge,Czech,0,+1 Lap,,Prost
+2001,16,United States Grand Prix,5,15,BAR,Rubens,Barrichello,Brazilian,0,Engine,,Ferrari
+2001,16,United States Grand Prix,18,16,VIL,Jacques,Villeneuve,Canadian,0,Suspension,,BAR
+2001,16,United States Grand Prix,20,17,,Jos,Verstappen,Dutch,0,Engine,,Arrows
+2001,16,United States Grand Prix,3,18,MON,Juan,Pablo Montoya,Colombian,0,Hydraulics,,Williams
+2001,16,United States Grand Prix,22,19,,Alex,Yoong,Malaysian,0,Gearbox,,Minardi
+2001,16,United States Grand Prix,2,20,SCH,Ralf,Schumacher,German,0,Spun off,,Williams
+2001,16,United States Grand Prix,17,21,ALO,Fernando,Alonso,Spanish,0,Driveshaft,,Minardi
+2001,16,United States Grand Prix,11,22,RAI,Kimi,Räikkönen,Finnish,0,Driveshaft,,Sauber

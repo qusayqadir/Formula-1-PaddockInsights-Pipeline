@@ -1,0 +1,22 @@
+Season,Round,Championship Position,DriverID,FirstName,FamilyName,Nationaility,Points
+2024,2,1,max_verstappen,Max,Verstappen,Dutch,51
+2024,2,2,perez,Sergio,Pérez,Mexican,36
+2024,2,3,leclerc,Charles,Leclerc,Monegasque,28
+2024,2,4,russell,George,Russell,British,18
+2024,2,5,piastri,Oscar,Piastri,Australian,16
+2024,2,6,sainz,Carlos,Sainz,Spanish,15
+2024,2,7,alonso,Fernando,Alonso,Spanish,12
+2024,2,8,norris,Lando,Norris,British,12
+2024,2,9,hamilton,Lewis,Hamilton,British,8
+2024,2,10,bearman,Oliver,Bearman,British,6
+2024,2,11,hulkenberg,Nico,Hülkenberg,German,1
+2024,2,12,stroll,Lance,Stroll,Canadian,1
+2024,2,13,albon,Alexander,Albon,Thai,0
+2024,2,14,zhou,Guanyu,Zhou,Chinese,0
+2024,2,15,kevin_magnussen,Kevin,Magnussen,Danish,0
+2024,2,16,ricciardo,Daniel,Ricciardo,Australian,0
+2024,2,17,ocon,Esteban,Ocon,French,0
+2024,2,18,tsunoda,Yuki,Tsunoda,Japanese,0
+2024,2,19,sargeant,Logan,Sargeant,American,0
+2024,2,20,bottas,Valtteri,Bottas,Finnish,0
+2024,2,21,gasly,Pierre,Gasly,French,0

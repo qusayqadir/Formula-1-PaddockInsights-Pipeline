@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2016,9,Austrian Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:27:38.107,Mercedes
+2016,9,Austrian Grand Prix,8,2,VER,Max,Verstappen,Dutch,18,Finished,+5.719,Red Bull
+2016,9,Austrian Grand Prix,4,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+6.024,Ferrari
+2016,9,Austrian Grand Prix,6,4,ROS,Nico,Rosberg,German,12,Finished,+16.710,Mercedes
+2016,9,Austrian Grand Prix,5,5,RIC,Daniel,Ricciardo,Australian,10,Finished,+30.981,Red Bull
+2016,9,Austrian Grand Prix,3,6,BUT,Jenson,Button,British,8,Finished,+37.706,McLaren
+2016,9,Austrian Grand Prix,13,7,GRO,Romain,Grosjean,French,6,Finished,+44.668,Haas F1 Team
+2016,9,Austrian Grand Prix,15,8,SAI,Carlos,Sainz,Spanish,4,Finished,+47.400,Toro Rosso
+2016,9,Austrian Grand Prix,7,9,BOT,Valtteri,Bottas,Finnish,2,+1 Lap,,Williams
+2016,9,Austrian Grand Prix,12,10,WEH,Pascal,Wehrlein,German,1,+1 Lap,,Manor Marussia
+2016,9,Austrian Grand Prix,11,11,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Haas F1 Team
+2016,9,Austrian Grand Prix,19,12,PAL,Jolyon,Palmer,British,0,+1 Lap,,Renault
+2016,9,Austrian Grand Prix,21,13,NAS,Felipe,Nasr,Brazilian,0,+1 Lap,,Sauber
+2016,9,Austrian Grand Prix,17,14,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Renault
+2016,9,Austrian Grand Prix,18,15,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2016,9,Austrian Grand Prix,20,16,HAR,Rio,Haryanto,Indonesian,0,+1 Lap,,Manor Marussia
+2016,9,Austrian Grand Prix,16,17,PER,Sergio,Pérez,Mexican,0,Brakes,,Force India
+2016,9,Austrian Grand Prix,14,18,ALO,Fernando,Alonso,Spanish,0,Battery,,McLaren
+2016,9,Austrian Grand Prix,2,19,HUL,Nico,Hülkenberg,German,0,Brakes,,Force India
+2016,9,Austrian Grand Prix,0,20,MAS,Felipe,Massa,Brazilian,0,Brakes,,Williams
+2016,9,Austrian Grand Prix,9,21,VET,Sebastian,Vettel,German,0,Tyre,,Ferrari
+2016,9,Austrian Grand Prix,0,22,KVY,Daniil,Kvyat,Russian,0,Retired,,Toro Rosso

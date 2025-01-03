@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2019,9,Austrian Grand Prix,2,1,VER,Max,Verstappen,Dutch,26,Finished,1:22:01.822,Red Bull
+2019,9,Austrian Grand Prix,1,2,LEC,Charles,Leclerc,Monegasque,18,Finished,+2.724,Ferrari
+2019,9,Austrian Grand Prix,3,3,BOT,Valtteri,Bottas,Finnish,15,Finished,+18.960,Mercedes
+2019,9,Austrian Grand Prix,9,4,VET,Sebastian,Vettel,German,12,Finished,+19.610,Ferrari
+2019,9,Austrian Grand Prix,4,5,HAM,Lewis,Hamilton,British,10,Finished,+22.805,Mercedes
+2019,9,Austrian Grand Prix,5,6,NOR,Lando,Norris,British,8,+1 Lap,,McLaren
+2019,9,Austrian Grand Prix,8,7,GAS,Pierre,Gasly,French,6,+1 Lap,,Red Bull
+2019,9,Austrian Grand Prix,19,8,SAI,Carlos,Sainz,Spanish,4,+1 Lap,,McLaren
+2019,9,Austrian Grand Prix,6,9,RAI,Kimi,Räikkönen,Finnish,2,+1 Lap,,Alfa Romeo
+2019,9,Austrian Grand Prix,7,10,GIO,Antonio,Giovinazzi,Italian,1,+1 Lap,,Alfa Romeo
+2019,9,Austrian Grand Prix,13,11,PER,Sergio,Pérez,Mexican,0,+1 Lap,,Racing Point
+2019,9,Austrian Grand Prix,12,12,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,Renault
+2019,9,Austrian Grand Prix,15,13,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Renault
+2019,9,Austrian Grand Prix,14,14,STR,Lance,Stroll,Canadian,0,+1 Lap,,Racing Point
+2019,9,Austrian Grand Prix,18,15,ALB,Alexander,Albon,Thai,0,+1 Lap,,Toro Rosso
+2019,9,Austrian Grand Prix,11,16,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2019,9,Austrian Grand Prix,16,17,KVY,Daniil,Kvyat,Russian,0,+1 Lap,,Toro Rosso
+2019,9,Austrian Grand Prix,0,18,RUS,George,Russell,British,0,+2 Laps,,Williams
+2019,9,Austrian Grand Prix,10,19,MAG,Kevin,Magnussen,Danish,0,+2 Laps,,Haas F1 Team
+2019,9,Austrian Grand Prix,17,20,KUB,Robert,Kubica,Polish,0,+3 Laps,,Williams

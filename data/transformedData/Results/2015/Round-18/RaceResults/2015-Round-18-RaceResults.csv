@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2015,18,Brazilian Grand Prix,1,1,ROS,Nico,Rosberg,German,25,Finished,1:31:09.090,Mercedes
+2015,18,Brazilian Grand Prix,2,2,HAM,Lewis,Hamilton,British,18,Finished,+7.756,Mercedes
+2015,18,Brazilian Grand Prix,3,3,VET,Sebastian,Vettel,German,15,Finished,+14.244,Ferrari
+2015,18,Brazilian Grand Prix,4,4,RAI,Kimi,Räikkönen,Finnish,12,Finished,+47.543,Ferrari
+2015,18,Brazilian Grand Prix,7,5,BOT,Valtteri,Bottas,Finnish,10,+1 Lap,,Williams
+2015,18,Brazilian Grand Prix,5,6,HUL,Nico,Hülkenberg,German,8,+1 Lap,,Force India
+2015,18,Brazilian Grand Prix,6,7,KVY,Daniil,Kvyat,Russian,6,+1 Lap,,Red Bull
+2015,18,Brazilian Grand Prix,14,8,GRO,Romain,Grosjean,French,4,+1 Lap,,Lotus F1
+2015,18,Brazilian Grand Prix,9,9,VER,Max,Verstappen,Dutch,2,+1 Lap,,Toro Rosso
+2015,18,Brazilian Grand Prix,15,10,MAL,Pastor,Maldonado,Venezuelan,1,+1 Lap,,Lotus F1
+2015,18,Brazilian Grand Prix,19,11,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,Red Bull
+2015,18,Brazilian Grand Prix,11,12,PER,Sergio,Pérez,Mexican,0,+1 Lap,,Force India
+2015,18,Brazilian Grand Prix,13,13,NAS,Felipe,Nasr,Brazilian,0,+1 Lap,,Sauber
+2015,18,Brazilian Grand Prix,16,14,BUT,Jenson,Button,British,0,+1 Lap,,McLaren
+2015,18,Brazilian Grand Prix,20,15,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,McLaren
+2015,18,Brazilian Grand Prix,12,16,ERI,Marcus,Ericsson,Swedish,0,+2 Laps,,Sauber
+2015,18,Brazilian Grand Prix,18,17,STE,Will,Stevens,British,0,+4 Laps,,Manor Marussia
+2015,18,Brazilian Grand Prix,17,18,RSS,Alexander,Rossi,American,0,+4 Laps,,Manor Marussia
+2015,18,Brazilian Grand Prix,10,19,SAI,Carlos,Sainz,Spanish,0,Retired,,Toro Rosso
+2015,18,Brazilian Grand Prix,8,20,MAS,Felipe,Massa,Brazilian,0,Excluded,,Williams

@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,13,Singapore Grand Prix,1,1,VET,Sebastian,Vettel,German,25,Finished,1:59:13.132,Red Bull
+2013,13,Singapore Grand Prix,7,2,ALO,Fernando,Alonso,Spanish,18,Finished,+32.627,Ferrari
+2013,13,Singapore Grand Prix,13,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+43.920,Lotus F1
+2013,13,Singapore Grand Prix,2,4,ROS,Nico,Rosberg,German,12,Finished,+51.155,Mercedes
+2013,13,Singapore Grand Prix,5,5,HAM,Lewis,Hamilton,British,10,Finished,+53.159,Mercedes
+2013,13,Singapore Grand Prix,6,6,MAS,Felipe,Massa,Brazilian,8,Finished,+1:03.877,Ferrari
+2013,13,Singapore Grand Prix,8,7,BUT,Jenson,Button,British,6,Finished,+1:23.354,McLaren
+2013,13,Singapore Grand Prix,14,8,PER,Sergio,Pérez,Mexican,4,Finished,+1:23.820,McLaren
+2013,13,Singapore Grand Prix,11,9,HUL,Nico,Hülkenberg,German,2,Finished,+1:24.261,Sauber
+2013,13,Singapore Grand Prix,15,10,SUT,Adrian,Sutil,German,1,Finished,+1:24.668,Force India
+2013,13,Singapore Grand Prix,18,11,MAL,Pastor,Maldonado,Venezuelan,0,Finished,+1:28.479,Williams
+2013,13,Singapore Grand Prix,10,12,GUT,Esteban,Gutiérrez,Mexican,0,Finished,+1:37.894,Sauber
+2013,13,Singapore Grand Prix,16,13,BOT,Valtteri,Bottas,Finnish,0,Finished,+1:45.161,Williams
+2013,13,Singapore Grand Prix,12,14,VER,Jean-Éric,Vergne,French,0,Finished,+1:53.512,Toro Rosso
+2013,13,Singapore Grand Prix,4,15,WEB,Mark,Webber,Australian,0,Water pressure,,Red Bull
+2013,13,Singapore Grand Prix,20,16,VDG,Giedo,van der Garde,Dutch,0,+1 Lap,,Caterham
+2013,13,Singapore Grand Prix,22,17,CHI,Max,Chilton,British,0,+1 Lap,,Marussia
+2013,13,Singapore Grand Prix,21,18,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2013,13,Singapore Grand Prix,19,19,PIC,Charles,Pic,French,0,+1 Lap,,Caterham
+2013,13,Singapore Grand Prix,17,20,DIR,Paul,di Resta,British,0,Accident,,Force India
+2013,13,Singapore Grand Prix,3,21,GRO,Romain,Grosjean,French,0,Pneumatics,,Lotus F1
+2013,13,Singapore Grand Prix,9,22,RIC,Daniel,Ricciardo,Australian,0,Accident,,Toro Rosso

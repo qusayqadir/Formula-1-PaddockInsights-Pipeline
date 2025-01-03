@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2013,2,Malaysian Grand Prix,1,1,VET,Sebastian,Vettel,German,25,Finished,1:38:56.681,Red Bull
+2013,2,Malaysian Grand Prix,5,2,WEB,Mark,Webber,Australian,18,Finished,+4.298,Red Bull
+2013,2,Malaysian Grand Prix,4,3,HAM,Lewis,Hamilton,British,15,Finished,+12.181,Mercedes
+2013,2,Malaysian Grand Prix,6,4,ROS,Nico,Rosberg,German,12,Finished,+12.640,Mercedes
+2013,2,Malaysian Grand Prix,2,5,MAS,Felipe,Massa,Brazilian,10,Finished,+25.648,Ferrari
+2013,2,Malaysian Grand Prix,11,6,GRO,Romain,Grosjean,French,8,Finished,+35.564,Lotus F1
+2013,2,Malaysian Grand Prix,10,7,RAI,Kimi,Räikkönen,Finnish,6,Finished,+48.479,Lotus F1
+2013,2,Malaysian Grand Prix,12,8,HUL,Nico,Hülkenberg,German,4,Finished,+53.044,Sauber
+2013,2,Malaysian Grand Prix,9,9,PER,Sergio,Pérez,Mexican,2,Finished,+1:12.357,McLaren
+2013,2,Malaysian Grand Prix,17,10,VER,Jean-Éric,Vergne,French,1,Finished,+1:27.124,Toro Rosso
+2013,2,Malaysian Grand Prix,18,11,BOT,Valtteri,Bottas,Finnish,0,Finished,+1:28.610,Williams
+2013,2,Malaysian Grand Prix,14,12,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Sauber
+2013,2,Malaysian Grand Prix,19,13,BIA,Jules,Bianchi,French,0,+1 Lap,,Marussia
+2013,2,Malaysian Grand Prix,20,14,PIC,Charles,Pic,French,0,+1 Lap,,Caterham
+2013,2,Malaysian Grand Prix,22,15,VDG,Giedo,van der Garde,Dutch,0,+1 Lap,,Caterham
+2013,2,Malaysian Grand Prix,21,16,CHI,Max,Chilton,British,0,+2 Laps,,Marussia
+2013,2,Malaysian Grand Prix,7,17,BUT,Jenson,Button,British,0,Withdrew,,McLaren
+2013,2,Malaysian Grand Prix,13,18,RIC,Daniel,Ricciardo,Australian,0,Retired,,Toro Rosso
+2013,2,Malaysian Grand Prix,16,19,MAL,Pastor,Maldonado,Venezuelan,0,Retired,,Williams
+2013,2,Malaysian Grand Prix,8,20,SUT,Adrian,Sutil,German,0,Wheel nut,,Force India
+2013,2,Malaysian Grand Prix,15,21,DIR,Paul,di Resta,British,0,Wheel nut,,Force India
+2013,2,Malaysian Grand Prix,3,22,ALO,Fernando,Alonso,Spanish,0,Collision,,Ferrari

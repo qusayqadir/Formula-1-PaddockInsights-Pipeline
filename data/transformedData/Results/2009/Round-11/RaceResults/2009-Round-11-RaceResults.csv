@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2009,11,European Grand Prix,3,1,BAR,Rubens,Barrichello,Brazilian,10,Finished,1:35:51.289,Brawn
+2009,11,European Grand Prix,1,2,HAM,Lewis,Hamilton,British,8,Finished,+2.358,McLaren
+2009,11,European Grand Prix,6,3,RAI,Kimi,Räikkönen,Finnish,6,Finished,+15.994,Ferrari
+2009,11,European Grand Prix,2,4,KOV,Heikki,Kovalainen,Finnish,5,Finished,+20.032,McLaren
+2009,11,European Grand Prix,7,5,ROS,Nico,Rosberg,German,4,Finished,+20.870,Williams
+2009,11,European Grand Prix,8,6,ALO,Fernando,Alonso,Spanish,3,Finished,+27.744,Renault
+2009,11,European Grand Prix,5,7,BUT,Jenson,Button,British,2,Finished,+34.913,Brawn
+2009,11,European Grand Prix,10,8,KUB,Robert,Kubica,Polish,1,Finished,+36.667,BMW Sauber
+2009,11,European Grand Prix,9,9,WEB,Mark,Webber,Australian,0,Finished,+44.910,Red Bull
+2009,11,European Grand Prix,12,10,SUT,Adrian,Sutil,German,0,Finished,+47.935,Force India
+2009,11,European Grand Prix,11,11,HEI,Nick,Heidfeld,German,0,Finished,+48.822,BMW Sauber
+2009,11,European Grand Prix,16,12,FIS,Giancarlo,Fisichella,Italian,0,Finished,+1:03.614,Force India
+2009,11,European Grand Prix,18,13,TRU,Jarno,Trulli,Italian,0,Finished,+1:04.527,Toyota
+2009,11,European Grand Prix,13,14,GLO,Timo,Glock,German,0,Finished,+1:26.519,Toyota
+2009,11,European Grand Prix,14,15,GRO,Romain,Grosjean,French,0,Finished,+1:31.774,Renault
+2009,11,European Grand Prix,19,16,ALG,Jaime,Alguersuari,Spanish,0,+1 Lap,,Toro Rosso
+2009,11,European Grand Prix,20,17,BAD,Luca,Badoer,Italian,0,+1 Lap,,Ferrari
+2009,11,European Grand Prix,17,18,NAK,Kazuki,Nakajima,Japanese,0,+3 Laps,,Williams
+2009,11,European Grand Prix,15,19,BUE,Sébastien,Buemi,Swiss,0,Brakes,,Toro Rosso
+2009,11,European Grand Prix,4,20,VET,Sebastian,Vettel,German,0,Engine,,Red Bull

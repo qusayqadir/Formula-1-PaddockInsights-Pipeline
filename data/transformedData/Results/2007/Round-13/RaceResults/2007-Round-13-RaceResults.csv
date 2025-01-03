@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2007,13,Italian Grand Prix,1,1,ALO,Fernando,Alonso,Spanish,10,Finished,1:18:37.806,McLaren
+2007,13,Italian Grand Prix,2,2,HAM,Lewis,Hamilton,British,8,Finished,+6.062,McLaren
+2007,13,Italian Grand Prix,5,3,RAI,Kimi,Räikkönen,Finnish,6,Finished,+27.325,Ferrari
+2007,13,Italian Grand Prix,4,4,HEI,Nick,Heidfeld,German,5,Finished,+56.562,BMW Sauber
+2007,13,Italian Grand Prix,6,5,KUB,Robert,Kubica,Polish,4,Finished,+1:00.558,BMW Sauber
+2007,13,Italian Grand Prix,8,6,ROS,Nico,Rosberg,German,3,Finished,+1:05.810,Williams
+2007,13,Italian Grand Prix,7,7,KOV,Heikki,Kovalainen,Finnish,2,Finished,+1:06.751,Renault
+2007,13,Italian Grand Prix,10,8,BUT,Jenson,Button,British,1,Finished,+1:02.168,Honda
+2007,13,Italian Grand Prix,11,9,WEB,Mark,Webber,Australian,0,Finished,+1:05.879,Red Bull
+2007,13,Italian Grand Prix,12,10,BAR,Rubens,Barrichello,Brazilian,0,Finished,+1:06.958,Honda
+2007,13,Italian Grand Prix,9,11,TRU,Jarno,Trulli,Italian,0,Finished,+1:07.736,Toyota
+2007,13,Italian Grand Prix,15,12,FIS,Giancarlo,Fisichella,Italian,0,+1 Lap,,Renault
+2007,13,Italian Grand Prix,13,13,WUR,Alexander,Wurz,Austrian,0,+1 Lap,,Williams
+2007,13,Italian Grand Prix,14,14,DAV,Anthony,Davidson,British,0,+1 Lap,,Super Aguri
+2007,13,Italian Grand Prix,18,15,SCH,Ralf,Schumacher,German,0,+1 Lap,,Toyota
+2007,13,Italian Grand Prix,17,16,SAT,Takuma,Sato,Japanese,0,+1 Lap,,Super Aguri
+2007,13,Italian Grand Prix,19,17,LIU,Vitantonio,Liuzzi,Italian,0,+1 Lap,,Toro Rosso
+2007,13,Italian Grand Prix,16,18,VET,Sebastian,Vettel,German,0,+1 Lap,,Toro Rosso
+2007,13,Italian Grand Prix,21,19,SUT,Adrian,Sutil,German,0,+1 Lap,,Spyker
+2007,13,Italian Grand Prix,22,20,YAM,Sakon,Yamamoto,Japanese,0,+1 Lap,,Spyker
+2007,13,Italian Grand Prix,3,21,MAS,Felipe,Massa,Brazilian,0,Suspension,,Ferrari
+2007,13,Italian Grand Prix,20,22,COU,David,Coulthard,British,0,Accident,,Red Bull

@@ -1,0 +1,25 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2012,5,Spanish Grand Prix,1,1,MAL,Pastor,Maldonado,Venezuelan,25,Finished,1:39:09.145,Williams
+2012,5,Spanish Grand Prix,2,2,ALO,Fernando,Alonso,Spanish,18,Finished,+3.195,Ferrari
+2012,5,Spanish Grand Prix,4,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+3.884,Lotus F1
+2012,5,Spanish Grand Prix,3,4,GRO,Romain,Grosjean,French,12,Finished,+14.799,Lotus F1
+2012,5,Spanish Grand Prix,9,5,KOB,Kamui,Kobayashi,Japanese,10,Finished,+1:04.641,Sauber
+2012,5,Spanish Grand Prix,7,6,VET,Sebastian,Vettel,German,8,Finished,+1:07.576,Red Bull
+2012,5,Spanish Grand Prix,6,7,ROS,Nico,Rosberg,German,6,Finished,+1:17.919,Mercedes
+2012,5,Spanish Grand Prix,24,8,HAM,Lewis,Hamilton,British,4,Finished,+1:18.140,McLaren
+2012,5,Spanish Grand Prix,10,9,BUT,Jenson,Button,British,2,Finished,+1:25.246,McLaren
+2012,5,Spanish Grand Prix,13,10,HUL,Nico,Hülkenberg,German,1,+1 Lap,,Force India
+2012,5,Spanish Grand Prix,11,11,WEB,Mark,Webber,Australian,0,+1 Lap,,Red Bull
+2012,5,Spanish Grand Prix,14,12,VER,Jean-Éric,Vergne,French,0,+1 Lap,,Toro Rosso
+2012,5,Spanish Grand Prix,15,13,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,Toro Rosso
+2012,5,Spanish Grand Prix,12,14,DIR,Paul,di Resta,British,0,+1 Lap,,Force India
+2012,5,Spanish Grand Prix,16,15,MAS,Felipe,Massa,Brazilian,0,+1 Lap,,Ferrari
+2012,5,Spanish Grand Prix,19,16,KOV,Heikki,Kovalainen,Finnish,0,+1 Lap,,Caterham
+2012,5,Spanish Grand Prix,18,17,PET,Vitaly,Petrov,Russian,0,+1 Lap,,Caterham
+2012,5,Spanish Grand Prix,21,18,GLO,Timo,Glock,German,0,+2 Laps,,Marussia
+2012,5,Spanish Grand Prix,22,19,DLR,Pedro,de la Rosa,Spanish,0,+3 Laps,,HRT
+2012,5,Spanish Grand Prix,5,20,PER,Sergio,Pérez,Mexican,0,Wheel nut,,Sauber
+2012,5,Spanish Grand Prix,20,21,PIC,Charles,Pic,French,0,Mechanical,,Marussia
+2012,5,Spanish Grand Prix,23,22,KAR,Narain,Karthikeyan,Indian,0,Mechanical,,HRT
+2012,5,Spanish Grand Prix,17,23,SEN,Bruno,Senna,Brazilian,0,Collision,,Williams
+2012,5,Spanish Grand Prix,8,24,MSC,Michael,Schumacher,German,0,Collision,,Mercedes

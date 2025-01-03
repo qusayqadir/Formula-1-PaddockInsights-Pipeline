@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2021,1,Bahrain Grand Prix,2,1,HAM,Lewis,Hamilton,British,25,Finished,1:32:03.897,Mercedes
+2021,1,Bahrain Grand Prix,1,2,VER,Max,Verstappen,Dutch,18,Finished,+0.745,Red Bull
+2021,1,Bahrain Grand Prix,3,3,BOT,Valtteri,Bottas,Finnish,16,Finished,+37.383,Mercedes
+2021,1,Bahrain Grand Prix,7,4,NOR,Lando,Norris,British,12,Finished,+46.466,McLaren
+2021,1,Bahrain Grand Prix,0,5,PER,Sergio,Pérez,Mexican,10,Finished,+52.047,Red Bull
+2021,1,Bahrain Grand Prix,4,6,LEC,Charles,Leclerc,Monegasque,8,Finished,+59.090,Ferrari
+2021,1,Bahrain Grand Prix,6,7,RIC,Daniel,Ricciardo,Australian,6,Finished,+66.004,McLaren
+2021,1,Bahrain Grand Prix,8,8,SAI,Carlos,Sainz,Spanish,4,Finished,+67.100,Ferrari
+2021,1,Bahrain Grand Prix,13,9,TSU,Yuki,Tsunoda,Japanese,2,Finished,+85.692,AlphaTauri
+2021,1,Bahrain Grand Prix,10,10,STR,Lance,Stroll,Canadian,1,Finished,+86.713,Aston Martin
+2021,1,Bahrain Grand Prix,14,11,RAI,Kimi,Räikkönen,Finnish,0,Finished,+88.864,Alfa Romeo
+2021,1,Bahrain Grand Prix,12,12,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2021,1,Bahrain Grand Prix,16,13,OCO,Esteban,Ocon,French,0,+1 Lap,,Alpine F1 Team
+2021,1,Bahrain Grand Prix,15,14,RUS,George,Russell,British,0,+1 Lap,,Williams
+2021,1,Bahrain Grand Prix,20,15,VET,Sebastian,Vettel,German,0,+1 Lap,,Aston Martin
+2021,1,Bahrain Grand Prix,18,16,MSC,Mick,Schumacher,German,0,+1 Lap,,Haas F1 Team
+2021,1,Bahrain Grand Prix,5,17,GAS,Pierre,Gasly,French,0,Retired,,AlphaTauri
+2021,1,Bahrain Grand Prix,17,18,LAT,Nicholas,Latifi,Canadian,0,Retired,,Williams
+2021,1,Bahrain Grand Prix,9,19,ALO,Fernando,Alonso,Spanish,0,Brakes,,Alpine F1 Team
+2021,1,Bahrain Grand Prix,19,20,MAZ,Nikita,Mazepin,Russian,0,Accident,,Haas F1 Team

@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2002,5,Spanish Grand Prix,1,1,MSC,Michael,Schumacher,German,10,Finished,1:30:29.981,Ferrari
+2002,5,Spanish Grand Prix,4,2,MON,Juan,Pablo Montoya,Colombian,6,Finished,+35.630,Williams
+2002,5,Spanish Grand Prix,7,3,COU,David,Coulthard,British,4,Finished,+42.623,McLaren
+2002,5,Spanish Grand Prix,8,4,HEI,Nick,Heidfeld,German,3,Finished,+1:06.697,Sauber
+2002,5,Spanish Grand Prix,11,5,MAS,Felipe,Massa,Brazilian,2,Finished,+1:18.973,Sauber
+2002,5,Spanish Grand Prix,10,6,,Heinz-Harald,Frentzen,German,1,Finished,+1:20.430,Arrows
+2002,5,Spanish Grand Prix,15,7,VIL,Jacques,Villeneuve,Canadian,0,+1 Lap,,BAR
+2002,5,Spanish Grand Prix,19,8,,Allan,McNish,British,0,+1 Lap,,Toyota
+2002,5,Spanish Grand Prix,17,9,,Mika,Salo,Finnish,0,+1 Lap,,Toyota
+2002,5,Spanish Grand Prix,9,10,TRU,Jarno,Trulli,Italian,0,Engine,,Renault
+2002,5,Spanish Grand Prix,3,11,SCH,Ralf,Schumacher,German,0,Engine,,Williams
+2002,5,Spanish Grand Prix,6,12,BUT,Jenson,Button,British,0,Hydraulics,,Renault
+2002,5,Spanish Grand Prix,13,13,,Olivier,Panis,French,0,Exhaust,,BAR
+2002,5,Spanish Grand Prix,22,14,,Eddie,Irvine,British,0,Hydraulics,,Jaguar
+2002,5,Spanish Grand Prix,14,15,,Enrique,Bernoldi,Brazilian,0,Hydraulics,,Arrows
+2002,5,Spanish Grand Prix,18,16,SAT,Takuma,Sato,Japanese,0,Spun off,,Jordan
+2002,5,Spanish Grand Prix,12,17,FIS,Giancarlo,Fisichella,Italian,0,Hydraulics,,Jordan
+2002,5,Spanish Grand Prix,5,18,RAI,Kimi,Räikkönen,Finnish,0,Rear wing,,McLaren
+2002,5,Spanish Grand Prix,16,19,DLR,Pedro,de la Rosa,Spanish,0,Spun off,,Jaguar
+2002,5,Spanish Grand Prix,2,20,BAR,Rubens,Barrichello,Brazilian,0,Gearbox,,Ferrari
+2002,5,Spanish Grand Prix,20,21,WEB,Mark,Webber,Australian,0,Safety,,Minardi
+2002,5,Spanish Grand Prix,21,22,,Alex,Yoong,Malaysian,0,Safety,,Minardi

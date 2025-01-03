@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2018,10,British Grand Prix,2,1,VET,Sebastian,Vettel,German,25,Finished,1:27:29.784,Ferrari
+2018,10,British Grand Prix,1,2,HAM,Lewis,Hamilton,British,18,Finished,+2.264,Mercedes
+2018,10,British Grand Prix,3,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+3.652,Ferrari
+2018,10,British Grand Prix,4,4,BOT,Valtteri,Bottas,Finnish,12,Finished,+8.883,Mercedes
+2018,10,British Grand Prix,6,5,RIC,Daniel,Ricciardo,Australian,10,Finished,+9.500,Red Bull
+2018,10,British Grand Prix,11,6,HUL,Nico,Hülkenberg,German,8,Finished,+28.220,Renault
+2018,10,British Grand Prix,10,7,OCO,Esteban,Ocon,French,6,Finished,+29.930,Force India
+2018,10,British Grand Prix,13,8,ALO,Fernando,Alonso,Spanish,4,Finished,+31.115,McLaren
+2018,10,British Grand Prix,7,9,MAG,Kevin,Magnussen,Danish,2,Finished,+33.188,Haas F1 Team
+2018,10,British Grand Prix,12,10,PER,Sergio,Pérez,Mexican,1,Finished,+34.708,Force India
+2018,10,British Grand Prix,17,11,VAN,Stoffel,Vandoorne,Belgian,0,Finished,+35.774,McLaren
+2018,10,British Grand Prix,19,12,STR,Lance,Stroll,Canadian,0,Finished,+38.106,Williams
+2018,10,British Grand Prix,14,13,GAS,Pierre,Gasly,French,0,Finished,+39.129,Toro Rosso
+2018,10,British Grand Prix,18,14,SIR,Sergey,Sirotkin,Russian,0,Finished,+48.113,Williams
+2018,10,British Grand Prix,5,15,VER,Max,Verstappen,Dutch,0,Brakes,,Red Bull
+2018,10,British Grand Prix,8,16,GRO,Romain,Grosjean,French,0,Collision,,Haas F1 Team
+2018,10,British Grand Prix,16,17,SAI,Carlos,Sainz,Spanish,0,Collision,,Renault
+2018,10,British Grand Prix,15,18,ERI,Marcus,Ericsson,Swedish,0,Accident,,Sauber
+2018,10,British Grand Prix,9,19,LEC,Charles,Leclerc,Monegasque,0,Tyre,,Sauber
+2018,10,British Grand Prix,0,20,HAR,Brendon,Hartley,New Zealander,0,Power Unit,,Toro Rosso

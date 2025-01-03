@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,19,Brazilian Grand Prix,2,1,VET,Sebastian,Vettel,German,25,Finished,1:31:26.262,Ferrari
+2017,19,Brazilian Grand Prix,1,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+2.762,Mercedes
+2017,19,Brazilian Grand Prix,3,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+4.600,Ferrari
+2017,19,Brazilian Grand Prix,20,4,HAM,Lewis,Hamilton,British,12,Finished,+5.468,Mercedes
+2017,19,Brazilian Grand Prix,4,5,VER,Max,Verstappen,Dutch,10,Finished,+32.940,Red Bull
+2017,19,Brazilian Grand Prix,14,6,RIC,Daniel,Ricciardo,Australian,8,Finished,+48.691,Red Bull
+2017,19,Brazilian Grand Prix,9,7,MAS,Felipe,Massa,Brazilian,6,Finished,+1:08.882,Williams
+2017,19,Brazilian Grand Prix,6,8,ALO,Fernando,Alonso,Spanish,4,Finished,+1:09.363,McLaren
+2017,19,Brazilian Grand Prix,5,9,PER,Sergio,Pérez,Mexican,2,Finished,+1:09.500,Force India
+2017,19,Brazilian Grand Prix,7,10,HUL,Nico,Hülkenberg,German,1,+1 Lap,,Renault
+2017,19,Brazilian Grand Prix,8,11,SAI,Carlos,Sainz,Spanish,0,+1 Lap,,Renault
+2017,19,Brazilian Grand Prix,19,12,GAS,Pierre,Gasly,French,0,+1 Lap,,Toro Rosso
+2017,19,Brazilian Grand Prix,17,13,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2017,19,Brazilian Grand Prix,15,14,WEH,Pascal,Wehrlein,German,0,+1 Lap,,Sauber
+2017,19,Brazilian Grand Prix,11,15,GRO,Romain,Grosjean,French,0,+2 Laps,,Haas F1 Team
+2017,19,Brazilian Grand Prix,16,16,STR,Lance,Stroll,Canadian,0,+2 Laps,,Williams
+2017,19,Brazilian Grand Prix,18,17,HAR,Brendon,Hartley,New Zealander,0,Engine,,Toro Rosso
+2017,19,Brazilian Grand Prix,10,18,OCO,Esteban,Ocon,French,0,Accident,,Force India
+2017,19,Brazilian Grand Prix,12,19,VAN,Stoffel,Vandoorne,Belgian,0,Accident,,McLaren
+2017,19,Brazilian Grand Prix,13,20,MAG,Kevin,Magnussen,Danish,0,Accident,,Haas F1 Team

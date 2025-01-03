@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2009,6,Monaco Grand Prix,1,1,BUT,Jenson,Button,British,10,Finished,1:40:44.282,Brawn
+2009,6,Monaco Grand Prix,3,2,BAR,Rubens,Barrichello,Brazilian,8,Finished,+7.666,Brawn
+2009,6,Monaco Grand Prix,2,3,RAI,Kimi,Räikkönen,Finnish,6,Finished,+13.442,Ferrari
+2009,6,Monaco Grand Prix,5,4,MAS,Felipe,Massa,Brazilian,5,Finished,+15.110,Ferrari
+2009,6,Monaco Grand Prix,8,5,WEB,Mark,Webber,Australian,4,Finished,+15.730,Red Bull
+2009,6,Monaco Grand Prix,6,6,ROS,Nico,Rosberg,German,3,Finished,+33.586,Williams
+2009,6,Monaco Grand Prix,9,7,ALO,Fernando,Alonso,Spanish,2,Finished,+37.839,Renault
+2009,6,Monaco Grand Prix,14,8,BOU,Sébastien,Bourdais,French,1,Finished,+1:03.142,Toro Rosso
+2009,6,Monaco Grand Prix,13,9,FIS,Giancarlo,Fisichella,Italian,0,Finished,+1:05.040,Force India
+2009,6,Monaco Grand Prix,20,10,GLO,Timo,Glock,German,0,+1 Lap,,Toyota
+2009,6,Monaco Grand Prix,16,11,HEI,Nick,Heidfeld,German,0,+1 Lap,,BMW Sauber
+2009,6,Monaco Grand Prix,19,12,HAM,Lewis,Hamilton,British,0,+1 Lap,,McLaren
+2009,6,Monaco Grand Prix,18,13,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Toyota
+2009,6,Monaco Grand Prix,15,14,SUT,Adrian,Sutil,German,0,+1 Lap,,Force India
+2009,6,Monaco Grand Prix,10,15,NAK,Kazuki,Nakajima,Japanese,0,Accident,,Williams
+2009,6,Monaco Grand Prix,7,16,KOV,Heikki,Kovalainen,Finnish,0,Accident,,McLaren
+2009,6,Monaco Grand Prix,17,17,KUB,Robert,Kubica,Polish,0,Brakes,,BMW Sauber
+2009,6,Monaco Grand Prix,4,18,VET,Sebastian,Vettel,German,0,Accident,,Red Bull
+2009,6,Monaco Grand Prix,12,19,PIQ,Nelson,Piquet Jr.,Brazilian,0,Collision,,Renault
+2009,6,Monaco Grand Prix,11,20,BUE,Sébastien,Buemi,Swiss,0,Collision,,Toro Rosso

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2021,20,Qatar Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:24:28.471,Mercedes
+2021,20,Qatar Grand Prix,7,2,VER,Max,Verstappen,Dutch,19,Finished,+25.743,Red Bull
+2021,20,Qatar Grand Prix,3,3,ALO,Fernando,Alonso,Spanish,15,Finished,+59.457,Alpine F1 Team
+2021,20,Qatar Grand Prix,11,4,PER,Sergio,Pérez,Mexican,12,Finished,+1:02.306,Red Bull
+2021,20,Qatar Grand Prix,9,5,OCO,Esteban,Ocon,French,10,Finished,+1:20.570,Alpine F1 Team
+2021,20,Qatar Grand Prix,12,6,STR,Lance,Stroll,Canadian,8,Finished,+1:21.274,Aston Martin
+2021,20,Qatar Grand Prix,5,7,SAI,Carlos,Sainz,Spanish,6,Finished,+1:21.911,Ferrari
+2021,20,Qatar Grand Prix,13,8,LEC,Charles,Leclerc,Monegasque,4,Finished,+1:23.126,Ferrari
+2021,20,Qatar Grand Prix,4,9,NOR,Lando,Norris,British,2,+1 Lap,,McLaren
+2021,20,Qatar Grand Prix,10,10,VET,Sebastian,Vettel,German,1,+1 Lap,,Aston Martin
+2021,20,Qatar Grand Prix,2,11,GAS,Pierre,Gasly,French,0,+1 Lap,,AlphaTauri
+2021,20,Qatar Grand Prix,14,12,RIC,Daniel,Ricciardo,Australian,0,+1 Lap,,McLaren
+2021,20,Qatar Grand Prix,8,13,TSU,Yuki,Tsunoda,Japanese,0,+1 Lap,,AlphaTauri
+2021,20,Qatar Grand Prix,16,14,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Alfa Romeo
+2021,20,Qatar Grand Prix,18,15,GIO,Antonio,Giovinazzi,Italian,0,+1 Lap,,Alfa Romeo
+2021,20,Qatar Grand Prix,19,16,MSC,Mick,Schumacher,German,0,+1 Lap,,Haas F1 Team
+2021,20,Qatar Grand Prix,15,17,RUS,George,Russell,British,0,+2 Laps,,Williams
+2021,20,Qatar Grand Prix,20,18,MAZ,Nikita,Mazepin,Russian,0,+2 Laps,,Haas F1 Team
+2021,20,Qatar Grand Prix,17,19,LAT,Nicholas,Latifi,Canadian,0,Puncture,,Williams
+2021,20,Qatar Grand Prix,6,20,BOT,Valtteri,Bottas,Finnish,0,Damage,,Mercedes

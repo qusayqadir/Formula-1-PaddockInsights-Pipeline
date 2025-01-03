@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,12,Belgian Grand Prix,5,1,RIC,Daniel,Ricciardo,Australian,25,Finished,1:24:36.556,Red Bull
+2014,12,Belgian Grand Prix,1,2,ROS,Nico,Rosberg,German,18,Finished,+3.383,Mercedes
+2014,12,Belgian Grand Prix,6,3,BOT,Valtteri,Bottas,Finnish,15,Finished,+28.032,Williams
+2014,12,Belgian Grand Prix,8,4,RAI,Kimi,Räikkönen,Finnish,12,Finished,+36.815,Ferrari
+2014,12,Belgian Grand Prix,3,5,VET,Sebastian,Vettel,German,10,Finished,+52.196,Red Bull
+2014,12,Belgian Grand Prix,10,6,BUT,Jenson,Button,British,8,Finished,+54.580,McLaren
+2014,12,Belgian Grand Prix,4,7,ALO,Fernando,Alonso,Spanish,6,Finished,+1:01.162,Ferrari
+2014,12,Belgian Grand Prix,13,8,PER,Sergio,Pérez,Mexican,4,Finished,+1:04.293,Force India
+2014,12,Belgian Grand Prix,11,9,KVY,Daniil,Kvyat,Russian,2,Finished,+1:05.347,Toro Rosso
+2014,12,Belgian Grand Prix,18,10,HUL,Nico,Hülkenberg,German,1,Finished,+1:05.697,Force India
+2014,12,Belgian Grand Prix,12,11,VER,Jean-Éric,Vergne,French,0,Finished,+1:11.920,Toro Rosso
+2014,12,Belgian Grand Prix,7,12,MAG,Kevin,Magnussen,Danish,0,Finished,+1:14.262,McLaren
+2014,12,Belgian Grand Prix,9,13,MAS,Felipe,Massa,Brazilian,0,Finished,+1:15.975,Williams
+2014,12,Belgian Grand Prix,14,14,SUT,Adrian,Sutil,German,0,Finished,+1:22.447,Sauber
+2014,12,Belgian Grand Prix,20,15,GUT,Esteban,Gutiérrez,Mexican,0,Finished,+1:30.825,Sauber
+2014,12,Belgian Grand Prix,19,16,CHI,Max,Chilton,British,0,+1 Lap,,Marussia
+2014,12,Belgian Grand Prix,22,17,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Caterham
+2014,12,Belgian Grand Prix,16,18,BIA,Jules,Bianchi,French,0,Gearbox,,Marussia
+2014,12,Belgian Grand Prix,2,19,HAM,Lewis,Hamilton,British,0,Retired,,Mercedes
+2014,12,Belgian Grand Prix,15,20,GRO,Romain,Grosjean,French,0,Retired,,Lotus F1
+2014,12,Belgian Grand Prix,17,21,MAL,Pastor,Maldonado,Venezuelan,0,Mechanical,,Lotus F1
+2014,12,Belgian Grand Prix,21,22,LOT,André,Lotterer,German,0,Power Unit,,Caterham

@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2002,15,Italian Grand Prix,4,1,BAR,Rubens,Barrichello,Brazilian,10,Finished,1:16:19.982,Ferrari
+2002,15,Italian Grand Prix,2,2,MSC,Michael,Schumacher,German,6,Finished,+0.255,Ferrari
+2002,15,Italian Grand Prix,5,3,,Eddie,Irvine,British,4,Finished,+52.579,Jaguar
+2002,15,Italian Grand Prix,11,4,TRU,Jarno,Trulli,Italian,3,Finished,+58.219,Renault
+2002,15,Italian Grand Prix,17,5,BUT,Jenson,Button,British,2,Finished,+1:07.770,Renault
+2002,15,Italian Grand Prix,16,6,,Olivier,Panis,French,1,Finished,+1:08.491,BAR
+2002,15,Italian Grand Prix,7,7,COU,David,Coulthard,British,0,Finished,+1:09.047,McLaren
+2002,15,Italian Grand Prix,12,8,FIS,Giancarlo,Fisichella,Italian,0,Finished,+1:10.891,Jordan
+2002,15,Italian Grand Prix,9,9,VIL,Jacques,Villeneuve,Canadian,0,Finished,+1:21.068,BAR
+2002,15,Italian Grand Prix,15,10,HEI,Nick,Heidfeld,German,0,Finished,+1:22.046,Sauber
+2002,15,Italian Grand Prix,10,11,,Mika,Salo,Finnish,0,+1 Lap,,Toyota
+2002,15,Italian Grand Prix,18,12,SAT,Takuma,Sato,Japanese,0,+1 Lap,,Jordan
+2002,15,Italian Grand Prix,20,13,,Alex,Yoong,Malaysian,0,+6 Laps,,Minardi
+2002,15,Italian Grand Prix,1,14,MON,Juan,Pablo Montoya,Colombian,0,Chassis,,Williams
+2002,15,Italian Grand Prix,6,15,RAI,Kimi,Räikkönen,Finnish,0,Engine,,McLaren
+2002,15,Italian Grand Prix,19,16,WEB,Mark,Webber,Australian,0,Engine,,Minardi
+2002,15,Italian Grand Prix,14,17,MAS,Felipe,Massa,Brazilian,0,Collision,,Sauber
+2002,15,Italian Grand Prix,8,18,DLR,Pedro,de la Rosa,Spanish,0,Collision,,Jaguar
+2002,15,Italian Grand Prix,13,19,,Allan,McNish,British,0,Suspension,,Toyota
+2002,15,Italian Grand Prix,3,20,SCH,Ralf,Schumacher,German,0,Engine,,Williams

@@ -129,7 +129,7 @@ def job2():
                         col("Results.Constructor.name").alias("constructor")
                     )
 
-                    output_path = f"../../data/transformedData/Results/{year}/{round_folder}"
+                    output_path = f"../../data/transformedData/Results/{year}/{round_folder}/RaceResults"
 
                     if not os.path.exists(output_path):
                         os.makedirs(output_path, exist_ok=True) 
@@ -216,7 +216,7 @@ def job3():
                     )
 
                     # Write to CSV
-                    output_path = f"../../data/transformedData/Results/{year}/{round_number}"
+                    output_path = f"../../data/transformedData/Results/{year}/{round_number}/QualiResults"
                     if not os.path.exists(output_path):
                         os.makedirs(output_path, exist_ok=True)
 
@@ -231,35 +231,136 @@ def job3():
 
 
 # round driverChampionshipResults
-# def job4 (): 
+def job4 (): 
+    spark = SparkSession.builder\
+            .appName('Convert JSON to CSV for driverStandingsResults')\
+            .getOrCreate() 
+    
+    basePath = "../../data/initial-datafetch-api/Results"
+
+    for year in os.listdir(basePath): 
+        year_path = os.path.join(basePath, year)
+
+        if not year.isdigit():
+            continue
+
+        if os.path.isdir(year_path): 
+            for round_number in os.listdir(year_path): 
+                driverStandings_path = os.path.join(year_path, round_number) 
+                removeHypen = round_number.replace("-", "")
+
+                driverStandingsResultFile = os.path.join(driverStandings_path, f"{year}-{removeHypen}-Driver-Standings.json")
+
+                if os.path.isfile(driverStandingsResultFile):
+
+                    df = spark.read.option("multiline","true").json(driverStandingsResultFile)
+
+                    exploded_df = df.select(
+                                            col("MRData.StandingsTable.season").alias("Season"),
+                                            col("MRData.StandingsTable.round").alias("Round"),
+                                            explode(col("MRData.StandingsTable.StandingsLists")).alias("StandingsLists")
+                                        ).withColumn("DriverStandingResults", explode(col("StandingsLists.DriverStandings")))\
+            
+                
+                final_df = exploded_df.select(
+                    col("Season"),
+                    col("Round"),
+                    col("DriverStandingResults.position").alias("Championship Position"),
+                    col("DriverStandingResults.Driver.driverId").alias("DriverID"),
+                    col("DriverStandingResults.Driver.givenName").alias("FirstName"),
+                    col("DriverStandingResults.Driver.familyName").alias("FamilyName"),
+                    col("DriverStandingResults.Driver.nationality").alias("Nationaility"),
+                    col("DriverStandingResults.points").alias("Points")
+                )
+
+                output_path = f"../../data/transformedData/Results/{year}/{round_number}/DriverStandings"
+
+                if not os.path.exists(output_path):
+                    os.makedirs(output_path, exist_ok = True)
+
+                final_df.coalesce(1).write.mode("overwrite").csv(output_path, header=True, nullValue="")
+
+                rename_output_file(output_path, f"{year}-{round_number}-DriverStandings.csv")
+
+    spark.stop()
+
+
 
 
 # round constructorsResults
-# def job5 (spark):
+def job5 ():
+    spark = SparkSession.builder\
+            .appName("Convert JSON to CSV for ConstructorResults")\
+            .getOrCreate() 
+    
+    basePath = "../../data/initial-datafetch-api/Results" 
+
+    for year in os.listdir(basePath):
+        year_path = os.path.join(basePath, year) 
+
+        if not year.isdigit():
+            continue 
+
+        if os.path.isdir(year_path): 
+            for round_number in os.listdir(year_path):
+                constructorResultPath = os.path.join(year_path, round_number)
+                removeHypen = round_number.replace("-","")
+
+                constructorResultFile = os.path.join(constructorResultPath, f"{year}-{removeHypen}-Constructors-Standings.json")
+
+                if os.path.isfile(constructorResultFile):
+                    df = spark.read.option("multiline","true").json(constructorResultFile)
 
 
+                    exploded_df = df.select(
+                        col("MRData.StandingsTable.season").alias("Season"),
+                        col("MRData.StandingsTable.round").alias("Round"),
+                        explode(col("MRData.StandingsTable.StandingsLists")).alias("StandingsLists")
 
+                    ).withColumn("ConstructorStandings", explode(col("StandingsLists.ConstructorStandings")))
+
+
+                final_df = exploded_df.select(
+                    col("Season"),
+                    col("Round"),
+                    col("ConstructorStandings.position").alias("Constructor-Position"),
+                    col("ConstructorStandings.Constructor.name").alias("Constructor"),
+                    col("ConstructorStandings.Constructor.nationality").alias("Nation"),
+                    col("ConstructorStandings.points").alias("Points"),
+                    col("ConstructorStandings.wins").alias("Wins") 
+                )
+
+                output_path = f"../../data/transformedData/Results/{year}/{round_number}/ConstructorStandings"
+
+                if not os.path.exists(output_path):
+                    os.makedirs(output_path, exist_ok=True)
+
+                final_df.coalesce(1).write.mode("overwrite").csv(output_path, header=True, nullValue = "")
+
+                rename_output_file(output_path, f"{year}-{round_number}-ConstructorStandings.csv") 
+
+    spark.stop() 
 
 if __name__ == "__main__": 
 
-    # print("Starting Job 1 : ")
-    # job1()
-    # print("Finsied Job 1 ")
+    print("Starting Job 1 : ")
+    job1()
+    print("Finsied Job 1 ")
 
-    # print("Starting Job 2: ")
-    # job2() 
-    # print("Finished Job 2")
+    print("Starting Job 2: ")
+    job2() 
+    print("Finished Job 2")
     
     print("Starting Job 3") 
     job3()
     print("Finished Job 3")
 
-    # print("Starting Job 4")
-    # job4()
-    # print("Finished Job 4 ")
+    print("Starting Job 4")
+    job4()
+    print("Finished Job 4 ")
 
-    # print("Starting Job 5")
-    # job5()
-    # print("Finished Job 5")
+    print("Starting Job 5")
+    job5()
+    print("Finished Job 5")
 
     print("Finished all Spark Jobs")

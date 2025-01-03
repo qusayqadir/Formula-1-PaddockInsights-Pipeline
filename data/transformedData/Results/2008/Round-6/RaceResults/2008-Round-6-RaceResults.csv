@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2008,6,Monaco Grand Prix,3,1,HAM,Lewis,Hamilton,British,10,Finished,2:00:42.742,McLaren
+2008,6,Monaco Grand Prix,5,2,KUB,Robert,Kubica,Polish,8,Finished,+3.064,BMW Sauber
+2008,6,Monaco Grand Prix,1,3,MAS,Felipe,Massa,Brazilian,6,Finished,+4.811,Ferrari
+2008,6,Monaco Grand Prix,9,4,WEB,Mark,Webber,Australian,5,Finished,+19.295,Red Bull
+2008,6,Monaco Grand Prix,19,5,VET,Sebastian,Vettel,German,4,Finished,+24.657,Toro Rosso
+2008,6,Monaco Grand Prix,14,6,BAR,Rubens,Barrichello,Brazilian,3,Finished,+28.408,Honda
+2008,6,Monaco Grand Prix,13,7,NAK,Kazuki,Nakajima,Japanese,2,Finished,+30.180,Williams
+2008,6,Monaco Grand Prix,4,8,KOV,Heikki,Kovalainen,Finnish,1,Finished,+33.191,McLaren
+2008,6,Monaco Grand Prix,2,9,RAI,Kimi,Räikkönen,Finnish,0,Finished,+33.792,Ferrari
+2008,6,Monaco Grand Prix,7,10,ALO,Fernando,Alonso,Spanish,0,+1 Lap,,Renault
+2008,6,Monaco Grand Prix,11,11,BUT,Jenson,Button,British,0,+1 Lap,,Honda
+2008,6,Monaco Grand Prix,10,12,GLO,Timo,Glock,German,0,+1 Lap,,Toyota
+2008,6,Monaco Grand Prix,8,13,TRU,Jarno,Trulli,Italian,0,+1 Lap,,Toyota
+2008,6,Monaco Grand Prix,12,14,HEI,Nick,Heidfeld,German,0,+4 Laps,,BMW Sauber
+2008,6,Monaco Grand Prix,18,15,SUT,Adrian,Sutil,German,0,Collision,,Force India
+2008,6,Monaco Grand Prix,6,16,ROS,Nico,Rosberg,German,0,Accident,,Williams
+2008,6,Monaco Grand Prix,17,17,PIQ,Nelson,Piquet Jr.,Brazilian,0,Accident,,Renault
+2008,6,Monaco Grand Prix,20,18,FIS,Giancarlo,Fisichella,Italian,0,Gearbox,,Force India
+2008,6,Monaco Grand Prix,15,19,COU,David,Coulthard,British,0,Accident,,Red Bull
+2008,6,Monaco Grand Prix,16,20,BOU,Sébastien,Bourdais,French,0,Collision,,Toro Rosso

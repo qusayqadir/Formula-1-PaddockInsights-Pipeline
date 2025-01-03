@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,2,Chinese Grand Prix,1,1,HAM,Lewis,Hamilton,British,25,Finished,1:37:36.158,Mercedes
+2017,2,Chinese Grand Prix,2,2,VET,Sebastian,Vettel,German,18,Finished,+6.250,Ferrari
+2017,2,Chinese Grand Prix,16,3,VER,Max,Verstappen,Dutch,15,Finished,+45.192,Red Bull
+2017,2,Chinese Grand Prix,5,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+46.035,Red Bull
+2017,2,Chinese Grand Prix,4,5,RAI,Kimi,Räikkönen,Finnish,10,Finished,+48.076,Ferrari
+2017,2,Chinese Grand Prix,3,6,BOT,Valtteri,Bottas,Finnish,8,Finished,+48.808,Mercedes
+2017,2,Chinese Grand Prix,11,7,SAI,Carlos,Sainz,Spanish,6,Finished,+1:12.893,Toro Rosso
+2017,2,Chinese Grand Prix,12,8,MAG,Kevin,Magnussen,Danish,4,+1 Lap,,Haas F1 Team
+2017,2,Chinese Grand Prix,8,9,PER,Sergio,Pérez,Mexican,2,+1 Lap,,Force India
+2017,2,Chinese Grand Prix,17,10,OCO,Esteban,Ocon,French,1,+1 Lap,,Force India
+2017,2,Chinese Grand Prix,19,11,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2017,2,Chinese Grand Prix,7,12,HUL,Nico,Hülkenberg,German,0,+1 Lap,,Renault
+2017,2,Chinese Grand Prix,20,13,PAL,Jolyon,Palmer,British,0,+1 Lap,,Renault
+2017,2,Chinese Grand Prix,6,14,MAS,Felipe,Massa,Brazilian,0,+1 Lap,,Williams
+2017,2,Chinese Grand Prix,14,15,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2017,2,Chinese Grand Prix,13,16,ALO,Fernando,Alonso,Spanish,0,Driveshaft,,McLaren
+2017,2,Chinese Grand Prix,9,17,KVY,Daniil,Kvyat,Russian,0,Hydraulics,,Toro Rosso
+2017,2,Chinese Grand Prix,15,18,VAN,Stoffel,Vandoorne,Belgian,0,Fuel pressure,,McLaren
+2017,2,Chinese Grand Prix,18,19,GIO,Antonio,Giovinazzi,Italian,0,Accident,,Sauber
+2017,2,Chinese Grand Prix,10,20,STR,Lance,Stroll,Canadian,0,Collision,,Williams

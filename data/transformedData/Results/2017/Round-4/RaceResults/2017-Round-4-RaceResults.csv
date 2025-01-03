@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2017,4,Russian Grand Prix,3,1,BOT,Valtteri,Bottas,Finnish,25,Finished,1:28:08.743,Mercedes
+2017,4,Russian Grand Prix,1,2,VET,Sebastian,Vettel,German,18,Finished,+0.617,Ferrari
+2017,4,Russian Grand Prix,2,3,RAI,Kimi,Räikkönen,Finnish,15,Finished,+11.000,Ferrari
+2017,4,Russian Grand Prix,4,4,HAM,Lewis,Hamilton,British,12,Finished,+36.320,Mercedes
+2017,4,Russian Grand Prix,7,5,VER,Max,Verstappen,Dutch,10,Finished,+1:00.416,Red Bull
+2017,4,Russian Grand Prix,9,6,PER,Sergio,Pérez,Mexican,8,Finished,+1:26.788,Force India
+2017,4,Russian Grand Prix,10,7,OCO,Esteban,Ocon,French,6,Finished,+1:35.004,Force India
+2017,4,Russian Grand Prix,8,8,HUL,Nico,Hülkenberg,German,4,Finished,+1:36.188,Renault
+2017,4,Russian Grand Prix,6,9,MAS,Felipe,Massa,Brazilian,2,+1 Lap,,Williams
+2017,4,Russian Grand Prix,14,10,SAI,Carlos,Sainz,Spanish,1,+1 Lap,,Toro Rosso
+2017,4,Russian Grand Prix,11,11,STR,Lance,Stroll,Canadian,0,+1 Lap,,Williams
+2017,4,Russian Grand Prix,12,12,KVY,Daniil,Kvyat,Russian,0,+1 Lap,,Toro Rosso
+2017,4,Russian Grand Prix,13,13,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,Haas F1 Team
+2017,4,Russian Grand Prix,20,14,VAN,Stoffel,Vandoorne,Belgian,0,+1 Lap,,McLaren
+2017,4,Russian Grand Prix,18,15,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Sauber
+2017,4,Russian Grand Prix,17,16,WEH,Pascal,Wehrlein,German,0,+2 Laps,,Sauber
+2017,4,Russian Grand Prix,5,17,RIC,Daniel,Ricciardo,Australian,0,Brakes,,Red Bull
+2017,4,Russian Grand Prix,16,18,PAL,Jolyon,Palmer,British,0,Collision,,Renault
+2017,4,Russian Grand Prix,19,19,GRO,Romain,Grosjean,French,0,Collision,,Haas F1 Team
+2017,4,Russian Grand Prix,15,20,ALO,Fernando,Alonso,Spanish,0,Power Unit,,McLaren

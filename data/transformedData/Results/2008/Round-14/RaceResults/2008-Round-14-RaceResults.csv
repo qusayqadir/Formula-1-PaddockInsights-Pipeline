@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2008,14,Italian Grand Prix,1,1,VET,Sebastian,Vettel,German,10,Finished,1:26:47.494,Toro Rosso
+2008,14,Italian Grand Prix,2,2,KOV,Heikki,Kovalainen,Finnish,8,Finished,+12.512,McLaren
+2008,14,Italian Grand Prix,11,3,KUB,Robert,Kubica,Polish,6,Finished,+20.471,BMW Sauber
+2008,14,Italian Grand Prix,8,4,ALO,Fernando,Alonso,Spanish,5,Finished,+23.903,Renault
+2008,14,Italian Grand Prix,10,5,HEI,Nick,Heidfeld,German,4,Finished,+27.748,BMW Sauber
+2008,14,Italian Grand Prix,6,6,MAS,Felipe,Massa,Brazilian,3,Finished,+28.816,Ferrari
+2008,14,Italian Grand Prix,15,7,HAM,Lewis,Hamilton,British,2,Finished,+29.912,McLaren
+2008,14,Italian Grand Prix,3,8,WEB,Mark,Webber,Australian,1,Finished,+32.048,Red Bull
+2008,14,Italian Grand Prix,14,9,RAI,Kimi,Räikkönen,Finnish,0,Finished,+39.468,Ferrari
+2008,14,Italian Grand Prix,17,10,PIQ,Nelson,Piquet Jr.,Brazilian,0,Finished,+54.445,Renault
+2008,14,Italian Grand Prix,9,11,GLO,Timo,Glock,German,0,Finished,+58.888,Toyota
+2008,14,Italian Grand Prix,18,12,NAK,Kazuki,Nakajima,Japanese,0,Finished,+1:02.015,Williams
+2008,14,Italian Grand Prix,7,13,TRU,Jarno,Trulli,Italian,0,Finished,+1:05.954,Toyota
+2008,14,Italian Grand Prix,5,14,ROS,Nico,Rosberg,German,0,Finished,+1:08.635,Williams
+2008,14,Italian Grand Prix,19,15,BUT,Jenson,Button,British,0,Finished,+1:13.370,Honda
+2008,14,Italian Grand Prix,13,16,COU,David,Coulthard,British,0,+1 Lap,,Red Bull
+2008,14,Italian Grand Prix,16,17,BAR,Rubens,Barrichello,Brazilian,0,+1 Lap,,Honda
+2008,14,Italian Grand Prix,4,18,BOU,Sébastien,Bourdais,French,0,+1 Lap,,Toro Rosso
+2008,14,Italian Grand Prix,20,19,SUT,Adrian,Sutil,German,0,+2 Laps,,Force India
+2008,14,Italian Grand Prix,12,20,FIS,Giancarlo,Fisichella,Italian,0,Accident,,Force India

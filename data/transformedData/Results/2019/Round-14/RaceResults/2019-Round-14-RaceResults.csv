@@ -1,0 +1,21 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2019,14,Italian Grand Prix,1,1,LEC,Charles,Leclerc,Monegasque,25,Finished,1:15:26.665,Ferrari
+2019,14,Italian Grand Prix,3,2,BOT,Valtteri,Bottas,Finnish,18,Finished,+0.835,Mercedes
+2019,14,Italian Grand Prix,2,3,HAM,Lewis,Hamilton,British,16,Finished,+35.199,Mercedes
+2019,14,Italian Grand Prix,5,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+45.515,Renault
+2019,14,Italian Grand Prix,6,5,HUL,Nico,Hülkenberg,German,10,Finished,+58.165,Renault
+2019,14,Italian Grand Prix,8,6,ALB,Alexander,Albon,Thai,8,Finished,+59.315,Red Bull
+2019,14,Italian Grand Prix,18,7,PER,Sergio,Pérez,Mexican,6,Finished,+1:13.802,Racing Point
+2019,14,Italian Grand Prix,19,8,VER,Max,Verstappen,Dutch,4,Finished,+1:14.492,Red Bull
+2019,14,Italian Grand Prix,10,9,GIO,Antonio,Giovinazzi,Italian,2,+1 Lap,,Alfa Romeo
+2019,14,Italian Grand Prix,16,10,NOR,Lando,Norris,British,1,+1 Lap,,McLaren
+2019,14,Italian Grand Prix,17,11,GAS,Pierre,Gasly,French,0,+1 Lap,,Toro Rosso
+2019,14,Italian Grand Prix,9,12,STR,Lance,Stroll,Canadian,0,+1 Lap,,Racing Point
+2019,14,Italian Grand Prix,4,13,VET,Sebastian,Vettel,German,0,+1 Lap,,Ferrari
+2019,14,Italian Grand Prix,14,14,RUS,George,Russell,British,0,+1 Lap,,Williams
+2019,14,Italian Grand Prix,0,15,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Alfa Romeo
+2019,14,Italian Grand Prix,13,16,GRO,Romain,Grosjean,French,0,+1 Lap,,Haas F1 Team
+2019,14,Italian Grand Prix,15,17,KUB,Robert,Kubica,Polish,0,+2 Laps,,Williams
+2019,14,Italian Grand Prix,11,18,MAG,Kevin,Magnussen,Danish,0,Hydraulics,,Haas F1 Team
+2019,14,Italian Grand Prix,12,19,KVY,Daniil,Kvyat,Russian,0,Engine,,Toro Rosso
+2019,14,Italian Grand Prix,7,20,SAI,Carlos,Sainz,Spanish,0,Wheel,,McLaren

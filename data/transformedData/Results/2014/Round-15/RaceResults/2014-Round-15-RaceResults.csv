@@ -1,0 +1,23 @@
+Season,roundNum,raceNum,qualiPosition,racePosition,driverID,firstName,familyName,nationality,totalPoints,status,gap,constructor
+2014,15,Japanese Grand Prix,2,1,HAM,Lewis,Hamilton,British,25,Finished,1:51:43.021,Mercedes
+2014,15,Japanese Grand Prix,1,2,ROS,Nico,Rosberg,German,18,Finished,+9.180,Mercedes
+2014,15,Japanese Grand Prix,9,3,VET,Sebastian,Vettel,German,15,Finished,+29.122,Red Bull
+2014,15,Japanese Grand Prix,6,4,RIC,Daniel,Ricciardo,Australian,12,Finished,+38.818,Red Bull
+2014,15,Japanese Grand Prix,8,5,BUT,Jenson,Button,British,10,Finished,+1:07.550,McLaren
+2014,15,Japanese Grand Prix,3,6,BOT,Valtteri,Bottas,Finnish,8,Finished,+1:53.773,Williams
+2014,15,Japanese Grand Prix,4,7,MAS,Felipe,Massa,Brazilian,6,Finished,+1:55.126,Williams
+2014,15,Japanese Grand Prix,13,8,HUL,Nico,Hülkenberg,German,4,Finished,+1:55.948,Force India
+2014,15,Japanese Grand Prix,20,9,VER,Jean-Éric,Vergne,French,2,Finished,+2:07.638,Toro Rosso
+2014,15,Japanese Grand Prix,11,10,PER,Sergio,Pérez,Mexican,1,+1 Lap,,Force India
+2014,15,Japanese Grand Prix,12,11,KVY,Daniil,Kvyat,Russian,0,+1 Lap,,Toro Rosso
+2014,15,Japanese Grand Prix,10,12,RAI,Kimi,Räikkönen,Finnish,0,+1 Lap,,Ferrari
+2014,15,Japanese Grand Prix,15,13,GUT,Esteban,Gutiérrez,Mexican,0,+1 Lap,,Sauber
+2014,15,Japanese Grand Prix,7,14,MAG,Kevin,Magnussen,Danish,0,+1 Lap,,McLaren
+2014,15,Japanese Grand Prix,16,15,GRO,Romain,Grosjean,French,0,+1 Lap,,Lotus F1
+2014,15,Japanese Grand Prix,22,16,MAL,Pastor,Maldonado,Venezuelan,0,+1 Lap,,Lotus F1
+2014,15,Japanese Grand Prix,17,17,ERI,Marcus,Ericsson,Swedish,0,+1 Lap,,Caterham
+2014,15,Japanese Grand Prix,21,18,CHI,Max,Chilton,British,0,+1 Lap,,Marussia
+2014,15,Japanese Grand Prix,19,19,KOB,Kamui,Kobayashi,Japanese,0,+1 Lap,,Caterham
+2014,15,Japanese Grand Prix,18,20,BIA,Jules,Bianchi,French,0,Accident,,Marussia
+2014,15,Japanese Grand Prix,14,21,SUT,Adrian,Sutil,German,0,Accident,,Sauber
+2014,15,Japanese Grand Prix,5,22,ALO,Fernando,Alonso,Spanish,0,Electronics,,Ferrari
