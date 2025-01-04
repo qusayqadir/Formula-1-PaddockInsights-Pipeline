@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,19,São Paulo Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:08.733,1:08.068,1:07.934
+2021,19,São Paulo Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:09.329,1:08.499,1:08.372
+2021,19,São Paulo Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:09.040,1:08.426,1:08.469
+2021,19,São Paulo Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:09.172,1:08.973,1:08.483
+2021,19,São Paulo Grand Prix,5,GAS,Pierre,Gasly,French,AlphaTauri,1:09.347,1:08.903,1:08.777
+2021,19,São Paulo Grand Prix,6,SAI,Carlos,Sainz,Spanish,Ferrari,1:09.046,1:09.031,1:08.826
+2021,19,São Paulo Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:09.155,1:08.859,1:08.960
+2021,19,São Paulo Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:09.365,1:09.030,1:08.980
+2021,19,São Paulo Grand Prix,9,RIC,Daniel,Ricciardo,Australian,McLaren,1:09.374,1:09.093,1:09.039
+2021,19,São Paulo Grand Prix,10,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:09.391,1:09.137,1:09.113
+2021,19,São Paulo Grand Prix,11,OCO,Esteban,Ocon,French,Alpine F1 Team,1:09.430,1:09.189,
+2021,19,São Paulo Grand Prix,12,VET,Sebastian,Vettel,German,Aston Martin,1:09.451,1:09.399,
+2021,19,São Paulo Grand Prix,13,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:09.350,1:09.483,
+2021,19,São Paulo Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:09.598,1:09.503,
+2021,19,São Paulo Grand Prix,15,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:09.342,1:10.227,
+2021,19,São Paulo Grand Prix,16,STR,Lance,Stroll,Canadian,Aston Martin,1:09.663,,
+2021,19,São Paulo Grand Prix,17,LAT,Nicholas,Latifi,Canadian,Williams,1:09.897,,
+2021,19,São Paulo Grand Prix,18,RUS,George,Russell,British,Williams,1:09.953,,
+2021,19,São Paulo Grand Prix,19,MSC,Mick,Schumacher,German,Haas F1 Team,1:10.329,,
+2021,19,São Paulo Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:10.589,,

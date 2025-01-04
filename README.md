@@ -1,6 +1,6 @@
 <h1 align="center">Formula-1-Telemetry-Pipeline </h1>
 
-Çreate a real-time telemtric dashboard for live(simulated) formual 1 races. 
+Create a real-time telemtric dashboard for live(simulated) formual 1 races. 
   - 'LeaderBoard'
   - 'Lap time w/ sector breakdown'
   - 'Driver net postion '

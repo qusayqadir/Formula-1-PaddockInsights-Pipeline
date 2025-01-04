@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,13,Emilia Romagna Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:14.221,1:14.585,1:13.609
+2020,13,Emilia Romagna Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:14.229,1:14.643,1:13.706
+2020,13,Emilia Romagna Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:15.034,1:14.974,1:14.176
+2020,13,Emilia Romagna Grand Prix,4,GAS,Pierre,Gasly,French,AlphaTauri,1:15.183,1:14.681,1:14.502
+2020,13,Emilia Romagna Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Renault,1:15.474,1:14.953,1:14.520
+2020,13,Emilia Romagna Grand Prix,6,ALB,Alexander,Albon,Thai,Red Bull,1:15.402,1:14.745,1:14.572
+2020,13,Emilia Romagna Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:15.123,1:15.017,1:14.616
+2020,13,Emilia Romagna Grand Prix,8,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:15.412,1:15.022,1:14.696
+2020,13,Emilia Romagna Grand Prix,9,NOR,Lando,Norris,British,McLaren,1:15.274,1:15.051,1:14.814
+2020,13,Emilia Romagna Grand Prix,10,SAI,Carlos,Sainz,Spanish,McLaren,1:15.528,1:15.027,1:14.911
+2020,13,Emilia Romagna Grand Prix,11,PER,Sergio,Pérez,Mexican,Racing Point,1:15.407,1:15.061,
+2020,13,Emilia Romagna Grand Prix,12,OCO,Esteban,Ocon,French,Renault,1:15.352,1:15.201,
+2020,13,Emilia Romagna Grand Prix,13,RUS,George,Russell,British,Williams,1:15.760,1:15.323,
+2020,13,Emilia Romagna Grand Prix,14,VET,Sebastian,Vettel,German,Ferrari,1:15.571,1:15.385,
+2020,13,Emilia Romagna Grand Prix,15,STR,Lance,Stroll,Canadian,Racing Point,1:15.822,1:15.494,
+2020,13,Emilia Romagna Grand Prix,16,GRO,Romain,Grosjean,French,Haas F1 Team,1:15.918,,
+2020,13,Emilia Romagna Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:15.939,,
+2020,13,Emilia Romagna Grand Prix,18,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:15.953,,
+2020,13,Emilia Romagna Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:15.987,,
+2020,13,Emilia Romagna Grand Prix,20,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:16.208,,

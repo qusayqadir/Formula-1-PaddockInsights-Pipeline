@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,11,Eifel Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:26.573,1:25.971,1:25.269
+2020,11,Eifel Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:26.620,1:25.390,1:25.525
+2020,11,Eifel Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:26.319,1:25.467,1:25.562
+2020,11,Eifel Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:26.857,1:26.240,1:26.035
+2020,11,Eifel Grand Prix,5,ALB,Alexander,Albon,Thai,Red Bull,1:27.126,1:26.285,1:26.047
+2020,11,Eifel Grand Prix,6,RIC,Daniel,Ricciardo,Australian,Renault,1:26.836,1:26.096,1:26.223
+2020,11,Eifel Grand Prix,7,OCO,Esteban,Ocon,French,Renault,1:27.086,1:26.364,1:26.242
+2020,11,Eifel Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:26.829,1:26.316,1:26.458
+2020,11,Eifel Grand Prix,9,PER,Sergio,Pérez,Mexican,Racing Point,1:27.120,1:26.330,1:26.704
+2020,11,Eifel Grand Prix,10,SAI,Carlos,Sainz,Spanish,McLaren,1:27.378,1:26.361,1:26.709
+2020,11,Eifel Grand Prix,11,VET,Sebastian,Vettel,German,Ferrari,1:27.107,1:26.738,
+2020,11,Eifel Grand Prix,12,GAS,Pierre,Gasly,French,AlphaTauri,1:27.072,1:26.776,
+2020,11,Eifel Grand Prix,13,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:27.285,1:26.848,
+2020,11,Eifel Grand Prix,14,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:27.532,1:26.936,
+2020,11,Eifel Grand Prix,15,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:27.231,1:27.125,
+2020,11,Eifel Grand Prix,16,GRO,Romain,Grosjean,French,Haas F1 Team,1:27.552,,
+2020,11,Eifel Grand Prix,17,RUS,George,Russell,British,Williams,1:27.564,,
+2020,11,Eifel Grand Prix,18,LAT,Nicholas,Latifi,Canadian,Williams,1:27.812,,
+2020,11,Eifel Grand Prix,19,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:27.817,,
+2020,11,Eifel Grand Prix,20,HUL,Nico,Hülkenberg,German,Racing Point,1:28.021,,

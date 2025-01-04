@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,4,Spanish Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:18.245,1:17.166,1:16.741
+2021,4,Spanish Grand Prix,2,VER,Max,Verstappen,Dutch,Red Bull,1:18.090,1:16.922,1:16.777
+2021,4,Spanish Grand Prix,3,BOT,Valtteri,Bottas,Finnish,Mercedes,1:18.005,1:17.142,1:16.873
+2021,4,Spanish Grand Prix,4,LEC,Charles,Leclerc,Monegasque,Ferrari,1:18.041,1:17.717,1:17.510
+2021,4,Spanish Grand Prix,5,OCO,Esteban,Ocon,French,Alpine F1 Team,1:18.281,1:17.743,1:17.580
+2021,4,Spanish Grand Prix,6,SAI,Carlos,Sainz,Spanish,Ferrari,1:18.205,1:17.656,1:17.620
+2021,4,Spanish Grand Prix,7,RIC,Daniel,Ricciardo,Australian,McLaren,1:18.264,1:17.719,1:17.622
+2021,4,Spanish Grand Prix,8,PER,Sergio,Pérez,Mexican,Red Bull,1:18.203,1:17.669,1:17.701
+2021,4,Spanish Grand Prix,9,NOR,Lando,Norris,British,McLaren,1:17.821,1:17.696,1:18.010
+2021,4,Spanish Grand Prix,10,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:18.281,1:17.966,1:18.147
+2021,4,Spanish Grand Prix,11,STR,Lance,Stroll,Canadian,Aston Martin,1:18.241,1:17.974,
+2021,4,Spanish Grand Prix,12,GAS,Pierre,Gasly,French,AlphaTauri,1:18.190,1:17.982,
+2021,4,Spanish Grand Prix,13,VET,Sebastian,Vettel,German,Aston Martin,1:18.289,1:18.079,
+2021,4,Spanish Grand Prix,14,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:18.549,1:18.356,
+2021,4,Spanish Grand Prix,15,RUS,George,Russell,British,Williams,1:18.445,1:19.154,
+2021,4,Spanish Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:18.556,,
+2021,4,Spanish Grand Prix,17,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:18.917,,
+2021,4,Spanish Grand Prix,18,MSC,Mick,Schumacher,German,Haas F1 Team,1:19.117,,
+2021,4,Spanish Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:19.219,,
+2021,4,Spanish Grand Prix,20,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:19.807,,

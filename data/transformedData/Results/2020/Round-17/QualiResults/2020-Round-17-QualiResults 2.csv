@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,17,Abu Dhabi Grand Prix,1,VER,Max,Verstappen,Dutch,Red Bull,1:35.993,1:35.641,1:35.246
+2020,17,Abu Dhabi Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:35.699,1:35.527,1:35.271
+2020,17,Abu Dhabi Grand Prix,3,HAM,Lewis,Hamilton,British,Mercedes,1:35.528,1:35.466,1:35.332
+2020,17,Abu Dhabi Grand Prix,4,NOR,Lando,Norris,British,McLaren,1:36.016,1:35.849,1:35.497
+2020,17,Abu Dhabi Grand Prix,5,ALB,Alexander,Albon,Thai,Red Bull,1:36.106,1:35.654,1:35.571
+2020,17,Abu Dhabi Grand Prix,6,SAI,Carlos,Sainz,Spanish,McLaren,1:36.517,1:36.192,1:35.815
+2020,17,Abu Dhabi Grand Prix,7,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:36.459,1:36.214,1:35.963
+2020,17,Abu Dhabi Grand Prix,8,STR,Lance,Stroll,Canadian,Racing Point,1:36.502,1:36.143,1:36.046
+2020,17,Abu Dhabi Grand Prix,9,LEC,Charles,Leclerc,Monegasque,Ferrari,1:35.881,1:35.932,1:36.065
+2020,17,Abu Dhabi Grand Prix,10,GAS,Pierre,Gasly,French,AlphaTauri,1:36.545,1:36.282,1:36.242
+2020,17,Abu Dhabi Grand Prix,11,OCO,Esteban,Ocon,French,Renault,1:36.783,1:36.359,
+2020,17,Abu Dhabi Grand Prix,12,RIC,Daniel,Ricciardo,Australian,Renault,1:36.704,1:36.406,
+2020,17,Abu Dhabi Grand Prix,13,VET,Sebastian,Vettel,German,Ferrari,1:36.655,1:36.631,
+2020,17,Abu Dhabi Grand Prix,14,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:37.075,1:38.248,
+2020,17,Abu Dhabi Grand Prix,15,PER,Sergio,Pérez,Mexican,Racing Point,1:36.034,,
+2020,17,Abu Dhabi Grand Prix,16,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:37.555,,
+2020,17,Abu Dhabi Grand Prix,17,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:37.863,,
+2020,17,Abu Dhabi Grand Prix,18,RUS,George,Russell,British,Williams,1:38.045,,
+2020,17,Abu Dhabi Grand Prix,19,FIT,Pietro,Fittipaldi,Brazilian,Haas F1 Team,1:38.173,,
+2020,17,Abu Dhabi Grand Prix,20,LAT,Nicholas,Latifi,Canadian,Williams,1:38.443,,

@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2020,6,Spanish Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:16.872,1:16.013,1:15.584
+2020,6,Spanish Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:17.243,1:16.152,1:15.643
+2020,6,Spanish Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:17.213,1:16.518,1:16.292
+2020,6,Spanish Grand Prix,4,PER,Sergio,Pérez,Mexican,Racing Point,1:17.117,1:16.936,1:16.482
+2020,6,Spanish Grand Prix,5,STR,Lance,Stroll,Canadian,Racing Point,1:17.316,1:16.666,1:16.589
+2020,6,Spanish Grand Prix,6,ALB,Alexander,Albon,Thai,Red Bull,1:17.419,1:17.163,1:17.029
+2020,6,Spanish Grand Prix,7,SAI,Carlos,Sainz,Spanish,McLaren,1:17.438,1:16.876,1:17.044
+2020,6,Spanish Grand Prix,8,NOR,Lando,Norris,British,McLaren,1:17.577,1:17.166,1:17.084
+2020,6,Spanish Grand Prix,9,LEC,Charles,Leclerc,Monegasque,Ferrari,1:17.256,1:16.953,1:17.087
+2020,6,Spanish Grand Prix,10,GAS,Pierre,Gasly,French,AlphaTauri,1:17.356,1:16.800,1:17.136
+2020,6,Spanish Grand Prix,11,VET,Sebastian,Vettel,German,Ferrari,1:17.573,1:17.168,
+2020,6,Spanish Grand Prix,12,KVY,Daniil,Kvyat,Russian,AlphaTauri,1:17.676,1:17.192,
+2020,6,Spanish Grand Prix,13,RIC,Daniel,Ricciardo,Australian,Renault,1:17.667,1:17.198,
+2020,6,Spanish Grand Prix,14,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:17.797,1:17.386,
+2020,6,Spanish Grand Prix,15,OCO,Esteban,Ocon,French,Renault,1:17.765,1:17.567,
+2020,6,Spanish Grand Prix,16,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:17.908,,
+2020,6,Spanish Grand Prix,17,GRO,Romain,Grosjean,French,Haas F1 Team,1:18.089,,
+2020,6,Spanish Grand Prix,18,RUS,George,Russell,British,Williams,1:18.099,,
+2020,6,Spanish Grand Prix,19,LAT,Nicholas,Latifi,Canadian,Williams,1:18.532,,
+2020,6,Spanish Grand Prix,20,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:18.697,,

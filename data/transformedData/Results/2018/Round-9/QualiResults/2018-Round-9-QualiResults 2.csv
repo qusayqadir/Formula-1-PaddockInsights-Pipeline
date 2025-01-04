@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2018,9,Austrian Grand Prix,1,BOT,Valtteri,Bottas,Finnish,Mercedes,1:04.175,1:03.756,1:03.130
+2018,9,Austrian Grand Prix,2,HAM,Lewis,Hamilton,British,Mercedes,1:04.080,1:03.577,1:03.149
+2018,9,Austrian Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:04.347,1:03.544,1:03.464
+2018,9,Austrian Grand Prix,4,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:04.234,1:03.975,1:03.660
+2018,9,Austrian Grand Prix,5,VER,Max,Verstappen,Dutch,Red Bull,1:04.273,1:04.001,1:03.840
+2018,9,Austrian Grand Prix,6,GRO,Romain,Grosjean,French,Haas F1 Team,1:04.242,1:04.059,1:03.892
+2018,9,Austrian Grand Prix,7,RIC,Daniel,Ricciardo,Australian,Red Bull,1:04.723,1:04.403,1:03.996
+2018,9,Austrian Grand Prix,8,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:04.460,1:04.291,1:04.051
+2018,9,Austrian Grand Prix,9,SAI,Carlos,Sainz,Spanish,Renault,1:04.948,1:04.561,1:04.725
+2018,9,Austrian Grand Prix,10,HUL,Nico,Hülkenberg,German,Renault,1:04.864,1:04.676,1:05.019
+2018,9,Austrian Grand Prix,11,OCO,Esteban,Ocon,French,Force India,1:05.148,1:04.845,
+2018,9,Austrian Grand Prix,12,GAS,Pierre,Gasly,French,Toro Rosso,1:05.011,1:04.874,
+2018,9,Austrian Grand Prix,13,LEC,Charles,Leclerc,Monegasque,Sauber,1:04.967,1:04.979,
+2018,9,Austrian Grand Prix,14,ALO,Fernando,Alonso,Spanish,McLaren,1:04.965,1:05.058,
+2018,9,Austrian Grand Prix,15,STR,Lance,Stroll,Canadian,Williams,1:05.264,1:05.286,
+2018,9,Austrian Grand Prix,16,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:05.271,,
+2018,9,Austrian Grand Prix,17,PER,Sergio,Pérez,Mexican,Force India,1:05.279,,
+2018,9,Austrian Grand Prix,18,SIR,Sergey,Sirotkin,Russian,Williams,1:05.322,,
+2018,9,Austrian Grand Prix,19,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:05.366,,
+2018,9,Austrian Grand Prix,20,ERI,Marcus,Ericsson,Swedish,Sauber,1:05.479,,

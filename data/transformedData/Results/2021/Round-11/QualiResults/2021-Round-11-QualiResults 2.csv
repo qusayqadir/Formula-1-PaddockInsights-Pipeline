@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2021,11,Hungarian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:16.424,1:16.553,1:15.419
+2021,11,Hungarian Grand Prix,2,BOT,Valtteri,Bottas,Finnish,Mercedes,1:16.569,1:16.702,1:15.734
+2021,11,Hungarian Grand Prix,3,VER,Max,Verstappen,Dutch,Red Bull,1:16.214,1:15.650,1:15.840
+2021,11,Hungarian Grand Prix,4,PER,Sergio,Pérez,Mexican,Red Bull,1:17.233,1:16.443,1:16.421
+2021,11,Hungarian Grand Prix,5,GAS,Pierre,Gasly,French,AlphaTauri,1:16.874,1:16.394,1:16.483
+2021,11,Hungarian Grand Prix,6,NOR,Lando,Norris,British,McLaren,1:17.081,1:16.385,1:16.489
+2021,11,Hungarian Grand Prix,7,LEC,Charles,Leclerc,Monegasque,Ferrari,1:17.084,1:16.574,1:16.496
+2021,11,Hungarian Grand Prix,8,OCO,Esteban,Ocon,French,Alpine F1 Team,1:17.367,1:16.766,1:16.653
+2021,11,Hungarian Grand Prix,9,ALO,Fernando,Alonso,Spanish,Alpine F1 Team,1:17.123,1:16.541,1:16.715
+2021,11,Hungarian Grand Prix,10,VET,Sebastian,Vettel,German,Aston Martin,1:17.105,1:16.794,1:16.750
+2021,11,Hungarian Grand Prix,11,RIC,Daniel,Ricciardo,Australian,McLaren,1:17.664,1:16.871,
+2021,11,Hungarian Grand Prix,12,STR,Lance,Stroll,Canadian,Aston Martin,1:17.038,1:16.893,
+2021,11,Hungarian Grand Prix,13,RAI,Kimi,Räikkönen,Finnish,Alfa Romeo,1:17.553,1:17.564,
+2021,11,Hungarian Grand Prix,14,GIO,Antonio,Giovinazzi,Italian,Alfa Romeo,1:17.776,1:17.583,
+2021,11,Hungarian Grand Prix,15,SAI,Carlos,Sainz,Spanish,Ferrari,1:16.649,,
+2021,11,Hungarian Grand Prix,16,TSU,Yuki,Tsunoda,Japanese,AlphaTauri,1:17.919,,
+2021,11,Hungarian Grand Prix,17,RUS,George,Russell,British,Williams,1:17.944,,
+2021,11,Hungarian Grand Prix,18,LAT,Nicholas,Latifi,Canadian,Williams,1:18.036,,
+2021,11,Hungarian Grand Prix,19,MAZ,Nikita,Mazepin,Russian,Haas F1 Team,1:18.922,,
+2021,11,Hungarian Grand Prix,20,MSC,Mick,Schumacher,German,Haas F1 Team,"",,

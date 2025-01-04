@@ -1,0 +1,21 @@
+Season,Round,RaceName,Position,DriverID,FirstName,FamilyName,Nationality,constructor,Q1_time,Q2_time,Q3_time
+2018,1,Australian Grand Prix,1,HAM,Lewis,Hamilton,British,Mercedes,1:22.824,1:22.051,1:21.164
+2018,1,Australian Grand Prix,2,RAI,Kimi,Räikkönen,Finnish,Ferrari,1:23.096,1:22.507,1:21.828
+2018,1,Australian Grand Prix,3,VET,Sebastian,Vettel,German,Ferrari,1:23.348,1:21.944,1:21.838
+2018,1,Australian Grand Prix,4,VER,Max,Verstappen,Dutch,Red Bull,1:23.483,1:22.416,1:21.879
+2018,1,Australian Grand Prix,5,RIC,Daniel,Ricciardo,Australian,Red Bull,1:23.494,1:22.897,1:22.152
+2018,1,Australian Grand Prix,6,MAG,Kevin,Magnussen,Danish,Haas F1 Team,1:23.909,1:23.300,1:23.187
+2018,1,Australian Grand Prix,7,GRO,Romain,Grosjean,French,Haas F1 Team,1:23.671,1:23.468,1:23.339
+2018,1,Australian Grand Prix,8,HUL,Nico,Hülkenberg,German,Renault,1:23.782,1:23.544,1:23.532
+2018,1,Australian Grand Prix,9,SAI,Carlos,Sainz,Spanish,Renault,1:23.529,1:23.061,1:23.577
+2018,1,Australian Grand Prix,10,BOT,Valtteri,Bottas,Finnish,Mercedes,1:23.686,1:22.089,
+2018,1,Australian Grand Prix,11,ALO,Fernando,Alonso,Spanish,McLaren,1:23.597,1:23.692,
+2018,1,Australian Grand Prix,12,VAN,Stoffel,Vandoorne,Belgian,McLaren,1:24.073,1:23.853,
+2018,1,Australian Grand Prix,13,PER,Sergio,Pérez,Mexican,Force India,1:24.344,1:24.005,
+2018,1,Australian Grand Prix,14,STR,Lance,Stroll,Canadian,Williams,1:24.464,1:24.230,
+2018,1,Australian Grand Prix,15,OCO,Esteban,Ocon,French,Force India,1:24.503,1:24.786,
+2018,1,Australian Grand Prix,16,HAR,Brendon,Hartley,New Zealander,Toro Rosso,1:24.532,,
+2018,1,Australian Grand Prix,17,ERI,Marcus,Ericsson,Swedish,Sauber,1:24.556,,
+2018,1,Australian Grand Prix,18,LEC,Charles,Leclerc,Monegasque,Sauber,1:24.636,,
+2018,1,Australian Grand Prix,19,SIR,Sergey,Sirotkin,Russian,Williams,1:24.922,,
+2018,1,Australian Grand Prix,20,GAS,Pierre,Gasly,French,Toro Rosso,1:25.295,,
