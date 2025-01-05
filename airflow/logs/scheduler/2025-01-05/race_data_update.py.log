@@ -1,0 +1,29 @@
+[2025-01-04T20:45:34.053-0500] {processor.py:186} INFO - Started process (PID=2874) to work on /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:45:34.061-0500] {processor.py:914} INFO - Processing file /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py for tasks to queue
+[2025-01-04T20:45:34.066-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.066-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:45:34.083-0500] {processor.py:925} INFO - DAG(s) 'f1_data_pipeline' retrieved from /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:45:34.302-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.301-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:f1_data_pipeline
+[2025-01-04T20:45:34.306-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.306-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:f1_data_pipeline
+[2025-01-04T20:45:34.310-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.310-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:f1_data_pipeline
+[2025-01-04T20:45:34.316-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.316-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:f1_data_pipeline
+[2025-01-04T20:45:34.320-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.319-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:f1_data_pipeline
+[2025-01-04T20:45:34.326-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.326-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:f1_data_pipeline
+[2025-01-04T20:45:34.331-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.331-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:f1_data_pipeline
+[2025-01-04T20:45:34.332-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.332-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-04T20:45:34.338-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.338-0500] {dag.py:3262} INFO - Creating ORM DAG for f1_data_pipeline
+[2025-01-04T20:45:34.345-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:45:34.345-0500] {dag.py:4180} INFO - Setting next_dagrun for f1_data_pipeline to 2025-03-16 00:00:00+00:00, run_after=2025-03-23 00:00:00+00:00
+[2025-01-04T20:45:34.355-0500] {processor.py:208} INFO - Processing /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py took 0.313 seconds
+[2025-01-04T20:46:48.504-0500] {processor.py:186} INFO - Started process (PID=3081) to work on /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:46:48.505-0500] {processor.py:914} INFO - Processing file /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py for tasks to queue
+[2025-01-04T20:46:48.506-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:46:48.506-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:46:48.510-0500] {processor.py:925} INFO - DAG(s) 'f1_data_pipeline' retrieved from /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:46:48.555-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:46:48.555-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-04T20:46:48.564-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:46:48.564-0500] {dag.py:4180} INFO - Setting next_dagrun for f1_data_pipeline to 2025-03-16 00:00:00+00:00, run_after=2025-03-23 00:00:00+00:00
+[2025-01-04T20:46:48.575-0500] {processor.py:208} INFO - Processing /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py took 0.073 seconds
+[2025-01-04T20:48:45.202-0500] {processor.py:186} INFO - Started process (PID=3411) to work on /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:48:45.203-0500] {processor.py:914} INFO - Processing file /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py for tasks to queue
+[2025-01-04T20:48:45.204-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:48:45.204-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:48:45.213-0500] {processor.py:925} INFO - DAG(s) 'f1_data_pipeline' retrieved from /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py
+[2025-01-04T20:48:45.277-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:48:45.277-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-04T20:48:45.287-0500] {logging_mixin.py:190} INFO - [2025-01-04T20:48:45.287-0500] {dag.py:4180} INFO - Setting next_dagrun for f1_data_pipeline to 2025-03-16 00:00:00+00:00, run_after=2025-03-23 00:00:00+00:00
+[2025-01-04T20:48:45.299-0500] {processor.py:208} INFO - Processing /Users/qusayqadir/Documents/github/Formula-1-Telemetry-Pipeline/Formula-1-Telemetry-Pipeline/airflow/dags/race_data_update.py took 0.099 seconds
