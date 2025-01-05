@@ -1,10 +1,17 @@
 <h1 align="center">Formula-1-Telemetry-Pipeline </h1>
 
-Create a real-time telemtric dashboard for live(simulated) formual 1 races. 
-  - 'LeaderBoard'
-  - 'Lap time w/ sector breakdown'
-  - 'Driver net postion '
-  - 'driver gap times '
-  - ' on track incidents, flags, safety car, new pentalties, driver pentalties'
-  - 'driver pitstops'
-  - 'live update of driver and construtor championship standings -> as race progress'   
+This codebase focuses on developing a pipeline for F1 for which the process of fetching, transforming, and uploading race data that includes 
+1. Race Results
+2. Quali Results
+3. Driver Standings
+4. Constructor Rankings;
+
+Uploads transformed data to Azure Blob Storage for centralized storage,
+Uses Apache Airflow for scheduling and orchestrating the entire pipeline, 
+
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/formula-1-telemetry-pipeline.git
+   cd formula-1-telemetry-pipeline
+2. Airflow:
