@@ -1,4 +1,4 @@
-<h1 align="center">Formula-1-Telemetry-Pipeline </h1>
+<h1 align="center">Formula-1-PaddockInsights-Pipeline </h1>
 
 This codebase focuses on developing a pipeline for F1 for which the process of fetching, transforming, and uploading race data that includes 
 1. Race Results
