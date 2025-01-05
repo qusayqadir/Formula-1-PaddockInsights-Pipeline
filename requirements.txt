@@ -1,4 +1,0 @@
-kafka-python
-pyspark
-apache-airflow
-flask
